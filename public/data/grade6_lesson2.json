@@ -1,0 +1,267 @@
+[
+  {
+    "word": "arrogant",
+    "type": "adjective",
+    "definition": "Having or showing an exaggerated sense of one’s own importance; overly proud.",
+    "pronunciation": { "us": "AIR-uh-gunt", "uk": "AR-uh-gunt" },
+    "examples": [
+      "He sounded arrogant when he dismissed the question.",
+      "An arrogant attitude can push friends away."
+    ],
+    "extra": {
+      "synonyms": ["proud", "haughty", "conceited"],
+      "antonyms": ["humble", "modest", "meek"],
+      "memory_tip": "Arrogant = acting like you’re above others.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "boycott",
+    "type": "verb,noun",
+    "definition": "To refuse to buy, use, or take part in something as a form of protest; the act of refusing.",
+    "pronunciation": { "us": "BOY-kot", "uk": "BOY-kot" },
+    "examples": [
+      "Customers boycotted the brand over its policy. (verb)",
+      "The boycott lasted for three months. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["avoid", "shun", "protest"],
+      "antonyms": ["support", "patronise", "endorse"],
+      "memory_tip": "Boycott = ‘buy-not’.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["boycott", "boycotted", "boycotting"]
+    }
+  },
+  {
+    "word": "campaign",
+    "type": "noun,verb",
+    "definition": "A planned series of actions to reach a goal; to work in an organised way toward a goal.",
+    "pronunciation": { "us": "kam-PAYN", "uk": "kam-PAYN" },
+    "examples": [
+      "They launched a campaign to clean the river. (noun)",
+      "Students campaigned for safer crossings. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["drive", "crusade", "advocate (verb)"],
+      "antonyms": ["neglect", "ignore", "inaction"],
+      "memory_tip": "Campaign = many steps for one aim.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["campaign", "campaigned", "campaigning"]
+    }
+  },
+  {
+    "word": "ceremony",
+    "type": "noun",
+    "definition": "A formal event or set of actions done on a special occasion.",
+    "pronunciation": { "us": "SEH-ruh-moh-nee", "uk": "SEH-ruh-muh-nee" },
+    "examples": [
+      "The award ceremony starts at noon.",
+      "They held a ceremony to open the bridge."
+    ],
+    "extra": {
+      "synonyms": ["ritual", "service", "formal event"],
+      "antonyms": ["informality", "casualness"],
+      "memory_tip": "Ceremony = set steps for a special moment.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "custody",
+    "type": "noun",
+    "definition": "The care or keeping of someone or something; legal right to look after a child; the state of being kept by police.",
+    "pronunciation": { "us": "KUSS-tuh-dee", "uk": "KUSS-tuh-dee" },
+    "examples": [
+      "The artefacts are in the museum’s custody.",
+      "The suspect remained in police custody."
+    ],
+    "extra": {
+      "synonyms": ["care", "guardianship", "detention"],
+      "antonyms": ["release", "freedom", "neglect"],
+      "memory_tip": "Custody = under someone’s careful watch.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "degrade",
+    "type": "verb",
+    "definition": "To treat someone with disrespect; to make something worse or of lower quality; to break down naturally.",
+    "pronunciation": { "us": "di-GRAYD", "uk": "di-GRAYD" },
+    "examples": [
+      "We must not degrade others with insults.",
+      "Some plastics degrade slowly in nature."
+    ],
+    "extra": {
+      "synonyms": ["demean", "reduce", "erode"],
+      "antonyms": ["respect", "improve", "upgrade"],
+      "memory_tip": "Degrade = grade goes down.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["degrade", "degraded", "degrading"]
+    }
+  },
+  {
+    "word": "detain",
+    "type": "verb",
+    "definition": "To keep someone from leaving; to hold someone in official custody.",
+    "pronunciation": { "us": "di-TAYN", "uk": "di-TAYN" },
+    "examples": [
+      "Security detained the trespasser.",
+      "Fog detained several flights."
+    ],
+    "extra": {
+      "synonyms": ["hold", "confine", "delay"],
+      "antonyms": ["release", "free", "let go"],
+      "memory_tip": "Detain = ‘de’-tether for a time.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["detain", "detained", "detaining"]
+    }
+  },
+  {
+    "word": "extend",
+    "type": "verb",
+    "definition": "To make longer or larger; to offer; to continue for a longer time.",
+    "pronunciation": { "us": "ek-STEND", "uk": "ik-STEND" },
+    "examples": [
+      "They extended the deadline by a week.",
+      "Please extend a warm welcome to our guests."
+    ],
+    "extra": {
+      "synonyms": ["lengthen", "prolong", "offer"],
+      "antonyms": ["shorten", "reduce", "withdraw"],
+      "memory_tip": "Extend = stretch it out.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["extend", "extended", "extending"]
+    }
+  },
+  {
+    "word": "integrate",
+    "type": "verb",
+    "definition": "To combine parts into a whole; to include people equally in a group or place.",
+    "pronunciation": { "us": "IN-tuh-grayt", "uk": "IN-tuh-grayt" },
+    "examples": [
+      "The new software integrates with email.",
+      "Schools worked to integrate students from all backgrounds."
+    ],
+    "extra": {
+      "synonyms": ["combine", "merge", "include"],
+      "antonyms": ["separate", "isolate", "exclude"],
+      "memory_tip": "Integrate = make it integral to the whole.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["integrate", "integrated", "integrating"]
+    }
+  },
+  {
+    "word": "segregate",
+    "type": "verb",
+    "definition": "To keep people or things apart, often in a way that is unfair.",
+    "pronunciation": { "us": "SEG-ruh-gayt", "uk": "SEG-ruh-gayt" },
+    "examples": [
+      "Laws once segregated schools by race.",
+      "Please don’t segregate classmates during games."
+    ],
+    "extra": {
+      "synonyms": ["separate", "isolate", "split"],
+      "antonyms": ["integrate", "unite", "include"],
+      "memory_tip": "Segregate = set groups apart.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["segregate", "segregated", "segregating"]
+    }
+  },
+  {
+    "word": "supreme",
+    "type": "adjective",
+    "definition": "Highest in rank, power, or quality; very great.",
+    "pronunciation": { "us": "soo-PREEM", "uk": "syoo-PREEM" },
+    "examples": [
+      "Safety is of supreme importance.",
+      "They made a supreme effort to finish on time."
+    ],
+    "extra": {
+      "synonyms": ["highest", "ultimate", "paramount"],
+      "antonyms": ["lowest", "inferior", "minor"],
+      "memory_tip": "Supreme = above all the rest.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "triumph",
+    "type": "noun,verb",
+    "definition": "A great victory or success; to win or succeed greatly.",
+    "pronunciation": { "us": "TRY-umf", "uk": "TRY-umf" },
+    "examples": [
+      "The project was a triumph for the team. (noun)",
+      "They triumphed after months of practice. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["victory", "win", "prevail (verb)"],
+      "antonyms": ["defeat", "loss", "fail (verb)"],
+      "memory_tip": "Triumph = try + umph!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["triumph", "triumphed", "triumphing"]
+    }
+  },
+  {
+    "word": "vacate",
+    "type": "verb",
+    "definition": "To leave a place or give up a position.",
+    "pronunciation": { "us": "VAY-kayt", "uk": "VAY-kayt" },
+    "examples": [
+      "Please vacate the room by noon.",
+      "She will vacate the post at the end of term."
+    ],
+    "extra": {
+      "synonyms": ["leave", "quit", "relinquish"],
+      "antonyms": ["occupy", "hold", "retain"],
+      "memory_tip": "Vacate = make it vacant.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["vacate", "vacated", "vacating"]
+    }
+  },
+  {
+    "word": "verdict",
+    "type": "noun",
+    "definition": "A decision made by a jury or judge; any final decision about something.",
+    "pronunciation": { "us": "VER-dikt", "uk": "VER-dikt" },
+    "examples": [
+      "The jury returned a unanimous verdict.",
+      "What’s your verdict on the new menu?"
+    ],
+    "extra": {
+      "synonyms": ["decision", "judgment", "finding"],
+      "antonyms": ["mistrial (contrast)", "indecision"],
+      "memory_tip": "Verdict = ‘ver’ (true) + ‘dict’ (say).",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "violate",
+    "type": "verb",
+    "definition": "To break a rule or law; to treat with disrespect; to disturb or harm.",
+    "pronunciation": { "us": "VY-uh-layt", "uk": "VY-uh-layt" },
+    "examples": [
+      "Parking here would violate the rules.",
+      "Loud noise can violate the peace of the library."
+    ],
+    "extra": {
+      "synonyms": ["break", "breach", "disrespect"],
+      "antonyms": ["obey", "honour", "respect"],
+      "memory_tip": "Violate = go against what’s valid.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["violate", "violated", "violating"]
+    }
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "word": "rub",
+    "type": "verb",
+    "definition": "To press and move your hand over something.",
+    "pronunciation": {
+      "us": "/rʌb/",
+      "uk": "/rʌb/"
+    },
+    "examples": [
+      "She rubbed her eyes.",
+      "Rub your hands to stay warm."
+    ],
+    "extra": {
+      "synonyms": [
+        "scrub",
+        "wipe",
+        "massage"
+      ],
+      "antonyms": [
+        "pat",
+        "tap"
+      ],
+      "memory_tip": "Rub = back-and-forth hand motion.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "rub",
+        "rubbed",
+        "rubbing"
+      ]
+    }
+  },
+  {
+    "word": "crowd",
+    "type": "noun",
+    "definition": "A large group of people.",
+    "pronunciation": {
+      "us": "/kraʊd/",
+      "uk": "/kraʊd/"
+    },
+    "examples": [
+      "A crowd gathered to watch.",
+      "The store was full of a crowd."
+    ],
+    "extra": {
+      "synonyms": [
+        "group",
+        "gathering",
+        "mob"
+      ],
+      "antonyms": [
+        "individual",
+        "alone"
+      ],
+      "memory_tip": "Crowd = lots of people together.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fit",
+    "type": "verb,adj.",
+    "definition": "To be the right size or shape; the right size.",
+    "pronunciation": {
+      "us": "/fɪt/",
+      "uk": "/fɪt/"
+    },
+    "examples": [
+      "The key fits the lock. (verb)",
+      "The shoes are a perfect fit. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "match",
+        "suit",
+        "proper"
+      ],
+      "antonyms": [
+        "mismatch",
+        "wrong size"
+      ],
+      "memory_tip": "Fit = just right!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "fit",
+        "fit",
+        "fitting"
+      ]
+    }
+  },
+  {
+    "word": "delighted",
+    "type": "adjective",
+    "definition": "Very happy.",
+    "pronunciation": {
+      "us": "/dɪˈlaɪtɪd/",
+      "uk": "/dɪˈlaɪtɪd/"
+    },
+    "examples": [
+      "He was delighted with the gift.",
+      "She looked delighted to see us."
+    ],
+    "extra": {
+      "synonyms": [
+        "happy",
+        "joyful",
+        "glad"
+      ],
+      "antonyms": [
+        "sad",
+        "disappointed"
+      ],
+      "memory_tip": "Delighted = a big smile inside!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "stretch",
+    "type": "verb",
+    "definition": "To make something longer or wider.",
+    "pronunciation": {
+      "us": "/strɛtʃ/",
+      "uk": "/strɛtʃ/"
+    },
+    "examples": [
+      "She stretched her arms.",
+      "Stretch the rope before tying it."
+    ],
+    "extra": {
+      "synonyms": [
+        "extend",
+        "pull",
+        "spread"
+      ],
+      "antonyms": [
+        "shrink",
+        "shorten"
+      ],
+      "memory_tip": "Stretch = make it longer!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "stretch",
+        "stretched",
+        "stretching"
+      ]
+    }
+  },
+  {
+    "word": "office",
+    "type": "noun",
+    "definition": "A place where people work, often with computers and desks.",
+    "pronunciation": {
+      "us": "/ˈɔːfɪs/",
+      "uk": "/ˈɒfɪs/"
+    },
+    "examples": [
+      "Dad works in an office.",
+      "We visited the school office."
+    ],
+    "extra": {
+      "synonyms": [
+        "workplace",
+        "desk area",
+        "bureau"
+      ],
+      "antonyms": [
+        "home",
+        "playground"
+      ],
+      "memory_tip": "Office = work room with desks.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "patient",
+    "type": "adjective",
+    "definition": "Able to wait without getting upset.",
+    "pronunciation": {
+      "us": "/ˈpeɪʃənt/",
+      "uk": "/ˈpeɪʃənt/"
+    },
+    "examples": [
+      "She is patient with her little brother.",
+      "Be patient while waiting in line."
+    ],
+    "extra": {
+      "synonyms": [
+        "calm",
+        "tolerant",
+        "kind"
+      ],
+      "antonyms": [
+        "impatient",
+        "restless"
+      ],
+      "memory_tip": "Patient = wait without fuss.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "proud",
+    "type": "adjective",
+    "definition": "Feeling happy about what you or someone else did.",
+    "pronunciation": {
+      "us": "/praʊd/",
+      "uk": "/praʊd/"
+    },
+    "examples": [
+      "I am proud of my drawing.",
+      "Dad felt proud of her success."
+    ],
+    "extra": {
+      "synonyms": [
+        "happy",
+        "pleased",
+        "glad"
+      ],
+      "antonyms": [
+        "ashamed",
+        "embarrassed"
+      ],
+      "memory_tip": "Proud = happy with what you did!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "tool",
+    "type": "noun",
+    "definition": "Things used to do work or fix something.",
+    "pronunciation": {
+      "us": "/tuːl/",
+      "uk": "/tuːl/"
+    },
+    "examples": [
+      "Dad keeps his tools in the garage.",
+      "We used tools to build a box."
+    ],
+    "extra": {
+      "synonyms": [
+        "instruments",
+        "equipment",
+        "gear"
+      ],
+      "antonyms": [
+        "hands",
+        "bare"
+      ],
+      "memory_tip": "Tools = help you fix or build!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "sight",
+    "type": "noun",
+    "definition": "The ability to see; something you see.",
+    "pronunciation": {
+      "us": "/saɪt/",
+      "uk": "/saɪt/"
+    },
+    "examples": [
+      "My sight is clear with glasses.",
+      "The rainbow was a beautiful sight."
+    ],
+    "extra": {
+      "synonyms": [
+        "vision",
+        "view",
+        "scene"
+      ],
+      "antonyms": [
+        "blindness",
+        "darkness"
+      ],
+      "memory_tip": "Sight = using your eyes!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

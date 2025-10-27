@@ -1,0 +1,389 @@
+[
+  {
+    "word": "active",
+    "type": "adjective",
+    "definition": "Doing lots of things; full of movement or energy.",
+    "pronunciation": {
+      "us": "/ˈæktɪv/",
+      "uk": "/ˈæktɪv/"
+    },
+    "examples": [
+      "He stays active by playing soccer every day.",
+      "The volcano is still active and might erupt."
+    ],
+    "extra": {
+      "synonyms": [
+        "busy",
+        "energetic",
+        "moving"
+      ],
+      "antonyms": [
+        "inactive",
+        "quiet",
+        "still"
+      ],
+      "memory_tip": "Active = always doing something.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "average",
+    "type": "noun,adjective",
+    "definition": "The usual amount; not special or unusual.",
+    "pronunciation": {
+      "us": "/ˈævərɪdʒ/",
+      "uk": "/ˈævərɪdʒ/"
+    },
+    "examples": [
+      "The average of 3, 4, and 5 is 4. (noun)",
+      "It was an average day at school. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "normal",
+        "typical",
+        "usual"
+      ],
+      "antonyms": [
+        "unusual",
+        "exceptional"
+      ],
+      "memory_tip": "Average = in the middle, not high or low.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "border",
+    "type": "noun,verb",
+    "definition": "The edge of something; to touch the edge of something.",
+    "pronunciation": {
+      "us": "/ˈbɔrdər/",
+      "uk": "/ˈbɔːdə/"
+    },
+    "examples": [
+      "The fence marks the border of our yard. (noun)",
+      "This path borders the river. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "edge",
+        "boundary",
+        "line"
+      ],
+      "antonyms": [
+        "center",
+        "interior"
+      ],
+      "memory_tip": "Border = the outside edge.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "border",
+        "past": "bordered",
+        "participle": "bordered"
+      }
+    }
+  },
+  {
+    "word": "congratulate",
+    "type": "verb",
+    "definition": "To say someone did something well.",
+    "pronunciation": {
+      "us": "/kənˈɡrætʃəˌleɪt/",
+      "uk": "/kənˈɡrætʃʊleɪt/"
+    },
+    "examples": [
+      "We congratulated her on winning the race.",
+      "He congratulated his friend for a great job."
+    ],
+    "extra": {
+      "synonyms": [
+        "praise",
+        "cheer",
+        "compliment"
+      ],
+      "antonyms": [
+        "ignore",
+        "criticize"
+      ],
+      "memory_tip": "Congratulate = celebrate someone’s success.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "congratulate",
+        "past": "congratulated",
+        "participle": "congratulated"
+      }
+    }
+  },
+  {
+    "word": "gradual",
+    "type": "adjective",
+    "definition": "Happening slowly over time.",
+    "pronunciation": {
+      "us": "/ˈɡrædʒuəl/",
+      "uk": "/ˈɡrædjʊəl/"
+    },
+    "examples": [
+      "The baby showed gradual improvement.",
+      "The hill had a gradual slope."
+    ],
+    "extra": {
+      "synonyms": [
+        "slow",
+        "steady",
+        "gentle"
+      ],
+      "antonyms": [
+        "sudden",
+        "fast"
+      ],
+      "memory_tip": "Gradual = little by little.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "heroic",
+    "type": "adjective",
+    "definition": "Very brave or showing great courage.",
+    "pronunciation": {
+      "us": "/hɪˈroʊɪk/",
+      "uk": "/hɪˈrəʊɪk/"
+    },
+    "examples": [
+      "She made a heroic effort to save the child.",
+      "The firefighter’s heroic actions saved lives."
+    ],
+    "extra": {
+      "synonyms": [
+        "brave",
+        "courageous",
+        "fearless"
+      ],
+      "antonyms": [
+        "cowardly",
+        "weak"
+      ],
+      "memory_tip": "Heroic = like a hero!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "lack",
+    "type": "noun,verb",
+    "definition": "Not having something; to not have something.",
+    "pronunciation": {
+      "us": "/læk/",
+      "uk": "/læk/"
+    },
+    "examples": [
+      "The plant died from a lack of water. (noun)",
+      "We lack enough chairs for everyone. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "need",
+        "shortage",
+        "absence"
+      ],
+      "antonyms": [
+        "plenty",
+        "abundance"
+      ],
+      "memory_tip": "Lack = not enough of something.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "lack",
+        "past": "lacked",
+        "participle": "lacked"
+      }
+    }
+  },
+  {
+    "word": "root",
+    "type": "noun,verb",
+    "definition": "The part of a plant that grows underground; to cheer for or support someone.",
+    "pronunciation": {
+      "us": "/ruːt/",
+      "uk": "/ruːt/"
+    },
+    "examples": [
+      "The tree’s roots go deep into the soil. (noun)",
+      "We rooted for our team at the game. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "base",
+        "support",
+        "cheer"
+      ],
+      "antonyms": [
+        "top",
+        "discourage"
+      ],
+      "memory_tip": "Root = holds things down or cheers them on!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "root",
+        "past": "rooted",
+        "participle": "rooted"
+      }
+    }
+  },
+  {
+    "word": "perform",
+    "type": "verb",
+    "definition": "To act, play music, or do a task.",
+    "pronunciation": {
+      "us": "/pərˈfɔrm/",
+      "uk": "/pəˈfɔːm/"
+    },
+    "examples": [
+      "She will perform in the school play.",
+      "The machine performs well."
+    ],
+    "extra": {
+      "synonyms": [
+        "do",
+        "act",
+        "present"
+      ],
+      "antonyms": [
+        "fail",
+        "neglect"
+      ],
+      "memory_tip": "Perform = show your skills or complete a task.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "perform",
+        "past": "performed",
+        "participle": "performed"
+      }
+    }
+  },
+  {
+    "word": "sharp",
+    "type": "adjective",
+    "definition": "Having a thin edge or point; quick to notice or understand.",
+    "pronunciation": {
+      "us": "/ʃɑrp/",
+      "uk": "/ʃɑːp/"
+    },
+    "examples": [
+      "Be careful—the knife is sharp.",
+      "She has a sharp mind for puzzles."
+    ],
+    "extra": {
+      "synonyms": [
+        "pointed",
+        "clever",
+        "quick"
+      ],
+      "antonyms": [
+        "dull",
+        "slow"
+      ],
+      "memory_tip": "Sharp = pointy or smart!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "spare",
+    "type": "adj.,verb",
+    "definition": "Extra and not needed now; to give or let someone have something.",
+    "pronunciation": {
+      "us": "/spɛr/",
+      "uk": "/speə/"
+    },
+    "examples": [
+      "Do you have a spare pencil? (adjective)",
+      "Can you spare a few minutes to help me? (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "extra",
+        "give",
+        "share"
+      ],
+      "antonyms": [
+        "keep",
+        "need"
+      ],
+      "memory_tip": "Spare = extra or to share with someone.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "spare",
+        "past": "spared",
+        "participle": "spared"
+      }
+    }
+  },
+  {
+    "word": "tangle",
+    "type": "verb,noun",
+    "definition": "To twist together in a messy way; a messy knot.",
+    "pronunciation": {
+      "us": "/ˈtæŋɡəl/",
+      "uk": "/ˈtæŋɡəl/"
+    },
+    "examples": [
+      "Her hair got tangled in the wind. (verb)",
+      "The string is in a tangle. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "knot",
+        "twist",
+        "snarl"
+      ],
+      "antonyms": [
+        "untangle",
+        "straighten"
+      ],
+      "memory_tip": "Tangle = things all mixed up together.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "tangle",
+        "past": "tangled",
+        "participle": "tangled"
+      }
+    }
+  },
+  {
+    "word": "weak",
+    "type": "adjective",
+    "definition": "Not strong or powerful.",
+    "pronunciation": {
+      "us": "/wiːk/",
+      "uk": "/wiːk/"
+    },
+    "examples": [
+      "He felt weak after being sick.",
+      "The weak rope broke easily."
+    ],
+    "extra": {
+      "synonyms": [
+        "fragile",
+        "soft",
+        "powerless"
+      ],
+      "antonyms": [
+        "strong",
+        "tough"
+      ],
+      "memory_tip": "Weak = needs strength.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

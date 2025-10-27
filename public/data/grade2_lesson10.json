@@ -1,0 +1,272 @@
+[
+  {
+    "word": "astronomy",
+    "type": "noun",
+    "definition": "The scientific study of the Sun, Moon, stars, planets and other objects in space.",
+    "pronunciation": {
+      "uk": "/əˈstrɒnəmi/"
+    },
+    "examples": [
+      "She wants to study astronomy at university.",
+      "Astronomy teaches us about distant galaxies."
+    ],
+    "extra": {
+      "synonyms": [
+        "stargazing",
+        "astrophysics"
+      ],
+      "antonyms": [
+        "astrology"
+      ],
+      "memory_tip": "Astronomy = naming and knowing the stars.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "besides",
+    "type": "preposition,adverb",
+    "definition": "In addition to; apart from; moreover.",
+    "pronunciation": {
+      "uk": "/bɪˈsaɪdz/"
+    },
+    "examples": [
+      "Besides apples, she likes bananas. (prep.)",
+      "It's too late to go, besides it's raining. (adv.)"
+    ],
+    "extra": {
+      "synonyms": [
+        "apart from",
+        "as well as",
+        "moreover"
+      ],
+      "antonyms": [
+        "excluding",
+        "except"
+      ],
+      "memory_tip": "Besides = plus this, plus that.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "crater",
+    "type": "noun,verb",
+    "definition": "A large bowl-shaped hole on the surface of a planet or caused by an explosion; to form such a hole.",
+    "pronunciation": {
+      "uk": "/ˈkreɪtə/"
+    },
+    "examples": [
+      "A meteorite left a huge crater. (noun)",
+      "Bombs cratered the road. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "hollow",
+        "pit",
+        "indent"
+      ],
+      "antonyms": [
+        "mound",
+        "hill"
+      ],
+      "memory_tip": "Crater = giant dent in ground or Moon.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "crater",
+        "cratered",
+        "cratering"
+      ]
+    }
+  },
+  {
+    "word": "degree",
+    "type": "noun",
+    "definition": "A unit for measuring temperature or angles; a qualification awarded by a university.",
+    "pronunciation": {
+      "uk": "/dɪˈɡriː/"
+    },
+    "examples": [
+      "Water boils at 100 degrees Celsius.",
+      "She earned a history degree."
+    ],
+    "extra": {
+      "synonyms": [
+        "level",
+        "qualification",
+        "stage"
+      ],
+      "antonyms": [
+        "zero",
+        "ignorance"
+      ],
+      "memory_tip": "Degree = measure of heat, angles, or study.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "diameter",
+    "type": "noun",
+    "definition": "A straight line passing from side to side through the centre of a circle or sphere.",
+    "pronunciation": {
+      "uk": "/daɪˈæmɪtə/"
+    },
+    "examples": [
+      "The circle has a diameter of 10 cm.",
+      "Twice the radius equals the diameter."
+    ],
+    "extra": {
+      "synonyms": [
+        "width",
+        "breadth"
+      ],
+      "antonyms": [
+        "radius (contrast)"
+      ],
+      "memory_tip": "Diameter = line straight across the middle.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "gaze",
+    "type": "verb,noun",
+    "definition": "To look steadily and intently; a steady, intent look.",
+    "pronunciation": {
+      "uk": "/ɡeɪz/"
+    },
+    "examples": [
+      "He gazed at the night sky. (verb)",
+      "Her gaze fell on the distant hills. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "stare",
+        "look",
+        "contemplate"
+      ],
+      "antonyms": [
+        "glance",
+        "ignore"
+      ],
+      "memory_tip": "Gaze = long, dreamy look.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "gaze",
+        "gazed",
+        "gazing"
+      ]
+    }
+  },
+  {
+    "word": "gravity",
+    "type": "noun",
+    "definition": "The natural force that attracts objects towards one another, especially the force that makes things fall to Earth.",
+    "pronunciation": {
+      "uk": "/ˈɡrævəti/"
+    },
+    "examples": [
+      "Gravity keeps our feet on the ground.",
+      "The Moon's gravity causes tides."
+    ],
+    "extra": {
+      "synonyms": [
+        "weight",
+        "pull"
+      ],
+      "antonyms": [
+        "weightlessness"
+      ],
+      "memory_tip": "Gravity = invisible pull downwards.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "reflect",
+    "type": "verb",
+    "definition": "To throw back light, heat, sound or an image; to think deeply about something.",
+    "pronunciation": {
+      "uk": "/rɪˈflekt/"
+    },
+    "examples": [
+      "Mirrors reflect light.",
+      "Take time to reflect on your progress."
+    ],
+    "extra": {
+      "synonyms": [
+        "bounce back",
+        "mirror",
+        "ponder"
+      ],
+      "antonyms": [
+        "absorb",
+        "ignore"
+      ],
+      "memory_tip": "Reflect = mirror or thoughtful bounce-back.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "reflect",
+        "reflected",
+        "reflecting"
+      ]
+    }
+  },
+  {
+    "word": "telescope",
+    "type": "noun,verb",
+    "definition": "An instrument that makes distant objects appear nearer and larger; to collapse parts into one another.",
+    "pronunciation": {
+      "uk": "/ˈtelɪskəʊp/"
+    },
+    "examples": [
+      "He looked at Jupiter through a telescope. (noun)",
+      "The metal poles telescope into each other for storage. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "spyglass",
+        "collapse"
+      ],
+      "antonyms": [
+        "expand"
+      ],
+      "memory_tip": "Telescope = star viewer or fold-in tube.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "telescope",
+        "telescoped",
+        "telescoping"
+      ]
+    }
+  },
+  {
+    "word": "universe",
+    "type": "noun",
+    "definition": "All of space and everything in it, including stars, planets and galaxies.",
+    "pronunciation": {
+      "uk": "/ˈjuːnɪvɜːs/"
+    },
+    "examples": [
+      "Astronomers study the origins of the universe.",
+      "The universe is vast and still expanding."
+    ],
+    "extra": {
+      "synonyms": [
+        "cosmos",
+        "galaxy system"
+      ],
+      "antonyms": [
+        "nothingness"
+      ],
+      "memory_tip": "Universe = absolutely everything, everywhere!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "word": "filthy",
+    "type": "adjective",
+    "definition": "Very dirty.",
+    "pronunciation": {
+      "us": "/ˈfɪlθi/",
+      "uk": "/ˈfɪlθi/"
+    },
+    "examples": [
+      "The dog came home filthy after playing in the mud.",
+      "Please wash those filthy socks."
+    ],
+    "extra": {
+      "synonyms": [
+        "dirty",
+        "grimy",
+        "messy"
+      ],
+      "antonyms": [
+        "clean",
+        "spotless"
+      ],
+      "memory_tip": "Filthy = covered in yucky dirt!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "motion",
+    "type": "noun",
+    "definition": "The act of moving.",
+    "pronunciation": {
+      "us": "/ˈmoʊʃən/",
+      "uk": "/ˈməʊʃən/"
+    },
+    "examples": [
+      "The car was in motion down the road.",
+      "Waves make a gentle motion in the sea."
+    ],
+    "extra": {
+      "synonyms": [
+        "movement",
+        "action",
+        "activity"
+      ],
+      "antonyms": [
+        "stillness",
+        "rest"
+      ],
+      "memory_tip": "Motion = anything that moves.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "spray",
+    "type": "verb,noun",
+    "definition": "To scatter liquid in tiny drops; the mist of tiny drops.",
+    "pronunciation": {
+      "us": "/spreɪ/",
+      "uk": "/spreɪ/"
+    },
+    "examples": [
+      "She sprayed water on the flowers. (verb)",
+      "The ocean waves sent up a cool spray. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "mist",
+        "squirt",
+        "sprinkle"
+      ],
+      "antonyms": [
+        "pour",
+        "stream"
+      ],
+      "memory_tip": "Spray = tiny droplets everywhere!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "spray",
+        "sprayed",
+        "spraying"
+      ]
+    }
+  },
+  {
+    "word": "hang",
+    "type": "verb",
+    "definition": "To attach something so it is held up from above.",
+    "pronunciation": {
+      "us": "/hæŋ/",
+      "uk": "/hæŋ/"
+    },
+    "examples": [
+      "Please hang your coat on the hook.",
+      "Bats hang upside down."
+    ],
+    "extra": {
+      "synonyms": [
+        "suspend",
+        "dangle",
+        "attach"
+      ],
+      "antonyms": [
+        "drop",
+        "lay down"
+      ],
+      "memory_tip": "Hang = let it dangle from above.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "hang",
+        "hung",
+        "hanging"
+      ]
+    }
+  },
+  {
+    "word": "tank",
+    "type": "noun",
+    "definition": "A large container for holding liquid or gas.",
+    "pronunciation": {
+      "us": "/tæŋk/",
+      "uk": "/tæŋk/"
+    },
+    "examples": [
+      "The fish swim in a glass tank.",
+      "Fill the car's fuel tank before the trip."
+    ],
+    "extra": {
+      "synonyms": [
+        "container",
+        "reservoir",
+        "cistern"
+      ],
+      "antonyms": [
+        "leak",
+        "void"
+      ],
+      "memory_tip": "Tank = big box that holds liquids.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "scratch",
+    "type": "verb,noun",
+    "definition": "To scrape with nails or something sharp; the mark made by scraping.",
+    "pronunciation": {
+      "us": "/skrætʃ/",
+      "uk": "/skrætʃ/"
+    },
+    "examples": [
+      "The cat scratched the sofa. (verb)",
+      "There was a scratch on my knee. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "scrape",
+        "mark",
+        "score"
+      ],
+      "antonyms": [
+        "polish",
+        "heal"
+      ],
+      "memory_tip": "Scratch = little scrape line.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "scratch",
+        "scratched",
+        "scratching"
+      ]
+    }
+  },
+  {
+    "word": "entrance",
+    "type": "noun",
+    "definition": "A way into a place; a door or gate.",
+    "pronunciation": {
+      "us": "/ˈɛntrəns/",
+      "uk": "/ˈɛntrɑːns/"
+    },
+    "examples": [
+      "Meet me at the main entrance.",
+      "A red carpet covered the theater entrance."
+    ],
+    "extra": {
+      "synonyms": [
+        "doorway",
+        "entry",
+        "gate"
+      ],
+      "antonyms": [
+        "exit",
+        "way out"
+      ],
+      "memory_tip": "Entrance = where you go in.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "vehicle",
+    "type": "noun",
+    "definition": "Something used to carry people or goods, like a car, bus, or truck.",
+    "pronunciation": {
+      "us": "/ˈviɪkəl/",
+      "uk": "/ˈviːɪkəl/"
+    },
+    "examples": [
+      "A bus is a large vehicle.",
+      "They loaded boxes into the delivery vehicle."
+    ],
+    "extra": {
+      "synonyms": [
+        "car",
+        "truck",
+        "transport"
+      ],
+      "antonyms": [
+        "pedestrian",
+        "walker"
+      ],
+      "memory_tip": "Vehicle = anything that drives or rides.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "brake",
+    "type": "noun",
+    "definition": "Parts of a vehicle used to slow down or stop it.",
+    "pronunciation": {
+      "us": "/breɪk/",
+      "uk": "/breɪk/"
+    },
+    "examples": [
+      "Press the brakes to stop the bike.",
+      "The car’s brakes need fixing."
+    ],
+    "extra": {
+      "synonyms": [
+        "stoppers",
+        "slow-downs"
+      ],
+      "antonyms": [
+        "gas",
+        "accelerator"
+      ],
+      "memory_tip": "Brakes = make things stop!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "remove",
+    "type": "verb",
+    "definition": "To take something away or off.",
+    "pronunciation": {
+      "us": "/rɪˈmuv/",
+      "uk": "/rɪˈmuːv/"
+    },
+    "examples": [
+      "Please remove your shoes before entering.",
+      "They removed the stickers from the wall."
+    ],
+    "extra": {
+      "synonyms": [
+        "take off",
+        "delete",
+        "extract"
+      ],
+      "antonyms": [
+        "add",
+        "attach"
+      ],
+      "memory_tip": "Remove = make it go away.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "remove",
+        "removed",
+        "removing"
+      ]
+    }
+  }
+]

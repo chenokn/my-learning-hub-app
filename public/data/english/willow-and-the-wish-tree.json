@@ -1,0 +1,457 @@
+{
+  "title": "Willow and the Wish Tree",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Fantasy",
+  "vocabulary": [
+    "wish",
+    "kind",
+    "tree",
+    "leaf",
+    "branch",
+    "glow",
+    "whisper",
+    "gift",
+    "promise",
+    "share"
+  ],
+  "images": [
+    "/stem-hub/language/wishtree.1.png",
+    "/stem-hub/language/wishtree.2.png",
+    "/stem-hub/language/wishtree.3.png",
+    "/stem-hub/language/wishtree.4.png"
+  ],
+  "passage": [
+    "Willow walks to the big old tree on the hill. A soft wind shakes each leaf. The leaves begin to glow like tiny stars. |A whisper says, 'I am the Wish Tree. Make a wish that helps, not just takes.'",
+    "Willow sees a small nest on a low branch. A bird chirps nearby. |'I wish the branch would bend so the nest is safe,' says Willow. The branch dips gently, and the bird hops in.",
+    "Two children argue under the tree about apples. Willow says, 'Let’s share.' |She makes a wish for a fair gift. Apples drop in twos—one for each child. They smile and say thanks.",
+    "'Kind wishes grow more kind,' whispers the tree. |'Do you promise to keep helping?' Willow nods. 'I promise.' She waves and walks home, ready to share her story."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What special thing do the leaves do?",
+      "answer": "They glow like tiny stars",
+      "options": [
+        "They glow like tiny stars",
+        "They turn into birds",
+        "They fall off at once",
+        "They sing a song"
+      ],
+      "keys": [
+        "glow",
+        "leaf",
+        "leaves"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the tree call itself?",
+      "answer": "The Wish Tree",
+      "options": [
+        "The Wish Tree",
+        "The Apple King",
+        "The Tall Oak",
+        "The Secret Forest"
+      ],
+      "keys": [
+        "Wish Tree",
+        "tree"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does Willow wish for to help the nest?",
+      "answer": "For the branch to bend",
+      "options": [
+        "For the branch to bend",
+        "For the wind to stop forever",
+        "For the bird to fly away",
+        "For the nest to sing"
+      ],
+      "keys": [
+        "branch",
+        "wish"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Where is the bird’s nest at first?",
+      "answer": "On a low branch",
+      "options": [
+        "On a low branch",
+        "On the ground",
+        "In a cave",
+        "In a box"
+      ],
+      "keys": [
+        "branch",
+        "low",
+        "nest"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What do the children argue about?",
+      "answer": "Apples",
+      "options": [
+        "Apples",
+        "Kites",
+        "Marbles",
+        "Books"
+      ],
+      "keys": [
+        "apples"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does Willow say to fix the argument?",
+      "answer": "“Let’s share.”",
+      "options": [
+        "“Let’s share.”",
+        "“Run away.”",
+        "“Hide them.”",
+        "“Take turns next year.”"
+      ],
+      "keys": [
+        "share"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What fair gift does the tree give?",
+      "answer": "It drops apples in twos—one for each child",
+      "options": [
+        "It drops apples in twos—one for each child",
+        "It gives a bag of coins",
+        "It makes a golden crown",
+        "It grows a new swing"
+      ],
+      "keys": [
+        "gift",
+        "apples"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What sound does the tree make when it talks?",
+      "answer": "A whisper",
+      "options": [
+        "A whisper",
+        "A roar",
+        "A clap",
+        "A whistle"
+      ],
+      "keys": [
+        "whisper"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the tree ask Willow to make?",
+      "answer": "A promise to keep helping",
+      "options": [
+        "A promise to keep helping",
+        "A picture of the tree",
+        "A kite from leaves",
+        "A big fire"
+      ],
+      "keys": [
+        "promise"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How does Willow act at the end?",
+      "answer": "She waves and goes home, ready to share her story",
+      "options": [
+        "She waves and goes home, ready to share her story",
+        "She hides the apples in her bag",
+        "She cuts the tree",
+        "She throws the nest in the air"
+      ],
+      "keys": [
+        "share",
+        "home"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "wish",
+      "type": "noun,verb",
+      "definition": "A hope for something to happen; to hope for something.",
+      "pronunciation": {
+        "us": "wɪʃ",
+        "uk": "wɪʃ"
+      },
+      "examples": [
+        "Make a kind wish.",
+        "Willow wishes the branch would bend."
+      ],
+      "extra": {
+        "synonyms": [
+          "hope",
+          "desire"
+        ],
+        "antonyms": [
+          "refuse"
+        ],
+        "memory_tip": "Wish = a helpful hope.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "wish",
+          "wished",
+          "wishing"
+        ]
+      }
+    },
+    {
+      "word": "kind",
+      "type": "adjective",
+      "definition": "Helpful and caring.",
+      "pronunciation": {
+        "us": "kaɪnd",
+        "uk": "kaɪnd"
+      },
+      "examples": [
+        "Kind wishes help others.",
+        "Be kind to the bird."
+      ],
+      "extra": {
+        "synonyms": [
+          "nice",
+          "gentle"
+        ],
+        "antonyms": [
+          "mean",
+          "unkind"
+        ],
+        "memory_tip": "Kind = care in action.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "tree",
+      "type": "noun",
+      "definition": "A tall plant with a trunk, branches, and leaves.",
+      "pronunciation": {
+        "us": "triː",
+        "uk": "triː"
+      },
+      "examples": [
+        "The Wish Tree whispers.",
+        "Birds nest in the tree."
+      ],
+      "extra": {
+        "synonyms": [
+          "oak",
+          "willow (type)"
+        ],
+        "antonyms": [
+          "bush (contrast)"
+        ],
+        "memory_tip": "Tree = trunk + branches + leaves.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "leaf",
+      "type": "noun",
+      "definition": "A flat, thin part of a plant that grows from a stem or branch.",
+      "pronunciation": {
+        "us": "liːf",
+        "uk": "liːf"
+      },
+      "examples": [
+        "Each leaf begins to glow.",
+        "A green leaf fell on the path."
+      ],
+      "extra": {
+        "synonyms": [
+          "foliage (plural: leaves)"
+        ],
+        "antonyms": [
+          "twig (contrast)"
+        ],
+        "memory_tip": "Leaf = green plant fan.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "branch",
+      "type": "noun",
+      "definition": "A part of a tree that grows from the trunk.",
+      "pronunciation": {
+        "us": "bræntʃ",
+        "uk": "brɑːntʃ"
+      },
+      "examples": [
+        "The nest is on a low branch.",
+        "The branch bends to help."
+      ],
+      "extra": {
+        "synonyms": [
+          "bough",
+          "limb"
+        ],
+        "antonyms": [
+          "trunk (contrast)"
+        ],
+        "memory_tip": "Branch = tree arm.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "glow",
+      "type": "noun,verb",
+      "definition": "A soft, steady light; to shine softly.",
+      "pronunciation": {
+        "us": "ɡloʊ",
+        "uk": "ɡləʊ"
+      },
+      "examples": [
+        "The leaves have a warm glow.",
+        "The leaves glow like stars."
+      ],
+      "extra": {
+        "synonyms": [
+          "shine",
+          "gleam"
+        ],
+        "antonyms": [
+          "dim",
+          "darken"
+        ],
+        "memory_tip": "Glow = gentle light.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "glow",
+          "glowed",
+          "glowing"
+        ]
+      }
+    },
+    {
+      "word": "whisper",
+      "type": "noun,verb",
+      "definition": "A very quiet voice; to speak very softly.",
+      "pronunciation": {
+        "us": "ˈwɪs.pɚ",
+        "uk": "ˈwɪs.pə"
+      },
+      "examples": [
+        "A whisper comes from the tree.",
+        "The Wish Tree whispers to Willow."
+      ],
+      "extra": {
+        "synonyms": [
+          "murmur"
+        ],
+        "antonyms": [
+          "shout"
+        ],
+        "memory_tip": "Whisper = soft voice for secrets.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "whisper",
+          "whispered",
+          "whispering"
+        ]
+      }
+    },
+    {
+      "word": "gift",
+      "type": "noun",
+      "definition": "Something given to someone.",
+      "pronunciation": {
+        "us": "ɡɪft",
+        "uk": "ɡɪft"
+      },
+      "examples": [
+        "The tree gives a fair gift.",
+        "A gift can be shared."
+      ],
+      "extra": {
+        "synonyms": [
+          "present"
+        ],
+        "antonyms": [
+          "loss (contrast)"
+        ],
+        "memory_tip": "Gift = given with care.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "promise",
+      "type": "noun,verb",
+      "definition": "A pledge to do something; to say you will do something.",
+      "pronunciation": {
+        "us": "ˈprɑː.mɪs",
+        "uk": "ˈprɒ.mɪs"
+      },
+      "examples": [
+        "Willow makes a promise.",
+        "I promise to help."
+      ],
+      "extra": {
+        "synonyms": [
+          "pledge"
+        ],
+        "antonyms": [
+          "break one’s word"
+        ],
+        "memory_tip": "Promise = words you must keep.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "promise",
+          "promised",
+          "promising"
+        ]
+      }
+    },
+    {
+      "word": "share",
+      "type": "verb",
+      "definition": "To let someone else have a part of what you have.",
+      "pronunciation": {
+        "us": "ʃer",
+        "uk": "ʃeə"
+      },
+      "examples": [
+        "Let’s share the apples.",
+        "Willow shares her story."
+      ],
+      "extra": {
+        "synonyms": [
+          "divide",
+          "give"
+        ],
+        "antonyms": [
+          "keep",
+          "take all"
+        ],
+        "memory_tip": "Share = fair for everyone.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "share",
+          "shared",
+          "sharing"
+        ]
+      }
+    }
+  ]
+}

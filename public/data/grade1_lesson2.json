@@ -1,0 +1,288 @@
+[
+  {
+    "word": "peak",
+    "type": "noun",
+    "definition": "The highest point of something, like a mountain or roof.",
+    "pronunciation": {
+      "us": "/piːk/",
+      "uk": "/piːk/"
+    },
+    "examples": [
+      "Snow covered the mountain peak.",
+      "He reached the peak of the roof."
+    ],
+    "extra": {
+      "synonyms": [
+        "top",
+        "summit",
+        "tip"
+      ],
+      "antonyms": [
+        "bottom",
+        "valley"
+      ],
+      "memory_tip": "Peak = the very top!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "liquid",
+    "type": "noun,adjective",
+    "definition": "A substance that flows, like water or juice.",
+    "pronunciation": {
+      "us": "/ˈlɪkwɪd/",
+      "uk": "/ˈlɪkwɪd/"
+    },
+    "examples": [
+      "Milk is a liquid. (noun)",
+      "The soap became liquid in the heat. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "fluid",
+        "drink",
+        "moisture"
+      ],
+      "antonyms": [
+        "solid",
+        "gas"
+      ],
+      "memory_tip": "Liquid = wet and flowing!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "shallow",
+    "type": "adjective",
+    "definition": "Not deep; having little depth.",
+    "pronunciation": {
+      "us": "/ˈʃæloʊ/",
+      "uk": "/ˈʃaləʊ/"
+    },
+    "examples": [
+      "The pool is shallow at this end.",
+      "We walked in the shallow water."
+    ],
+    "extra": {
+      "synonyms": [
+        "not deep",
+        "low",
+        "short"
+      ],
+      "antonyms": [
+        "deep",
+        "bottomless"
+      ],
+      "memory_tip": "Shallow = not deep at all!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "dip",
+    "type": "verb,noun",
+    "definition": "To put something quickly into liquid; a quick downward move.",
+    "pronunciation": {
+      "us": "/dɪp/",
+      "uk": "/dɪp/"
+    },
+    "examples": [
+      "She dipped her toe in the water. (verb)",
+      "He took a dip in the lake. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "drop",
+        "plunge",
+        "immerse"
+      ],
+      "antonyms": [
+        "lift",
+        "raise"
+      ],
+      "memory_tip": "Dip = quick in and out!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "dip",
+        "dipped",
+        "dipping"
+      ]
+    }
+  },
+  {
+    "word": "compass",
+    "type": "noun",
+    "definition": "A tool that shows direction using north, south, east, and west.",
+    "pronunciation": {
+      "us": "/ˈkʌmpəs/",
+      "uk": "/ˈkʌmpəs/"
+    },
+    "examples": [
+      "We used a compass on our hike.",
+      "The compass always points north."
+    ],
+    "extra": {
+      "synonyms": [
+        "navigator",
+        "guide",
+        "tool"
+      ],
+      "antonyms": [
+        "lost",
+        "confused"
+      ],
+      "memory_tip": "Compass = tool that tells direction!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "clear",
+    "type": "adjective",
+    "definition": "Easy to see through or understand.",
+    "pronunciation": {
+      "us": "/klɪr/",
+      "uk": "/klɪə/"
+    },
+    "examples": [
+      "The water was very clear.",
+      "She gave clear directions."
+    ],
+    "extra": {
+      "synonyms": [
+        "see-through",
+        "plain",
+        "bright"
+      ],
+      "antonyms": [
+        "cloudy",
+        "confusing"
+      ],
+      "memory_tip": "Clear = easy to see or understand!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "flash",
+    "type": "noun,verb",
+    "definition": "A quick bright light or a sudden move.",
+    "pronunciation": {
+      "us": "/flæʃ/",
+      "uk": "/flæʃ/"
+    },
+    "examples": [
+      "We saw a flash of lightning. (noun)",
+      "The camera flashed. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "spark",
+        "burst",
+        "glow"
+      ],
+      "antonyms": [
+        "dark",
+        "steady"
+      ],
+      "memory_tip": "Flash = quick light!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "flash",
+        "flashed",
+        "flashing"
+      ]
+    }
+  },
+  {
+    "word": "paddle",
+    "type": "noun,verb",
+    "definition": "A tool used to move a boat; to move through water using hands or a paddle.",
+    "pronunciation": {
+      "us": "/ˈpædəl/",
+      "uk": "/ˈpadl/"
+    },
+    "examples": [
+      "She used a paddle to row the boat. (noun)",
+      "We paddled in the shallow lake. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "oar",
+        "row",
+        "splash"
+      ],
+      "antonyms": [
+        "drift",
+        "float (without moving)"
+      ],
+      "memory_tip": "Paddle = moving in water!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "paddle",
+        "paddled",
+        "paddling"
+      ]
+    }
+  },
+  {
+    "word": "swift",
+    "type": "adjective",
+    "definition": "Moving very quickly.",
+    "pronunciation": {
+      "us": "/swɪft/",
+      "uk": "/swɪft/"
+    },
+    "examples": [
+      "The rabbit was swift.",
+      "She made a swift move to catch the ball."
+    ],
+    "extra": {
+      "synonyms": [
+        "fast",
+        "quick",
+        "speedy"
+      ],
+      "antonyms": [
+        "slow",
+        "sluggish"
+      ],
+      "memory_tip": "Swift = super fast!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "wild",
+    "type": "adjective",
+    "definition": "Living in nature, not controlled by people; crazy or rough.",
+    "pronunciation": {
+      "us": "/waɪld/",
+      "uk": "/waɪld/"
+    },
+    "examples": [
+      "We saw wild animals in the forest.",
+      "The kids had a wild party."
+    ],
+    "extra": {
+      "synonyms": [
+        "untamed",
+        "crazy",
+        "free"
+      ],
+      "antonyms": [
+        "tame",
+        "calm",
+        "controlled"
+      ],
+      "memory_tip": "Wild = nature or crazy fun!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

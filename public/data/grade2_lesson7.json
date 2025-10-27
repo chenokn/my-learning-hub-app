@@ -1,0 +1,293 @@
+[
+  {
+    "word": "badge",
+    "type": "noun",
+    "definition": "A small emblem worn to show membership, rank or achievement.",
+    "pronunciation": {
+      "uk": "/bædʒ/"
+    },
+    "examples": [
+      "The scout sewed a new badge on her sleeve.",
+      "Staff must wear an identity badge."
+    ],
+    "extra": {
+      "synonyms": [
+        "emblem",
+        "insignia",
+        "pin"
+      ],
+      "antonyms": [
+        "blank"
+      ],
+      "memory_tip": "Badge = little symbol you pin on.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "banner",
+    "type": "noun",
+    "definition": "A long strip of cloth or paper with words or pictures for decoration or advertisement.",
+    "pronunciation": {
+      "uk": "/ˈbænə/"
+    },
+    "examples": [
+      "A welcome banner hung above the door.",
+      "Protesters carried colourful banners."
+    ],
+    "extra": {
+      "synonyms": [
+        "flag",
+        "streamer",
+        "placard"
+      ],
+      "antonyms": [
+        "blank wall"
+      ],
+      "memory_tip": "Banner = big sign you hang up.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "corner",
+    "type": "noun,verb",
+    "definition": "The point or area where two lines or surfaces meet; to trap something so it cannot escape.",
+    "pronunciation": {
+      "uk": "/ˈkɔːnə/"
+    },
+    "examples": [
+      "The shop is on the corner of High Street.",
+      "Police cornered the suspect in an alley."
+    ],
+    "extra": {
+      "synonyms": [
+        "angle",
+        "edge",
+        "trap"
+      ],
+      "antonyms": [
+        "centre",
+        "release"
+      ],
+      "memory_tip": "Corner = place where sides meet or action of boxing in.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "corner",
+        "cornered",
+        "cornering"
+      ]
+    }
+  },
+  {
+    "word": "design",
+    "type": "noun,verb",
+    "definition": "A plan or drawing for how something will look; to create such a plan.",
+    "pronunciation": {
+      "uk": "/dɪˈzaɪn/"
+    },
+    "examples": [
+      "The dress has a floral design. (noun)",
+      "Architects design new buildings. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "pattern",
+        "plan",
+        "create"
+      ],
+      "antonyms": [
+        "mess",
+        "destroy"
+      ],
+      "memory_tip": "Design = idea on paper or act of making that idea.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "design",
+        "designed",
+        "designing"
+      ]
+    }
+  },
+  {
+    "word": "display",
+    "type": "noun,verb",
+    "definition": "Something shown to the public; to show something clearly.",
+    "pronunciation": {
+      "uk": "/dɪˈspleɪ/"
+    },
+    "examples": [
+      "The museum has a dinosaur display. (noun)",
+      "Shop windows display the newest toys. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "exhibit",
+        "show",
+        "present"
+      ],
+      "antonyms": [
+        "hide",
+        "conceal"
+      ],
+      "memory_tip": "Display = put out so all can see.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "display",
+        "displayed",
+        "displaying"
+      ]
+    }
+  },
+  {
+    "word": "fold",
+    "type": "noun,verb",
+    "definition": "A line or mark where something is bent; to bend something over itself.",
+    "pronunciation": {
+      "uk": "/fəʊld/"
+    },
+    "examples": [
+      "There is a fold in the map. (noun)",
+      "Please fold the letter neatly. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "crease",
+        "bend",
+        "double"
+      ],
+      "antonyms": [
+        "flatten",
+        "unfold"
+      ],
+      "memory_tip": "Fold = bend paper or cloth over.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "fold",
+        "folded",
+        "folding"
+      ]
+    }
+  },
+  {
+    "word": "parade",
+    "type": "noun,verb",
+    "definition": "A public procession celebrating a day or event; to march or display proudly.",
+    "pronunciation": {
+      "uk": "/pəˈreɪd/"
+    },
+    "examples": [
+      "The town holds a parade on Remembrance Day. (noun)",
+      "Soldiers paraded through the square. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "procession",
+        "march",
+        "show off"
+      ],
+      "antonyms": [
+        "scatter",
+        "hide"
+      ],
+      "memory_tip": "Parade = organised march with colour.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "parade",
+        "paraded",
+        "parading"
+      ]
+    }
+  },
+  {
+    "word": "rectangle",
+    "type": "noun",
+    "definition": "A four-sided shape with four right angles and opposite sides equal.",
+    "pronunciation": {
+      "uk": "/ˈrektæŋɡəl/"
+    },
+    "examples": [
+      "A sheet of paper is a rectangle.",
+      "Draw a large rectangle on the board."
+    ],
+    "extra": {
+      "synonyms": [
+        "oblong"
+      ],
+      "antonyms": [
+        "circle",
+        "triangle"
+      ],
+      "memory_tip": "Rectangle = four straight sides, like a door.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "salute",
+    "type": "noun,verb",
+    "definition": "A formal gesture of respect, especially by a member of the armed forces; to make such a gesture.",
+    "pronunciation": {
+      "uk": "/səˈluːt/"
+    },
+    "examples": [
+      "The officer gave a crisp salute. (noun)",
+      "They saluted the flag. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "greeting",
+        "honour",
+        "acknowledge"
+      ],
+      "antonyms": [
+        "ignore",
+        "disrespect"
+      ],
+      "memory_tip": "Salute = respectful hand gesture.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "salute",
+        "saluted",
+        "saluting"
+      ]
+    }
+  },
+  {
+    "word": "tread",
+    "type": "noun,verb",
+    "definition": "The pattern on a tyre or shoe that touches the ground; to step or walk.",
+    "pronunciation": {
+      "uk": "/trɛd/"
+    },
+    "examples": [
+      "The tyre tread was worn out. (noun)",
+      "Mind where you tread in the mud. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "step",
+        "walk",
+        "footprint"
+      ],
+      "antonyms": [
+        "slip",
+        "slide"
+      ],
+      "memory_tip": "Tread = your step or the grip underfoot.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "tread",
+        "trod",
+        "treading"
+      ]
+    }
+  }
+]

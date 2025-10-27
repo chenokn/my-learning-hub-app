@@ -1,0 +1,265 @@
+[
+  {
+    "word": "approach",
+    "type": "verb,noun",
+    "definition": "To come closer to something; a way of doing something.",
+    "pronunciation": {
+      "us": "/əˈproʊtʃ/",
+      "uk": "/əˈprəʊtʃ/"
+    },
+    "examples": [
+      "The dog slowly approached the cat. (verb)",
+      "We tried a new approach to solve the puzzle. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "come near",
+        "method",
+        "advance"
+      ],
+      "antonyms": [
+        "retreat",
+        "leave"
+      ],
+      "memory_tip": "Approach = move closer or try a way.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "approach",
+        "past": "approached",
+        "participle": "approached"
+      }
+    }
+  },
+  {
+    "word": "detect",
+    "type": "verb",
+    "definition": "To find or notice something, often hard to see or hear.",
+    "pronunciation": {
+      "us": "/dɪˈtɛkt/",
+      "uk": "/dɪˈtɛkt/"
+    },
+    "examples": [
+      "The dog detected the scent of food.",
+      "The alarm can detect smoke in the room."
+    ],
+    "extra": {
+      "synonyms": [
+        "discover",
+        "notice",
+        "sense"
+      ],
+      "antonyms": [
+        "miss",
+        "overlook"
+      ],
+      "memory_tip": "Detect = to spot something hidden.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "detect",
+        "past": "detected",
+        "participle": "detected"
+      }
+    }
+  },
+  {
+    "word": "doze",
+    "type": "verb",
+    "definition": "To sleep lightly or nap.",
+    "pronunciation": {
+      "us": "/doʊz/",
+      "uk": "/dəʊz/"
+    },
+    "examples": [
+      "He dozed off during the movie.",
+      "The cat dozed in the sunshine."
+    ],
+    "extra": {
+      "synonyms": [
+        "nap",
+        "rest",
+        "sleep lightly"
+      ],
+      "antonyms": [
+        "wake",
+        "be alert"
+      ],
+      "memory_tip": "Doze = tiny nap, not deep sleep.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "doze",
+        "past": "dozed",
+        "participle": "dozed"
+      }
+    }
+  },
+  {
+    "word": "gradual",
+    "type": "adjective",
+    "definition": "Happening slowly over time.",
+    "pronunciation": {
+      "us": "/ˈɡrædʒuəl/",
+      "uk": "/ˈɡrædjʊəl/"
+    },
+    "examples": [
+      "There was a gradual change in the weather.",
+      "The baby showed gradual improvement."
+    ],
+    "extra": {
+      "synonyms": [
+        "slow",
+        "steady",
+        "gentle"
+      ],
+      "antonyms": [
+        "sudden",
+        "quick"
+      ],
+      "memory_tip": "Gradual = step by step.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "hint",
+    "type": "noun,verb",
+    "definition": "A small clue or suggestion; to suggest something in a gentle way.",
+    "pronunciation": {
+      "us": "/hɪnt/",
+      "uk": "/hɪnt/"
+    },
+    "examples": [
+      "She gave a hint about the answer. (noun)",
+      "He hinted that he wanted ice cream. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "clue",
+        "suggestion",
+        "tip"
+      ],
+      "antonyms": [
+        "answer",
+        "statement"
+      ],
+      "memory_tip": "Hint = tiny clue, not the full answer.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "hint",
+        "past": "hinted",
+        "participle": "hinted"
+      }
+    }
+  },
+  {
+    "word": "individual",
+    "type": "noun,adjective",
+    "definition": "One single person or thing; separate or special.",
+    "pronunciation": {
+      "us": "/ˌɪndəˈvɪdʒuəl/",
+      "uk": "/ˌɪndɪˈvɪdjʊəl/"
+    },
+    "examples": [
+      "Each individual must sign the form. (noun)",
+      "He packed individual bags for each guest. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "person",
+        "separate",
+        "unique"
+      ],
+      "antonyms": [
+        "group",
+        "common"
+      ],
+      "memory_tip": "Individual = just one, not a group.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "malice",
+    "type": "noun",
+    "definition": "The desire to hurt or harm someone.",
+    "pronunciation": {
+      "us": "/ˈmælɪs/",
+      "uk": "/ˈmælɪs/"
+    },
+    "examples": [
+      "He acted with malice when he broke the toy.",
+      "There was no malice in her voice—she was joking."
+    ],
+    "extra": {
+      "synonyms": [
+        "cruelty",
+        "meanness",
+        "hatred"
+      ],
+      "antonyms": [
+        "kindness",
+        "love"
+      ],
+      "memory_tip": "Malice = mean on purpose.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "necessary",
+    "type": "adjective",
+    "definition": "Something needed or required.",
+    "pronunciation": {
+      "us": "/ˈnɛsəˌsɛri/",
+      "uk": "/ˈnɛsəsəri/"
+    },
+    "examples": [
+      "It's necessary to wear shoes at school.",
+      "We packed all the necessary supplies for the trip."
+    ],
+    "extra": {
+      "synonyms": [
+        "needed",
+        "important",
+        "required"
+      ],
+      "antonyms": [
+        "optional",
+        "extra"
+      ],
+      "memory_tip": "Necessary = can’t go without it.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "solution",
+    "type": "noun",
+    "definition": "The answer to a problem or puzzle.",
+    "pronunciation": {
+      "us": "/səˈluːʃən/",
+      "uk": "/səˈluːʃən/"
+    },
+    "examples": [
+      "We found a solution to the math problem.",
+      "She always thinks of good solutions."
+    ],
+    "extra": {
+      "synonyms": [
+        "answer",
+        "fix",
+        "result"
+      ],
+      "antonyms": [
+        "problem",
+        "question"
+      ],
+      "memory_tip": "Solution = the fix or answer!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

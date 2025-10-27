@@ -1,0 +1,267 @@
+[
+  {
+    "word": "aloft",
+    "type": "adverb,adjective",
+    "definition": "High up; in the air; up above.",
+    "pronunciation": { "us": "uh-LOFT", "uk": "uh-LOFT" },
+    "examples": [
+      "The kite stayed aloft in the steady wind.",
+      "Flags aloft marked the start of the parade."
+    ],
+    "extra": {
+      "synonyms": ["overhead", "upward", "high"],
+      "antonyms": ["below", "down"],
+      "memory_tip": "Aloft = a–lofty, up high.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "attain",
+    "type": "verb",
+    "definition": "To reach or achieve something, especially through effort.",
+    "pronunciation": { "us": "uh-TAYN", "uk": "uh-TAYN" },
+    "examples": [
+      "She attained her goal of running 5 km.",
+      "The tree can attain a height of 20 metres."
+    ],
+    "extra": {
+      "synonyms": ["achieve", "reach", "accomplish"],
+      "antonyms": ["fail", "miss"],
+      "memory_tip": "Attain = ‘a’ target you obtain.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["attain", "attained", "attaining"]
+    }
+  },
+  {
+    "word": "buffet",
+    "type": "noun,verb",
+    "definition": "A meal where people serve themselves; to strike or beat repeatedly (as wind or waves).",
+    "pronunciation": { "us": "buh-FAY (noun), BUHF-it (verb)", "uk": "buh-FAY (noun), BUHF-it (verb)" },
+    "examples": [
+      "We ate at the hotel buffet. (noun)",
+      "The ship was buffeted by the storm. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["self-serve meal", "batter (verb)", "pound (verb)"],
+      "antonyms": ["set menu (contrast)", "soothe (verb)"],
+      "memory_tip": "Buffet has two sounds: buh-FAY for food, BUHF-it for blows.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["buffet (verb)", "buffeted", "buffeting"]
+    }
+  },
+  {
+    "word": "elude",
+    "type": "verb",
+    "definition": "To escape from or avoid, often cleverly; to be hard to grasp or understand.",
+    "pronunciation": { "us": "ih-LOOD", "uk": "ih-LOOD" },
+    "examples": [
+      "The mouse eluded the cat.",
+      "The solution eluded us for hours."
+    ],
+    "extra": {
+      "synonyms": ["evade", "escape", "dodge"],
+      "antonyms": ["face", "confront", "capture"],
+      "memory_tip": "Elude = slip through like liquid.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["elude", "eluded", "eluding"]
+    }
+  },
+  {
+    "word": "flammable",
+    "type": "adjective",
+    "definition": "Able to catch fire easily.",
+    "pronunciation": { "us": "FLAM-uh-bul", "uk": "FLAM-uh-buhl" },
+    "examples": [
+      "Store flammable liquids safely.",
+      "Dry leaves are highly flammable."
+    ],
+    "extra": {
+      "synonyms": ["combustible", "inflammable", "ignitable"],
+      "antonyms": ["fireproof", "nonflammable"],
+      "memory_tip": "Flammable = flame-able.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "hover",
+    "type": "verb,noun",
+    "definition": "To stay in the air in one place; a state of waiting nearby.",
+    "pronunciation": { "us": "HUH-ver", "uk": "HOV-uh" },
+    "examples": [
+      "The drone hovered over the field. (verb)",
+      "There was a hover of parents by the gate. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["float", "hang", "poise"],
+      "antonyms": ["descend", "plunge"],
+      "memory_tip": "Hover = hold over one spot.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["hover", "hovered", "hovering"]
+    }
+  },
+  {
+    "word": "inflate",
+    "type": "verb",
+    "definition": "To fill with air or gas and make larger; to increase beyond the normal amount.",
+    "pronunciation": { "us": "in-FLAYT", "uk": "in-FLAYT" },
+    "examples": [
+      "Please inflate the raft.",
+      "Prices inflated during the shortage."
+    ],
+    "extra": {
+      "synonyms": ["fill", "swell", "enlarge"],
+      "antonyms": ["deflate", "empty", "shrink"],
+      "memory_tip": "Inflate = in + air + late (fill it up).",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["inflate", "inflated", "inflating"]
+    }
+  },
+  {
+    "word": "jeopardy",
+    "type": "noun",
+    "definition": "Danger of loss, harm, or failure.",
+    "pronunciation": { "us": "JEP-er-dee", "uk": "JEP-uh-dee" },
+    "examples": [
+      "Their plan put the project in jeopardy.",
+      "Lives were in jeopardy during the blaze."
+    ],
+    "extra": {
+      "synonyms": ["danger", "risk", "peril"],
+      "antonyms": ["safety", "security"],
+      "memory_tip": "Jeopardy = you’re on the edge.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "moor",
+    "type": "verb,noun",
+    "definition": "To tie a boat so it stays in place; an open area of wild, high land.",
+    "pronunciation": { "us": "moor", "uk": "maw" },
+    "examples": [
+      "We moored the boat to the jetty. (verb)",
+      "Heather covered the windswept moor. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["anchor (verb)", "secure (verb)", "heath (noun)"],
+      "antonyms": ["cast off (verb)", "city (contrast, noun)"],
+      "memory_tip": "Moor the boat by the moor.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["moor", "moored", "mooring"]
+    }
+  },
+  {
+    "word": "plummet",
+    "type": "verb,noun",
+    "definition": "To fall straight down at high speed; a weight on a line used to find depth.",
+    "pronunciation": { "us": "PLUHM-it", "uk": "PLUHM-it" },
+    "examples": [
+      "Temperatures plummeted overnight. (verb)",
+      "The diver checked the depth with a plummet. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["drop", "tumble", "nose-dive"],
+      "antonyms": ["soar", "rise", "climb"],
+      "memory_tip": "Plummet = plunge + met the ground.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["plummet", "plummeted", "plummeting"]
+    }
+  },
+  {
+    "word": "pollute",
+    "type": "verb",
+    "definition": "To make air, water, or land dirty and unsafe.",
+    "pronunciation": { "us": "puh-LOOT", "uk": "puh-LOOT" },
+    "examples": [
+      "Factories must not pollute the river.",
+      "Litter pollutes beaches."
+    ],
+    "extra": {
+      "synonyms": ["contaminate", "foul", "dirty"],
+      "antonyms": ["clean", "purify", "decontaminate"],
+      "memory_tip": "Pollute = put ‘poll’ (bad stuff) into it.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["pollute", "polluted", "polluting"]
+    }
+  },
+  {
+    "word": "propel",
+    "type": "verb",
+    "definition": "To push or drive forward.",
+    "pronunciation": { "us": "proh-PEL", "uk": "pruh-PEL" },
+    "examples": [
+      "Jets propel the plane through the air.",
+      "Curiosity propelled her to investigate."
+    ],
+    "extra": {
+      "synonyms": ["drive", "push", "thrust"],
+      "antonyms": ["halt", "restrain", "impede"],
+      "memory_tip": "Propel = pro (forward) + pel (push).",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["propel", "propelled", "propelling"]
+    }
+  },
+  {
+    "word": "stationary",
+    "type": "adjective",
+    "definition": "Not moving; staying in one place.",
+    "pronunciation": { "us": "STAY-shuh-ner-ee", "uk": "STAY-shuh-nuh-ree" },
+    "examples": [
+      "Keep the bike stationary while I fix the chain.",
+      "Traffic was stationary for ten minutes."
+    ],
+    "extra": {
+      "synonyms": ["still", "motionless", "fixed"],
+      "antonyms": ["mobile", "moving", "active"],
+      "memory_tip": "Stationary (with ‘a’) = not moving; stationery (with ‘e’) = paper.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "superb",
+    "type": "adjective",
+    "definition": "Of the highest quality; excellent.",
+    "pronunciation": { "us": "soo-PERB", "uk": "syoo-PERB" },
+    "examples": [
+      "She did a superb job on the project.",
+      "We enjoyed a superb view from the hill."
+    ],
+    "extra": {
+      "synonyms": ["excellent", "outstanding", "magnificent"],
+      "antonyms": ["poor", "inferior", "mediocre"],
+      "memory_tip": "Superb = super + ‘b’ for best.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "swivel",
+    "type": "verb,noun",
+    "definition": "To turn around a central point; a device that lets something turn freely.",
+    "pronunciation": { "us": "SWIV-uhl", "uk": "SWIV-uhl" },
+    "examples": [
+      "The chair swivels to face the screen. (verb)",
+      "The lamp arm turns on a metal swivel. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["pivot", "rotate", "turn"],
+      "antonyms": ["fix", "lock", "anchor"],
+      "memory_tip": "Swivel = swing + swivel around.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["swivel", "swivelled", "swivelling"]
+    }
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "word": "awe",
+    "type": "noun,verb",
+    "definition": "A feeling of great respect mixed with wonder; to fill someone with that feeling.",
+    "pronunciation": { "us": "aw", "uk": "aw" },
+    "examples": [
+      "They stared in awe at the Northern Lights. (noun)",
+      "The vast canyon awed the hikers. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["wonder", "amazement", "reverence"],
+      "antonyms": ["disdain", "contempt", "indifference"],
+      "memory_tip": "Awe = the sound you make when you’re amazed: “awww!”",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["awe (verb)", "awed", "awing"]
+    }
+  },
+  {
+    "word": "catastrophe",
+    "type": "noun",
+    "definition": "A sudden event that causes great damage or suffering; a disaster.",
+    "pronunciation": { "us": "kuh-TAS-truh-fee", "uk": "kuh-TAS-truh-fee" },
+    "examples": [
+      "The flood was a national catastrophe.",
+      "Poor planning turned the show into a catastrophe."
+    ],
+    "extra": {
+      "synonyms": ["disaster", "calamity", "tragedy"],
+      "antonyms": ["triumph", "success", "blessing"],
+      "memory_tip": "Catastrophe = catastrophic disaster.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "consequence",
+    "type": "noun",
+    "definition": "A result or effect of an action or condition.",
+    "pronunciation": { "us": "KON-si-kwens", "uk": "KON-si-kwens" },
+    "examples": [
+      "Every choice has a consequence.",
+      "The consequence of speeding is a fine."
+    ],
+    "extra": {
+      "synonyms": ["result", "outcome", "effect"],
+      "antonyms": ["cause", "origin"],
+      "memory_tip": "Consequence = sequence that comes after.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "deceive",
+    "type": "verb",
+    "definition": "To make someone believe something that is not true.",
+    "pronunciation": { "us": "dih-SEEV", "uk": "dih-SEEV" },
+    "examples": [
+      "The ad deceived customers with false claims.",
+      "He felt deceived by the rumour."
+    ],
+    "extra": {
+      "synonyms": ["mislead", "cheat", "trick"],
+      "antonyms": ["inform", "clarify", "be honest"],
+      "memory_tip": "Deceive = make someone ‘see’ the wrong thing.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["deceive", "deceived", "deceiving"]
+    }
+  },
+  {
+    "word": "fatality",
+    "type": "noun",
+    "definition": "A death caused by an accident, war, or disease.",
+    "pronunciation": { "us": "fay-TAL-ih-tee", "uk": "fuh-TAL-ih-tee" },
+    "examples": [
+      "The crash resulted in two fatalities.",
+      "Safety rules aim to reduce workplace fatalities."
+    ],
+    "extra": {
+      "synonyms": ["death", "casualty", "demise"],
+      "antonyms": ["survival", "recovery"],
+      "memory_tip": "Fatality = outcome of something fatal.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "improvise",
+    "type": "verb",
+    "definition": "To create or perform without preparation, using what is available.",
+    "pronunciation": { "us": "IM-pruh-vyze", "uk": "IM-pruh-vyze" },
+    "examples": [
+      "They improvised a shelter from branches.",
+      "The actor improvised when he forgot his line."
+    ],
+    "extra": {
+      "synonyms": ["ad-lib", "extemporise", "make do"],
+      "antonyms": ["rehearse", "plan", "prepare"],
+      "memory_tip": "Improvise = improve on the spot.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["improvise", "improvised", "improvising"]
+    }
+  },
+  {
+    "word": "loom",
+    "type": "verb,noun",
+    "definition": "To appear as a large, unclear shape, often frighteningly; a machine for weaving cloth.",
+    "pronunciation": { "us": "loom", "uk": "loom" },
+    "examples": [
+      "Dark clouds loomed over the hills. (verb)",
+      "The old loom still worked in the mill. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["emerge", "threaten", "weaving frame (noun)"],
+      "antonyms": ["vanish", "recede"],
+      "memory_tip": "When something looms, it ‘looms large’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["loom", "loomed", "looming"]
+    }
+  },
+  {
+    "word": "lull",
+    "type": "noun,verb",
+    "definition": "A temporary period of calm; to make someone or something calm or less active.",
+    "pronunciation": { "us": "luhl", "uk": "luhl" },
+    "examples": [
+      "There was a lull in traffic at noon. (noun)",
+      "Soft music lulled the baby to sleep. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["pause", "break", "soothe (verb)"],
+      "antonyms": ["surge", "flurry", "agitate (verb)"],
+      "memory_tip": "Lull = lulla-bye leads to a lull.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["lull", "lulled", "lulling"]
+    }
+  },
+  {
+    "word": "placid",
+    "type": "adjective",
+    "definition": "Calm and peaceful, with little movement or activity.",
+    "pronunciation": { "us": "PLAS-id", "uk": "PLASS-id" },
+    "examples": [
+      "The lake was placid at dawn.",
+      "She answered in a placid tone."
+    ],
+    "extra": {
+      "synonyms": ["calm", "tranquil", "serene"],
+      "antonyms": ["agitated", "turbulent", "stormy"],
+      "memory_tip": "Placid = place is still.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "predicament",
+    "type": "noun",
+    "definition": "A difficult, unpleasant, or embarrassing situation.",
+    "pronunciation": { "us": "pri-DIK-uh-ment", "uk": "pri-DIK-uh-ment" },
+    "examples": [
+      "Losing the keys put us in a predicament.",
+      "He explained his financial predicament."
+    ],
+    "extra": {
+      "synonyms": ["dilemma", "pickle", "jam"],
+      "antonyms": ["solution", "escape", "advantage"],
+      "memory_tip": "Predicament = pretty tricky predicament.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "priority",
+    "type": "noun",
+    "definition": "Something that is more important and must be dealt with first.",
+    "pronunciation": { "us": "pry-OR-ih-tee", "uk": "pry-OR-ih-tee" },
+    "examples": [
+      "Safety is our top priority.",
+      "Set your priorities before starting work."
+    ],
+    "extra": {
+      "synonyms": ["precedence", "importance", "prime concern"],
+      "antonyms": ["triviality", "afterthought"],
+      "memory_tip": "Priority = what takes priority place.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "reinforce",
+    "type": "verb",
+    "definition": "To strengthen or support an object, idea, or feeling.",
+    "pronunciation": { "us": "ree-in-FORS", "uk": "ree-in-FORS" },
+    "examples": [
+      "They reinforced the bridge with steel.",
+      "Praise reinforces good habits."
+    ],
+    "extra": {
+      "synonyms": ["strengthen", "buttress", "bolster"],
+      "antonyms": ["weaken", "undermine", "diminish"],
+      "memory_tip": "Reinforce = add more force again.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["reinforce", "reinforced", "reinforcing"]
+    }
+  },
+  {
+    "word": "stern",
+    "type": "adjective,noun",
+    "definition": "Serious and strict; the rear part of a boat or ship.",
+    "pronunciation": { "us": "stern", "uk": "stern" },
+    "examples": [
+      "The teacher gave a stern warning. (adjective)",
+      "They stood at the stern, watching the wake. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["strict", "severe", "firm"],
+      "antonyms": ["lenient", "gentle", "easy-going"],
+      "memory_tip": "Stern face = serious; stern of a ship = rear.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "treacherous",
+    "type": "adjective",
+    "definition": "Dangerous because of hidden or unpredictable hazards; not trustworthy.",
+    "pronunciation": { "us": "TREH-chur-us", "uk": "TREH-chuh-rus" },
+    "examples": [
+      "The icy road was treacherous.",
+      "They avoided the treacherous guide."
+    ],
+    "extra": {
+      "synonyms": ["perilous", "unsafe", "faithless"],
+      "antonyms": ["safe", "reliable", "loyal"],
+      "memory_tip": "Treacherous = tricky and treachery-prone.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "wary",
+    "type": "adjective",
+    "definition": "Cautious and watchful about possible dangers or problems.",
+    "pronunciation": { "us": "WAIR-ee", "uk": "WEH-ree" },
+    "examples": [
+      "Be wary of offers that sound too good.",
+      "The deer were wary of movement."
+    ],
+    "extra": {
+      "synonyms": ["cautious", "alert", "vigilant"],
+      "antonyms": ["careless", "reckless", "trusting"],
+      "memory_tip": "Wary = aware + wary of risk.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

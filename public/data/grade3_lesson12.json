@@ -1,0 +1,178 @@
+[
+  {
+    "word": "adopt",
+    "type": "verb",
+    "definition": "To take up or start using something; to legally take another’s child into your family.",
+    "pronunciation": { "us": "uh-DOPT", "uk": "uh-DOPT" },
+    "examples": [
+      "The school will adopt a new reading programme.",
+      "They decided to adopt a child."
+    ],
+    "extra": {
+      "synonyms": ["take on", "embrace", "accept"],
+      "antonyms": ["reject", "abandon", "discard"],
+      "memory_tip": "Adopt = ‘add’ a practice or a person to your home.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["adopt", "adopted", "adopting"]
+    }
+  },
+  {
+    "word": "arouse",
+    "type": "verb",
+    "definition": "To cause a feeling, response, or interest; to wake someone from sleep.",
+    "pronunciation": { "us": "uh-ROWZ", "uk": "uh-ROWZ" },
+    "examples": [
+      "The speech aroused great interest.",
+      "The alarm aroused him at six o’clock."
+    ],
+    "extra": {
+      "synonyms": ["stimulate", "provoke", "awaken"],
+      "antonyms": ["calm", "soothe", "dull"],
+      "memory_tip": "Arouse = ‘rouse’ or wake a reaction.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["arouse", "aroused", "arousing"]
+    }
+  },
+  {
+    "word": "arrange",
+    "type": "verb",
+    "definition": "To put things in a neat order; to plan or organise something.",
+    "pronunciation": { "us": "uh-RAYNJ", "uk": "uh-RAYNJ" },
+    "examples": [
+      "Please arrange the books by size.",
+      "We arranged a meeting for Tuesday."
+    ],
+    "extra": {
+      "synonyms": ["organise", "sort", "set up"],
+      "antonyms": ["disorganise", "confuse", "scatter"],
+      "memory_tip": "Arrange = ‘a range’ things into order.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["arrange", "arranged", "arranging"]
+    }
+  },
+  {
+    "word": "cell",
+    "type": "noun",
+    "definition": "The smallest unit of a living thing; a small room such as in a prison; one part of a battery that produces electricity.",
+    "pronunciation": { "us": "sel", "uk": "sel" },
+    "examples": [
+      "Human skin is made of many tiny cells.",
+      "The prisoner was kept in a cell overnight."
+    ],
+    "extra": {
+      "synonyms": ["unit", "compartment", "chamber"],
+      "antonyms": ["organism as a whole (contrast)", "hall (contrast)"],
+      "memory_tip": "Cell = a small ‘cellar’ of life or space.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "infection",
+    "type": "noun",
+    "definition": "Illness caused when germs enter the body and begin to grow.",
+    "pronunciation": { "us": "in-FEK-shun", "uk": "in-FEK-shun" },
+    "examples": [
+      "The cut showed signs of infection.",
+      "Hand washing helps prevent infection."
+    ],
+    "extra": {
+      "synonyms": ["contamination", "disease", "bug"],
+      "antonyms": ["health", "sterility"],
+      "memory_tip": "Infection = germs ‘in’ the body create trouble.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "influence",
+    "type": "noun,verb",
+    "definition": "The power to affect how someone thinks or acts; to affect or change someone or something.",
+    "pronunciation": { "us": "IN-floo-uhns", "uk": "IN-floo-uhns" },
+    "examples": [
+      "Parents have a strong influence on habits. (noun)",
+      "Good books can influence your thinking. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["impact", "effect", "sway"],
+      "antonyms": ["powerlessness", "impotence"],
+      "memory_tip": "Influence = ‘in-flow’ of ideas that shift choices.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["influence", "influenced", "influencing"]
+    }
+  },
+  {
+    "word": "injure",
+    "type": "verb",
+    "definition": "To hurt a person or animal; to damage part of the body.",
+    "pronunciation": { "us": "IN-jur", "uk": "IN-juh" },
+    "examples": [
+      "He injured his ankle during the match.",
+      "Sharp tools can injure you if misused."
+    ],
+    "extra": {
+      "synonyms": ["hurt", "wound", "damage"],
+      "antonyms": ["heal", "help"],
+      "memory_tip": "Injure = results in an injury.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["injure", "injured", "injuring"]
+    }
+  },
+  {
+    "word": "pattern",
+    "type": "noun,verb",
+    "definition": "A repeated design or regular way in which something happens; to model or decorate with a pattern.",
+    "pronunciation": { "us": "PAT-urn", "uk": "PAT-uhn" },
+    "examples": [
+      "The fabric has a star pattern. (noun)",
+      "Their lessons are patterned on a weekly cycle. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["design", "model", "sequence"],
+      "antonyms": ["randomness", "chaos"],
+      "memory_tip": "Pattern = a ‘pat’ of repeats again and again.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["pattern", "patterned", "patterning"]
+    }
+  },
+  {
+    "word": "series",
+    "type": "noun",
+    "definition": "A number of events, objects, or episodes that come one after another; a set of related TV or radio programmes.",
+    "pronunciation": { "us": "SEER-eez", "uk": "SEER-eez" },
+    "examples": [
+      "We ran a series of experiments in class.",
+      "We watched the nature series on Sunday."
+    ],
+    "extra": {
+      "synonyms": ["sequence", "set", "run"],
+      "antonyms": ["one-off", "single"],
+      "memory_tip": "Series = things ‘in a row’ over time.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "vision",
+    "type": "noun",
+    "definition": "The ability to see; an idea or mental picture of what could be in the future.",
+    "pronunciation": { "us": "VIZH-un", "uk": "VIZH-un" },
+    "examples": [
+      "Protect your vision with safety goggles.",
+      "The team shared a clear vision for the project."
+    ],
+    "extra": {
+      "synonyms": ["sight", "view", "foresight"],
+      "antonyms": ["blindness", "shortsightedness (figurative)"],
+      "memory_tip": "Vision = eyes for now and ideas for later.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

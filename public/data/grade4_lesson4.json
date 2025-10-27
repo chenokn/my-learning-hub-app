@@ -1,0 +1,268 @@
+[
+  {
+    "word": "active",
+    "type": "adjective,noun",
+    "definition": "Moving a lot or doing many things; in grammar, the active voice names the doer of the action.",
+    "pronunciation": { "us": "AK-tiv", "uk": "AK-tiv" },
+    "examples": [
+      "He lives an active life and cycles to school.",
+      "In the active voice, the subject does the action."
+    ],
+    "extra": {
+      "synonyms": ["energetic", "busy", "lively"],
+      "antonyms": ["inactive", "idle", "passive"],
+      "memory_tip": "Active = act + give it energy.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "astound",
+    "type": "verb",
+    "definition": "To greatly surprise or impress someone.",
+    "pronunciation": { "us": "uh-STOUND", "uk": "uh-STOUND" },
+    "examples": [
+      "The magician’s trick astounded the audience.",
+      "Her progress in maths astounded her teacher."
+    ],
+    "extra": {
+      "synonyms": ["astonish", "amaze", "stun"],
+      "antonyms": ["bore", "disappoint"],
+      "memory_tip": "Astound = a ‘sound’ of wow!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["astound", "astounded", "astounding"]
+    }
+  },
+  {
+    "word": "attend",
+    "type": "verb",
+    "definition": "To be present at; to pay attention to; to take care of.",
+    "pronunciation": { "us": "uh-TEND", "uk": "uh-TEND" },
+    "examples": [
+      "Most students attended the assembly.",
+      "Please attend to the instructions carefully."
+    ],
+    "extra": {
+      "synonyms": ["go to", "be present at", "tend"],
+      "antonyms": ["miss", "ignore", "neglect"],
+      "memory_tip": "Attend = ‘at end’ point you show up.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["attend", "attended", "attending"]
+    }
+  },
+  {
+    "word": "cherish",
+    "type": "verb",
+    "definition": "To feel or show great love for something; to keep a hope or idea in your mind.",
+    "pronunciation": { "us": "CHAIR-ish", "uk": "CHEH-rish" },
+    "examples": [
+      "They cherish family traditions.",
+      "She cherished the dream of becoming a doctor."
+    ],
+    "extra": {
+      "synonyms": ["treasure", "value", "hold dear"],
+      "antonyms": ["neglect", "spurn"],
+      "memory_tip": "Cherish = cheer in your heart.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["cherish", "cherished", "cherishing"]
+    }
+  },
+  {
+    "word": "contract",
+    "type": "noun,verb",
+    "definition": "A written or spoken agreement; to become smaller or shorter; to make an agreement.",
+    "pronunciation": { "us": "KON-trakt (noun), kun-TRAKT (verb)", "uk": "KON-trakt (noun), kun-TRAKT (verb)" },
+    "examples": [
+      "She signed a one-year contract. (noun)",
+      "Muscles contract when you lift weights. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["agreement", "deal", "shrink (verb)"],
+      "antonyms": ["disagreement", "expand (verb)"],
+      "memory_tip": "CON-tract is a deal; con-TRACT pulls in.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["contract", "contracted", "contracting"]
+    }
+  },
+  {
+    "word": "eager",
+    "type": "adjective",
+    "definition": "Very keen and excited to do something.",
+    "pronunciation": { "us": "EE-gur", "uk": "EE-guh" },
+    "examples": [
+      "The class was eager to start the experiment.",
+      "He gave an eager nod."
+    ],
+    "extra": {
+      "synonyms": ["keen", "enthusiastic", "excited"],
+      "antonyms": ["reluctant", "unwilling"],
+      "memory_tip": "Eager = energy at the gate.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "expose",
+    "type": "verb",
+    "definition": "To uncover or reveal; to put someone or something at risk by leaving it unprotected.",
+    "pronunciation": { "us": "ik-SPOHZ", "uk": "ik-SPOHZ" },
+    "examples": [
+      "The report exposed the problem with the pipes.",
+      "Too much sun can expose skin to damage."
+    ],
+    "extra": {
+      "synonyms": ["reveal", "uncover", "unmask"],
+      "antonyms": ["hide", "conceal", "cover"],
+      "memory_tip": "Expose = take off the ‘pose’ and show the truth.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["expose", "exposed", "exposing"]
+    }
+  },
+  {
+    "word": "grace",
+    "type": "noun,verb",
+    "definition": "Elegant movement or kind behaviour; a short prayer; to make something more attractive.",
+    "pronunciation": { "us": "grayss", "uk": "grayss" },
+    "examples": [
+      "She skated with grace and control. (noun)",
+      "Flowers graced the stage. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["elegance", "poise", "adorn (verb)"],
+      "antonyms": ["awkwardness", "clumsiness", "spoil (verb)"],
+      "memory_tip": "Grace = gentle goodness and beauty.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["grace", "graced", "gracing"]
+    }
+  },
+  {
+    "word": "impose",
+    "type": "verb",
+    "definition": "To force a rule, tax, or punishment to be obeyed; to put a burden on someone.",
+    "pronunciation": { "us": "im-POHZ", "uk": "im-POHZ" },
+    "examples": [
+      "The council imposed new parking rules.",
+      "I don’t want to impose on your time."
+    ],
+    "extra": {
+      "synonyms": ["enforce", "levy", "foist"],
+      "antonyms": ["lift", "waive", "withdraw"],
+      "memory_tip": "Impose = in + pose the rule onto others.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["impose", "imposed", "imposing"]
+    }
+  },
+  {
+    "word": "modest",
+    "type": "adjective",
+    "definition": "Not talking proudly about your abilities; simple or small in size or amount.",
+    "pronunciation": { "us": "MOD-ist", "uk": "MOD-ist" },
+    "examples": [
+      "Despite winning, she remained modest.",
+      "They live in a modest house."
+    ],
+    "extra": {
+      "synonyms": ["humble", "simple", "moderate"],
+      "antonyms": ["arrogant", "showy", "excessive"],
+      "memory_tip": "Modest = moderate in looks and words.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "parallel",
+    "type": "adjective,noun,verb",
+    "definition": "Side by side and always the same distance apart; something similar; to be similar to.",
+    "pronunciation": { "us": "PAIR-uh-lel", "uk": "PAR-uh-lel" },
+    "examples": [
+      "The two roads are parallel. (adjective)",
+      "There are many parallels between the stories. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["side-by-side", "equivalent", "match (verb)"],
+      "antonyms": ["perpendicular", "intersecting", "contrast (verb)"],
+      "memory_tip": "Parallel lines run together without meeting.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["parallel (verb)", "paralleled", "paralleling/parallelling"]
+    }
+  },
+  {
+    "word": "paralyze / paralyse",
+    "type": "verb",
+    "definition": "To make a person or thing unable to move or act.",
+    "pronunciation": { "us": "PAIR-uh-lyze", "uk": "PAIR-uh-lyze (par-a-lyse)" },
+    "examples": [
+      "The venom can paralyze small animals.",
+      "Fear can paralyse decision-making."
+    ],
+    "extra": {
+      "synonyms": ["immobilise", "disable", "cripple"],
+      "antonyms": ["mobilise", "activate", "energise"],
+      "memory_tip": "Paralyse = powerless to move.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["paralyze/paralyse", "paralyzed/paralysed", "paralyzing/paralysing"]
+    }
+  },
+  {
+    "word": "pessimist",
+    "type": "noun",
+    "definition": "A person who expects bad outcomes or focuses on the negative.",
+    "pronunciation": { "us": "PESS-uh-mist", "uk": "PESS-uh-mist" },
+    "examples": [
+      "The pessimist predicted rain for the picnic.",
+      "Don’t be a pessimist—give it a try!"
+    ],
+    "extra": {
+      "synonyms": ["doom-monger", "gloomy person"],
+      "antonyms": ["optimist", "cheerful person"],
+      "memory_tip": "Pessimist = sees the ‘pess’ (worst) in things.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "recite",
+    "type": "verb",
+    "definition": "To say a poem, list, or story aloud from memory.",
+    "pronunciation": { "us": "ri-SYTE", "uk": "ri-SYTE" },
+    "examples": [
+      "We will recite our poems at assembly.",
+      "He recited the times tables perfectly."
+    ],
+    "extra": {
+      "synonyms": ["deliver", "chant", "repeat"],
+      "antonyms": ["forget", "conceal"],
+      "memory_tip": "Recite = re-say from memory.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["recite", "recited", "reciting"]
+    }
+  },
+  {
+    "word": "respond",
+    "type": "verb",
+    "definition": "To say or do something as a reaction to something else; to answer.",
+    "pronunciation": { "us": "ri-SPOND", "uk": "ri-SPOND" },
+    "examples": [
+      "Please respond to the email by Friday.",
+      "Plants respond to light by growing toward it."
+    ],
+    "extra": {
+      "synonyms": ["answer", "reply", "react"],
+      "antonyms": ["ignore", "overlook", "silence"],
+      "memory_tip": "Respond = re + spond (answer).",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["respond", "responded", "responding"]
+    }
+  }
+]

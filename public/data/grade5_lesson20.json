@@ -1,0 +1,265 @@
+[
+  {
+    "word": "ample",
+    "type": "adjective",
+    "definition": "More than enough; plentiful.",
+    "pronunciation": { "us": "AM-puhl", "uk": "AM-puhl" },
+    "examples": [
+      "There was ample room for everyone to sit.",
+      "We had ample time to finish the task."
+    ],
+    "extra": {
+      "synonyms": ["plentiful", "abundant", "sufficient"],
+      "antonyms": ["scarce", "insufficient", "meagre"],
+      "memory_tip": "Ample = ample amounts—more than enough.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "burden",
+    "type": "noun,verb",
+    "definition": "A heavy load or duty; to load with something difficult or heavy.",
+    "pronunciation": { "us": "BUR-dun", "uk": "BUR-dun" },
+    "examples": [
+      "Debt can be a burden on families. (noun)",
+      "Do not burden yourself with too many tasks. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["load", "weight", "encumber"],
+      "antonyms": ["relief", "ease", "lighten"],
+      "memory_tip": "Burden = bear the load.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["burden", "burdened", "burdening"]
+    }
+  },
+  {
+    "word": "compassion",
+    "type": "noun",
+    "definition": "A feeling of sympathy and a desire to help those who are suffering.",
+    "pronunciation": { "us": "kum-PASH-un", "uk": "kum-PASH-un" },
+    "examples": [
+      "She showed compassion by helping the injured bird.",
+      "Compassion can turn strangers into friends."
+    ],
+    "extra": {
+      "synonyms": ["sympathy", "kindness", "mercy"],
+      "antonyms": ["cruelty", "indifference"],
+      "memory_tip": "Compassion = ‘passion with’ others’ pain.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "comply",
+    "type": "verb",
+    "definition": "To act in agreement with a rule, request, or law.",
+    "pronunciation": { "us": "kum-PLY", "uk": "kum-PLY" },
+    "examples": [
+      "All staff must comply with safety rules.",
+      "He complied when asked to queue."
+    ],
+    "extra": {
+      "synonyms": ["obey", "follow", "conform"],
+      "antonyms": ["disobey", "defy"],
+      "memory_tip": "Comply = come and ply to the rules.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["comply", "complied", "complying"]
+    }
+  },
+  {
+    "word": "cumbersome",
+    "type": "adjective",
+    "definition": "Large or heavy and therefore difficult to carry or use; unwieldy.",
+    "pronunciation": { "us": "KUM-ber-sum", "uk": "KUM-buh-sum" },
+    "examples": [
+      "The old printer was cumbersome to move.",
+      "A cumbersome process slowed the team."
+    ],
+    "extra": {
+      "synonyms": ["bulky", "unwieldy", "awkward"],
+      "antonyms": ["compact", "handy"],
+      "memory_tip": "Cumbersome = a ‘cumber’ (encumbrance) you must carry.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "distress",
+    "type": "noun,verb",
+    "definition": "Great worry, pain, or trouble; to cause worry or pain.",
+    "pronunciation": { "us": "dis-TRESS", "uk": "dis-TRESS" },
+    "examples": [
+      "The stranded hikers were in distress. (noun)",
+      "Loud noises distress the baby. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["suffering", "anguish", "upset"],
+      "antonyms": ["comfort", "relief"],
+      "memory_tip": "Distress = dis + stress: when stress goes wrong.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["distress", "distressed", "distressing"]
+    }
+  },
+  {
+    "word": "encounter",
+    "type": "verb,noun",
+    "definition": "To meet unexpectedly or experience; an unexpected meeting.",
+    "pronunciation": { "us": "en-KOWN-ter", "uk": "en-KOWN-tuh" },
+    "examples": [
+      "We encountered a problem with the app. (verb)",
+      "A chance encounter led to a new job. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["meet", "come across", "run-in"],
+      "antonyms": ["avoid", "evade"],
+      "memory_tip": "Encounter = come into contact suddenly.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["encounter", "encountered", "encountering"]
+    }
+  },
+  {
+    "word": "exert",
+    "type": "verb",
+    "definition": "To apply effort, influence, or force.",
+    "pronunciation": { "us": "ig-ZURT", "uk": "ig-ZURT" },
+    "examples": [
+      "You must exert more effort to improve.",
+      "Gravity exerts a pull on all objects."
+    ],
+    "extra": {
+      "synonyms": ["apply", "use", "exercise"],
+      "antonyms": ["withhold", "relax"],
+      "memory_tip": "Exert = ‘ex’ (out) + ‘ert’ (energy).",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["exert", "exerted", "exerting"]
+    }
+  },
+  {
+    "word": "indignant",
+    "type": "adjective",
+    "definition": "Feeling or showing anger at something unfair or wrong.",
+    "pronunciation": { "us": "in-DIG-nunt", "uk": "in-DIG-nunt" },
+    "examples": [
+      "She grew indignant at the unfair comment.",
+      "Indignant voices rose around the room."
+    ],
+    "extra": {
+      "synonyms": ["outraged", "resentful", "offended"],
+      "antonyms": ["content", "accepting"],
+      "memory_tip": "Indignant = dignity injured → anger.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "jest",
+    "type": "noun,verb",
+    "definition": "A joke or witty remark; to speak jokingly.",
+    "pronunciation": { "us": "jest", "uk": "jest" },
+    "examples": [
+      "It was only a jest—no offence meant. (noun)",
+      "He jests, but there’s truth in it. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["joke", "quibble", "banter"],
+      "antonyms": ["serious remark", "earnestness"],
+      "memory_tip": "Jest = jolly jesting joke.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["jest", "jested", "jesting"]
+    }
+  },
+  {
+    "word": "mirth",
+    "type": "noun",
+    "definition": "Great joy and laughter.",
+    "pronunciation": { "us": "murth", "uk": "murth" },
+    "examples": [
+      "The hall echoed with mirth.",
+      "Her stories filled the room with mirth."
+    ],
+    "extra": {
+      "synonyms": ["gaiety", "cheer", "laughter"],
+      "antonyms": ["gloom", "sorrow"],
+      "memory_tip": "Mirth = merry mirthful laughter.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "moral",
+    "type": "adjective,noun",
+    "definition": "Concerned with right and wrong; the lesson a story teaches.",
+    "pronunciation": { "us": "MOR-uhl", "uk": "MOR-uhl" },
+    "examples": [
+      "He faced a moral decision. (adjective)",
+      "The moral of the tale is to be honest. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["ethical", "lesson", "principled"],
+      "antonyms": ["immoral", "amoral"],
+      "memory_tip": "Moral = your guide about right and wrong.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "outskirts",
+    "type": "noun",
+    "definition": "The outer parts of a town or city; the edge areas.",
+    "pronunciation": { "us": "OUT-skurts", "uk": "OUT-skurts" },
+    "examples": [
+      "They moved to the outskirts of Bristol.",
+      "Factories were built on the outskirts."
+    ],
+    "extra": {
+      "synonyms": ["suburbs", "edge", "fringe"],
+      "antonyms": ["centre", "downtown (US)", "city centre (UK)"],
+      "memory_tip": "Outskirts = skirts on the outside of the city.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "resume",
+    "type": "verb",
+    "definition": "To begin again after a pause; to continue.",
+    "pronunciation": { "us": "ri-ZOOM", "uk": "ri-ZYOOM" },
+    "examples": [
+      "The match will resume after the rain stops.",
+      "Please resume reading from line ten."
+    ],
+    "extra": {
+      "synonyms": ["continue", "restart", "recommence"],
+      "antonyms": ["pause", "halt", "suspend"],
+      "memory_tip": "Resume = re-assume activity.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["resume", "resumed", "resuming"]
+    }
+  },
+  {
+    "word": "ridicule",
+    "type": "noun,verb",
+    "definition": "Unkind laughter at someone; to make fun of in a cruel way.",
+    "pronunciation": { "us": "RID-ih-kyo͞ol", "uk": "RID-ih-kyo͞ol" },
+    "examples": [
+      "The idea was met with ridicule. (noun)",
+      "Do not ridicule others for their mistakes. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["mockery", "derision", "taunt"],
+      "antonyms": ["respect", "praise"],
+      "memory_tip": "Ridicule = rude ridicule—don’t do it.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["ridicule", "ridiculed", "ridiculing"]
+    }
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "word": "animated",
+    "type": "adjective",
+    "definition": "Full of life, energy, or excitement; lively.",
+    "pronunciation": { "us": "AN-uh-may-tid", "uk": "AN-uh-may-tid" },
+    "examples": [
+      "The class had an animated discussion.",
+      "Her animated gestures made the story fun."
+    ],
+    "extra": {
+      "synonyms": ["lively", "energetic", "vibrant"],
+      "antonyms": ["dull", "lifeless", "flat"],
+      "memory_tip": "Animated = as if brought to life like a cartoon.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "betray",
+    "type": "verb",
+    "definition": "To be disloyal to someone; to reveal something secret or hidden.",
+    "pronunciation": { "us": "bih-TRAY", "uk": "bih-TRAY" },
+    "examples": [
+      "He felt hurt when his friend betrayed him.",
+      "Her voice betrayed her nerves."
+    ],
+    "extra": {
+      "synonyms": ["deceive", "double-cross", "expose"],
+      "antonyms": ["support", "protect", "keep"],
+      "memory_tip": "Betray = break trust and give away.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["betray", "betrayed", "betraying"]
+    }
+  },
+  {
+    "word": "convince",
+    "type": "verb",
+    "definition": "To make someone believe or decide something is true or right.",
+    "pronunciation": { "us": "kun-VINS", "uk": "kun-VINS" },
+    "examples": [
+      "She convinced him to try the experiment.",
+      "The evidence convinced the jury."
+    ],
+    "extra": {
+      "synonyms": ["persuade", "sway", "assure"],
+      "antonyms": ["deter", "dissuade"],
+      "memory_tip": "Convince = win over with reasons.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["convince", "convinced", "convincing"]
+    }
+  },
+  {
+    "word": "decline",
+    "type": "verb,noun",
+    "definition": "To become smaller or weaker; to refuse; a gradual decrease.",
+    "pronunciation": { "us": "dih-KLYNE (verb), dee-KLYNE (noun)", "uk": "dih-KLYNE (verb), dee-KLYNE (noun)" },
+    "examples": [
+      "Sales declined over winter. (verb)",
+      "She politely declined the offer. (verb)",
+      "There was a slight decline in visitors. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["decrease", "refuse", "drop"],
+      "antonyms": ["increase", "accept", "rise"],
+      "memory_tip": "Decline = ‘down-cline’ or say no.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["decline", "declined", "declining"]
+    }
+  },
+  {
+    "word": "hilarious",
+    "type": "adjective",
+    "definition": "Extremely funny.",
+    "pronunciation": { "us": "hih-LAIR-ee-us", "uk": "hih-LAIR-ee-us" },
+    "examples": [
+      "The joke was absolutely hilarious.",
+      "We watched a hilarious sketch show."
+    ],
+    "extra": {
+      "synonyms": ["very funny", "comical", "uproarious"],
+      "antonyms": ["serious", "sad", "dull"],
+      "memory_tip": "Hilarious = makes you howl with laughter.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "likeness",
+    "type": "noun",
+    "definition": "The quality of being similar in appearance; a portrait or image.",
+    "pronunciation": { "us": "LIKE-ness", "uk": "LIKE-ness" },
+    "examples": [
+      "There is a strong likeness between the twins.",
+      "The statue is a good likeness of the poet."
+    ],
+    "extra": {
+      "synonyms": ["similarity", "resemblance", "image"],
+      "antonyms": ["difference", "contrast"],
+      "memory_tip": "Likeness = how alike two things look.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "meagre",
+    "type": "adjective",
+    "definition": "Small in amount or poor in quality.",
+    "pronunciation": { "us": "MEE-gur", "uk": "MEE-guh" },
+    "examples": [
+      "They survived on a meagre lunch.",
+      "The evidence was meagre and unclear."
+    ],
+    "extra": {
+      "synonyms": ["scant", "insufficient", "thin"],
+      "antonyms": ["ample", "plentiful", "generous"],
+      "memory_tip": "Meagre = not much there.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "mischief",
+    "type": "noun",
+    "definition": "Playful trouble or behaviour that causes small problems or annoyance.",
+    "pronunciation": { "us": "MIS-chif", "uk": "MIS-chif" },
+    "examples": [
+      "The kitten was full of mischief.",
+      "They got into mischief during break."
+    ],
+    "extra": {
+      "synonyms": ["naughtiness", "pranks", "trouble"],
+      "antonyms": ["good behaviour", "obedience"],
+      "memory_tip": "Mischief = small, cheeky trouble.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "negotiate",
+    "type": "verb",
+    "definition": "To discuss in order to reach an agreement; to manage or get past an obstacle.",
+    "pronunciation": { "us": "nih-GOH-shee-ayt", "uk": "nih-GOH-shee-ayt" },
+    "examples": [
+      "The teams negotiated a fair price.",
+      "We negotiated the steep path carefully."
+    ],
+    "extra": {
+      "synonyms": ["bargain", "discuss", "settle"],
+      "antonyms": ["refuse", "break off"],
+      "memory_tip": "Negotiate = go back and forth to agree.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["negotiate", "negotiated", "negotiating"]
+    }
+  },
+  {
+    "word": "obsolete",
+    "type": "adjective",
+    "definition": "No longer used or useful; out of date.",
+    "pronunciation": { "us": "OB-suh-LEET", "uk": "OB-suh-leet" },
+    "examples": [
+      "Floppy disks are obsolete technology.",
+      "The rule became obsolete after the update."
+    ],
+    "extra": {
+      "synonyms": ["outdated", "old-fashioned", "disused"],
+      "antonyms": ["modern", "current", "up-to-date"],
+      "memory_tip": "Obsolete = obviously out of use.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "retain",
+    "type": "verb",
+    "definition": "To keep or continue to have something.",
+    "pronunciation": { "us": "ri-TAYN", "uk": "ri-TAYN" },
+    "examples": [
+      "Drink water to retain energy during sports.",
+      "She retained her ticket as a souvenir."
+    ],
+    "extra": {
+      "synonyms": ["keep", "hold", "preserve"],
+      "antonyms": ["lose", "surrender", "release"],
+      "memory_tip": "Retain = ‘re-tain’—keep it in.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["retain", "retained", "retaining"]
+    }
+  },
+  {
+    "word": "sensation",
+    "type": "noun",
+    "definition": "A physical feeling; a lot of excited interest from many people.",
+    "pronunciation": { "us": "sen-SAY-shuhn", "uk": "sen-SAY-shuhn" },
+    "examples": [
+      "He felt a tingling sensation in his fingers.",
+      "The new song became a sensation overnight."
+    ],
+    "extra": {
+      "synonyms": ["feeling", "impression", "buzz"],
+      "antonyms": ["numbness", "indifference"],
+      "memory_tip": "Sensation = sense + action: what your senses tell you.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "sombre",
+    "type": "adjective",
+    "definition": "Dark or dull in colour or mood; serious and sad.",
+    "pronunciation": { "us": "SOM-bur", "uk": "SOM-buh" },
+    "examples": [
+      "The room had a sombre tone after the news.",
+      "Clouds gave the landscape a sombre look."
+    ],
+    "extra": {
+      "synonyms": ["gloomy", "solemn", "mournful"],
+      "antonyms": ["bright", "cheerful", "lively"],
+      "memory_tip": "Sombre = sombre colours and quiet feelings.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "subsequent",
+    "type": "adjective",
+    "definition": "Coming after something else; following.",
+    "pronunciation": { "us": "SUB-sih-kwent", "uk": "SUB-sih-kwent" },
+    "examples": [
+      "The report was corrected in subsequent editions.",
+      "Subsequent events proved her right."
+    ],
+    "extra": {
+      "synonyms": ["later", "following", "ensuing"],
+      "antonyms": ["previous", "former", "prior"],
+      "memory_tip": "Subsequent = ‘subsequently’ after that.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "vow",
+    "type": "noun,verb",
+    "definition": "A serious promise; to make a serious promise.",
+    "pronunciation": { "us": "vow", "uk": "vow" },
+    "examples": [
+      "They made a vow to help each other. (noun)",
+      "I vow to practise every day. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["pledge", "oath", "promise"],
+      "antonyms": ["break", "renege"],
+      "memory_tip": "Vow = a promise you mean to keep.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["vow", "vowed", "vowing"]
+    }
+  }
+]

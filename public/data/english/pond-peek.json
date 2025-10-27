@@ -1,0 +1,430 @@
+{
+  "title": "Pond Peek",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Nature",
+  "vocabulary": [
+    "pond",
+    "frog",
+    "tadpole",
+    "reed",
+    "lily",
+    "ripple",
+    "net",
+    "shallow",
+    "pebble",
+    "insect"
+  ],
+  "images": [
+    "/stem-hub/language/pondpeek.1.png",
+    "/stem-hub/language/pondpeek.2.png",
+    "/stem-hub/language/pondpeek.3.png",
+    "/stem-hub/language/pondpeek.4.png"
+  ],
+  "passage": [
+    "Maya and Tom visit the park pond with Dad. The water is still and green. |“Let’s look, not touch,” says Dad.",
+    "They crouch by the reeds. A frog sits on a lily leaf. Little ripples spread in rings. |Maya sketches the frog in her notebook.",
+    "They spot wiggly tadpoles near the shallow edge. Tom counts pebbles by the water. |“Use the net only to lift a leaf, then put it back,” says Dad.",
+    "An insect skims the surface like a tiny boat. They wave goodbye to the pond and leave no rubbish. |“Nature is a home,” says Dad."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who visits the pond?",
+      "answer": "Maya and Tom with Dad",
+      "options": [
+        "Maya and Tom with Dad",
+        "Leo and Nia with Mum",
+        "Sam and Asha alone",
+        "Gran and Pip the dog"
+      ],
+      "keys": [
+        "Maya",
+        "Tom",
+        "Dad",
+        "pond"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What rule does Dad say at the start?",
+      "answer": "“Let’s look, not touch.”",
+      "options": [
+        "“Let’s look, not touch.”",
+        "“Jump in and splash.”",
+        "“Catch the frog.”",
+        "“Shout to scare birds.”"
+      ],
+      "keys": [
+        "rule",
+        "look",
+        "not touch"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Where does the frog sit?",
+      "answer": "On a lily leaf",
+      "options": [
+        "On a lily leaf",
+        "Under a rock",
+        "In a tree",
+        "On a bench"
+      ],
+      "keys": [
+        "frog",
+        "lily"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What spreads in rings on the water?",
+      "answer": "Little ripples",
+      "options": [
+        "Little ripples",
+        "Big waves",
+        "Foam",
+        "Leaves"
+      ],
+      "keys": [
+        "ripple"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Where do they see the tadpoles?",
+      "answer": "Near the shallow edge",
+      "options": [
+        "Near the shallow edge",
+        "In the middle of the pond",
+        "In a bucket",
+        "On the path"
+      ],
+      "keys": [
+        "tadpole",
+        "shallow"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What plant grows by the water where they crouch?",
+      "answer": "Reeds",
+      "options": [
+        "Reeds",
+        "Cactus",
+        "Oak trees",
+        "Corn"
+      ],
+      "keys": [
+        "reed"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does Tom count by the water?",
+      "answer": "Pebbles",
+      "options": [
+        "Pebbles",
+        "Shells",
+        "Kites",
+        "Books"
+      ],
+      "keys": [
+        "pebble"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What do they use the net for?",
+      "answer": "To lift a leaf and put it back",
+      "options": [
+        "To lift a leaf and put it back",
+        "To catch the frog",
+        "To scoop tadpoles",
+        "To dig a hole"
+      ],
+      "keys": [
+        "net",
+        "leaf"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What skims the pond like a tiny boat?",
+      "answer": "An insect",
+      "options": [
+        "An insect",
+        "A mouse",
+        "A squirrel",
+        "A toy car"
+      ],
+      "keys": [
+        "insect"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What do they do before leaving the pond?",
+      "answer": "They leave no rubbish",
+      "options": [
+        "They leave no rubbish",
+        "They throw stones at birds",
+        "They take home a frog",
+        "They draw on the bench"
+      ],
+      "keys": [
+        "leave no rubbish",
+        "care for nature"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "pond",
+      "type": "noun",
+      "definition": "A small body of still water, often in a park or garden.",
+      "pronunciation": {
+        "us": "pɑːnd",
+        "uk": "pɒnd"
+      },
+      "examples": [
+        "They visit the park pond.",
+        "Ducks swim in the pond."
+      ],
+      "extra": {
+        "synonyms": [
+          "pool"
+        ],
+        "antonyms": [
+          "sea (contrast)"
+        ],
+        "memory_tip": "Pond = small, still water.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "frog",
+      "type": "noun",
+      "definition": "A small animal that jumps and lives near water.",
+      "pronunciation": {
+        "us": "frɑːɡ",
+        "uk": "frɒɡ"
+      },
+      "examples": [
+        "A frog sits on a lily leaf.",
+        "The frog leaps into the water."
+      ],
+      "extra": {
+        "synonyms": [
+          "amphibian"
+        ],
+        "antonyms": [
+          "insect (contrast)"
+        ],
+        "memory_tip": "Frog = jumper by the pond.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "tadpole",
+      "type": "noun",
+      "definition": "A baby frog that lives in water and has a tail.",
+      "pronunciation": {
+        "us": "ˈtæd.poʊl",
+        "uk": "ˈtæd.pəʊl"
+      },
+      "examples": [
+        "Tadpoles wiggle near the edge.",
+        "A tadpole grows legs to be a frog."
+      ],
+      "extra": {
+        "synonyms": [
+          "pollywog"
+        ],
+        "antonyms": [
+          "adult frog (contrast)"
+        ],
+        "memory_tip": "Tadpole = baby frog with a tail.",
+        "tier": 2,
+        "eslLevel": "medium"
+      }
+    },
+    {
+      "word": "reed",
+      "type": "noun",
+      "definition": "A tall, thin plant that grows by water.",
+      "pronunciation": {
+        "us": "riːd",
+        "uk": "riːd"
+      },
+      "examples": [
+        "They crouch by the reeds.",
+        "Birds hide in the reeds."
+      ],
+      "extra": {
+        "synonyms": [
+          "water grass"
+        ],
+        "antonyms": [
+          "tree (contrast)"
+        ],
+        "memory_tip": "Reed = skinny plant by the pond.",
+        "tier": 2,
+        "eslLevel": "medium"
+      }
+    },
+    {
+      "word": "lily",
+      "type": "noun",
+      "definition": "A water plant with flat green leaves (lily pads) and sometimes flowers.",
+      "pronunciation": {
+        "us": "ˈlɪ.li",
+        "uk": "ˈlɪ.li"
+      },
+      "examples": [
+        "The frog sits on a lily leaf.",
+        "A white lily blooms on the pond."
+      ],
+      "extra": {
+        "synonyms": [
+          "water lily"
+        ],
+        "antonyms": [
+          "cactus (contrast)"
+        ],
+        "memory_tip": "Lily = flat leaf on the water.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "ripple",
+      "type": "noun,verb",
+      "definition": "A small wave on the water; to move with small waves.",
+      "pronunciation": {
+        "us": "ˈrɪ.pəl",
+        "uk": "ˈrɪ.pəl"
+      },
+      "examples": [
+        "Little ripples spread in rings. (noun)",
+        "The water ripples when a leaf drops. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "wavelet"
+        ],
+        "antonyms": [
+          "stillness"
+        ],
+        "memory_tip": "Ripple = tiny ring-shaped wave.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "ripple",
+          "rippled",
+          "rippling"
+        ]
+      }
+    },
+    {
+      "word": "net",
+      "type": "noun",
+      "definition": "A tool made of mesh used for lifting or catching things.",
+      "pronunciation": {
+        "us": "net",
+        "uk": "net"
+      },
+      "examples": [
+        "Use the net only to lift a leaf.",
+        "Put the net back after looking."
+      ],
+      "extra": {
+        "synonyms": [
+          "mesh"
+        ],
+        "antonyms": [
+          "hands (contrast)"
+        ],
+        "memory_tip": "Net = gentle scooper.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "shallow",
+      "type": "adjective",
+      "definition": "Not deep.",
+      "pronunciation": {
+        "us": "ˈʃæl.oʊ",
+        "uk": "ˈʃæl.əʊ"
+      },
+      "examples": [
+        "Tadpoles stay in shallow water.",
+        "The shallow end is safe for paddling."
+      ],
+      "extra": {
+        "synonyms": [
+          "not deep",
+          "low"
+        ],
+        "antonyms": [
+          "deep"
+        ],
+        "memory_tip": "Shallow = easy to see the bottom.",
+        "tier": 2,
+        "eslLevel": "medium"
+      }
+    },
+    {
+      "word": "pebble",
+      "type": "noun",
+      "definition": "A small, smooth stone.",
+      "pronunciation": {
+        "us": "ˈpɛb.əl",
+        "uk": "ˈpeb.əl"
+      },
+      "examples": [
+        "Tom counts pebbles by the water.",
+        "A pebble sinks quickly."
+      ],
+      "extra": {
+        "synonyms": [
+          "stone"
+        ],
+        "antonyms": [
+          "boulder"
+        ],
+        "memory_tip": "Pebble = tiny pocket stone.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "insect",
+      "type": "noun",
+      "definition": "A small animal with six legs, like a beetle, ant, or bee.",
+      "pronunciation": {
+        "us": "ˈɪn.sekt",
+        "uk": "ˈɪn.sekt"
+      },
+      "examples": [
+        "An insect skims the water.",
+        "We saw many insects by the pond."
+      ],
+      "extra": {
+        "synonyms": [
+          "bug"
+        ],
+        "antonyms": [
+          "mammal (contrast)"
+        ],
+        "memory_tip": "Insect = tiny six-legged critter.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    }
+  ]
+}

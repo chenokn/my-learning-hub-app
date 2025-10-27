@@ -1,0 +1,266 @@
+[
+  {
+    "word": "attic",
+    "type": "noun",
+    "definition": "The space or room directly beneath the roof of a house, often used for storage.",
+    "pronunciation": {
+      "uk": "/ˈætɪk/"
+    },
+    "examples": [
+      "They found old photographs in the attic.",
+      "A small window lit the dusty attic."
+    ],
+    "extra": {
+      "synonyms": [
+        "loft"
+      ],
+      "antonyms": [
+        "cellar",
+        "basement"
+      ],
+      "memory_tip": "Attic = top-floor hide-away for forgotten treasures.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "borrow",
+    "type": "verb",
+    "definition": "To take and use something belonging to someone else with the intention of giving it back.",
+    "pronunciation": {
+      "uk": "/ˈbɒrəʊ/"
+    },
+    "examples": [
+      "May I borrow your pencil?",
+      "She borrowed a book from the library."
+    ],
+    "extra": {
+      "synonyms": [
+        "loan (as verb)",
+        "take on loan"
+      ],
+      "antonyms": [
+        "lend",
+        "return"
+      ],
+      "memory_tip": "Borrow = take now, give back later.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "borrow",
+        "borrowed",
+        "borrowing"
+      ]
+    }
+  },
+  {
+    "word": "cinema",
+    "type": "noun",
+    "definition": "A building where films are shown; the art or industry of making films.",
+    "pronunciation": {
+      "uk": "/ˈsɪnəmə/"
+    },
+    "examples": [
+      "Let's go to the cinema on Saturday.",
+      "French cinema is known for its style."
+    ],
+    "extra": {
+      "synonyms": [
+        "picture house",
+        "movies"
+      ],
+      "antonyms": [
+        "home viewing (contrast)"
+      ],
+      "memory_tip": "Cinema = big screen story time.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "engine",
+    "type": "noun",
+    "definition": "A machine that converts fuel or power into motion.",
+    "pronunciation": {
+      "uk": "/ˈendʒɪn/"
+    },
+    "examples": [
+      "The car’s engine needs oil.",
+      "A steam engine pulls the heritage train."
+    ],
+    "extra": {
+      "synonyms": [
+        "motor",
+        "machine"
+      ],
+      "antonyms": [
+        "load",
+        "drag (contrast)"
+      ],
+      "memory_tip": "Engine = mechanical heart that makes things move.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "faucet",
+    "type": "noun",
+    "definition": "A device that controls the flow of water from a pipe; called a ‘tap’ in UK English.",
+    "pronunciation": {
+      "uk": "/ˈfɔːsɪt/"
+    },
+    "examples": [
+      "Turn off the faucet to save water.",
+      "The kitchen faucet is leaking."
+    ],
+    "extra": {
+      "synonyms": [
+        "tap",
+        "spout"
+      ],
+      "antonyms": [
+        "stopper"
+      ],
+      "memory_tip": "Faucet = American word for a tap – water on, water off.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "lobster",
+    "type": "noun",
+    "definition": "A large marine crustacean with a pair of strong claws and a hard shell.",
+    "pronunciation": {
+      "uk": "/ˈlɒbstə/"
+    },
+    "examples": [
+      "The fisherman caught three lobsters.",
+      "Lobster turns red when cooked."
+    ],
+    "extra": {
+      "synonyms": [
+        "crustacean"
+      ],
+      "antonyms": [
+        "fish (contrast)"
+      ],
+      "memory_tip": "Lobster = big sea-dwelling ‘armoured’ creature with pincers.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "puddle",
+    "type": "noun,verb",
+    "definition": "A small pool of liquid on the ground; to splash or form small pools.",
+    "pronunciation": {
+      "uk": "/ˈpʌdəl/"
+    },
+    "examples": [
+      "Children jumped in a muddy puddle. (noun)",
+      "Rainwater puddled on the path. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "pool",
+        "splash"
+      ],
+      "antonyms": [
+        "dry patch"
+      ],
+      "memory_tip": "Puddle = tiny water patch perfect for splashing.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "puddle",
+        "puddled",
+        "puddling"
+      ]
+    }
+  },
+  {
+    "word": "quarry",
+    "type": "noun,verb",
+    "definition": "A deep pit where stone or minerals are extracted; to extract stone or minerals from such a pit.",
+    "pronunciation": {
+      "uk": "/ˈkwɒri/"
+    },
+    "examples": [
+      "The limestone came from a local quarry. (noun)",
+      "Workers quarried granite for the monument. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "pit",
+        "mine",
+        "excavate"
+      ],
+      "antonyms": [
+        "fill in",
+        "back-fill"
+      ],
+      "memory_tip": "Quarry = big open-air mine or act of digging rock.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "quarry",
+        "quarried",
+        "quarrying"
+      ]
+    }
+  },
+  {
+    "word": "squeak",
+    "type": "noun,verb",
+    "definition": "A short, high-pitched sound; to make such a sound.",
+    "pronunciation": {
+      "uk": "/skwiːk/"
+    },
+    "examples": [
+      "A mouse made a tiny squeak. (noun)",
+      "The door hinges squeaked. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "peep",
+        "creak",
+        "chirp"
+      ],
+      "antonyms": [
+        "roar",
+        "silence"
+      ],
+      "memory_tip": "Squeak = little high noise like a mouse or rubber toy.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "squeak",
+        "squeaked",
+        "squeaking"
+      ]
+    }
+  },
+  {
+    "word": "volcano",
+    "type": "noun",
+    "definition": "A mountain or hill with a crater through which lava, ash and gases erupt from the Earth’s crust.",
+    "pronunciation": {
+      "uk": "/vɒlˈkeɪnəʊ/"
+    },
+    "examples": [
+      "Mount Etna is an active volcano.",
+      "The extinct volcano is now a peaceful valley."
+    ],
+    "extra": {
+      "synonyms": [
+        "crater mountain"
+      ],
+      "antonyms": [
+        "plain"
+      ],
+      "memory_tip": "Volcano = Earth’s fiery vent.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

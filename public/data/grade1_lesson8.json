@@ -1,0 +1,292 @@
+[
+  {
+    "word": "perform",
+    "type": "verb",
+    "definition": "To act, sing, dance, or do a task for others to see.",
+    "pronunciation": {
+      "us": "/pərˈfɔrm/",
+      "uk": "/pəˈfɔːm/"
+    },
+    "examples": [
+      "The class will perform a play.",
+      "She performed the song beautifully."
+    ],
+    "extra": {
+      "synonyms": [
+        "act",
+        "present",
+        "carry out"
+      ],
+      "antonyms": [
+        "fail",
+        "neglect"
+      ],
+      "memory_tip": "Perform = show your skill to others.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "perform",
+        "performed",
+        "performing"
+      ]
+    }
+  },
+  {
+    "word": "fan",
+    "type": "noun,verb",
+    "definition": "A machine or object that moves air; someone who likes something a lot; to wave air with something.",
+    "pronunciation": {
+      "us": "/fæn/",
+      "uk": "/fæn/"
+    },
+    "examples": [
+      "Turn on the fan when it is hot. (noun)",
+      "I am a big fan of soccer. (noun)",
+      "She fanned herself with a magazine. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "blower",
+        "supporter",
+        "wave"
+      ],
+      "antonyms": [
+        "hater",
+        "still air"
+      ],
+      "memory_tip": "Fan = air mover or super-liker!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "fan",
+        "fanned",
+        "fanning"
+      ]
+    }
+  },
+  {
+    "word": "bashful",
+    "type": "adjective",
+    "definition": "Shy or easily embarrassed around others.",
+    "pronunciation": {
+      "us": "/ˈbæʃfəl/",
+      "uk": "/ˈbæʃfʊl/"
+    },
+    "examples": [
+      "He felt bashful speaking on stage.",
+      "The bashful kitten hid behind the sofa."
+    ],
+    "extra": {
+      "synonyms": [
+        "shy",
+        "timid",
+        "self-conscious"
+      ],
+      "antonyms": [
+        "confident",
+        "bold"
+      ],
+      "memory_tip": "Bashful = cheeks turn pink!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "costume",
+    "type": "noun",
+    "definition": "Clothes worn to look like someone or something else.",
+    "pronunciation": {
+      "us": "/ˈkɑstjum/",
+      "uk": "/ˈkɒstjuːm/"
+    },
+    "examples": [
+      "She wore a pirate costume on Halloween.",
+      "Actors change costumes between scenes."
+    ],
+    "extra": {
+      "synonyms": [
+        "outfit",
+        "dress-up",
+        "attire"
+      ],
+      "antonyms": [
+        "everyday clothes"
+      ],
+      "memory_tip": "Costume = special dress for fun or acting.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "modern",
+    "type": "adjective",
+    "definition": "Relating to the present time; new or up-to-date.",
+    "pronunciation": {
+      "us": "/ˈmɑdərn/",
+      "uk": "/ˈmɒdn/"
+    },
+    "examples": [
+      "They live in a modern house.",
+      "Modern phones can take great pictures."
+    ],
+    "extra": {
+      "synonyms": [
+        "current",
+        "new",
+        "contemporary"
+      ],
+      "antonyms": [
+        "ancient",
+        "old-fashioned"
+      ],
+      "memory_tip": "Modern = made for today, not yesterday.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "switch",
+    "type": "noun,verb",
+    "definition": "A button that turns something on or off; to change from one thing to another.",
+    "pronunciation": {
+      "us": "/swɪtʃ/",
+      "uk": "/swɪtʃ/"
+    },
+    "examples": [
+      "Flip the light switch. (noun)",
+      "We switched seats on the bus. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "button",
+        "change",
+        "toggle"
+      ],
+      "antonyms": [
+        "keep",
+        "stay"
+      ],
+      "memory_tip": "Switch = flip or swap quickly.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "switch",
+        "switched",
+        "switching"
+      ]
+    }
+  },
+  {
+    "word": "ancient",
+    "type": "adjective",
+    "definition": "Very old; from a long, long time ago.",
+    "pronunciation": {
+      "us": "/ˈeɪnʃənt/",
+      "uk": "/ˈeɪnʃənt/"
+    },
+    "examples": [
+      "They found ancient coins in the field.",
+      "Pyramids are ancient buildings."
+    ],
+    "extra": {
+      "synonyms": [
+        "old",
+        "historic",
+        "antique"
+      ],
+      "antonyms": [
+        "modern",
+        "new"
+      ],
+      "memory_tip": "Ancient = older than your grandparents’ grandparents!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "action",
+    "type": "noun",
+    "definition": "Something that is done; movement or exciting activity.",
+    "pronunciation": {
+      "us": "/ˈækʃən/",
+      "uk": "/ˈækʃ(ə)n/"
+    },
+    "examples": [
+      "Jumping is an action.",
+      "The movie was full of action."
+    ],
+    "extra": {
+      "synonyms": [
+        "deed",
+        "movement",
+        "act"
+      ],
+      "antonyms": [
+        "inaction",
+        "stillness"
+      ],
+      "memory_tip": "Action = doing, not just thinking.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "entire",
+    "type": "adjective",
+    "definition": "Whole; with nothing left out.",
+    "pronunciation": {
+      "us": "/ɛnˈtaɪər/",
+      "uk": "/ɪnˈtaɪə/"
+    },
+    "examples": [
+      "He ate the entire apple.",
+      "We read the entire book."
+    ],
+    "extra": {
+      "synonyms": [
+        "whole",
+        "complete",
+        "full"
+      ],
+      "antonyms": [
+        "partial",
+        "part"
+      ],
+      "memory_tip": "Entire = every single bit.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "whirl",
+    "type": "verb,noun",
+    "definition": "To spin around quickly; a fast spin.",
+    "pronunciation": {
+      "us": "/wɜrl/",
+      "uk": "/wɜːl/"
+    },
+    "examples": [
+      "Leaves whirled in the wind. (verb)",
+      "Give the toy a whirl. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "spin",
+        "twirl",
+        "swirl"
+      ],
+      "antonyms": [
+        "stand",
+        "stop"
+      ],
+      "memory_tip": "Whirl = spin like a tornado!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "whirl",
+        "whirled",
+        "whirling"
+      ]
+    }
+  }
+]

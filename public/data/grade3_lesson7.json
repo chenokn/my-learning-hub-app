@@ -1,0 +1,179 @@
+[
+  {
+    "word": "act",
+    "type": "verb,noun",
+    "definition": "To do something or perform in a play or film; a deed or a main section of a play.",
+    "pronunciation": { "us": "akt", "uk": "akt" },
+    "examples": [
+      "The class will act out the story. (verb)",
+      "My favourite act in the play is Act Two. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["perform", "do", "deed", "scene"],
+      "antonyms": ["refrain", "idle"],
+      "memory_tip": "Act = action—either doing something or a part of a play.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["act", "acted", "acting"]
+    }
+  },
+  {
+    "word": "additional",
+    "type": "adjective",
+    "definition": "Extra; added to what already exists.",
+    "pronunciation": { "us": "uh-DISH-uh-nuhl", "uk": "uh-DISH-uh-nuhl" },
+    "examples": [
+      "You may bring one additional book.",
+      "We need additional time to finish."
+    ],
+    "extra": {
+      "synonyms": ["extra", "added", "supplementary"],
+      "antonyms": ["limited", "reduced", "fewer"],
+      "memory_tip": "Additional = in addition to what you have.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "advice",
+    "type": "noun",
+    "definition": "Ideas or suggestions about what someone should do.",
+    "pronunciation": { "us": "ad-VICE", "uk": "ad-VICE" },
+    "examples": [
+      "My teacher gave me good advice about revising.",
+      "Ask a doctor’s advice if you feel unwell."
+    ],
+    "extra": {
+      "synonyms": ["guidance", "counsel", "recommendation"],
+      "antonyms": ["misinformation", "discouragement"],
+      "memory_tip": "Advice (noun) gives you ideas; advise (verb) is to give advice.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "crumple",
+    "type": "verb",
+    "definition": "To crush something into a wrinkled mass or to collapse inwards.",
+    "pronunciation": { "us": "KRUM-puhl", "uk": "KRUM-puhl" },
+    "examples": [
+      "He crumpled the paper into a ball.",
+      "The empty can crumpled underfoot."
+    ],
+    "extra": {
+      "synonyms": ["crease", "wrinkle", "crush"],
+      "antonyms": ["smooth", "flatten", "iron"],
+      "memory_tip": "Crumple = crumble + wrinkle.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["crumple", "crumpled", "crumpling"]
+    }
+  },
+  {
+    "word": "fan",
+    "type": "noun,verb",
+    "definition": "A device or person that moves air; someone who admires something; to wave to cool or to stir up.",
+    "pronunciation": { "us": "fan", "uk": "fan" },
+    "examples": [
+      "The fan kept the room cool. (noun)",
+      "Crowds fanned themselves in the heat. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["supporter", "admirer", "ventilator", "wave (verb)"],
+      "antonyms": ["critic (contrast)", "calm (verb, contrast)"],
+      "memory_tip": "Fan can blow air or be a big admirer.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["fan", "fanned", "fanning"]
+    }
+  },
+  {
+    "word": "memorise",
+    "type": "verb",
+    "definition": "To learn something so well that you can remember it exactly.",
+    "pronunciation": { "us": "MEM-uh-ryze", "uk": "MEM-uh-ryze" },
+    "examples": [
+      "We memorised the poem for assembly.",
+      "Try to memorise your times tables."
+    ],
+    "extra": {
+      "synonyms": ["learn", "commit to memory", "remember"],
+      "antonyms": ["forget", "overlook"],
+      "memory_tip": "Memorise = make it part of your memory.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["memorise", "memorised", "memorising"]
+    }
+  },
+  {
+    "word": "mystify",
+    "type": "verb",
+    "definition": "To confuse someone by making something hard to understand.",
+    "pronunciation": { "us": "MIS-tuh-fy", "uk": "MIS-tuh-fy" },
+    "examples": [
+      "The puzzle mystified the class.",
+      "Strange footprints mystified the ranger."
+    ],
+    "extra": {
+      "synonyms": ["perplex", "baffle", "bewilder"],
+      "antonyms": ["clarify", "explain"],
+      "memory_tip": "Mystify = make it a mystery.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["mystify", "mystified", "mystifying"]
+    }
+  },
+  {
+    "word": "pause",
+    "type": "noun,verb",
+    "definition": "A short stop; to stop for a short time before continuing.",
+    "pronunciation": { "us": "pawz", "uk": "pawz" },
+    "examples": [
+      "There was a brief pause before the music. (noun)",
+      "Pause the video while I take notes. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["break", "halt", "rest"],
+      "antonyms": ["continue", "proceed"],
+      "memory_tip": "Pause = press the pause button in real life.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["pause", "paused", "pausing"]
+    }
+  },
+  {
+    "word": "transparent",
+    "type": "adjective",
+    "definition": "Allowing light to pass through so objects can be seen clearly; easy to understand or detect.",
+    "pronunciation": { "us": "trans-PAIR-unt", "uk": "trans-PAR-uhnt" },
+    "examples": [
+      "The jar is made of transparent glass.",
+      "The rules are transparent and fair."
+    ],
+    "extra": {
+      "synonyms": ["clear", "see-through", "obvious"],
+      "antonyms": ["opaque", "cloudy", "hidden"],
+      "memory_tip": "Transparent = you can ‘see through’ the material or the meaning.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "vanish",
+    "type": "verb",
+    "definition": "To disappear suddenly and completely.",
+    "pronunciation": { "us": "VAN-ish", "uk": "VAN-ish" },
+    "examples": [
+      "The magician made the coin vanish.",
+      "Rain clouds vanished by afternoon."
+    ],
+    "extra": {
+      "synonyms": ["disappear", "fade", "evaporate"],
+      "antonyms": ["appear", "emerge"],
+      "memory_tip": "Vanish = gone in a flash.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["vanish", "vanished", "vanishing"]
+    }
+  }
+]

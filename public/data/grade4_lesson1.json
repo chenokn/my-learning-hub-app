@@ -1,0 +1,270 @@
+[
+  {
+    "word": "benefit",
+    "type": "noun,verb",
+    "definition": "Something that helps or is useful; to be helped by or to help.",
+    "pronunciation": { "us": "BEN-uh-fit", "uk": "BEN-uh-fit" },
+    "examples": [
+      "Regular reading has many benefits. (noun)",
+      "Students benefit from extra practice. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["advantage", "gain", "help"],
+      "antonyms": ["harm", "drawback", "disadvantage"],
+      "memory_tip": "Benefit = be-ne-fit—be in a good fit for you.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["benefit", "benefited/benefitted", "benefiting/benefitting"]
+    }
+  },
+  {
+    "word": "complete",
+    "type": "verb,adjective",
+    "definition": "To finish something; having all the parts, whole.",
+    "pronunciation": { "us": "kum-PLEET", "uk": "kum-PLEET" },
+    "examples": [
+      "Please complete the worksheet. (verb)",
+      "We have a complete set of books. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["finish", "conclude", "whole"],
+      "antonyms": ["begin", "start", "incomplete"],
+      "memory_tip": "Complete = nothing missing.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["complete", "completed", "completing"]
+    }
+  },
+  {
+    "word": "develop",
+    "type": "verb",
+    "definition": "To grow or cause to grow; to create or improve over time.",
+    "pronunciation": { "us": "di-VEL-up", "uk": "di-VEL-up" },
+    "examples": [
+      "Caterpillars develop into butterflies.",
+      "They are developing a new app."
+    ],
+    "extra": {
+      "synonyms": ["grow", "evolve", "build"],
+      "antonyms": ["decline", "wither", "stall"],
+      "memory_tip": "Develop = unfold step by step.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["develop", "developed", "developing"]
+    }
+  },
+  {
+    "word": "dismay",
+    "type": "noun,verb",
+    "definition": "A feeling of worry or sadness; to cause worry or sadness.",
+    "pronunciation": { "us": "dis-MAY", "uk": "dis-MAY" },
+    "examples": [
+      "To our dismay, the match was cancelled. (noun)",
+      "The news dismayed the crowd. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["alarm", "upset", "distress"],
+      "antonyms": ["comfort", "reassure", "delight"],
+      "memory_tip": "Dismay = makes your day feel ‘mis-made’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["dismay", "dismayed", "dismaying"]
+    }
+  },
+  {
+    "word": "ease",
+    "type": "noun,verb",
+    "definition": "Lack of difficulty; to make or become less difficult or painful.",
+    "pronunciation": { "us": "eez", "uk": "eez" },
+    "examples": [
+      "She spoke with ease. (noun)",
+      "Stretching can ease sore muscles. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["comfort", "relief", "lessen (verb)"],
+      "antonyms": ["strain", "stress", "aggravate"],
+      "memory_tip": "Ease = easy feeling.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["ease", "eased", "easing"]
+    }
+  },
+  {
+    "word": "hail",
+    "type": "noun,verb",
+    "definition": "Small balls of frozen rain; to call out to or praise highly; to call a taxi.",
+    "pronunciation": { "us": "hayl", "uk": "hayl" },
+    "examples": [
+      "Hail covered the playground. (noun)",
+      "They hailed a cab after the show. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["ice pellets (noun)", "acclaim (verb)", "call (verb)"],
+      "antonyms": ["rain (contrast)", "criticise (verb)"],
+      "memory_tip": "Hail can fall from clouds—or hail someone from across the road.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["hail", "hailed", "hailing"]
+    }
+  },
+  {
+    "word": "lack",
+    "type": "noun,verb",
+    "definition": "A shortage or absence of something; to be without something needed.",
+    "pronunciation": { "us": "lak", "uk": "lak" },
+    "examples": [
+      "There is a lack of chairs in the hall. (noun)",
+      "Plants will die if they lack water. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["shortage", "absence", "need"],
+      "antonyms": ["abundance", "plenty", "have"],
+      "memory_tip": "Lack = a gap where something should be.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["lack", "lacked", "lacking"]
+    }
+  },
+  {
+    "word": "master",
+    "type": "noun,verb,adjective",
+    "definition": "A person highly skilled or in control; to learn something very well; main or most important.",
+    "pronunciation": { "us": "MAS-ter", "uk": "MAH-stuh" },
+    "examples": [
+      "She is a master of chess. (noun)",
+      "He mastered the new routine quickly. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["expert", "control", "primary"],
+      "antonyms": ["novice", "struggle", "secondary"],
+      "memory_tip": "Master = master it so it’s no longer hard.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["master", "mastered", "mastering"]
+    }
+  },
+  {
+    "word": "patriot",
+    "type": "noun",
+    "definition": "A person who loves and supports their country.",
+    "pronunciation": { "us": "PAY-tree-ut", "uk": "PAY-tree-ut" },
+    "examples": [
+      "Patriots celebrate national holidays with pride.",
+      "A true patriot works to improve their country."
+    ],
+    "extra": {
+      "synonyms": ["loyalist", "national"],
+      "antonyms": ["traitor", "anti-national"],
+      "memory_tip": "Patriot = puts their country at heart.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "project",
+    "type": "noun,verb",
+    "definition": "A planned piece of work; to throw forward, to show an image, or to estimate for the future.",
+    "pronunciation": { "us": "PRO-jekt (noun), pruh-JECT (verb)", "uk": "PRO-jekt (noun), pruh-JECT (verb)" },
+    "examples": [
+      "Our science project is about magnets. (noun)",
+      "They projected the film on a big screen. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["assignment", "plan", "cast (verb)", "estimate (verb)"],
+      "antonyms": ["impulse (contrast)", "withdraw (verb)"],
+      "memory_tip": "Project = a planned job—or to ‘throw’ out light or ideas.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["project", "projected", "projecting"]
+    }
+  },
+  {
+    "word": "recommend",
+    "type": "verb",
+    "definition": "To say something is good and should be chosen; to advise.",
+    "pronunciation": { "us": "rek-uh-MEND", "uk": "rek-uh-MEND" },
+    "examples": [
+      "Can you recommend a good book?",
+      "Doctors recommend rest after surgery."
+    ],
+    "extra": {
+      "synonyms": ["suggest", "advise", "endorse"],
+      "antonyms": ["discourage", "warn against"],
+      "memory_tip": "Recommend = ‘commend again’ to others.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["recommend", "recommended", "recommending"]
+    }
+  },
+  {
+    "word": "remark",
+    "type": "noun,verb",
+    "definition": "A comment or statement; to say something as a comment.",
+    "pronunciation": { "us": "ri-MARK", "uk": "ri-MAHK" },
+    "examples": [
+      "Her remark made everyone laugh. (noun)",
+      "He remarked that the sky looked stormy. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["comment", "observation", "note"],
+      "antonyms": ["silence", "withhold (verb)"],
+      "memory_tip": "Re-mark = mark again with words.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["remark", "remarked", "remarking"]
+    }
+  },
+  {
+    "word": "represent",
+    "type": "verb",
+    "definition": "To stand for or act on behalf of; to show or describe in a particular way.",
+    "pronunciation": { "us": "rep-ri-ZENT", "uk": "rep-ri-ZENT" },
+    "examples": [
+      "Elected councillors represent the town.",
+      "The map represents mountains with triangles."
+    ],
+    "extra": {
+      "synonyms": ["stand for", "symbolise", "depict"],
+      "antonyms": ["misrepresent", "distort"],
+      "memory_tip": "Represent = present again, on behalf of something.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["represent", "represented", "representing"]
+    }
+  },
+  {
+    "word": "sufficient",
+    "type": "adjective",
+    "definition": "As much as is needed; enough.",
+    "pronunciation": { "us": "suh-FISH-unt", "uk": "suh-FISH-uhnt" },
+    "examples": [
+      "We had sufficient food for everyone.",
+      "Please bring a sufficient number of pencils."
+    ],
+    "extra": {
+      "synonyms": ["enough", "adequate", "ample"],
+      "antonyms": ["insufficient", "scarce", "short"],
+      "memory_tip": "Sufficient = ‘suf’ (up to) + ‘fic’ (make) → it makes up enough.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "utter",
+    "type": "adjective,verb",
+    "definition": "Complete or absolute; to speak or say something.",
+    "pronunciation": { "us": "UT-er", "uk": "UT-uh" },
+    "examples": [
+      "It was utter silence in the hall. (adjective)",
+      "She uttered a quick ‘thanks’. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["absolute", "total", "speak (verb)", "voice (verb)"],
+      "antonyms": ["partial", "mute (verb contrast)", "incomplete"],
+      "memory_tip": "Utter = total; or to ‘utter’ words.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["utter", "uttered", "uttering"]
+    }
+  }
+]

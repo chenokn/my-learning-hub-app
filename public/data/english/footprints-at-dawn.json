@@ -1,0 +1,445 @@
+{
+  "title": "Footprints at Dawn",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Mystery",
+  "vocabulary": [
+    "footprint",
+    "dawn",
+    "garden",
+    "mud",
+    "trail",
+    "gate",
+    "paw",
+    "bird",
+    "compare",
+    "solve"
+  ],
+  "images": [
+    "/stem-hub/language/footprints.1.png",
+    "/stem-hub/language/footprints.2.png",
+    "/stem-hub/language/footprints.3.png",
+    "/stem-hub/language/footprints.4.png"
+  ],
+  "passage": [
+    "The sky is pink at dawn. Dew shines on the grass. Sam and Lina go into the garden with Dad. |“Look—tiny footprints!” says Lina.",
+    "They kneel by the mud. A small trail runs past the flower bed. Some prints are V-shaped. Others are round with four little dots. |“Two kinds,” says Dad.",
+    "They follow the trail to the gate. The V-prints go towards the bird feeder. The round paw prints stop at the gate latch. A soft tuft of fur is stuck there.",
+    "Sam and Lina compare the shapes and sizes. |“A bird hopped to the feeder, and a cat came to the gate,” says Dad. They draw the prints in a notebook. |“Mystery solved!”"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What time of day is it?",
+      "answer": "Dawn",
+      "options": [
+        "Dawn",
+        "Noon",
+        "Sunset",
+        "Night"
+      ],
+      "keys": [
+        "dawn"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Where do Sam and Lina look for clues?",
+      "answer": "In the garden",
+      "options": [
+        "In the garden",
+        "At the shop",
+        "In the car",
+        "On the bus"
+      ],
+      "keys": [
+        "garden"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What do they find on the ground?",
+      "answer": "Tiny footprints",
+      "options": [
+        "Tiny footprints",
+        "Coins",
+        "Shells",
+        "Leaves only"
+      ],
+      "keys": [
+        "footprint"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What shape are some of the prints?",
+      "answer": "V-shaped",
+      "options": [
+        "V-shaped",
+        "Square",
+        "Star",
+        "Heart"
+      ],
+      "keys": [
+        "bird",
+        "print"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What do the round prints with four dots look like?",
+      "answer": "Paw prints",
+      "options": [
+        "Paw prints",
+        "Tyre tracks",
+        "Shoe marks",
+        "Leaf marks"
+      ],
+      "keys": [
+        "paw"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Where do the V-prints go?",
+      "answer": "Towards the bird feeder",
+      "options": [
+        "Towards the bird feeder",
+        "To the pond",
+        "Into the house",
+        "Up the treehouse"
+      ],
+      "keys": [
+        "bird"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What clue do they find on the gate latch?",
+      "answer": "A tuft of fur",
+      "options": [
+        "A tuft of fur",
+        "A feather",
+        "A ribbon",
+        "A key"
+      ],
+      "keys": [
+        "clue",
+        "gate"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What skill do they use to work out the mystery?",
+      "answer": "They compare the shapes and sizes of prints",
+      "options": [
+        "They compare the shapes and sizes of prints",
+        "They ask the bus driver",
+        "They read a long book",
+        "They guess without looking"
+      ],
+      "keys": [
+        "compare"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which two animals do they think visited?",
+      "answer": "A bird and a cat",
+      "options": [
+        "A bird and a cat",
+        "A dog and a fish",
+        "A mouse and a horse",
+        "A fox and a cow"
+      ],
+      "keys": [
+        "bird",
+        "paw",
+        "cat"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What do they do at the end?",
+      "answer": "They draw the prints and say, “Mystery solved!”",
+      "options": [
+        "They draw the prints and say, “Mystery solved!”",
+        "They throw mud at the gate",
+        "They hide the clues",
+        "They go back to sleep"
+      ],
+      "keys": [
+        "solve"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "footprint",
+      "type": "noun",
+      "definition": "A mark left on the ground by a foot or paw.",
+      "pronunciation": {
+        "us": "ˈfʊt.prɪnt",
+        "uk": "ˈfʊt.prɪnt"
+      },
+      "examples": [
+        "We saw a small footprint in the mud.",
+        "The footprints made a trail."
+      ],
+      "extra": {
+        "synonyms": [
+          "track",
+          "print"
+        ],
+        "antonyms": [
+          "erasure (contrast)"
+        ],
+        "memory_tip": "Footprint = foot’s print in soil.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "dawn",
+      "type": "noun",
+      "definition": "The first light in the morning, before the sun is up.",
+      "pronunciation": {
+        "us": "dɔn",
+        "uk": "dɔːn"
+      },
+      "examples": [
+        "They went outside at dawn.",
+        "Birds sing at dawn."
+      ],
+      "extra": {
+        "synonyms": [
+          "daybreak",
+          "sunrise"
+        ],
+        "antonyms": [
+          "dusk",
+          "night"
+        ],
+        "memory_tip": "Dawn = day’s first light.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "garden",
+      "type": "noun",
+      "definition": "A place by a house where plants and flowers grow.",
+      "pronunciation": {
+        "us": "ˈɡɑːr.dən",
+        "uk": "ˈɡɑː.dən"
+      },
+      "examples": [
+        "They searched the garden for clues.",
+        "We grow beans in the garden."
+      ],
+      "extra": {
+        "synonyms": [
+          "yard",
+          "plot"
+        ],
+        "antonyms": [
+          "street (contrast)"
+        ],
+        "memory_tip": "Garden = plants at home.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "mud",
+      "type": "noun",
+      "definition": "Wet, soft soil.",
+      "pronunciation": {
+        "us": "mʌd",
+        "uk": "mʌd"
+      },
+      "examples": [
+        "The footprints were in the mud.",
+        "Boots keep mud off socks."
+      ],
+      "extra": {
+        "synonyms": [
+          "sludge",
+          "mire"
+        ],
+        "antonyms": [
+          "dust",
+          "dry ground"
+        ],
+        "memory_tip": "Mud = watery soil.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "trail",
+      "type": "noun,verb",
+      "definition": "A line of marks that shows where something moved; to follow behind something.",
+      "pronunciation": {
+        "us": "treɪl",
+        "uk": "treɪl"
+      },
+      "examples": [
+        "We followed the trail in the garden. (noun)",
+        "They trail the prints to the gate. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "path",
+          "track",
+          "follow"
+        ],
+        "antonyms": [
+          "lead (contrast)"
+        ],
+        "memory_tip": "Trail = marks that lead the way.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "trail",
+          "trailed",
+          "trailing"
+        ]
+      }
+    },
+    {
+      "word": "gate",
+      "type": "noun",
+      "definition": "A part of a fence that opens and closes.",
+      "pronunciation": {
+        "us": "ɡeɪt",
+        "uk": "ɡeɪt"
+      },
+      "examples": [
+        "The prints stop at the gate.",
+        "Please shut the gate."
+      ],
+      "extra": {
+        "synonyms": [
+          "entrance"
+        ],
+        "antonyms": [
+          "wall (contrast)"
+        ],
+        "memory_tip": "Gate = door in a fence.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "paw",
+      "type": "noun",
+      "definition": "An animal’s foot with claws or pads.",
+      "pronunciation": {
+        "us": "pɔː",
+        "uk": "pɔː"
+      },
+      "examples": [
+        "The round marks are paw prints.",
+        "The cat lifts its paw."
+      ],
+      "extra": {
+        "synonyms": [
+          "foot (animal)"
+        ],
+        "antonyms": [
+          "hand (contrast)"
+        ],
+        "memory_tip": "Paw = animal foot.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "bird",
+      "type": "noun",
+      "definition": "An animal with feathers and wings.",
+      "pronunciation": {
+        "us": "bɝːd",
+        "uk": "bɜːd"
+      },
+      "examples": [
+        "The bird prints are V-shaped.",
+        "A bird hopped to the feeder."
+      ],
+      "extra": {
+        "synonyms": [
+          "sparrow",
+          "robin (examples)"
+        ],
+        "antonyms": [
+          "mammal (contrast)"
+        ],
+        "memory_tip": "Bird = feathers and wings.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "compare",
+      "type": "verb",
+      "definition": "To look at two or more things to see how they are the same or different.",
+      "pronunciation": {
+        "us": "kəmˈper",
+        "uk": "kəmˈpeə"
+      },
+      "examples": [
+        "They compare the prints.",
+        "Compare sizes to find a match."
+      ],
+      "extra": {
+        "synonyms": [
+          "contrast",
+          "match up"
+        ],
+        "antonyms": [
+          "ignore"
+        ],
+        "memory_tip": "Compare = look closely side by side.",
+        "tier": 2,
+        "eslLevel": "medium",
+        "tenses": [
+          "compare",
+          "compared",
+          "comparing"
+        ]
+      }
+    },
+    {
+      "word": "solve",
+      "type": "verb",
+      "definition": "To find the answer to a problem or mystery.",
+      "pronunciation": {
+        "us": "sɑːlv",
+        "uk": "sɒlv"
+      },
+      "examples": [
+        "They solve the mystery.",
+        "Can you solve this riddle?"
+      ],
+      "extra": {
+        "synonyms": [
+          "work out",
+          "figure out"
+        ],
+        "antonyms": [
+          "confuse"
+        ],
+        "memory_tip": "Solve = fix the puzzle.",
+        "tier": 2,
+        "eslLevel": "medium",
+        "tenses": [
+          "solve",
+          "solved",
+          "solving"
+        ]
+      }
+    }
+  ]
+}

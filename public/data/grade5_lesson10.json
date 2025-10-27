@@ -1,0 +1,454 @@
+[
+  {
+    "word": "available",
+    "type": "adjective",
+    "definition": "Able to be used, gotten, or reached; free to do something.",
+    "pronunciation": {
+      "us": "uh-VAY-luh-buhl",
+      "uk": "uh-VAY-luh-buhl"
+    },
+    "examples": [
+      "Is this seat available?",
+      "The librarian is available after lunch."
+    ],
+    "extra": {
+      "synonyms": [
+        "accessible",
+        "free",
+        "obtainable"
+      ],
+      "antonyms": [
+        "unavailable",
+        "busy",
+        "occupied"
+      ],
+      "memory_tip": "Available = ‘at hand’ and ready to use.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "bondage",
+    "type": "noun",
+    "definition": "The state of being bound or controlled by someone or something; lack of freedom.",
+    "pronunciation": {
+      "us": "BON-dij",
+      "uk": "BON-dij"
+    },
+    "examples": [
+      "History lessons covered the end of bondage in many countries.",
+      "They worked to free people from debt bondage."
+    ],
+    "extra": {
+      "synonyms": [
+        "servitude",
+        "slavery",
+        "constraint"
+      ],
+      "antonyms": [
+        "freedom",
+        "liberty"
+      ],
+      "memory_tip": "Bondage = ‘bound-age’—a time of being bound.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "donate",
+    "type": "verb",
+    "definition": "To give money, goods, or time to help a person or cause.",
+    "pronunciation": {
+      "us": "doh-NAYT",
+      "uk": "DOH-nayt"
+    },
+    "examples": [
+      "We donated books to the shelter.",
+      "Many people donate blood each year."
+    ],
+    "extra": {
+      "synonyms": [
+        "give",
+        "contribute",
+        "offer"
+      ],
+      "antonyms": [
+        "withhold",
+        "keep"
+      ],
+      "memory_tip": "Donate = do a ‘nice’ give.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "donate",
+        "donated",
+        "donating"
+      ]
+    }
+  },
+  {
+    "word": "establish",
+    "type": "verb",
+    "definition": "To start or set up something that will last; to prove or show something clearly.",
+    "pronunciation": {
+      "us": "ih-STAB-lish",
+      "uk": "ih-STAB-lish"
+    },
+    "examples": [
+      "They established a new club at school.",
+      "The data established a clear pattern."
+    ],
+    "extra": {
+      "synonyms": [
+        "found",
+        "set up",
+        "prove"
+      ],
+      "antonyms": [
+        "abolish",
+        "close",
+        "disprove"
+      ],
+      "memory_tip": "Establish = get it firmly ‘stable’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "establish",
+        "established",
+        "establishing"
+      ]
+    }
+  },
+  {
+    "word": "evade",
+    "type": "verb",
+    "definition": "To avoid or escape from something or someone, often by being quick or clever.",
+    "pronunciation": {
+      "us": "ee-VAYD",
+      "uk": "ee-VAYD"
+    },
+    "examples": [
+      "He evaded the question.",
+      "The mouse evaded the cat."
+    ],
+    "extra": {
+      "synonyms": [
+        "avoid",
+        "dodge",
+        "escape"
+      ],
+      "antonyms": [
+        "face",
+        "confront"
+      ],
+      "memory_tip": "Evade = e-‘vade’—step away from.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "evade",
+        "evaded",
+        "evading"
+      ]
+    }
+  },
+  {
+    "word": "liberate",
+    "type": "verb",
+    "definition": "To set someone or something free.",
+    "pronunciation": {
+      "us": "LIB-uh-rayt",
+      "uk": "LIB-uh-rayt"
+    },
+    "examples": [
+      "The rescue team liberated the trapped hikers.",
+      "Education can liberate people from ignorance."
+    ],
+    "extra": {
+      "synonyms": [
+        "free",
+        "release",
+        "unshackle"
+      ],
+      "antonyms": [
+        "confine",
+        "imprison"
+      ],
+      "memory_tip": "Liberate = bring liberty.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "liberate",
+        "liberated",
+        "liberating"
+      ]
+    }
+  },
+  {
+    "word": "numerous",
+    "type": "adjective",
+    "definition": "Many; a large number of.",
+    "pronunciation": {
+      "us": "NOO-muh-rus",
+      "uk": "NYOO-muh-rus"
+    },
+    "examples": [
+      "There are numerous reasons to read daily.",
+      "We saw numerous birds in the park."
+    ],
+    "extra": {
+      "synonyms": [
+        "many",
+        "countless",
+        "multiple"
+      ],
+      "antonyms": [
+        "few",
+        "scarce"
+      ],
+      "memory_tip": "Numerous = ‘numer-’ like numbers—there are many.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "occasion",
+    "type": "noun",
+    "definition": "A particular time or event, often special or important.",
+    "pronunciation": {
+      "us": "uh-KAY-zhuhn",
+      "uk": "uh-KAY-zhuhn"
+    },
+    "examples": [
+      "Her birthday was a happy occasion.",
+      "On rare occasions, we eat out."
+    ],
+    "extra": {
+      "synonyms": [
+        "event",
+        "moment",
+        "time"
+      ],
+      "antonyms": [
+        "routine",
+        "habit (contrast)"
+      ],
+      "memory_tip": "Occasion = one chosen time or event.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "oppose",
+    "type": "verb",
+    "definition": "To disagree with and try to stop or change something.",
+    "pronunciation": {
+      "us": "uh-POHZ",
+      "uk": "uh-POHZ"
+    },
+    "examples": [
+      "They opposed the unfair rule.",
+      "Several members oppose the plan."
+    ],
+    "extra": {
+      "synonyms": [
+        "resist",
+        "counter",
+        "challenge"
+      ],
+      "antonyms": [
+        "support",
+        "back"
+      ],
+      "memory_tip": "Oppose = pose yourself against.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "oppose",
+        "opposed",
+        "opposing"
+      ]
+    }
+  },
+  {
+    "word": "prohibit",
+    "type": "verb",
+    "definition": "To officially not allow something; to forbid.",
+    "pronunciation": {
+      "us": "proh-HIB-it",
+      "uk": "pruh-HIB-it"
+    },
+    "examples": [
+      "The sign prohibits smoking here.",
+      "School rules prohibit running in corridors."
+    ],
+    "extra": {
+      "synonyms": [
+        "forbid",
+        "ban",
+        "bar"
+      ],
+      "antonyms": [
+        "permit",
+        "allow"
+      ],
+      "memory_tip": "Prohibit = put a ‘pro’ stop on it.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "prohibit",
+        "prohibited",
+        "prohibiting"
+      ]
+    }
+  },
+  {
+    "word": "pursue",
+    "type": "verb",
+    "definition": "To follow and try to catch; to try hard to achieve.",
+    "pronunciation": {
+      "us": "per-SOO",
+      "uk": "puh-SYOO"
+    },
+    "examples": [
+      "The dog pursued the ball.",
+      "She will pursue a career in science."
+    ],
+    "extra": {
+      "synonyms": [
+        "chase",
+        "seek",
+        "strive for"
+      ],
+      "antonyms": [
+        "abandon",
+        "give up"
+      ],
+      "memory_tip": "Pursue = push forward after.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "pursue",
+        "pursued",
+        "pursuing"
+      ]
+    }
+  },
+  {
+    "word": "reassure",
+    "type": "verb",
+    "definition": "To say or do something to make someone feel less worried.",
+    "pronunciation": {
+      "us": "ree-uh-SHUR",
+      "uk": "ree-uh-SHORE"
+    },
+    "examples": [
+      "The nurse reassured the child.",
+      "He reassured us that the plan was safe."
+    ],
+    "extra": {
+      "synonyms": [
+        "comfort",
+        "encourage",
+        "soothe"
+      ],
+      "antonyms": [
+        "alarm",
+        "worry"
+      ],
+      "memory_tip": "Reassure = give sure-ness again.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "reassure",
+        "reassured",
+        "reassuring"
+      ]
+    }
+  },
+  {
+    "word": "reluctant",
+    "type": "adjective",
+    "definition": "Not wanting to do something; unwilling.",
+    "pronunciation": {
+      "us": "ri-LUK-tunt",
+      "uk": "ri-LUK-tunt"
+    },
+    "examples": [
+      "She was reluctant to speak first.",
+      "He felt reluctant to try the spicy dish."
+    ],
+    "extra": {
+      "synonyms": [
+        "unwilling",
+        "hesitant",
+        "loath"
+      ],
+      "antonyms": [
+        "eager",
+        "willing"
+      ],
+      "memory_tip": "Reluctant = you ‘re-luck’ before you act.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "superior",
+    "type": "adjective,noun",
+    "definition": "Better in quality or rank; a person who is higher in rank.",
+    "pronunciation": {
+      "us": "soo-PEER-ee-or",
+      "uk": "soo-PEER-ee-uh"
+    },
+    "examples": [
+      "This fabric is superior to the old one. (adjective)",
+      "Please ask your superior for approval. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "better",
+        "higher",
+        "greater"
+      ],
+      "antonyms": [
+        "inferior",
+        "lower"
+      ],
+      "memory_tip": "Superior = ‘super’ in rank or quality.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "yearn",
+    "type": "verb",
+    "definition": "To have a strong desire or longing for something.",
+    "pronunciation": {
+      "us": "yurn",
+      "uk": "yurn"
+    },
+    "examples": [
+      "They yearned for peace and quiet.",
+      "I yearn to visit my grandparents."
+    ],
+    "extra": {
+      "synonyms": [
+        "long",
+        "crave",
+        "pine"
+      ],
+      "antonyms": [
+        "dislike",
+        "reject"
+      ],
+      "memory_tip": "Yearn = your heart ‘yerns’/turns toward it.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "yearn",
+        "yearned",
+        "yearning"
+      ]
+    }
+  }
+]

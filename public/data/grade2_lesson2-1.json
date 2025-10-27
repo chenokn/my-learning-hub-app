@@ -1,0 +1,295 @@
+[
+  {
+    "word": "alarm",
+    "type": "noun,verb",
+    "definition": "A sound or signal that warns of danger; to make afraid.",
+    "pronunciation": {
+      "us": "/əˈlɑrm/",
+      "uk": "/əˈlɑːm/"
+    },
+    "examples": [
+      "The fire alarm rang loudly. (noun)",
+      "The strange noise alarmed the dog. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "warning",
+        "alert",
+        "scare"
+      ],
+      "antonyms": [
+        "calm",
+        "silence"
+      ],
+      "memory_tip": "Alarm = loud noise means danger!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "alarm",
+        "past": "alarmed",
+        "participle": "alarmed"
+      }
+    }
+  },
+  {
+    "word": "bounce",
+    "type": "verb,noun",
+    "definition": "To spring back after hitting something; a movement up and down.",
+    "pronunciation": {
+      "us": "/baʊns/",
+      "uk": "/baʊns/"
+    },
+    "examples": [
+      "The ball bounced across the floor. (verb)",
+      "Give the ball a big bounce! (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "spring",
+        "rebound",
+        "jump"
+      ],
+      "antonyms": [
+        "stay",
+        "stick"
+      ],
+      "memory_tip": "Bounce = hit the ground and come back up!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "bounce",
+        "past": "bounced",
+        "participle": "bounced"
+      }
+    }
+  },
+  {
+    "word": "cliff",
+    "type": "noun",
+    "definition": "A high, steep rock or edge.",
+    "pronunciation": {
+      "us": "/klɪf/",
+      "uk": "/klɪf/"
+    },
+    "examples": [
+      "He stood at the edge of the cliff.",
+      "Waves crashed against the cliff."
+    ],
+    "extra": {
+      "synonyms": [
+        "bluff",
+        "ridge",
+        "ledge"
+      ],
+      "antonyms": [
+        "valley",
+        "plain"
+      ],
+      "memory_tip": "Cliff = very tall and drops down!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "din",
+    "type": "noun",
+    "definition": "A loud, continued noise.",
+    "pronunciation": {
+      "us": "/dɪn/",
+      "uk": "/dɪn/"
+    },
+    "examples": [
+      "The crowd made a loud din after the goal.",
+      "She couldn’t hear over the din of the machines."
+    ],
+    "extra": {
+      "synonyms": [
+        "noise",
+        "racket",
+        "uproar"
+      ],
+      "antonyms": [
+        "silence",
+        "quiet"
+      ],
+      "memory_tip": "Din = noisy and non-stop!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "earthquake",
+    "type": "noun",
+    "definition": "A shaking of the ground caused by movement underground.",
+    "pronunciation": {
+      "us": "/ˈɜrθˌkweɪk/",
+      "uk": "/ˈɜːθkweɪk/"
+    },
+    "examples": [
+      "The earthquake made the ground shake.",
+      "They practiced what to do during an earthquake."
+    ],
+    "extra": {
+      "synonyms": [
+        "quake",
+        "tremor",
+        "shock"
+      ],
+      "antonyms": [
+        "stillness",
+        "calm"
+      ],
+      "memory_tip": "Earthquake = the Earth shakes!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "flood",
+    "type": "noun,verb",
+    "definition": "A large amount of water that covers land; to overflow with water.",
+    "pronunciation": {
+      "us": "/flʌd/",
+      "uk": "/flʌd/"
+    },
+    "examples": [
+      "The flood covered the streets. (noun)",
+      "The river flooded the fields. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "overflow",
+        "inundation"
+      ],
+      "antonyms": [
+        "drought",
+        "dryness"
+      ],
+      "memory_tip": "Flood = water everywhere!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "flood",
+        "past": "flooded",
+        "participle": "flooded"
+      }
+    }
+  },
+  {
+    "word": "injure",
+    "type": "verb",
+    "definition": "To hurt or damage part of the body.",
+    "pronunciation": {
+      "us": "/ˈɪndʒər/",
+      "uk": "/ˈɪndʒə/"
+    },
+    "examples": [
+      "He injured his arm playing soccer.",
+      "Be careful not to injure yourself."
+    ],
+    "extra": {
+      "synonyms": [
+        "hurt",
+        "wound",
+        "damage"
+      ],
+      "antonyms": [
+        "heal",
+        "protect"
+      ],
+      "memory_tip": "Injure = something hurts!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "injure",
+        "past": "injured",
+        "participle": "injured"
+      }
+    }
+  },
+  {
+    "word": "nervous",
+    "type": "adjective",
+    "definition": "Feeling worried or afraid about something.",
+    "pronunciation": {
+      "us": "/ˈnɜrvəs/",
+      "uk": "/ˈnɜːvəs/"
+    },
+    "examples": [
+      "I felt nervous before the test.",
+      "He was nervous about speaking in front of the class."
+    ],
+    "extra": {
+      "synonyms": [
+        "anxious",
+        "worried",
+        "scared"
+      ],
+      "antonyms": [
+        "calm",
+        "relaxed"
+      ],
+      "memory_tip": "Nervous = butterflies in your tummy!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "safe",
+    "type": "adjective",
+    "definition": "Not in danger; protected.",
+    "pronunciation": {
+      "us": "/seɪf/",
+      "uk": "/seɪf/"
+    },
+    "examples": [
+      "She was safe inside the house.",
+      "Always wear a helmet to stay safe."
+    ],
+    "extra": {
+      "synonyms": [
+        "secure",
+        "protected"
+      ],
+      "antonyms": [
+        "dangerous",
+        "risky"
+      ],
+      "memory_tip": "Safe = nothing bad can happen.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "signal",
+    "type": "noun,verb",
+    "definition": "A sign that gives information or warning; to send a sign.",
+    "pronunciation": {
+      "us": "/ˈsɪɡnəl/",
+      "uk": "/ˈsɪɡnəl/"
+    },
+    "examples": [
+      "The red light is a stop signal. (noun)",
+      "He signaled for help by waving. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "sign",
+        "gesture",
+        "cue"
+      ],
+      "antonyms": [
+        "silence",
+        "ignore"
+      ],
+      "memory_tip": "Signal = show something with a sign or movement.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "signal",
+        "past": "signaled",
+        "participle": "signaled"
+      }
+    }
+  }
+]

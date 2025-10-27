@@ -1,0 +1,240 @@
+[
+  {
+    "word": "calf",
+    "type": "noun",
+    "definition": "A young cow or the back part of your lower leg.",
+    "pronunciation": {
+      "us": "/kæf/",
+      "uk": "/kɑːf/"
+    },
+    "examples": [
+      "The calf stayed close to its mother.",
+      "I hurt my calf while running."
+    ],
+    "extra": {
+      "synonyms": [
+        "young cow",
+        "lower leg"
+      ],
+      "antonyms": [
+        "adult cow",
+        "thigh"
+      ],
+      "memory_tip": "Think of a baby cow or your leg below the knee.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "claw",
+    "type": "noun,verb",
+    "definition": "The sharp nail on an animal's foot; to scratch with nails or claws.",
+    "pronunciation": {
+      "us": "/klɔː/",
+      "uk": "/klɔː/"
+    },
+    "examples": [
+      "The cat scratched me with its claw. (noun)",
+      "The bear tried to claw the tree. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "nail",
+        "talon",
+        "scratch"
+      ],
+      "antonyms": [
+        "paw",
+        "smooth"
+      ],
+      "memory_tip": "Claw = grab or scratch like a cat!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "cough",
+    "type": "verb,noun",
+    "definition": "To force air from your lungs with a loud sound; the act of coughing.",
+    "pronunciation": {
+      "us": "/kɔf/",
+      "uk": "/kɒf/"
+    },
+    "examples": [
+      "He began to cough during the movie. (verb)",
+      "Her cough got worse at night. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "hack",
+        "clear throat"
+      ],
+      "antonyms": [
+        "breathe silently"
+      ],
+      "memory_tip": "Cough = sound from your throat when sick.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "crowd",
+    "type": "noun",
+    "definition": "A large group of people.",
+    "pronunciation": {
+      "us": "/kraʊd/",
+      "uk": "/kraʊd/"
+    },
+    "examples": [
+      "A crowd gathered to watch the fireworks.",
+      "We pushed through the crowd to find our seats."
+    ],
+    "extra": {
+      "synonyms": [
+        "group",
+        "gathering"
+      ],
+      "antonyms": [
+        "individual",
+        "empty"
+      ],
+      "memory_tip": "Crowd = too many people in one place!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "cushion",
+    "type": "noun",
+    "definition": "A soft pillow used to sit or rest on.",
+    "pronunciation": {
+      "us": "/ˈkʊʃən/",
+      "uk": "/ˈkʊʃən/"
+    },
+    "examples": [
+      "She sat on a big red cushion.",
+      "I hugged the cushion while watching TV."
+    ],
+    "extra": {
+      "synonyms": [
+        "pillow",
+        "pad",
+        "soft support"
+      ],
+      "antonyms": [
+        "hard surface",
+        "floor"
+      ],
+      "memory_tip": "Cushion = soft squishy thing!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "earth",
+    "type": "noun",
+    "definition": "The planet we live on; the soil or ground.",
+    "pronunciation": {
+      "us": "/ɜrθ/",
+      "uk": "/ɜːθ/"
+    },
+    "examples": [
+      "We live on planet Earth.",
+      "The worms were digging in the earth."
+    ],
+    "extra": {
+      "synonyms": [
+        "soil",
+        "planet",
+        "ground"
+      ],
+      "antonyms": [
+        "sky",
+        "air"
+      ],
+      "memory_tip": "Earth = our home or dirt!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "firm",
+    "type": "adjective",
+    "definition": "Hard or solid; not soft or weak.",
+    "pronunciation": {
+      "us": "/fɜrm/",
+      "uk": "/fɜːm/"
+    },
+    "examples": [
+      "I need a firm pillow to sleep.",
+      "She gave a firm answer—no!"
+    ],
+    "extra": {
+      "synonyms": [
+        "hard",
+        "solid",
+        "strong"
+      ],
+      "antonyms": [
+        "soft",
+        "weak"
+      ],
+      "memory_tip": "Firm = not squishy!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "frown",
+    "type": "verb,noun",
+    "definition": "To make a face that shows you’re unhappy or confused.",
+    "pronunciation": {
+      "us": "/fraʊn/",
+      "uk": "/fraʊn/"
+    },
+    "examples": [
+      "He frowned when he forgot his homework. (verb)",
+      "She had a frown on her face. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "scowl",
+        "glare"
+      ],
+      "antonyms": [
+        "smile",
+        "grin"
+      ],
+      "memory_tip": "Frown = your face goes upside-down.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "lady",
+    "type": "noun",
+    "definition": "A woman; often used politely or formally.",
+    "pronunciation": {
+      "us": "/ˈleɪdi/",
+      "uk": "/ˈleɪdi/"
+    },
+    "examples": [
+      "The lady helped me cross the street.",
+      "She is a kind and gentle lady."
+    ],
+    "extra": {
+      "synonyms": [
+        "woman",
+        "female",
+        "gentlewoman"
+      ],
+      "antonyms": [
+        "man",
+        "gentleman"
+      ],
+      "memory_tip": "Lady = a polite or nice woman.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

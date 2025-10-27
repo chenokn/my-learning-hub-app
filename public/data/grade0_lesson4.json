@@ -1,0 +1,282 @@
+[
+  {
+    "word": "rotten",
+    "type": "adjective",
+    "definition": "Bad or decayed, especially food.",
+    "pronunciation": {
+      "us": "/ˈrɑːtən/",
+      "uk": "/ˈrɒtən/"
+    },
+    "examples": [
+      "The apple is rotten.",
+      "He threw away the rotten banana."
+    ],
+    "extra": {
+      "synonyms": [
+        "spoiled",
+        "bad",
+        "decayed"
+      ],
+      "antonyms": [
+        "fresh",
+        "good"
+      ],
+      "memory_tip": "Rotten = yucky and old.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "stumble",
+    "type": "verb",
+    "definition": "To trip or lose balance while walking.",
+    "pronunciation": {
+      "us": "/ˈstʌmbəl/",
+      "uk": "/ˈstʌmbəl/"
+    },
+    "examples": [
+      "He stumbled on the rock.",
+      "She stumbled and almost fell."
+    ],
+    "extra": {
+      "synonyms": [
+        "trip",
+        "fall",
+        "tumble"
+      ],
+      "antonyms": [
+        "walk steadily",
+        "balance"
+      ],
+      "memory_tip": "Stumble = a little trip.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "stumble",
+        "stumbled",
+        "stumbling"
+      ]
+    }
+  },
+  {
+    "word": "rope",
+    "type": "noun",
+    "definition": "A thick string made of twisted fibers.",
+    "pronunciation": {
+      "us": "/roʊp/",
+      "uk": "/rəʊp/"
+    },
+    "examples": [
+      "He tied the box with a rope.",
+      "We jumped rope at school."
+    ],
+    "extra": {
+      "synonyms": [
+        "cord",
+        "line",
+        "string"
+      ],
+      "antonyms": [
+        "wire",
+        "thread"
+      ],
+      "memory_tip": "Rope = strong string.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "edge",
+    "type": "noun",
+    "definition": "The border or end part of something.",
+    "pronunciation": {
+      "us": "/ɛdʒ/",
+      "uk": "/ɛdʒ/"
+    },
+    "examples": [
+      "He stood at the edge of the pool.",
+      "The book was near the edge of the table."
+    ],
+    "extra": {
+      "synonyms": [
+        "border",
+        "rim",
+        "margin"
+      ],
+      "antonyms": [
+        "center",
+        "middle"
+      ],
+      "memory_tip": "Edge = the very outside part.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "invitation",
+    "type": "noun",
+    "definition": "A request for someone to come to an event.",
+    "pronunciation": {
+      "us": "/ˌɪnvɪˈteɪʃən/",
+      "uk": "/ˌɪnvɪˈteɪʃən/"
+    },
+    "examples": [
+      "I got an invitation to the party.",
+      "She sent out birthday invitations."
+    ],
+    "extra": {
+      "synonyms": [
+        "request",
+        "card",
+        "invite"
+      ],
+      "antonyms": [
+        "refusal",
+        "denial"
+      ],
+      "memory_tip": "Invitation = welcome card to a fun event!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "blame",
+    "type": "verb",
+    "definition": "To say someone did something wrong.",
+    "pronunciation": {
+      "us": "/bleɪm/",
+      "uk": "/bleɪm/"
+    },
+    "examples": [
+      "Don’t blame me!",
+      "He blamed the dog for the mess."
+    ],
+    "extra": {
+      "synonyms": [
+        "accuse",
+        "fault",
+        "charge"
+      ],
+      "antonyms": [
+        "praise",
+        "forgive"
+      ],
+      "memory_tip": "Blame = pointing the finger at someone.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "blame",
+        "blamed",
+        "blaming"
+      ]
+    }
+  },
+  {
+    "word": "able",
+    "type": "adjective",
+    "definition": "Having the power or skill to do something.",
+    "pronunciation": {
+      "us": "/ˈeɪbəl/",
+      "uk": "/ˈeɪbəl/"
+    },
+    "examples": [
+      "He is able to ride a bike.",
+      "She is able to help you."
+    ],
+    "extra": {
+      "synonyms": [
+        "capable",
+        "fit",
+        "ready"
+      ],
+      "antonyms": [
+        "unable",
+        "unfit"
+      ],
+      "memory_tip": "Able = can do it!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "glossy",
+    "type": "adjective",
+    "definition": "Shiny and smooth.",
+    "pronunciation": {
+      "us": "/ˈɡlɑːsi/",
+      "uk": "/ˈɡlɒsi/"
+    },
+    "examples": [
+      "The table has a glossy finish.",
+      "She wore glossy lipstick."
+    ],
+    "extra": {
+      "synonyms": [
+        "shiny",
+        "polished",
+        "smooth"
+      ],
+      "antonyms": [
+        "dull",
+        "rough"
+      ],
+      "memory_tip": "Glossy = bright and shiny like glass.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "polite",
+    "type": "adjective",
+    "definition": "Having good manners and being kind.",
+    "pronunciation": {
+      "us": "/pəˈlaɪt/",
+      "uk": "/pəˈlaɪt/"
+    },
+    "examples": [
+      "It is polite to say please and thank you.",
+      "She is very polite to everyone."
+    ],
+    "extra": {
+      "synonyms": [
+        "kind",
+        "courteous",
+        "nice"
+      ],
+      "antonyms": [
+        "rude",
+        "mean"
+      ],
+      "memory_tip": "Polite = always kind and respectful.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "naughty",
+    "type": "adjective",
+    "definition": "Not behaving well or breaking rules.",
+    "pronunciation": {
+      "us": "/ˈnɔːti/",
+      "uk": "/ˈnɔːti/"
+    },
+    "examples": [
+      "The naughty puppy chewed the shoe.",
+      "She was naughty for not listening."
+    ],
+    "extra": {
+      "synonyms": [
+        "bad",
+        "mischievous",
+        "cheeky"
+      ],
+      "antonyms": [
+        "good",
+        "well-behaved"
+      ],
+      "memory_tip": "Naughty = oops! That was wrong.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

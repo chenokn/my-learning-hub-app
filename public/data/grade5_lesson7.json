@@ -1,0 +1,470 @@
+[
+  {
+    "word": "colony",
+    "type": "noun",
+    "definition": "A group of the same kind living together, such as animals, plants, or people in a new place.",
+    "pronunciation": {
+      "us": "ˈkɑː.lə.ni",
+      "uk": "ˈkɒl.ə.ni"
+    },
+    "examples": [
+      "We saw a colony of penguins on the ice.",
+      "Ants built a large colony under the log."
+    ],
+    "extra": {
+      "synonyms": [
+        "community",
+        "settlement"
+      ],
+      "antonyms": [
+        "individual",
+        "solitude"
+      ],
+      "memory_tip": "Colony = a crowd that calls one place home.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "compensate",
+    "type": "verb",
+    "definition": "To make up for something lost or damaged; to pay someone for loss or work.",
+    "pronunciation": {
+      "us": "ˈkɑːm.pən.seɪt",
+      "uk": "ˈkɒm.pən.seɪt"
+    },
+    "examples": [
+      "The company will compensate you for the delay.",
+      "Extra practice can compensate for a missed lesson."
+    ],
+    "extra": {
+      "synonyms": [
+        "reimburse",
+        "offset",
+        "make amends"
+      ],
+      "antonyms": [
+        "deprive",
+        "shortchange"
+      ],
+      "memory_tip": "Compensate = come and set things even.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "compensate",
+        "compensated",
+        "compensating"
+      ]
+    }
+  },
+  {
+    "word": "deposit",
+    "type": "noun,verb",
+    "definition": "Money placed in a bank or a layer left by a substance; to put or place something somewhere, especially in a bank.",
+    "pronunciation": {
+      "us": "dɪˈpɑː.zɪt",
+      "uk": "dɪˈpɒz.ɪt"
+    },
+    "examples": [
+      "He paid a deposit to reserve the bike. (noun)",
+      "Winds deposit sand on the dunes. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "down payment",
+        "layer",
+        "place"
+      ],
+      "antonyms": [
+        "withdrawal",
+        "remove"
+      ],
+      "memory_tip": "Deposit = drop it down—money or material.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "deposit",
+        "deposited",
+        "depositing"
+      ]
+    }
+  },
+  {
+    "word": "fascinate",
+    "type": "verb",
+    "definition": "To attract and hold someone’s interest strongly.",
+    "pronunciation": {
+      "us": "ˈfæ.sɪ.neɪt",
+      "uk": "ˈfæ.sɪ.neɪt"
+    },
+    "examples": [
+      "Space stories fascinate many children.",
+      "The insect’s colours fascinated the class."
+    ],
+    "extra": {
+      "synonyms": [
+        "captivate",
+        "charm",
+        "intrigue"
+      ],
+      "antonyms": [
+        "bore",
+        "repel"
+      ],
+      "memory_tip": "Fascinate = fasten attention.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "fascinate",
+        "fascinated",
+        "fascinating"
+      ]
+    }
+  },
+  {
+    "word": "feeble",
+    "type": "adjective",
+    "definition": "Very weak or lacking strength, power, or effectiveness.",
+    "pronunciation": {
+      "us": "ˈfiː.bəl",
+      "uk": "ˈfiː.bəl"
+    },
+    "examples": [
+      "After the illness he felt feeble.",
+      "Their feeble excuse didn’t work."
+    ],
+    "extra": {
+      "synonyms": [
+        "weak",
+        "frail",
+        "faint"
+      ],
+      "antonyms": [
+        "strong",
+        "robust"
+      ],
+      "memory_tip": "Feeble = feels feebly faint.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "formal",
+    "type": "adjective",
+    "definition": "Following rules or customs exactly; suitable for important or official occasions.",
+    "pronunciation": {
+      "us": "ˈfɔːr.məl",
+      "uk": "ˈfɔː.məl"
+    },
+    "examples": [
+      "The letter used a formal tone.",
+      "We wore formal clothes to the ceremony."
+    ],
+    "extra": {
+      "synonyms": [
+        "official",
+        "ceremonial",
+        "proper"
+      ],
+      "antonyms": [
+        "casual",
+        "informal"
+      ],
+      "memory_tip": "Formal = follow-the-form.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "frigid",
+    "type": "adjective",
+    "definition": "Very cold; lacking warmth or friendliness.",
+    "pronunciation": {
+      "us": "ˈfrɪ.dʒɪd",
+      "uk": "ˈfrɪ.dʒɪd"
+    },
+    "examples": [
+      "We camped in frigid weather.",
+      "Her frigid reply ended the chat."
+    ],
+    "extra": {
+      "synonyms": [
+        "freezing",
+        "icy",
+        "chilly"
+      ],
+      "antonyms": [
+        "warm",
+        "friendly"
+      ],
+      "memory_tip": "Frigid = fridge-cold.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "harsh",
+    "type": "adjective",
+    "definition": "Rough, severe, or unpleasant to the senses or feelings.",
+    "pronunciation": {
+      "us": "hɑːrʃ",
+      "uk": "hɑːʃ"
+    },
+    "examples": [
+      "Harsh winds battered the coast.",
+      "The teacher’s harsh words hurt his feelings."
+    ],
+    "extra": {
+      "synonyms": [
+        "severe",
+        "rough",
+        "stern"
+      ],
+      "antonyms": [
+        "gentle",
+        "mild",
+        "soft"
+      ],
+      "memory_tip": "Harsh = hard on you.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "huddle",
+    "type": "verb,noun",
+    "definition": "To crowd together for warmth or discussion; a close, tight group.",
+    "pronunciation": {
+      "us": "ˈhʌd.əl",
+      "uk": "ˈhʌd.əl"
+    },
+    "examples": [
+      "The penguins huddle to keep warm. (verb)",
+      "The team formed a quick huddle. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "cluster",
+        "gather",
+        "crowd"
+      ],
+      "antonyms": [
+        "scatter",
+        "separate"
+      ],
+      "memory_tip": "Huddle = huddle up and huggle.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "huddle",
+        "huddled",
+        "huddling"
+      ]
+    }
+  },
+  {
+    "word": "remote",
+    "type": "adjective",
+    "definition": "Far away from places where people live; distant in relationship or time.",
+    "pronunciation": {
+      "us": "rɪˈmoʊt",
+      "uk": "rɪˈməʊt"
+    },
+    "examples": [
+      "They trekked to a remote village.",
+      "There’s only a remote chance of rain."
+    ],
+    "extra": {
+      "synonyms": [
+        "distant",
+        "isolated",
+        "far-flung"
+      ],
+      "antonyms": [
+        "nearby",
+        "central"
+      ],
+      "memory_tip": "Remote = remove it from the crowd.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "resemble",
+    "type": "verb",
+    "definition": "To look like or be similar to someone or something.",
+    "pronunciation": {
+      "us": "rɪˈzem.bəl",
+      "uk": "rɪˈzem.bəl"
+    },
+    "examples": [
+      "The twins resemble each other.",
+      "That cloud resembles a ship."
+    ],
+    "extra": {
+      "synonyms": [
+        "look like",
+        "mirror",
+        "match"
+      ],
+      "antonyms": [
+        "differ",
+        "contrast"
+      ],
+      "memory_tip": "Re-semble = seem alike again.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "resemble",
+        "resembled",
+        "resembling"
+      ]
+    }
+  },
+  {
+    "word": "rigid",
+    "type": "adjective",
+    "definition": "Stiff and not easily bent or changed.",
+    "pronunciation": {
+      "us": "ˈrɪ.dʒɪd",
+      "uk": "ˈrɪ.dʒɪd"
+    },
+    "examples": [
+      "The metal rod is rigid.",
+      "The rules are too rigid for creativity."
+    ],
+    "extra": {
+      "synonyms": [
+        "stiff",
+        "inflexible",
+        "strict"
+      ],
+      "antonyms": [
+        "flexible",
+        "loose"
+      ],
+      "memory_tip": "Rigid = right-angled rigidness.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "solitary",
+    "type": "adjective,noun",
+    "definition": "Done or existing alone; a person who prefers to be alone.",
+    "pronunciation": {
+      "us": "ˈsɑː.lɪ.ter.i",
+      "uk": "ˈsɒl.ɪ.tər.i"
+    },
+    "examples": [
+      "The owl is a solitary hunter. (adjective)",
+      "He is a solitary and enjoys quiet. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "alone",
+        "single",
+        "isolated"
+      ],
+      "antonyms": [
+        "social",
+        "group",
+        "companionship"
+      ],
+      "memory_tip": "Solitary = solo territory.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "substantial",
+    "type": "adjective",
+    "definition": "Large in amount, size, or importance; strong and well made.",
+    "pronunciation": {
+      "us": "səbˈstæn.ʃəl",
+      "uk": "səbˈstæn.ʃəl"
+    },
+    "examples": [
+      "They made a substantial donation to the library.",
+      "The bridge needs substantial repairs."
+    ],
+    "extra": {
+      "synonyms": [
+        "considerable",
+        "significant",
+        "solid"
+      ],
+      "antonyms": [
+        "minor",
+        "slight",
+        "insubstantial"
+      ],
+      "memory_tip": "Substantial = a ‘substance’-full amount.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "waddle",
+    "type": "verb,noun",
+    "definition": "To walk with short steps, swaying from side to side; that kind of walk.",
+    "pronunciation": {
+      "us": "ˈwɑː.dəl",
+      "uk": "ˈwɒd.əl"
+    },
+    "examples": [
+      "The ducklings waddle to the pond. (verb)",
+      "The penguin’s waddle made us smile. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "toddle",
+        "shuffle"
+      ],
+      "antonyms": [
+        "stride",
+        "dash"
+      ],
+      "memory_tip": "Waddle = wobble as you walk.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "waddle",
+        "waddled",
+        "waddling"
+      ]
+    }
+  },
+  {
+    "word": "lure",
+    "type": "noun,verb",
+    "definition": "Something that attracts; to attract or tempt someone or an animal.",
+    "pronunciation": {
+      "us": "lʊr",
+      "uk": "ljʊə"
+    },
+    "examples": [
+      "The bright lure glinted in the water. (noun)",
+      "The smell of bread lured the ducks. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "attraction",
+        "temptation",
+        "entice"
+      ],
+      "antonyms": [
+        "repel",
+        "deter"
+      ],
+      "memory_tip": "Lure = lure them in like a magnet.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "lure",
+        "lured",
+        "luring"
+      ]
+    }
+  }
+]

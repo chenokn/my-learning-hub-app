@@ -1,0 +1,292 @@
+[
+  {
+    "word": "cushion",
+    "type": "noun",
+    "definition": "A soft pillow or pad used to make sitting more comfortable.",
+    "pronunciation": {
+      "us": "/ˈkʊʃən/",
+      "uk": "/ˈkʊʃ(ə)n/"
+    },
+    "examples": [
+      "She sat on a soft cushion.",
+      "We put cushions on the couch."
+    ],
+    "extra": {
+      "synonyms": [
+        "pillow",
+        "pad",
+        "soft support"
+      ],
+      "antonyms": [
+        "hard seat",
+        "wooden surface"
+      ],
+      "memory_tip": "Cushion = soft place to sit or lean!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "touch",
+    "type": "verb,noun",
+    "definition": "To feel something by putting your hand on it; the act of feeling something.",
+    "pronunciation": {
+      "us": "/tʌtʃ/",
+      "uk": "/tʌtʃ/"
+    },
+    "examples": [
+      "Don’t touch the stove. (verb)",
+      "Her touch was gentle. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "feel",
+        "tap",
+        "press"
+      ],
+      "antonyms": [
+        "ignore",
+        "avoid"
+      ],
+      "memory_tip": "Touch = feel with your skin!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "touch",
+        "touched",
+        "touching"
+      ]
+    }
+  },
+  {
+    "word": "smooth",
+    "type": "adjective",
+    "definition": "Having no bumps or rough parts.",
+    "pronunciation": {
+      "us": "/smuð/",
+      "uk": "/smuːð/"
+    },
+    "examples": [
+      "The glass was smooth.",
+      "She wore a smooth dress."
+    ],
+    "extra": {
+      "synonyms": [
+        "soft",
+        "even",
+        "flat"
+      ],
+      "antonyms": [
+        "rough",
+        "bumpy"
+      ],
+      "memory_tip": "Smooth = no bumps at all!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "metal",
+    "type": "noun",
+    "definition": "A hard and shiny material used in tools and machines.",
+    "pronunciation": {
+      "us": "/ˈmɛtəl/",
+      "uk": "/ˈmɛt(ə)l/"
+    },
+    "examples": [
+      "The spoon is made of metal.",
+      "They built the fence from metal."
+    ],
+    "extra": {
+      "synonyms": [
+        "steel",
+        "iron",
+        "aluminum"
+      ],
+      "antonyms": [
+        "wood",
+        "plastic"
+      ],
+      "memory_tip": "Metal = strong and shiny!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "silky",
+    "type": "adjective",
+    "definition": "Very smooth and soft, like silk.",
+    "pronunciation": {
+      "us": "/ˈsɪlki/",
+      "uk": "/ˈsɪlki/"
+    },
+    "examples": [
+      "Her hair feels silky.",
+      "The cat had silky fur."
+    ],
+    "extra": {
+      "synonyms": [
+        "soft",
+        "smooth",
+        "sleek"
+      ],
+      "antonyms": [
+        "rough",
+        "dry"
+      ],
+      "memory_tip": "Silky = super smooth like silk!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "include",
+    "type": "verb",
+    "definition": "To let something be part of a group or set.",
+    "pronunciation": {
+      "us": "/ɪnˈklud/",
+      "uk": "/ɪnˈkluːd/"
+    },
+    "examples": [
+      "Please include your name on the list.",
+      "She included everyone in the game."
+    ],
+    "extra": {
+      "synonyms": [
+        "add",
+        "involve",
+        "contain"
+      ],
+      "antonyms": [
+        "exclude",
+        "leave out"
+      ],
+      "memory_tip": "Include = don’t leave out!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "include",
+        "included",
+        "including"
+      ]
+    }
+  },
+  {
+    "word": "comfort",
+    "type": "noun,verb",
+    "definition": "A feeling of ease or care; to help someone feel better.",
+    "pronunciation": {
+      "us": "/ˈkʌmfərt/",
+      "uk": "/ˈkʌmfət/"
+    },
+    "examples": [
+      "This chair gives great comfort. (noun)",
+      "She comforted her sad friend. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "ease",
+        "relief",
+        "soothe"
+      ],
+      "antonyms": [
+        "pain",
+        "hurt"
+      ],
+      "memory_tip": "Comfort = feel cozy and safe.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "comfort",
+        "comforted",
+        "comforting"
+      ]
+    }
+  },
+  {
+    "word": "stroke",
+    "type": "verb,noun",
+    "definition": "To gently move your hand across something; a gentle touch.",
+    "pronunciation": {
+      "us": "/stroʊk/",
+      "uk": "/strəʊk/"
+    },
+    "examples": [
+      "He stroked the cat. (verb)",
+      "She gave the dog a stroke. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "pet",
+        "rub",
+        "caress"
+      ],
+      "antonyms": [
+        "hit",
+        "slap"
+      ],
+      "memory_tip": "Stroke = soft touch with your hand.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "stroke",
+        "stroked",
+        "stroking"
+      ]
+    }
+  },
+  {
+    "word": "hard",
+    "type": "adjective",
+    "definition": "Not soft; difficult to press or bend.",
+    "pronunciation": {
+      "us": "/hɑrd/",
+      "uk": "/hɑːd/"
+    },
+    "examples": [
+      "The rock is hard.",
+      "It’s hard to open this jar."
+    ],
+    "extra": {
+      "synonyms": [
+        "firm",
+        "solid",
+        "tough"
+      ],
+      "antonyms": [
+        "soft",
+        "easy"
+      ],
+      "memory_tip": "Hard = strong or tricky.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "gentle",
+    "type": "adjective",
+    "definition": "Kind, soft, and careful.",
+    "pronunciation": {
+      "us": "/ˈdʒɛntəl/",
+      "uk": "/ˈdʒentl/"
+    },
+    "examples": [
+      "Be gentle with the baby.",
+      "He gave the puppy a gentle hug."
+    ],
+    "extra": {
+      "synonyms": [
+        "soft",
+        "kind",
+        "tender"
+      ],
+      "antonyms": [
+        "rough",
+        "harsh"
+      ],
+      "memory_tip": "Gentle = soft and nice.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

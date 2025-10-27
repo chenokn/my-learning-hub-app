@@ -1,0 +1,564 @@
+[
+  {
+    "word": "people",
+    "type": "noun,verb",
+    "definition": "Human beings considered as a group; to fill a place with people.",
+    "pronunciation": {
+      "us": "PEE-puhl",
+      "uk": "PEE-puhl"
+    },
+    "examples": [
+      "Many people visited the museum. (noun)",
+      "Settlers peopled the new town. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "humans",
+        "persons",
+        "populate (verb)"
+      ],
+      "antonyms": [
+        "animals (contrast)",
+        "nobody"
+      ],
+      "memory_tip": "People = persons in a place; to people = to fill with persons.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "people",
+        "peopled",
+        "peopling"
+      ]
+    }
+  },
+  {
+    "word": "animal",
+    "type": "noun",
+    "definition": "A living creature that is not a plant, such as a dog, bird, or fish.",
+    "pronunciation": {
+      "us": "AN-ih-muhl",
+      "uk": "AN-ih-muhl"
+    },
+    "examples": [
+      "The zoo has many wild animals.",
+      "A fox is a clever animal."
+    ],
+    "extra": {
+      "synonyms": [
+        "creature",
+        "beast"
+      ],
+      "antonyms": [
+        "plant",
+        "human (contrast)"
+      ],
+      "memory_tip": "Animal = a living creature that can move and eat.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "ripple",
+    "type": "noun,verb",
+    "definition": "A small wave or series of waves; to form small waves or spread outward.",
+    "pronunciation": {
+      "us": "RIP-uhl",
+      "uk": "RIP-uhl"
+    },
+    "examples": [
+      "Wind made ripples on the pond. (noun)",
+      "Laughter rippled through the class. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "wavelet",
+        "undulation",
+        "spread"
+      ],
+      "antonyms": [
+        "calm",
+        "stillness"
+      ],
+      "memory_tip": "Ripple = little waves that run across water (or sound across a room).",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "ripple",
+        "rippled",
+        "rippling"
+      ]
+    }
+  },
+  {
+    "word": "dial",
+    "type": "noun,verb",
+    "definition": "A round control with numbers or marks; to make a phone call or set a control.",
+    "pronunciation": {
+      "us": "DYE-uhl",
+      "uk": "DYE-uhl"
+    },
+    "examples": [
+      "Turn the dial to increase the volume. (noun)",
+      "Please dial the number now. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "knob",
+        "gauge",
+        "call (verb)"
+      ],
+      "antonyms": [
+        "hang up (contrast)",
+        "disconnect (contrast)"
+      ],
+      "memory_tip": "Dial = round face you twist, or the action to call.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "dial",
+        "dialled",
+        "dialling"
+      ]
+    }
+  },
+  {
+    "word": "pedal",
+    "type": "noun,verb",
+    "definition": "A foot lever used to control a machine or instrument; to move a bicycle by pushing the pedals.",
+    "pronunciation": {
+      "us": "PED-uhl",
+      "uk": "PED-uhl"
+    },
+    "examples": [
+      "Press the brake pedal gently. (noun)",
+      "We pedalled up the hill. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "foot lever",
+        "treadle",
+        "cycle (verb)"
+      ],
+      "antonyms": [
+        "hand control (contrast)",
+        "coast (contrast)"
+      ],
+      "memory_tip": "Pedal = your foot’s place to push.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "pedal",
+        "pedalled",
+        "pedalling"
+      ]
+    }
+  },
+  {
+    "word": "sample",
+    "type": "noun,verb,adjective",
+    "definition": "A small part to show what the whole is like; to try or test a small amount; meant for trying.",
+    "pronunciation": {
+      "us": "SAM-puhl",
+      "uk": "SAHM-puhl"
+    },
+    "examples": [
+      "We tasted a sample of the soup. (noun)",
+      "Scientists sampled the water. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "specimen",
+        "example",
+        "test"
+      ],
+      "antonyms": [
+        "whole",
+        "entirety"
+      ],
+      "memory_tip": "Sample = a small slice of the big thing.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "sample",
+        "sampled",
+        "sampling"
+      ]
+    }
+  },
+  {
+    "word": "jungle",
+    "type": "noun",
+    "definition": "A thick, tropical forest with many plants and animals.",
+    "pronunciation": {
+      "us": "JUNG-guhl",
+      "uk": "JUNG-guhl"
+    },
+    "examples": [
+      "Monkeys swung through the jungle.",
+      "The jungle was hot and noisy with life."
+    ],
+    "extra": {
+      "synonyms": [
+        "rainforest",
+        "thicket"
+      ],
+      "antonyms": [
+        "desert",
+        "tundra"
+      ],
+      "memory_tip": "Jungle = jam-packed forest.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "moral",
+    "type": "adjective,noun",
+    "definition": "About what is right or wrong in behaviour; the lesson from a story.",
+    "pronunciation": {
+      "us": "MOR-uhl",
+      "uk": "MOR-uhl"
+    },
+    "examples": [
+      "He faced a moral choice. (adjective)",
+      "The moral of the story is to be honest. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "ethical",
+        "lesson"
+      ],
+      "antonyms": [
+        "immoral",
+        "amoral"
+      ],
+      "memory_tip": "Moral = your guide about right and wrong.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "castle",
+    "type": "noun",
+    "definition": "A large, strong building with thick walls, towers, and sometimes a moat.",
+    "pronunciation": {
+      "us": "KAS-uhl",
+      "uk": "KAH-suhl"
+    },
+    "examples": [
+      "The castle stood high on the hill.",
+      "We crossed the bridge to the old castle."
+    ],
+    "extra": {
+      "synonyms": [
+        "fortress",
+        "stronghold"
+      ],
+      "antonyms": [
+        "hut (contrast)",
+        "cottage (contrast)"
+      ],
+      "memory_tip": "Castle = king’s stone house with towers.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "actual",
+    "type": "adjective",
+    "definition": "Real and true; existing in fact.",
+    "pronunciation": {
+      "us": "AK-choo-uhl",
+      "uk": "AK-choo-uhl"
+    },
+    "examples": [
+      "The actual cost was lower than we thought.",
+      "He showed the actual photo from the trip."
+    ],
+    "extra": {
+      "synonyms": [
+        "real",
+        "factual",
+        "genuine"
+      ],
+      "antonyms": [
+        "imagined",
+        "theoretical"
+      ],
+      "memory_tip": "Actual = not pretend—really there.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "trial",
+    "type": "noun,verb",
+    "definition": "A test or court case to decide truth; to test something to see how it works.",
+    "pronunciation": {
+      "us": "TRY-ul",
+      "uk": "TRY-uhl"
+    },
+    "examples": [
+      "We ran a trial of the new app. (noun)",
+      "The school will trial the schedule next term. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "test",
+        "exam",
+        "pilot"
+      ],
+      "antonyms": [
+        "result",
+        "certainty"
+      ],
+      "memory_tip": "Trial = try-all to see if it works.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "trial (verb)",
+        "trialled",
+        "trialling"
+      ]
+    }
+  },
+  {
+    "word": "apple",
+    "type": "noun",
+    "definition": "A round fruit with red, green, or yellow skin and crisp flesh.",
+    "pronunciation": {
+      "us": "AP-uhl",
+      "uk": "AP-uhl"
+    },
+    "examples": [
+      "She packed an apple for lunch.",
+      "We baked an apple pie."
+    ],
+    "extra": {
+      "synonyms": [
+        "fruit (apple)"
+      ],
+      "antonyms": [
+        "vegetable (contrast)"
+      ],
+      "memory_tip": "Apple a day keeps the doctor away.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "spiral",
+    "type": "noun,verb,adjective",
+    "definition": "A curve that winds around a centre; shaped like a spiral.",
+    "pronunciation": {
+      "us": "SPY-ruhl",
+      "uk": "SPY-ruhl"
+    },
+    "examples": [
+      "A spiral of smoke rose from the chimney. (noun)",
+      "Leaves spiralled to the ground. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "coil",
+        "twist",
+        "helix"
+      ],
+      "antonyms": [
+        "line",
+        "straight"
+      ],
+      "memory_tip": "Spiral = spins round and round from the centre.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "spiral",
+        "spiralled",
+        "spiralling"
+      ]
+    }
+  },
+  {
+    "word": "logical",
+    "type": "adjective",
+    "definition": "Reasonable and based on clear thinking.",
+    "pronunciation": {
+      "us": "LOJ-ih-kul",
+      "uk": "LOJ-ih-kul"
+    },
+    "examples": [
+      "That is a logical solution.",
+      "She followed a logical order in her notes."
+    ],
+    "extra": {
+      "synonyms": [
+        "rational",
+        "sensible",
+        "coherent"
+      ],
+      "antonyms": [
+        "illogical",
+        "absurd"
+      ],
+      "memory_tip": "Logical = it ‘logs’ together and makes sense.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "national",
+    "type": "adjective,noun",
+    "definition": "Relating to a nation; a citizen of a particular nation.",
+    "pronunciation": {
+      "us": "NASH-uh-nuhl",
+      "uk": "NASH-uh-nuhl"
+    },
+    "examples": [
+      "There was a national holiday. (adjective)",
+      "She is a French national. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "countrywide",
+        "state",
+        "citizen (noun)"
+      ],
+      "antonyms": [
+        "local (contrast)",
+        "foreign (contrast)"
+      ],
+      "memory_tip": "National = about the whole country.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "regional",
+    "type": "adjective",
+    "definition": "Relating to a particular area of a country or the world.",
+    "pronunciation": {
+      "us": "REE-juh-nuhl",
+      "uk": "REE-juh-nuhl"
+    },
+    "examples": [
+      "There are regional accents in English.",
+      "We compared regional weather patterns."
+    ],
+    "extra": {
+      "synonyms": [
+        "local",
+        "area-based"
+      ],
+      "antonyms": [
+        "national",
+        "global"
+      ],
+      "memory_tip": "Regional = focused on one region.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "electrical",
+    "type": "adjective",
+    "definition": "Related to electricity or devices that use it.",
+    "pronunciation": {
+      "us": "ih-LEK-tri-kuhl",
+      "uk": "ih-LEK-tri-kuhl"
+    },
+    "examples": [
+      "An electrical fault cut the power.",
+      "Always be careful with electrical sockets."
+    ],
+    "extra": {
+      "synonyms": [
+        "powered",
+        "electronic (related)"
+      ],
+      "antonyms": [
+        "manual (contrast)",
+        "mechanical (contrast)"
+      ],
+      "memory_tip": "Electrical = runs on electric power.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "monorail",
+    "type": "noun",
+    "definition": "A railway in which the track consists of a single rail, often elevated.",
+    "pronunciation": {
+      "us": "MON-uh-rayl",
+      "uk": "MON-uh-rayl"
+    },
+    "examples": [
+      "We rode the monorail across the city.",
+      "The airport monorail arrives every five minutes."
+    ],
+    "extra": {
+      "synonyms": [
+        "single-rail train"
+      ],
+      "antonyms": [
+        "dual-rail train (contrast)"
+      ],
+      "memory_tip": "Mono = one; rail = track → one-rail train.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "multicultural",
+    "type": "adjective",
+    "definition": "Including or involving people from many different cultures.",
+    "pronunciation": {
+      "us": "MUL-tee-KUL-chuh-rul",
+      "uk": "MUL-tee-KUL-chuh-rul"
+    },
+    "examples": [
+      "Our school hosts a multicultural fair.",
+      "The city is proudly multicultural."
+    ],
+    "extra": {
+      "synonyms": [
+        "diverse",
+        "inclusive"
+      ],
+      "antonyms": [
+        "monocultural"
+      ],
+      "memory_tip": "Multicultural = many cultures together.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "illegal",
+    "type": "adjective",
+    "definition": "Against the law; not allowed by rules or the government.",
+    "pronunciation": {
+      "us": "ih-LEE-guhl",
+      "uk": "ih-LEE-guhl"
+    },
+    "examples": [
+      "It is illegal to drive without a licence.",
+      "Selling those items here is illegal."
+    ],
+    "extra": {
+      "synonyms": [
+        "unlawful",
+        "forbidden",
+        "prohibited"
+      ],
+      "antonyms": [
+        "legal",
+        "lawful",
+        "permitted"
+      ],
+      "memory_tip": "Illegal = not legal.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

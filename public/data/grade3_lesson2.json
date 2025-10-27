@@ -1,0 +1,181 @@
+[
+  {
+    "word": "attract",
+    "type": "verb",
+    "definition": "To draw someone or something closer by interest, beauty, or force.",
+    "pronunciation": { "us": "uh-TRAKT", "uk": "uh-TRAKT" },
+    "examples": [
+      "Bright flowers attract bees.",
+      "The poster attracted a lot of attention."
+    ],
+    "extra": {
+      "synonyms": ["draw", "lure", "entice"],
+      "antonyms": ["repel", "deter"],
+      "memory_tip": "Attract = ‘a track’ that pulls you in.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["attract", "attracted", "attracting"]
+    }
+  },
+  {
+    "word": "crew",
+    "type": "noun,verb",
+    "definition": "A group of people working together on a job or vehicle; to staff or man a vehicle or activity.",
+    "pronunciation": { "us": "kroo", "uk": "kroo" },
+    "examples": [
+      "The film crew set up the camera. (noun)",
+      "Parents crewed the snack stall at sports day. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["team", "staff", "group"],
+      "antonyms": ["passengers (contrast)", "outsiders"],
+      "memory_tip": "Crew = the team that ‘does the work’.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["crew (verb)", "crewed", "crewing"]
+    }
+  },
+  {
+    "word": "dangle",
+    "type": "verb",
+    "definition": "To hang loosely and swing back and forth.",
+    "pronunciation": { "us": "DANG-guhl", "uk": "DANG-guhl" },
+    "examples": [
+      "Keys dangled from the hook.",
+      "He dangled his feet over the water."
+    ],
+    "extra": {
+      "synonyms": ["hang", "swing", "droop"],
+      "antonyms": ["secure", "fasten"],
+      "memory_tip": "Dangle = hang down and jiggle.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["dangle", "dangled", "dangling"]
+    }
+  },
+  {
+    "word": "drift",
+    "type": "verb,noun",
+    "definition": "To move slowly without control; a slow movement from one place to another.",
+    "pronunciation": { "us": "drift", "uk": "drift" },
+    "examples": [
+      "Clouds drifted across the sky. (verb)",
+      "A drift of leaves piled against the curb. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["float", "wander", "glide"],
+      "antonyms": ["anchor", "fix"],
+      "memory_tip": "Drift = move with the flow.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["drift", "drifted", "drifting"]
+    }
+  },
+  {
+    "word": "event",
+    "type": "noun",
+    "definition": "Something that happens, especially something important or organised.",
+    "pronunciation": { "us": "ee-VENT", "uk": "ee-VENT" },
+    "examples": [
+      "Sports day is our biggest school event.",
+      "The eclipse was a rare event."
+    ],
+    "extra": {
+      "synonyms": ["occurrence", "happening", "occasion"],
+      "antonyms": ["non-event", "routine (contrast)"],
+      "memory_tip": "Event = a notable ‘happening’.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "launch",
+    "type": "verb,noun",
+    "definition": "To start or send off; the act of starting or sending off.",
+    "pronunciation": { "us": "lawnch", "uk": "lawnch" },
+    "examples": [
+      "They will launch the new app on Monday. (verb)",
+      "We watched the rocket launch on TV. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["start", "begin", "send off"],
+      "antonyms": ["land", "cancel"],
+      "memory_tip": "Launch = push off into motion.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["launch", "launched", "launching"]
+    }
+  },
+  {
+    "word": "opposite",
+    "type": "adjective,noun,adverb",
+    "definition": "Completely different or on the other side; a thing that is completely different; on the other side.",
+    "pronunciation": { "us": "OP-uh-zit", "uk": "OP-uh-zit" },
+    "examples": [
+      "Hot is the opposite of cold. (adjective)",
+      "We sat on the opposite of the argument. (noun/adjective)",
+      "The shop is opposite the bank. (adverb)"
+    ],
+    "extra": {
+      "synonyms": ["contrary", "reverse", "across"],
+      "antonyms": ["same", "identical", "nearby (contrast)"],
+      "memory_tip": "Opposite = positioned ‘opposing’ or completely different.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "reverse",
+    "type": "verb,noun,adjective",
+    "definition": "To move or turn backward; the opposite or back side; going in the opposite direction.",
+    "pronunciation": { "us": "ri-VURS", "uk": "ri-VUHRS" },
+    "examples": [
+      "Please reverse the car into the space. (verb)",
+      "The coin’s reverse shows a bird. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["back up", "invert", "opposite"],
+      "antonyms": ["advance", "continue", "forward"],
+      "memory_tip": "Reverse = re-verse—turn the verse around.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["reverse", "reversed", "reversing"]
+    }
+  },
+  {
+    "word": "signal",
+    "type": "noun,verb,adjective",
+    "definition": "A sign that gives information; to give a sign; notable or important.",
+    "pronunciation": { "us": "SIG-nuhl", "uk": "SIG-nuhl" },
+    "examples": [
+      "Wait for the green signal to cross. (noun)",
+      "She signalled for help with a torch. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["sign", "cue", "indicate"],
+      "antonyms": ["noise (contrast)", "ignore (verb)"],
+      "memory_tip": "Signal = a sign that ‘tells’.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["signal", "signalled", "signalling"]
+    }
+  },
+  {
+    "word": "steer",
+    "type": "verb,noun",
+    "definition": "To guide the direction of a vehicle or course; a male bovine (young ox).",
+    "pronunciation": { "us": "steer", "uk": "steer" },
+    "examples": [
+      "Can you steer the boat while I tie the rope? (verb)",
+      "The farmer sold a young steer at the market. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["guide", "direct", "control"],
+      "antonyms": ["misguide", "drift"],
+      "memory_tip": "Steer = ‘steer the wheel’ or a farm animal.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["steer", "steered", "steering"]
+    }
+  }
+]

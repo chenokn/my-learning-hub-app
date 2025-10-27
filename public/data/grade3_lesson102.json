@@ -1,0 +1,430 @@
+[
+  {
+    "word": "accustom",
+    "type": "verb",
+    "definition": "to make someone or yourself familiar with something so that it seems normal or usual",
+    "pronunciation": {
+      "us": "/əˈkʌstəm/",
+      "uk": "/əˈkʌstəm/"
+    },
+    "examples": [
+      "It took me a while to accustom myself to waking up early.",
+      "You will soon accustom your dog to its new home."
+    ],
+    "extra": {
+      "synonyms": [
+        "adapt",
+        "familiarize",
+        "adjust"
+      ],
+      "antonyms": [
+        "shock",
+        "surprise"
+      ],
+      "memory_tip": "ACCUSTOM = A custom becomes normal after practice.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "alert",
+    "type": "adjective",
+    "definition": "quick to notice things and ready to act",
+    "pronunciation": {
+      "us": "/əˈlɜrt/",
+      "uk": "/əˈlɜːt/"
+    },
+    "examples": [
+      "The guard stayed alert through the night.",
+      "Be alert when you cross the road."
+    ],
+    "extra": {
+      "synonyms": [
+        "watchful",
+        "attentive",
+        "aware"
+      ],
+      "antonyms": [
+        "sleepy",
+        "careless"
+      ],
+      "memory_tip": "ALERT = Always Look, Eyes Ready to Take action!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "assign",
+    "type": "verb",
+    "definition": "to give someone a job or task",
+    "pronunciation": {
+      "us": "/əˈsaɪn/",
+      "uk": "/əˈsaɪn/"
+    },
+    "examples": [
+      "The teacher will assign partners for the project.",
+      "Dad assigned me the job of washing the car."
+    ],
+    "extra": {
+      "synonyms": [
+        "appoint",
+        "allocate",
+        "give"
+      ],
+      "antonyms": [
+        "withhold",
+        "refuse"
+      ],
+      "memory_tip": "ASSIGN = A sign that the task is yours!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "aware",
+    "type": "adjective",
+    "definition": "knowing or noticing something",
+    "pronunciation": {
+      "us": "/əˈwɛr/",
+      "uk": "/əˈweə/"
+    },
+    "examples": [
+      "She is aware of the classroom rules.",
+      "Be aware of cars when riding your bike."
+    ],
+    "extra": {
+      "synonyms": [
+        "conscious",
+        "mindful",
+        "alert"
+      ],
+      "antonyms": [
+        "unaware",
+        "ignorant"
+      ],
+      "memory_tip": "AWARE rhymes with 'care'—you care enough to notice.",
+      "tier": 2,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "burly",
+    "type": "adjective",
+    "definition": "big and strong",
+    "pronunciation": {
+      "us": "/ˈbɜrli/",
+      "uk": "/ˈbɜːli/"
+    },
+    "examples": [
+      "The burly firefighter carried the dog to safety.",
+      "A burly lumberjack chopped the log in one swing."
+    ],
+    "extra": {
+      "synonyms": [
+        "muscular",
+        "hefty",
+        "sturdy"
+      ],
+      "antonyms": [
+        "slim",
+        "weak"
+      ],
+      "memory_tip": "BURly = Big, Unusually Robust, Like Yeti!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "concept",
+    "type": "noun",
+    "definition": "an idea or thought",
+    "pronunciation": {
+      "us": "/ˈkɑnˌsɛpt/",
+      "uk": "/ˈkɒnsept/"
+    },
+    "examples": [
+      "We learned the concept of fractions today.",
+      "The concept of time zones was new to him."
+    ],
+    "extra": {
+      "synonyms": [
+        "idea",
+        "notion",
+        "thought"
+      ],
+      "antonyms": [
+        "reality",
+        "fact"
+      ],
+      "memory_tip": "CONCEPT = Connect ideas together.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "construct",
+    "type": "verb",
+    "definition": "to build or put together",
+    "pronunciation": {
+      "us": "/kənˈstrʌkt/",
+      "uk": "/kənˈstrʌkt/"
+    },
+    "examples": [
+      "Engineers will construct a new bridge.",
+      "We used blocks to construct a tall tower."
+    ],
+    "extra": {
+      "synonyms": [
+        "build",
+        "create",
+        "assemble"
+      ],
+      "antonyms": [
+        "destroy",
+        "demolish"
+      ],
+      "memory_tip": "CONSTRUCT = Con-struct—they ‘structure’ something new.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "grace",
+    "type": "noun",
+    "definition": "smooth and beautiful movement; kindness or courtesy",
+    "pronunciation": {
+      "us": "/ɡreɪs/",
+      "uk": "/ɡreɪs/"
+    },
+    "examples": [
+      "The ballerina danced with grace.",
+      "He accepted the apology with grace."
+    ],
+    "extra": {
+      "synonyms": [
+        "elegance",
+        "poise",
+        "kindness"
+      ],
+      "antonyms": [
+        "clumsiness",
+        "awkwardness"
+      ],
+      "memory_tip": "GRACE = Glide like lace.",
+      "tier": 2,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "graceful",
+    "type": "adjective",
+    "definition": "moving in a smooth and attractive way",
+    "pronunciation": {
+      "us": "/ˈɡreɪsfl/",
+      "uk": "/ˈɡreɪsfl/"
+    },
+    "examples": [
+      "The swan is a graceful bird.",
+      "Her handwriting is small and graceful."
+    ],
+    "extra": {
+      "synonyms": [
+        "elegant",
+        "fluid",
+        "supple"
+      ],
+      "antonyms": [
+        "clumsy",
+        "awkward"
+      ],
+      "memory_tip": "GRACE-ful = FULL of grace.",
+      "tier": 2,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "master",
+    "type": "noun",
+    "definition": "someone who is very skilled at something",
+    "pronunciation": {
+      "us": "/ˈmæstər/",
+      "uk": "/ˈmɑːstə/"
+    },
+    "examples": [
+      "She is a chess master at just ten years old.",
+      "The chef is a master of Italian cooking."
+    ],
+    "extra": {
+      "synonyms": [
+        "expert",
+        "champion",
+        "pro"
+      ],
+      "antonyms": [
+        "novice",
+        "beginner"
+      ],
+      "memory_tip": "MASTER = Ma-Star—be the star at it!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "patriot",
+    "type": "noun",
+    "definition": "a person who loves and supports their country",
+    "pronunciation": {
+      "us": "/ˈpeɪtriət/",
+      "uk": "/ˈpætriət/"
+    },
+    "examples": [
+      "The patriot proudly waved the flag.",
+      "A true patriot works hard to help their country."
+    ],
+    "extra": {
+      "synonyms": [
+        "supporter",
+        "loyalist",
+        "nationalist"
+      ],
+      "antonyms": [
+        "traitor",
+        "defector"
+      ],
+      "memory_tip": "PATRIOT = PAT you on the back for loving your land.",
+      "tier": 2,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "patriotic",
+    "type": "adjective",
+    "definition": "showing love for one's country",
+    "pronunciation": {
+      "us": "/ˌpeɪtriˈɑːtɪk/",
+      "uk": "/ˌpætriˈɒtɪk/"
+    },
+    "examples": [
+      "We sang a patriotic song at the ceremony.",
+      "The stadium was covered in patriotic colors."
+    ],
+    "extra": {
+      "synonyms": [
+        "loyal",
+        "nationalistic",
+        "devoted"
+      ],
+      "antonyms": [
+        "unpatriotic",
+        "disloyal"
+      ],
+      "memory_tip": "PATRIOTIC—picture waving your flag until it ‘sticks’.",
+      "tier": 2,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "project",
+    "type": "noun",
+    "definition": "a task or activity that takes planning and work",
+    "pronunciation": {
+      "us": "/ˈprɑːdʒekt/",
+      "uk": "/ˈprɒdʒekt/"
+    },
+    "examples": [
+      "Our science project is about volcanoes.",
+      "The class worked together on the art project."
+    ],
+    "extra": {
+      "synonyms": [
+        "task",
+        "assignment",
+        "plan"
+      ],
+      "antonyms": [],
+      "memory_tip": "PRO-ject = A PRO’s plan you ‘launch’.",
+      "tier": 2,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "respond",
+    "type": "verb",
+    "definition": "to answer or reply",
+    "pronunciation": {
+      "us": "/rɪˈspɑːnd/",
+      "uk": "/rɪˈspɒnd/"
+    },
+    "examples": [
+      "Please respond to the invitation by Friday.",
+      "The dog will respond when you call its name."
+    ],
+    "extra": {
+      "synonyms": [
+        "reply",
+        "answer",
+        "react"
+      ],
+      "antonyms": [
+        "ignore",
+        "overlook"
+      ],
+      "memory_tip": "RESPOND = REply Soon.",
+      "tier": 2,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "response",
+    "type": "noun",
+    "definition": "an answer or reply",
+    "pronunciation": {
+      "us": "/rɪˈspɑːns/",
+      "uk": "/rɪˈspɒns/"
+    },
+    "examples": [
+      "Her response to the question was correct.",
+      "We are waiting for the team's response."
+    ],
+    "extra": {
+      "synonyms": [
+        "reply",
+        "answer",
+        "reaction"
+      ],
+      "antonyms": [
+        "silence"
+      ],
+      "memory_tip": "RESPONSE = REply in a few moments.",
+      "tier": 2,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "retire",
+    "type": "verb",
+    "definition": "to stop working, usually because of age",
+    "pronunciation": {
+      "us": "/rɪˈtaɪr/",
+      "uk": "/rɪˈtaɪə/"
+    },
+    "examples": [
+      "My grandpa will retire from his job next year.",
+      "She was tired and decided to retire early for the night."
+    ],
+    "extra": {
+      "synonyms": [
+        "quit",
+        "leave",
+        "step down"
+      ],
+      "antonyms": [
+        "work",
+        "continue"
+      ],
+      "memory_tip": "Re-tire = take off your ‘work tires’ and rest!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

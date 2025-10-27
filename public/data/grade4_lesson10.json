@@ -1,0 +1,267 @@
+[
+  {
+    "word": "ail",
+    "type": "verb",
+    "definition": "To cause pain, sickness, or trouble; to feel unwell.",
+    "pronunciation": { "us": "ayl", "uk": "ayl" },
+    "examples": [
+      "What ails the old engine?",
+      "He has been ailing with a cold."
+    ],
+    "extra": {
+      "synonyms": ["hurt", "trouble", "afflict"],
+      "antonyms": ["heal", "soothe", "comfort"],
+      "memory_tip": "Ail = a small ache or illness.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["ail", "ailed", "ailing"]
+    }
+  },
+  {
+    "word": "banish",
+    "type": "verb",
+    "definition": "To send someone away from a place; to get rid of something unwanted.",
+    "pronunciation": { "us": "BAN-ish", "uk": "BAN-ish" },
+    "examples": [
+      "The king banished the traitor.",
+      "A walk helped banish her worries."
+    ],
+    "extra": {
+      "synonyms": ["expel", "exile", "dismiss"],
+      "antonyms": ["welcome", "admit", "include"],
+      "memory_tip": "Banish = ‘ban’ and push out.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["banish", "banished", "banishing"]
+    }
+  },
+  {
+    "word": "communicate",
+    "type": "verb",
+    "definition": "To share ideas or information; to make your thoughts known.",
+    "pronunciation": { "us": "kuh-MYOO-ni-kayt", "uk": "kuh-MYOO-ni-kayt" },
+    "examples": [
+      "We communicate by talking, writing, or drawing.",
+      "Please communicate any changes early."
+    ],
+    "extra": {
+      "synonyms": ["share", "express", "convey"],
+      "antonyms": ["hide", "withhold", "suppress"],
+      "memory_tip": "Communicate = make it common to all.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["communicate", "communicated", "communicating"]
+    }
+  },
+  {
+    "word": "console",
+    "type": "verb",
+    "definition": "To comfort someone who is sad or disappointed.",
+    "pronunciation": { "us": "kun-SOHL", "uk": "kun-SOHL" },
+    "examples": [
+      "We tried to console him after the loss.",
+      "A kind note can console a friend."
+    ],
+    "extra": {
+      "synonyms": ["comfort", "soothe", "encourage"],
+      "antonyms": ["upset", "distress", "agitate"],
+      "memory_tip": "Console = put soul back into someone’s spirits.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["console", "consoled", "consoling"]
+    }
+  },
+  {
+    "word": "cower",
+    "type": "verb",
+    "definition": "To crouch down in fear.",
+    "pronunciation": { "us": "KOW-er", "uk": "KOW-uh" },
+    "examples": [
+      "The cat cowered during the thunder.",
+      "They did not cower before the challenge."
+    ],
+    "extra": {
+      "synonyms": ["cringe", "shrink", "flinch"],
+      "antonyms": ["stand tall", "face", "confront"],
+      "memory_tip": "Cower = curl like a coward.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["cower", "cowered", "cowering"]
+    }
+  },
+  {
+    "word": "deliberate",
+    "type": "adjective,verb",
+    "definition": "Done on purpose; to think or talk about something carefully.",
+    "pronunciation": { "us": "di-LIB-uh-rit (adj), di-LIB-uh-rayt (verb)", "uk": "di-LIB-uh-rit (adj), di-LIB-uh-rayt (verb)" },
+    "examples": [
+      "It was a deliberate choice. (adjective)",
+      "The jury will deliberate for hours. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["intentional", "planned", "ponder (verb)"],
+      "antonyms": ["accidental", "hasty", "rash"],
+      "memory_tip": "Deliberate = deliver a decision after thought.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["deliberate (verb)", "deliberated", "deliberating"]
+    }
+  },
+  {
+    "word": "depth",
+    "type": "noun",
+    "definition": "How deep something is; the quality of being intense or detailed.",
+    "pronunciation": { "us": "depth", "uk": "depth" },
+    "examples": [
+      "Measure the depth of the pool.",
+      "Her answer showed real depth of thought."
+    ],
+    "extra": {
+      "synonyms": ["deepness", "intensity", "richness"],
+      "antonyms": ["shallowness", "surface"],
+      "memory_tip": "Depth = distance down or detail in.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "desire",
+    "type": "noun,verb",
+    "definition": "A strong feeling of wanting; to strongly want something.",
+    "pronunciation": { "us": "di-ZY-ur", "uk": "di-ZY-uh" },
+    "examples": [
+      "Her desire to learn was clear. (noun)",
+      "They desire a fair result. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["wish", "longing", "want"],
+      "antonyms": ["dislike", "aversion", "hate"],
+      "memory_tip": "Desire = the fire of wanting.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["desire", "desired", "desiring"]
+    }
+  },
+  {
+    "word": "livelihood",
+    "type": "noun",
+    "definition": "The way someone earns money or the necessities of life.",
+    "pronunciation": { "us": "LY-ve-hood", "uk": "LY-ve-hood" },
+    "examples": [
+      "Fishing is the village’s livelihood.",
+      "The storm threatened their livelihood."
+    ],
+    "extra": {
+      "synonyms": ["living", "income", "occupation"],
+      "antonyms": ["unemployment", "poverty"],
+      "memory_tip": "Livelihood = how you ‘live’ and put food on the table.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "misfortune",
+    "type": "noun",
+    "definition": "Bad luck or an unlucky event.",
+    "pronunciation": { "us": "mis-FOR-chun", "uk": "mis-FOR-chun" },
+    "examples": [
+      "By misfortune, the bus broke down.",
+      "They faced many misfortunes that year."
+    ],
+    "extra": {
+      "synonyms": ["bad luck", "setback", "adversity"],
+      "antonyms": ["good luck", "fortune", "blessing"],
+      "memory_tip": "Misfortune = fortune gone amiss.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "orphan",
+    "type": "noun,verb",
+    "definition": "A child whose parents have died; to make someone an orphan.",
+    "pronunciation": { "us": "OR-fun", "uk": "OR-fun" },
+    "examples": [
+      "The orphan found a loving home. (noun)",
+      "War orphaned many children. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["parentless child", "waif"],
+      "antonyms": ["child with parents"],
+      "memory_tip": "Orphan = without parents.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["orphan (verb)", "orphaned", "orphaning"]
+    }
+  },
+  {
+    "word": "precipice",
+    "type": "noun",
+    "definition": "A very steep cliff or the edge of a dangerous situation.",
+    "pronunciation": { "us": "PRESS-uh-piss", "uk": "PRESS-uh-piss" },
+    "examples": [
+      "They peered over the precipice.",
+      "The company stood on the precipice of failure."
+    ],
+    "extra": {
+      "synonyms": ["cliff", "bluff", "steep drop"],
+      "antonyms": ["plain", "plateau"],
+      "memory_tip": "Precipice = a ‘precious’ step from a steep drop.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "regain",
+    "type": "verb",
+    "definition": "To get something back after losing it.",
+    "pronunciation": { "us": "ri-GAYN", "uk": "ri-GAYN" },
+    "examples": [
+      "She regained her balance.",
+      "The team hopes to regain the lead."
+    ],
+    "extra": {
+      "synonyms": ["recover", "retrieve", "recapture"],
+      "antonyms": ["lose", "forfeit", "surrender"],
+      "memory_tip": "Re-gain = gain again.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["regain", "regained", "regaining"]
+    }
+  },
+  {
+    "word": "slay",
+    "type": "verb",
+    "definition": "To kill in a violent way (often used in stories or battles); informally, to do something extremely well.",
+    "pronunciation": { "us": "slay", "uk": "slay" },
+    "examples": [
+      "The knight slew the dragon in the tale.",
+      "She slayed her performance at the concert."
+    ],
+    "extra": {
+      "synonyms": ["kill", "defeat", "excel (informal)"],
+      "antonyms": ["save", "spare", "lose (informal contrast)"],
+      "memory_tip": "Slay = lay the foe low; or ‘slay it’ = do brilliantly.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["slay", "slew", "slain"]
+    }
+  },
+  {
+    "word": "symptom",
+    "type": "noun",
+    "definition": "A sign that something, especially an illness, is present.",
+    "pronunciation": { "us": "SIMP-tum", "uk": "SIMP-tum" },
+    "examples": [
+      "A cough can be a symptom of a cold.",
+      "Late trains were a symptom of a wider problem."
+    ],
+    "extra": {
+      "synonyms": ["sign", "indicator", "clue"],
+      "antonyms": ["cure", "health (contrast)"],
+      "memory_tip": "Symptom = something ‘tells’ what’s inside.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

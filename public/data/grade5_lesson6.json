@@ -1,0 +1,468 @@
+[
+  {
+    "word": "abolish",
+    "type": "verb",
+    "definition": "To officially end or stop something, especially a law or system.",
+    "pronunciation": {
+      "us": "əˈbɑː.lɪʃ",
+      "uk": "əˈbɒl.ɪʃ"
+    },
+    "examples": [
+      "The country voted to abolish the old rule.",
+      "The school abolished homework on weekends."
+    ],
+    "extra": {
+      "synonyms": [
+        "end",
+        "eliminate",
+        "repeal"
+      ],
+      "antonyms": [
+        "establish",
+        "introduce",
+        "maintain"
+      ],
+      "memory_tip": "Abolish = ‘a-bolish’ the rule—banish it.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "abolish",
+        "abolished",
+        "abolishing"
+      ]
+    }
+  },
+  {
+    "word": "agony",
+    "type": "noun",
+    "definition": "Extreme physical or mental pain.",
+    "pronunciation": {
+      "us": "ˈæɡ.ə.ni",
+      "uk": "ˈæɡ.ə.ni"
+    },
+    "examples": [
+      "He was in agony after twisting his ankle.",
+      "Waiting for the results felt like agony."
+    ],
+    "extra": {
+      "synonyms": [
+        "anguish",
+        "torment",
+        "misery"
+      ],
+      "antonyms": [
+        "comfort",
+        "relief",
+        "ease"
+      ],
+      "memory_tip": "Agony = A GO-ny big pain.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "catapult",
+    "type": "noun,verb",
+    "definition": "A device that throws objects through the air; to throw or push something suddenly and forcefully.",
+    "pronunciation": {
+      "us": "ˈkæt.ə.pʌlt",
+      "uk": "ˈkæt.ə.pʌlt"
+    },
+    "examples": [
+      "The castle used a catapult in defence. (noun)",
+      "The win catapulted her into the final. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "slingshot",
+        "launch"
+      ],
+      "antonyms": [
+        "hold",
+        "ground"
+      ],
+      "memory_tip": "Catapult = cat ‘a-pult’—a pull then a fling!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "catapult",
+        "catapulted",
+        "catapulting"
+      ]
+    }
+  },
+  {
+    "word": "character",
+    "type": "noun",
+    "definition": "The qualities that make a person who they are; a person in a story.",
+    "pronunciation": {
+      "us": "ˈkær.ɪk.tɚ",
+      "uk": "ˈkær.ɪk.tə"
+    },
+    "examples": [
+      "Honesty is part of good character.",
+      "My favourite character in the book is the explorer."
+    ],
+    "extra": {
+      "synonyms": [
+        "personality",
+        "figure",
+        "role"
+      ],
+      "antonyms": [
+        "villain (story opposite)",
+        "faceless (contrast)"
+      ],
+      "memory_tip": "Character = who someone is—or who’s in the story.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "denounce",
+    "type": "verb",
+    "definition": "To publicly say that something or someone is wrong or bad.",
+    "pronunciation": {
+      "us": "dɪˈnaʊns",
+      "uk": "dɪˈnaʊns"
+    },
+    "examples": [
+      "Leaders denounced the unfair law.",
+      "She denounced bullying at the assembly."
+    ],
+    "extra": {
+      "synonyms": [
+        "condemn",
+        "criticise",
+        "expose"
+      ],
+      "antonyms": [
+        "praise",
+        "endorse",
+        "support"
+      ],
+      "memory_tip": "De-nounce = announce against.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "denounce",
+        "denounced",
+        "denouncing"
+      ]
+    }
+  },
+  {
+    "word": "escalate",
+    "type": "verb",
+    "definition": "To make or become greater, more serious, or more intense.",
+    "pronunciation": {
+      "us": "ˈes.kə.leɪt",
+      "uk": "ˈes.kə.leɪt"
+    },
+    "examples": [
+      "A small argument escalated into a fight.",
+      "Prices escalated during the holiday season."
+    ],
+    "extra": {
+      "synonyms": [
+        "intensify",
+        "increase",
+        "expand"
+      ],
+      "antonyms": [
+        "ease",
+        "lessen",
+        "de-escalate"
+      ],
+      "memory_tip": "Escalate = like an escalator—up and up.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "escalate",
+        "escalated",
+        "escalating"
+      ]
+    }
+  },
+  {
+    "word": "harbour",
+    "type": "noun,verb",
+    "definition": "A sheltered place for ships; to keep a feeling secretly or give shelter.",
+    "pronunciation": {
+      "us": "ˈhɑːr.bɚ",
+      "uk": "ˈhɑː.bə"
+    },
+    "examples": [
+      "Boats filled the busy harbour. (noun)",
+      "She did not harbour a grudge. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "port",
+        "shelter",
+        "cherish"
+      ],
+      "antonyms": [
+        "expose",
+        "release"
+      ],
+      "memory_tip": "UK spelling is ‘harbour’; a harbour shelters ships and sometimes feelings.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "harbour",
+        "harboured",
+        "harbouring"
+      ]
+    }
+  },
+  {
+    "word": "inflict",
+    "type": "verb",
+    "definition": "To cause someone to experience something harmful or unpleasant.",
+    "pronunciation": {
+      "us": "ɪnˈflɪkt",
+      "uk": "ɪnˈflɪkt"
+    },
+    "examples": [
+      "The storm inflicted damage on the town.",
+      "Never inflict pain on others."
+    ],
+    "extra": {
+      "synonyms": [
+        "impose",
+        "cause",
+        "deliver"
+      ],
+      "antonyms": [
+        "relieve",
+        "soothe"
+      ],
+      "memory_tip": "Inflict = in-flick—push hurt onto.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "inflict",
+        "inflicted",
+        "inflicting"
+      ]
+    }
+  },
+  {
+    "word": "loathe",
+    "type": "verb",
+    "definition": "To feel intense dislike or hatred for something or someone.",
+    "pronunciation": {
+      "us": "loʊð",
+      "uk": "ləʊð"
+    },
+    "examples": [
+      "He loathes the taste of olives.",
+      "They loathe being late."
+    ],
+    "extra": {
+      "synonyms": [
+        "hate",
+        "detest",
+        "abhor"
+      ],
+      "antonyms": [
+        "love",
+        "enjoy",
+        "admire"
+      ],
+      "memory_tip": "Loathe = low-th—feel low about it.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "loathe",
+        "loathed",
+        "loathing"
+      ]
+    }
+  },
+  {
+    "word": "meddle",
+    "type": "verb",
+    "definition": "To get involved in something that is not your business.",
+    "pronunciation": {
+      "us": "ˈmed.əl",
+      "uk": "ˈmed.əl"
+    },
+    "examples": [
+      "Please don’t meddle in other people’s arguments.",
+      "He meddled with the settings and broke it."
+    ],
+    "extra": {
+      "synonyms": [
+        "interfere",
+        "pry",
+        "tamper"
+      ],
+      "antonyms": [
+        "ignore",
+        "respect boundaries"
+      ],
+      "memory_tip": "Meddle = middle where you shouldn’t be.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "meddle",
+        "meddled",
+        "meddling"
+      ]
+    }
+  },
+  {
+    "word": "monstrous",
+    "type": "adjective",
+    "definition": "Extremely large or very cruel; like a monster.",
+    "pronunciation": {
+      "us": "ˈmɑːn.strəs",
+      "uk": "ˈmɒn.strəs"
+    },
+    "examples": [
+      "A monstrous wave crashed over the pier.",
+      "The plan was a monstrous waste of time."
+    ],
+    "extra": {
+      "synonyms": [
+        "huge",
+        "terrible",
+        "horrific"
+      ],
+      "antonyms": [
+        "tiny",
+        "kind",
+        "gentle"
+      ],
+      "memory_tip": "Monstrous = monster-sized or monster-mean.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "rouse",
+    "type": "verb",
+    "definition": "To wake someone or make them more active, excited, or aware.",
+    "pronunciation": {
+      "us": "raʊz",
+      "uk": "raʊz"
+    },
+    "examples": [
+      "The alarm roused him at six.",
+      "The speech roused the crowd to action."
+    ],
+    "extra": {
+      "synonyms": [
+        "awaken",
+        "stir",
+        "arouse"
+      ],
+      "antonyms": [
+        "calm",
+        "lull",
+        "pacify"
+      ],
+      "memory_tip": "Rouse = rouse the house—wake it up.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "rouse",
+        "roused",
+        "rousing"
+      ]
+    }
+  },
+  {
+    "word": "steadfast",
+    "type": "adjective",
+    "definition": "Very firm and loyal; not changing in your purpose or support.",
+    "pronunciation": {
+      "us": "ˈsted.fæst",
+      "uk": "ˈsted.fɑːst"
+    },
+    "examples": [
+      "She showed steadfast courage.",
+      "He remained a steadfast friend."
+    ],
+    "extra": {
+      "synonyms": [
+        "loyal",
+        "firm",
+        "unswerving"
+      ],
+      "antonyms": [
+        "fickle",
+        "wavering",
+        "inconstant"
+      ],
+      "memory_tip": "Steadfast = steady + fastened in place.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "translate",
+    "type": "verb",
+    "definition": "To change words from one language into another.",
+    "pronunciation": {
+      "us": "trænzˈleɪt",
+      "uk": "trænzˈleɪt"
+    },
+    "examples": [
+      "Can you translate this note into English?",
+      "The app translates signs instantly."
+    ],
+    "extra": {
+      "synonyms": [
+        "render",
+        "interpret"
+      ],
+      "antonyms": [
+        "confuse",
+        "misinterpret"
+      ],
+      "memory_tip": "Translate = transfer language.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "translate",
+        "translated",
+        "translating"
+      ]
+    }
+  },
+  {
+    "word": "transmit",
+    "type": "verb",
+    "definition": "To send out or pass on something, such as a message, signal, or disease.",
+    "pronunciation": {
+      "us": "trænzˈmɪt",
+      "uk": "trænzˈmɪt"
+    },
+    "examples": [
+      "The tower transmits radio signals.",
+      "Cover your mouth so you don’t transmit germs."
+    ],
+    "extra": {
+      "synonyms": [
+        "send",
+        "broadcast",
+        "pass on"
+      ],
+      "antonyms": [
+        "receive",
+        "withhold"
+      ],
+      "memory_tip": "Transmit = ‘trans’ (across) + ‘mit’ (send).",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "transmit",
+        "transmitted",
+        "transmitting"
+      ]
+    }
+  }
+]

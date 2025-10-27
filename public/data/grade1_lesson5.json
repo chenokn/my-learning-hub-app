@@ -1,0 +1,295 @@
+[
+  {
+    "word": "sway",
+    "type": "verb,noun",
+    "definition": "To move slowly back and forth; a gentle back-and-forth motion.",
+    "pronunciation": {
+      "us": "/sweɪ/",
+      "uk": "/sweɪ/"
+    },
+    "examples": [
+      "The trees swayed in the wind. (verb)",
+      "We felt the sway of the bridge. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "swing",
+        "rock",
+        "wave"
+      ],
+      "antonyms": [
+        "stand still",
+        "steady"
+      ],
+      "memory_tip": "Sway = slow side-to-side dance!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "sway",
+        "swayed",
+        "swaying"
+      ]
+    }
+  },
+  {
+    "word": "property",
+    "type": "noun",
+    "definition": "Something that belongs to someone; land or things owned.",
+    "pronunciation": {
+      "us": "/ˈprɑpərti/",
+      "uk": "/ˈprɒpəti/"
+    },
+    "examples": [
+      "This book is my property.",
+      "They bought a piece of property near the lake."
+    ],
+    "extra": {
+      "synonyms": [
+        "belongings",
+        "possessions",
+        "estate"
+      ],
+      "antonyms": [
+        "public",
+        "borrowed"
+      ],
+      "memory_tip": "Property = stuff that’s yours!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "arrange",
+    "type": "verb",
+    "definition": "To put things in order or in a neat way.",
+    "pronunciation": {
+      "us": "/əˈreɪndʒ/",
+      "uk": "/əˈreɪndʒ/"
+    },
+    "examples": [
+      "Please arrange the books on the shelf.",
+      "They arranged chairs in a circle."
+    ],
+    "extra": {
+      "synonyms": [
+        "organize",
+        "order",
+        "set up"
+      ],
+      "antonyms": [
+        "mix up",
+        "scatter"
+      ],
+      "memory_tip": "Arrange = line it up just right!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "arrange",
+        "arranged",
+        "arranging"
+      ]
+    }
+  },
+  {
+    "word": "rusty",
+    "type": "adjective",
+    "definition": "Covered with rust; old and reddish-brown from metal getting wet.",
+    "pronunciation": {
+      "us": "/ˈrʌsti/",
+      "uk": "/ˈrʌsti/"
+    },
+    "examples": [
+      "The bike chain is rusty.",
+      "A rusty nail can break easily."
+    ],
+    "extra": {
+      "synonyms": [
+        "corroded",
+        "old",
+        "weathered"
+      ],
+      "antonyms": [
+        "shiny",
+        "new"
+      ],
+      "memory_tip": "Rusty = metal’s brown freckles!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "attach",
+    "type": "verb",
+    "definition": "To fasten or join something to something else.",
+    "pronunciation": {
+      "us": "/əˈtætʃ/",
+      "uk": "/əˈtætʃ/"
+    },
+    "examples": [
+      "Attach the picture with tape.",
+      "The trailer was attached to the car."
+    ],
+    "extra": {
+      "synonyms": [
+        "fasten",
+        "connect",
+        "join"
+      ],
+      "antonyms": [
+        "detach",
+        "remove"
+      ],
+      "memory_tip": "Attach = clip it together!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "attach",
+        "attached",
+        "attaching"
+      ]
+    }
+  },
+  {
+    "word": "design",
+    "type": "noun,verb",
+    "definition": "A plan of how something will look; to plan how something will look.",
+    "pronunciation": {
+      "us": "/dɪˈzaɪn/",
+      "uk": "/dɪˈzaɪn/"
+    },
+    "examples": [
+      "The shirt has a cool design. (noun)",
+      "She likes to design houses. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "plan",
+        "pattern",
+        "create"
+      ],
+      "antonyms": [
+        "destroy",
+        "ruin"
+      ],
+      "memory_tip": "Design = draw your idea first!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "design",
+        "designed",
+        "designing"
+      ]
+    }
+  },
+  {
+    "word": "stormy",
+    "type": "adjective",
+    "definition": "Full of storms – wind, rain, thunder, or lightning.",
+    "pronunciation": {
+      "us": "/ˈstɔrmi/",
+      "uk": "/ˈstɔːmi/"
+    },
+    "examples": [
+      "We stayed inside on the stormy day.",
+      "Dark, stormy clouds filled the sky."
+    ],
+    "extra": {
+      "synonyms": [
+        "rainy",
+        "windy",
+        "wild"
+      ],
+      "antonyms": [
+        "calm",
+        "clear"
+      ],
+      "memory_tip": "Stormy = loud sky weather!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "battery",
+    "type": "noun",
+    "definition": "Small objects that store power for toys, remotes, or flashlights.",
+    "pronunciation": {
+      "us": "/ˈbætri/",
+      "uk": "/ˈbætri/"
+    },
+    "examples": [
+      "The robot needs new batteries.",
+      "We keep spare batteries in a drawer."
+    ],
+    "extra": {
+      "synonyms": [
+        "power cells",
+        "energy packs"
+      ],
+      "antonyms": [
+        "plug-in power"
+      ],
+      "memory_tip": "Batteries = tiny power boxes!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "section",
+    "type": "noun",
+    "definition": "A part or piece of something larger.",
+    "pronunciation": {
+      "us": "/ˈsɛkʃən/",
+      "uk": "/ˈsɛkʃ(ə)n/"
+    },
+    "examples": [
+      "We read the next section of the book.",
+      "Cut the apple into four sections."
+    ],
+    "extra": {
+      "synonyms": [
+        "part",
+        "segment",
+        "piece"
+      ],
+      "antonyms": [
+        "whole",
+        "entirety"
+      ],
+      "memory_tip": "Section = one slice of the whole!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "raise",
+    "type": "verb",
+    "definition": "To lift something up; to make something higher.",
+    "pronunciation": {
+      "us": "/reɪz/",
+      "uk": "/reɪz/"
+    },
+    "examples": [
+      "Raise your hand to speak.",
+      "They raised the flag."
+    ],
+    "extra": {
+      "synonyms": [
+        "lift",
+        "hoist",
+        "elevate"
+      ],
+      "antonyms": [
+        "lower",
+        "drop"
+      ],
+      "memory_tip": "Raise = move it up!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "raise",
+        "raised",
+        "raising"
+      ]
+    }
+  }
+]

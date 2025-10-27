@@ -1,0 +1,454 @@
+{
+  "title": "Forest Friends",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Nature",
+  "vocabulary": [
+    "forest",
+    "trail",
+    "moss",
+    "acorn",
+    "burrow",
+    "owl",
+    "hoot",
+    "sniff",
+    "camouflage",
+    "respect"
+  ],
+  "images": [
+    "/stem-hub/language/forestfriends.1.png",
+    "/stem-hub/language/forestfriends.2.png",
+    "/stem-hub/language/forestfriends.3.png",
+    "/stem-hub/language/forestfriends.4.png"
+  ],
+  "passage": [
+    "Asha and Ben walk with Mum along a forest trail. The air smells fresh and cool. |“Look with your eyes and leave things as you find them,” says Mum.",
+    "They stop at a log covered in soft moss. Ben gives a happy sniff. |On the path they spot an acorn. A squirrel darts past and vanishes near a small burrow.",
+    "Far above, an owl sits on a branch. Its brown feathers are good camouflage. |“Hoot… hoot,” comes a gentle call, and the owl glides away.",
+    "On the way back they pick up a sweet wrapper and put it in a bag. |“That’s respect for the forest,” says Mum. Asha and Ben wave, “Bye, forest friends!”"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Where are Asha and Ben walking?",
+      "answer": "Along a forest trail",
+      "options": [
+        "Along a forest trail",
+        "Across a desert",
+        "On a city street",
+        "Inside a museum"
+      ],
+      "keys": [
+        "forest",
+        "trail"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What rule does Mum remind them of?",
+      "answer": "Look with your eyes and leave things as you find them",
+      "options": [
+        "Look with your eyes and leave things as you find them",
+        "Pick every flower you see",
+        "Run and shout loudly",
+        "Feed wild animals sweets"
+      ],
+      "keys": [
+        "respect"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What covers the log?",
+      "answer": "Soft moss",
+      "options": [
+        "Soft moss",
+        "Thick paint",
+        "Shiny metal",
+        "Fresh snow"
+      ],
+      "keys": [
+        "moss"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does Ben do when the air smells fresh?",
+      "answer": "He gives a happy sniff",
+      "options": [
+        "He gives a happy sniff",
+        "He shouts for help",
+        "He runs away",
+        "He falls asleep"
+      ],
+      "keys": [
+        "sniff"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What do they spot on the path?",
+      "answer": "An acorn",
+      "options": [
+        "An acorn",
+        "A seashell",
+        "A coin",
+        "A shoe"
+      ],
+      "keys": [
+        "acorn"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which animal vanishes near a small burrow?",
+      "answer": "A squirrel",
+      "options": [
+        "A squirrel",
+        "A goldfish",
+        "A camel",
+        "A penguin"
+      ],
+      "keys": [
+        "burrow"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which bird do they see on a branch?",
+      "answer": "An owl",
+      "options": [
+        "An owl",
+        "A flamingo",
+        "A parrot",
+        "A seagull"
+      ],
+      "keys": [
+        "owl"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What sound does the bird make?",
+      "answer": "Hoot… hoot",
+      "options": [
+        "Hoot… hoot",
+        "Quack… quack",
+        "Moo… moo",
+        "Baa… baa"
+      ],
+      "keys": [
+        "hoot"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What helps the owl blend in with the trees?",
+      "answer": "Camouflage from its brown feathers",
+      "options": [
+        "Camouflage from its brown feathers",
+        "Bright shiny shoes",
+        "A loud drum",
+        "Sparkling lights"
+      ],
+      "keys": [
+        "camouflage"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How do the children show respect for the forest?",
+      "answer": "They pick up a sweet wrapper and put it in a bag",
+      "options": [
+        "They pick up a sweet wrapper and put it in a bag",
+        "They carve their names on a tree",
+        "They chase the owl",
+        "They leave rubbish on the path"
+      ],
+      "keys": [
+        "respect"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "forest",
+      "type": "noun",
+      "definition": "A large area filled with trees and other plants.",
+      "pronunciation": {
+        "us": "ˈfɔː.rɪst",
+        "uk": "ˈfɒr.ɪst"
+      },
+      "examples": [
+        "They walk through the forest.",
+        "The forest is cool and shady."
+      ],
+      "extra": {
+        "synonyms": [
+          "woods"
+        ],
+        "antonyms": [
+          "desert"
+        ],
+        "memory_tip": "Forest = lots of trees together.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "trail",
+      "type": "noun,verb",
+      "definition": "A small path through an area; to follow behind something.",
+      "pronunciation": {
+        "us": "treɪl",
+        "uk": "treɪl"
+      },
+      "examples": [
+        "They follow the forest trail. (noun)",
+        "Leaves trail behind his boots. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "path",
+          "track",
+          "follow"
+        ],
+        "antonyms": [
+          "lead (contrast)"
+        ],
+        "memory_tip": "Trail = tiny path to explore.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "trail",
+          "trailed",
+          "trailing"
+        ]
+      }
+    },
+    {
+      "word": "moss",
+      "type": "noun",
+      "definition": "A soft, green plant that grows in damp places.",
+      "pronunciation": {
+        "us": "mɑːs",
+        "uk": "mɒs"
+      },
+      "examples": [
+        "Moss covers the log.",
+        "The stone feels soft with moss."
+      ],
+      "extra": {
+        "synonyms": [
+          "bryophyte"
+        ],
+        "antonyms": [
+          "lichen (contrast)"
+        ],
+        "memory_tip": "Moss = green, soft carpet on wood and rock.",
+        "tier": 2,
+        "eslLevel": "medium"
+      }
+    },
+    {
+      "word": "acorn",
+      "type": "noun",
+      "definition": "The nut of an oak tree.",
+      "pronunciation": {
+        "us": "ˈeɪ.kɔːrn",
+        "uk": "ˈeɪ.kɔːn"
+      },
+      "examples": [
+        "Ben finds an acorn on the path.",
+        "Squirrels collect acorns for food."
+      ],
+      "extra": {
+        "synonyms": [
+          "oak nut"
+        ],
+        "antonyms": [
+          "pine cone (contrast)"
+        ],
+        "memory_tip": "Acorn = oak tree seed in a cup.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "burrow",
+      "type": "noun,verb",
+      "definition": "A hole or tunnel in the ground where an animal lives; to dig a hole or tunnel.",
+      "pronunciation": {
+        "us": "ˈbɝː.oʊ",
+        "uk": "ˈbʌr.əʊ"
+      },
+      "examples": [
+        "A rabbit runs into a burrow. (noun)",
+        "Foxes burrow under roots. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "den",
+          "tunnel",
+          "dig"
+        ],
+        "antonyms": [
+          "surface (contrast)"
+        ],
+        "memory_tip": "Burrow = cosy home underground.",
+        "tier": 2,
+        "eslLevel": "medium",
+        "tenses": [
+          "burrow",
+          "burrowed",
+          "burrowing"
+        ]
+      }
+    },
+    {
+      "word": "owl",
+      "type": "noun",
+      "definition": "A bird that often hunts at night and says 'hoot'.",
+      "pronunciation": {
+        "us": "aʊl",
+        "uk": "aʊl"
+      },
+      "examples": [
+        "An owl sits on a branch.",
+        "We hear an owl at dusk."
+      ],
+      "extra": {
+        "synonyms": [
+          "bird of prey"
+        ],
+        "antonyms": [
+          "songbird (contrast)"
+        ],
+        "memory_tip": "Owl = big eyes, night flyer.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "hoot",
+      "type": "noun,verb",
+      "definition": "The deep call of an owl; to make that call.",
+      "pronunciation": {
+        "us": "huːt",
+        "uk": "huːt"
+      },
+      "examples": [
+        "We hear a soft hoot. (noun)",
+        "The owl hoots in the trees. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "call"
+        ],
+        "antonyms": [
+          "silence"
+        ],
+        "memory_tip": "Hoot = owl’s hello.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "hoot",
+          "hooted",
+          "hooting"
+        ]
+      }
+    },
+    {
+      "word": "sniff",
+      "type": "verb,noun",
+      "definition": "To breathe air in through your nose to smell; a quick breath in through the nose.",
+      "pronunciation": {
+        "us": "snɪf",
+        "uk": "snɪf"
+      },
+      "examples": [
+        "Ben sniffs the fresh air. (verb)",
+        "He takes a happy sniff. (noun)"
+      ],
+      "extra": {
+        "synonyms": [
+          "smell",
+          "inhale"
+        ],
+        "antonyms": [
+          "exhale"
+        ],
+        "memory_tip": "Sniff = little smell check.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "sniff",
+          "sniffed",
+          "sniffing"
+        ]
+      }
+    },
+    {
+      "word": "camouflage",
+      "type": "noun,verb",
+      "definition": "Colours or patterns that help something blend in; to hide by blending in.",
+      "pronunciation": {
+        "us": "ˈkæm.ə.flɑːʒ",
+        "uk": "ˈkæm.ə.flɑːʒ"
+      },
+      "examples": [
+        "The owl’s feathers are good camouflage. (noun)",
+        "Some animals camouflage to stay safe. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "hide",
+          "blend"
+        ],
+        "antonyms": [
+          "stand out"
+        ],
+        "memory_tip": "Camouflage = match the background.",
+        "tier": 2,
+        "eslLevel": "medium",
+        "tenses": [
+          "camouflage",
+          "camouflaged",
+          "camouflaging"
+        ]
+      }
+    },
+    {
+      "word": "respect",
+      "type": "noun,verb",
+      "definition": "Care and kindness for people, places, and things; to act with care and kindness.",
+      "pronunciation": {
+        "us": "rɪˈspekt",
+        "uk": "rɪˈspekt"
+      },
+      "examples": [
+        "Picking up litter shows respect. (noun)",
+        "We respect the forest and animals. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "care",
+          "consideration"
+        ],
+        "antonyms": [
+          "disrespect",
+          "harm"
+        ],
+        "memory_tip": "Respect = treat gently and fairly.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "respect",
+          "respected",
+          "respecting"
+        ]
+      }
+    }
+  ]
+}

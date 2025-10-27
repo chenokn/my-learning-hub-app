@@ -1,0 +1,301 @@
+[
+  {
+    "word": "awkward",
+    "type": "adjective",
+    "definition": "Clumsy or uncomfortable; not graceful.",
+    "pronunciation": {
+      "us": "/ˈɔkwərd/",
+      "uk": "/ˈɔːkwəd/"
+    },
+    "examples": [
+      "He felt awkward speaking in front of the class.",
+      "The table was in an awkward place."
+    ],
+    "extra": {
+      "synonyms": [
+        "clumsy",
+        "uncomfortable",
+        "ungainly"
+      ],
+      "antonyms": [
+        "graceful",
+        "comfortable"
+      ],
+      "memory_tip": "Awkward = feels a bit odd or clumsy.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "tide",
+    "type": "noun",
+    "definition": "The regular rise and fall of the sea.",
+    "pronunciation": {
+      "us": "/taɪd/",
+      "uk": "/taɪd/"
+    },
+    "examples": [
+      "The tide comes in every afternoon.",
+      "We built a sandcastle before the tide rose."
+    ],
+    "extra": {
+      "synonyms": [
+        "sea level",
+        "flow",
+        "ebb"
+      ],
+      "antonyms": [
+        "still water"
+      ],
+      "memory_tip": "Tide = ocean’s in-out breathing.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "construct",
+    "type": "verb",
+    "definition": "To build something by putting parts together.",
+    "pronunciation": {
+      "us": "/kənˈstrʌkt/",
+      "uk": "/kənˈstrʌkt/"
+    },
+    "examples": [
+      "They will construct a new bridge.",
+      "We used blocks to construct a tower."
+    ],
+    "extra": {
+      "synonyms": [
+        "build",
+        "create",
+        "assemble"
+      ],
+      "antonyms": [
+        "destroy",
+        "demolish"
+      ],
+      "memory_tip": "Construct = put pieces together to make it.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "construct",
+        "constructed",
+        "constructing"
+      ]
+    }
+  },
+  {
+    "word": "tower",
+    "type": "noun,verb",
+    "definition": "A tall building or structure; to rise high above something.",
+    "pronunciation": {
+      "us": "/ˈtaʊər/",
+      "uk": "/ˈtaʊə/"
+    },
+    "examples": [
+      "We saw a clock tower in the city. (noun)",
+      "Mountains tower over the valley. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "spire",
+        "steeple",
+        "rise"
+      ],
+      "antonyms": [
+        "valley",
+        "bottom"
+      ],
+      "memory_tip": "Tower = tall and reaching up.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "tower",
+        "towered",
+        "towering"
+      ]
+    }
+  },
+  {
+    "word": "drop",
+    "type": "verb,noun",
+    "definition": "To let something fall; a small amount of liquid.",
+    "pronunciation": {
+      "us": "/drɑp/",
+      "uk": "/drɒp/"
+    },
+    "examples": [
+      "Don't drop the glass! (verb)",
+      "A drop of rain hit my nose. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "fall",
+        "let go",
+        "drip"
+      ],
+      "antonyms": [
+        "catch",
+        "lift"
+      ],
+      "memory_tip": "Drop = fall or tiny drip.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "drop",
+        "dropped",
+        "dropping"
+      ]
+    }
+  },
+  {
+    "word": "bold",
+    "type": "adjective",
+    "definition": "Brave and not afraid; strong and clear.",
+    "pronunciation": {
+      "us": "/boʊld/",
+      "uk": "/bəʊld/"
+    },
+    "examples": [
+      "The bold explorer entered the cave.",
+      "Use bold letters for the title."
+    ],
+    "extra": {
+      "synonyms": [
+        "brave",
+        "fearless",
+        "bright"
+      ],
+      "antonyms": [
+        "shy",
+        "timid"
+      ],
+      "memory_tip": "Bold = brave or thick and clear.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "divide",
+    "type": "verb,noun",
+    "definition": "To separate into parts; the line or gap between parts.",
+    "pronunciation": {
+      "us": "/dɪˈvaɪd/",
+      "uk": "/dɪˈvaɪd/"
+    },
+    "examples": [
+      "Let's divide the pizza into slices. (verb)",
+      "A fence made a divide between yards. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "split",
+        "separate",
+        "partition"
+      ],
+      "antonyms": [
+        "join",
+        "unite"
+      ],
+      "memory_tip": "Divide = break into pieces.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "divide",
+        "divided",
+        "dividing"
+      ]
+    }
+  },
+  {
+    "word": "equal",
+    "type": "adj.,noun,verb",
+    "definition": "The same in size or amount; a person or thing that is the same; to be the same as.",
+    "pronunciation": {
+      "us": "/ˈiːkwəl/",
+      "uk": "/ˈiːkwəl/"
+    },
+    "examples": [
+      "We cut equal pieces of cake. (adjective)",
+      "No one is his equal in chess. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "same",
+        "even",
+        "match"
+      ],
+      "antonyms": [
+        "unequal",
+        "different"
+      ],
+      "memory_tip": "Equal = exactly the same.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "equal",
+        "equaled",
+        "equaling"
+      ]
+    }
+  },
+  {
+    "word": "length",
+    "type": "noun",
+    "definition": "How long something is from one end to the other.",
+    "pronunciation": {
+      "us": "/lɛŋkθ/",
+      "uk": "/lɛŋ(k)θ/"
+    },
+    "examples": [
+      "The length of the table is two meters.",
+      "We measured the rope's length."
+    ],
+    "extra": {
+      "synonyms": [
+        "distance",
+        "extent",
+        "measure"
+      ],
+      "antonyms": [
+        "width",
+        "height"
+      ],
+      "memory_tip": "Length = long side measurement.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "receive",
+    "type": "verb",
+    "definition": "To get something that is given or sent.",
+    "pronunciation": {
+      "us": "/rɪˈsiːv/",
+      "uk": "/rɪˈsiːv/"
+    },
+    "examples": [
+      "I received a letter today.",
+      "Students will receive awards."
+    ],
+    "extra": {
+      "synonyms": [
+        "get",
+        "accept",
+        "collect"
+      ],
+      "antonyms": [
+        "give",
+        "send"
+      ],
+      "memory_tip": "Receive = take it when it comes.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "receive",
+        "received",
+        "receiving"
+      ]
+    }
+  }
+]

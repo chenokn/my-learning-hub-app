@@ -1,0 +1,437 @@
+[
+  {
+    "word": "additional",
+    "type": "adjective",
+    "definition": "More than what is already there.",
+    "pronunciation": {
+      "us": "/əˈdɪʃənəl/",
+      "uk": "/əˈdɪʃənəl/"
+    },
+    "examples": [
+      "We need additional chairs for the guests.",
+      "She asked for additional time to finish the test."
+    ],
+    "extra": {
+      "synonyms": [
+        "extra",
+        "more",
+        "added"
+      ],
+      "antonyms": [
+        "less",
+        "reduced"
+      ],
+      "memory_tip": "Additional = add more!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "attend",
+    "type": "verb",
+    "definition": "To be present at something.",
+    "pronunciation": {
+      "us": "/əˈtɛnd/",
+      "uk": "/əˈtɛnd/"
+    },
+    "examples": [
+      "I will attend the school concert tonight.",
+      "Many students attended the assembly."
+    ],
+    "extra": {
+      "synonyms": [
+        "go to",
+        "be at",
+        "visit"
+      ],
+      "antonyms": [
+        "miss",
+        "skip"
+      ],
+      "memory_tip": "Attend = be there!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "attend",
+        "past": "attended",
+        "participle": "attended"
+      }
+    }
+  },
+  {
+    "word": "balance",
+    "type": "noun,verb",
+    "definition": "A state of being steady or equal; to stay steady or not fall.",
+    "pronunciation": {
+      "us": "/ˈbæləns/",
+      "uk": "/ˈbæləns/"
+    },
+    "examples": [
+      "He tried to keep his balance on the beam. (noun)",
+      "She balanced the box on her head. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "stability",
+        "evenness",
+        "steady"
+      ],
+      "antonyms": [
+        "tilt",
+        "fall",
+        "imbalance"
+      ],
+      "memory_tip": "Balance = not tipping over!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "balance",
+        "past": "balanced",
+        "participle": "balanced"
+      }
+    }
+  },
+  {
+    "word": "center",
+    "type": "noun,verb",
+    "definition": "The middle of something; to place in the middle.",
+    "pronunciation": {
+      "us": "/ˈsɛntər/",
+      "uk": "/ˈsentə/"
+    },
+    "examples": [
+      "The ball landed in the center of the target. (noun)",
+      "Please center the picture on the wall. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "middle",
+        "core",
+        "focus"
+      ],
+      "antonyms": [
+        "edge",
+        "outside"
+      ],
+      "memory_tip": "Center = right in the middle.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "center",
+        "past": "centered",
+        "participle": "centered"
+      }
+    }
+  },
+  {
+    "word": "familiar",
+    "type": "adjective",
+    "definition": "Well known or easily recognized.",
+    "pronunciation": {
+      "us": "/fəˈmɪljər/",
+      "uk": "/fəˈmɪliə/"
+    },
+    "examples": [
+      "That song sounds familiar to me.",
+      "She walked down a familiar path."
+    ],
+    "extra": {
+      "synonyms": [
+        "known",
+        "recognizable",
+        "common"
+      ],
+      "antonyms": [
+        "strange",
+        "unknown"
+      ],
+      "memory_tip": "Familiar = you’ve seen or heard it before.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "gesture",
+    "type": "noun,verb",
+    "definition": "A movement of the body to express something; to move part of your body to communicate.",
+    "pronunciation": {
+      "us": "/ˈdʒɛstʃər/",
+      "uk": "/ˈdʒɛstʃə/"
+    },
+    "examples": [
+      "She made a kind gesture by helping her friend. (noun)",
+      "He gestured for me to come closer. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "motion",
+        "signal",
+        "sign"
+      ],
+      "antonyms": [
+        "stillness",
+        "silence"
+      ],
+      "memory_tip": "Gesture = speak with your body.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "gesture",
+        "past": "gestured",
+        "participle": "gestured"
+      }
+    }
+  },
+  {
+    "word": "recover",
+    "type": "verb",
+    "definition": "To get back something lost or to get better after being sick.",
+    "pronunciation": {
+      "us": "/rɪˈkʌvər/",
+      "uk": "/rɪˈkʌvə/"
+    },
+    "examples": [
+      "She recovered her lost phone from the park.",
+      "He is recovering from a cold."
+    ],
+    "extra": {
+      "synonyms": [
+        "heal",
+        "get back",
+        "restore"
+      ],
+      "antonyms": [
+        "lose",
+        "worsen"
+      ],
+      "memory_tip": "Recover = get better or find again.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "recover",
+        "past": "recovered",
+        "participle": "recovered"
+      }
+    }
+  },
+  {
+    "word": "value",
+    "type": "noun,verb",
+    "definition": "The worth of something; to think something is important.",
+    "pronunciation": {
+      "us": "/ˈvælju/",
+      "uk": "/ˈvæljuː/"
+    },
+    "examples": [
+      "This ring has a lot of value. (noun)",
+      "I value your friendship. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "worth",
+        "importance",
+        "appreciate"
+      ],
+      "antonyms": [
+        "ignore",
+        "waste"
+      ],
+      "memory_tip": "Value = it matters or is worth something.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "value",
+        "past": "valued",
+        "participle": "valued"
+      }
+    }
+  },
+  {
+    "word": "remain",
+    "type": "verb",
+    "definition": "To stay in the same place or condition.",
+    "pronunciation": {
+      "us": "/rɪˈmeɪn/",
+      "uk": "/rɪˈmeɪn/"
+    },
+    "examples": [
+      "Please remain seated during the show.",
+      "Only a few cookies remain in the jar."
+    ],
+    "extra": {
+      "synonyms": [
+        "stay",
+        "continue",
+        "last"
+      ],
+      "antonyms": [
+        "leave",
+        "change",
+        "go"
+      ],
+      "memory_tip": "Remain = stay where or how it is.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "remain",
+        "past": "remained",
+        "participle": "remained"
+      }
+    }
+  },
+  {
+    "word": "concentrate",
+    "type": "verb",
+    "definition": "To focus your attention on something.",
+    "pronunciation": {
+      "us": "/ˈkɑnsənˌtreɪt/",
+      "uk": "/ˈkɒnsəntreɪt/"
+    },
+    "examples": [
+      "Please concentrate on your reading.",
+      "He couldn't concentrate with all the noise."
+    ],
+    "extra": {
+      "synonyms": [
+        "focus",
+        "pay attention",
+        "think hard"
+      ],
+      "antonyms": [
+        "distract",
+        "ignore"
+      ],
+      "memory_tip": "Concentrate = put your mind in one place.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "concentrate",
+        "past": "concentrated",
+        "participle": "concentrated"
+      }
+    }
+  },
+  {
+    "word": "mention",
+    "type": "verb",
+    "definition": "To talk or write about something quickly or without detail.",
+    "pronunciation": {
+      "us": "/ˈmɛnʃən/",
+      "uk": "/ˈmɛnʃən/"
+    },
+    "examples": [
+      "Did she mention the homework in class?",
+      "He mentioned your name in his story."
+    ],
+    "extra": {
+      "synonyms": [
+        "say",
+        "bring up",
+        "refer to"
+      ],
+      "antonyms": [
+        "hide",
+        "withhold"
+      ],
+      "memory_tip": "Mention = talk about something just a little bit.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "mention",
+        "past": "mentioned",
+        "participle": "mentioned"
+      }
+    }
+  },
+  {
+    "word": "prefer",
+    "type": "verb",
+    "definition": "To like one thing more than another.",
+    "pronunciation": {
+      "us": "/prɪˈfɜr/",
+      "uk": "/prɪˈfɜː/"
+    },
+    "examples": [
+      "I prefer apples to oranges.",
+      "She prefers reading over watching TV."
+    ],
+    "extra": {
+      "synonyms": [
+        "like better",
+        "choose"
+      ],
+      "antonyms": [
+        "dislike",
+        "reject"
+      ],
+      "memory_tip": "Prefer = pick your favorite.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "prefer",
+        "past": "preferred",
+        "participle": "preferred"
+      }
+    }
+  },
+  {
+    "word": "proper",
+    "type": "adjective",
+    "definition": "Right or correct for a situation.",
+    "pronunciation": {
+      "us": "/ˈprɑpər/",
+      "uk": "/ˈprɒpə/"
+    },
+    "examples": [
+      "Wear proper shoes for running.",
+      "Use proper manners at the table."
+    ],
+    "extra": {
+      "synonyms": [
+        "correct",
+        "suitable",
+        "appropriate"
+      ],
+      "antonyms": [
+        "wrong",
+        "rude",
+        "inappropriate"
+      ],
+      "memory_tip": "Proper = just right!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "suggest",
+    "type": "verb",
+    "definition": "To give an idea or advice.",
+    "pronunciation": {
+      "us": "/səɡˈdʒɛst/",
+      "uk": "/səˈdʒest/"
+    },
+    "examples": [
+      "I suggest we play a game after lunch.",
+      "She suggested reading this book for class."
+    ],
+    "extra": {
+      "synonyms": [
+        "recommend",
+        "offer",
+        "propose"
+      ],
+      "antonyms": [
+        "refuse",
+        "withhold"
+      ],
+      "memory_tip": "Suggest = share an idea to help.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "suggest",
+        "past": "suggested",
+        "participle": "suggested"
+      }
+    }
+  }
+]

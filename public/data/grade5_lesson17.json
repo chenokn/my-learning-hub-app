@@ -1,0 +1,265 @@
+[
+  {
+    "word": "afflict",
+    "type": "verb",
+    "definition": "To cause pain, suffering, or trouble to someone or something.",
+    "pronunciation": { "us": "uh-FLIKT", "uk": "uh-FLIKT" },
+    "examples": [
+      "Seasonal allergies afflict many people.",
+      "The region was afflicted by flooding."
+    ],
+    "extra": {
+      "synonyms": ["pain", "plague", "torment"],
+      "antonyms": ["comfort", "soothe", "relieve"],
+      "memory_tip": "Afflict = inflict pain upon.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["afflict", "afflicted", "afflicting"]
+    }
+  },
+  {
+    "word": "barren",
+    "type": "adjective",
+    "definition": "Unable to produce plants or fruit; lacking in interest or results.",
+    "pronunciation": { "us": "BAIR-uhn", "uk": "BA-ruhn" },
+    "examples": [
+      "Nothing grew on the barren land.",
+      "Their search proved barren of clues."
+    ],
+    "extra": {
+      "synonyms": ["infertile", "sterile", "desolate"],
+      "antonyms": ["fertile", "productive"],
+      "memory_tip": "Barren = bare land.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "consist",
+    "type": "verb",
+    "definition": "To be made up or composed of something.",
+    "pronunciation": { "us": "kun-SIST", "uk": "kun-SIST" },
+    "examples": [
+      "The team consists of ten players.",
+      "Dinner will consist of soup and bread."
+    ],
+    "extra": {
+      "synonyms": ["be composed of", "contain"],
+      "antonyms": ["exclude", "omit"],
+      "memory_tip": "Consist of = the parts that ‘sit together’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["consist", "consisted", "consisting"]
+    }
+  },
+  {
+    "word": "drought",
+    "type": "noun",
+    "definition": "A long period with little or no rain.",
+    "pronunciation": { "us": "drowt", "uk": "drowt" },
+    "examples": [
+      "The crops failed during the drought.",
+      "Water use was limited because of drought."
+    ],
+    "extra": {
+      "synonyms": ["dry spell", "aridity"],
+      "antonyms": ["flood", "downpour"],
+      "memory_tip": "Drought = ‘dry-out’.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "erode",
+    "type": "verb",
+    "definition": "To wear away gradually by water, wind, or other natural forces; to slowly reduce or damage.",
+    "pronunciation": { "us": "ih-ROHD", "uk": "ih-ROHD" },
+    "examples": [
+      "Waves erode the cliffs.",
+      "Lies can erode trust."
+    ],
+    "extra": {
+      "synonyms": ["wear away", "corrode", "undermine"],
+      "antonyms": ["build up", "restore"],
+      "memory_tip": "Erode = edges rode away.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["erode", "eroded", "eroding"]
+    }
+  },
+  {
+    "word": "expand",
+    "type": "verb",
+    "definition": "To become larger or to make something larger; to increase in range or amount.",
+    "pronunciation": { "us": "ik-SPAND", "uk": "ik-SPAND" },
+    "examples": [
+      "Heat makes air expand.",
+      "The company plans to expand into Asia."
+    ],
+    "extra": {
+      "synonyms": ["enlarge", "grow", "extend"],
+      "antonyms": ["shrink", "contract"],
+      "memory_tip": "Expand = X-pands outwards.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["expand", "expanded", "expanding"]
+    }
+  },
+  {
+    "word": "famine",
+    "type": "noun",
+    "definition": "A severe shortage of food that affects a large area or population.",
+    "pronunciation": { "us": "FAM-in", "uk": "FAM-in" },
+    "examples": [
+      "Aid arrived to relieve the famine.",
+      "Crops failed and famine followed."
+    ],
+    "extra": {
+      "synonyms": ["starvation", "food shortage"],
+      "antonyms": ["plenty", "abundance"],
+      "memory_tip": "Famine = family with no food.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "fertile",
+    "type": "adjective",
+    "definition": "Able to produce many plants or crops; rich in nutrients.",
+    "pronunciation": { "us": "FUR-til", "uk": "FUR-tile" },
+    "examples": [
+      "Seeds sprout quickly in fertile soil.",
+      "The valley is fertile and green."
+    ],
+    "extra": {
+      "synonyms": ["productive", "rich", "fruitful"],
+      "antonyms": ["barren", "infertile"],
+      "memory_tip": "Fertile soil is full of life.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "oasis",
+    "type": "noun",
+    "definition": "A fertile area in a desert where water is found; a pleasant place or moment of relief.",
+    "pronunciation": { "us": "oh-AY-sis", "uk": "oh-AY-sis" },
+    "examples": [
+      "They rested at an oasis after crossing the dunes.",
+      "The park is an oasis in the busy city."
+    ],
+    "extra": {
+      "synonyms": ["haven", "refuge", "watering place"],
+      "antonyms": ["wasteland (contrast)"],
+      "memory_tip": "Oasis = ‘oh!’—a spot of water and shade.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "pasture",
+    "type": "noun,verb",
+    "definition": "Grassland where animals graze; to put animals out to feed on grass.",
+    "pronunciation": { "us": "PAS-chur", "uk": "PAS-chuh" },
+    "examples": [
+      "Cows grazed in the pasture. (noun)",
+      "They pastured the sheep on the hillside. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["meadow", "grazing land", "graze (verb)"],
+      "antonyms": ["stall (contrast)", "barn (contrast)"],
+      "memory_tip": "Pasture = pasture-plate for animals.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["pasture", "pastured", "pasturing"]
+    }
+  },
+  {
+    "word": "primitive",
+    "type": "adjective,noun",
+    "definition": "Relating to early stages of development; simple or basic; a person from an early stage of civilisation (dated).",
+    "pronunciation": { "us": "PRIM-uh-tiv", "uk": "PRIM-uh-tiv" },
+    "examples": [
+      "They used primitive tools made of stone. (adjective)",
+      "The exhibit shows primitive art. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["early", "rudimentary", "basic"],
+      "antonyms": ["advanced", "sophisticated"],
+      "memory_tip": "Primitive = prime/first stage of development.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "refuge",
+    "type": "noun",
+    "definition": "Shelter or protection from danger or trouble; a safe place.",
+    "pronunciation": { "us": "REF-yooj", "uk": "REF-yooj" },
+    "examples": [
+      "The cave offered refuge from the storm.",
+      "They sought refuge in a nearby village."
+    ],
+    "extra": {
+      "synonyms": ["shelter", "haven", "sanctuary"],
+      "antonyms": ["exposure", "danger"],
+      "memory_tip": "Refuge = a place where you feel safe.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "revert",
+    "type": "verb",
+    "definition": "To return to a former state, condition, or topic.",
+    "pronunciation": { "us": "ri-VURT", "uk": "ri-VURT" },
+    "examples": [
+      "Without care, the garden will revert to weeds.",
+      "Let’s revert to the main question."
+    ],
+    "extra": {
+      "synonyms": ["return", "go back", "relapse"],
+      "antonyms": ["advance", "progress"],
+      "memory_tip": "Revert = re-turn to the previous version.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["revert", "reverted", "reverting"]
+    }
+  },
+  {
+    "word": "teem",
+    "type": "verb",
+    "definition": "To be full of or swarming with something.",
+    "pronunciation": { "us": "teem", "uk": "teem" },
+    "examples": [
+      "The river teems with fish in spring.",
+      "On market day the streets teemed with shoppers."
+    ],
+    "extra": {
+      "synonyms": ["swarm", "overflow", "brim"],
+      "antonyms": ["lack", "be sparse"],
+      "memory_tip": "Teem = team-sized crowds everywhere.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["teem", "teemed", "teeming"]
+    }
+  },
+  {
+    "word": "wither",
+    "type": "verb",
+    "definition": "To dry up, shrivel, or fade; to weaken or fall away.",
+    "pronunciation": { "us": "WITH-er", "uk": "WITH-uh" },
+    "examples": [
+      "Leaves wither without water.",
+      "Confidence can wither after repeated failures."
+    ],
+    "extra": {
+      "synonyms": ["shrivel", "fade", "wilt"],
+      "antonyms": ["bloom", "flourish", "thrive"],
+      "memory_tip": "Wither = weathered and dried.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["wither", "withered", "withering"]
+    }
+  }
+]

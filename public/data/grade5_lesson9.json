@@ -1,0 +1,482 @@
+[
+  {
+    "word": "absurd",
+    "type": "adjective",
+    "definition": "Wildly unreasonable, illogical, or ridiculous.",
+    "pronunciation": {
+      "us": "ub-SURD",
+      "uk": "ub-SERD"
+    },
+    "examples": [
+      "It would be absurd to wear skis to school.",
+      "The rumour sounded absurd to everyone."
+    ],
+    "extra": {
+      "synonyms": [
+        "ridiculous",
+        "preposterous",
+        "illogical"
+      ],
+      "antonyms": [
+        "reasonable",
+        "sensible"
+      ],
+      "memory_tip": "Absurd = so silly it’s hard to believe.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "accomplish",
+    "type": "verb",
+    "definition": "To succeed in doing something; to achieve a goal.",
+    "pronunciation": {
+      "us": "uh-KOM-plish",
+      "uk": "uh-KOM-plish"
+    },
+    "examples": [
+      "We accomplished our science project on time.",
+      "With practice, you can accomplish more each day."
+    ],
+    "extra": {
+      "synonyms": [
+        "achieve",
+        "complete"
+      ],
+      "antonyms": [
+        "fail",
+        "abandon"
+      ],
+      "memory_tip": "Accomplish = bring to a complete finish.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "accomplish",
+        "accomplished",
+        "accomplishing"
+      ]
+    }
+  },
+  {
+    "word": "ascend",
+    "type": "verb",
+    "definition": "To go up or climb.",
+    "pronunciation": {
+      "us": "uh-SEND",
+      "uk": "uh-SEND"
+    },
+    "examples": [
+      "They ascended the steep stairs.",
+      "Hot air balloons ascend into the sky."
+    ],
+    "extra": {
+      "synonyms": [
+        "rise",
+        "climb",
+        "mount"
+      ],
+      "antonyms": [
+        "descend",
+        "drop"
+      ],
+      "memory_tip": "Ascend = ‘a send’ upward.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "ascend",
+        "ascended",
+        "ascending"
+      ]
+    }
+  },
+  {
+    "word": "dense",
+    "type": "adjective",
+    "definition": "Closely packed together; thick; hard to see through.",
+    "pronunciation": {
+      "us": "dens",
+      "uk": "dens"
+    },
+    "examples": [
+      "We walked through dense fog.",
+      "The forest was so dense that little light came through."
+    ],
+    "extra": {
+      "synonyms": [
+        "thick",
+        "compact",
+        "heavy"
+      ],
+      "antonyms": [
+        "thin",
+        "sparse"
+      ],
+      "memory_tip": "Dense = packed so tight it’s hard to pass or see.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "experiment",
+    "type": "noun,verb",
+    "definition": "A scientific test to discover something; to try out new ideas or methods.",
+    "pronunciation": {
+      "us": "ek-SPER-uh-ment (noun), ik-SPER-uh-ment (verb)",
+      "uk": "ek-SPER-uh-ment (noun), ik-SPER-uh-ment (verb)"
+    },
+    "examples": [
+      "Our experiment tested plant growth. (noun)",
+      "We experimented with two kinds of soil. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "test",
+        "trial",
+        "try out"
+      ],
+      "antonyms": [
+        "assume",
+        "ignore"
+      ],
+      "memory_tip": "Experiment = try it and see what happens.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "experiment",
+        "experimented",
+        "experimenting"
+      ]
+    }
+  },
+  {
+    "word": "flimsy",
+    "type": "adjective",
+    "definition": "Light and weak; easily broken or not convincing.",
+    "pronunciation": {
+      "us": "FLIM-zee",
+      "uk": "FLIM-zee"
+    },
+    "examples": [
+      "The flimsy box tore when lifted.",
+      "That was a flimsy excuse for being late."
+    ],
+    "extra": {
+      "synonyms": [
+        "fragile",
+        "weak",
+        "thin"
+      ],
+      "antonyms": [
+        "sturdy",
+        "strong",
+        "solid"
+      ],
+      "memory_tip": "Flimsy = flim-flam thin and weak.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "heroic",
+    "type": "adjective",
+    "definition": "Very brave or great; like a hero.",
+    "pronunciation": {
+      "us": "hih-ROH-ik",
+      "uk": "heh-ROH-ik"
+    },
+    "examples": [
+      "Firefighters made a heroic rescue.",
+      "She showed heroic effort in the final lap."
+    ],
+    "extra": {
+      "synonyms": [
+        "brave",
+        "valiant",
+        "courageous"
+      ],
+      "antonyms": [
+        "cowardly",
+        "timid"
+      ],
+      "memory_tip": "Heroic = actions worthy of a hero.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "lumber",
+    "type": "noun,verb",
+    "definition": "Wood that has been cut into boards; to move in a heavy, clumsy way.",
+    "pronunciation": {
+      "us": "LUM-ber",
+      "uk": "LUM-buh"
+    },
+    "examples": [
+      "We built a shelf from pine lumber. (noun)",
+      "The bear lumbered through the campsite. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "timber",
+        "boards",
+        "trudge"
+      ],
+      "antonyms": [
+        "glide (contrast)",
+        "float (contrast)"
+      ],
+      "memory_tip": "Lumber = wood in boards, or heavy-footed movement.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "lumber",
+        "lumbered",
+        "lumbering"
+      ]
+    }
+  },
+  {
+    "word": "mimic",
+    "type": "verb,noun",
+    "definition": "To copy the way someone speaks or moves; a person who copies others.",
+    "pronunciation": {
+      "us": "MIM-ik",
+      "uk": "MIM-ik"
+    },
+    "examples": [
+      "Parrots can mimic human speech. (verb)",
+      "The comedian is a brilliant mimic. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "imitate",
+        "copy",
+        "imitator"
+      ],
+      "antonyms": [
+        "originate",
+        "create"
+      ],
+      "memory_tip": "Mimic = make it look or sound the same.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "mimic",
+        "mimicked",
+        "mimicking"
+      ]
+    }
+  },
+  {
+    "word": "significant",
+    "type": "adjective",
+    "definition": "Important or meaningful; large enough to be noticed.",
+    "pronunciation": {
+      "us": "sig-NIF-ih-kent",
+      "uk": "sig-NIF-ih-kunt"
+    },
+    "examples": [
+      "There was a significant change in temperature.",
+      "Her speech had a significant impact on the class."
+    ],
+    "extra": {
+      "synonyms": [
+        "important",
+        "notable",
+        "meaningful"
+      ],
+      "antonyms": [
+        "minor",
+        "trivial"
+      ],
+      "memory_tip": "Significant = a ‘sign’ that it matters.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "soar",
+    "type": "verb",
+    "definition": "To fly or rise high in the air; to increase quickly.",
+    "pronunciation": {
+      "us": "sohr",
+      "uk": "saw"
+    },
+    "examples": [
+      "Eagles soar above the cliffs.",
+      "The crowd’s excitement soared at the goal."
+    ],
+    "extra": {
+      "synonyms": [
+        "rise",
+        "glide",
+        "rocket"
+      ],
+      "antonyms": [
+        "sink",
+        "plunge"
+      ],
+      "memory_tip": "Soar = skyward and more.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "soar",
+        "soared",
+        "soaring"
+      ]
+    }
+  },
+  {
+    "word": "spectator",
+    "type": "noun",
+    "definition": "A person who watches an event.",
+    "pronunciation": {
+      "us": "SPEK-tay-ter",
+      "uk": "SPEK-tay-tuh"
+    },
+    "examples": [
+      "Spectators cheered from the stands.",
+      "Each spectator received a programme."
+    ],
+    "extra": {
+      "synonyms": [
+        "onlooker",
+        "observer",
+        "viewer"
+      ],
+      "antonyms": [
+        "participant",
+        "player"
+      ],
+      "memory_tip": "Spectator = one who ‘sees’ the spectacle.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "suspend",
+    "type": "verb",
+    "definition": "To hang from something; to stop or delay for a time.",
+    "pronunciation": {
+      "us": "suh-SPEND",
+      "uk": "suh-SPEND"
+    },
+    "examples": [
+      "Lanterns were suspended from the ceiling.",
+      "The match was suspended due to rain."
+    ],
+    "extra": {
+      "synonyms": [
+        "hang",
+        "pause",
+        "postpone"
+      ],
+      "antonyms": [
+        "continue",
+        "resume"
+      ],
+      "memory_tip": "Suspend = send it ‘up’ to hang or ‘pause’ to wait.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "suspend",
+        "suspended",
+        "suspending"
+      ]
+    }
+  },
+  {
+    "word": "terminate",
+    "type": "verb",
+    "definition": "To bring to an end.",
+    "pronunciation": {
+      "us": "TER-muh-nayt",
+      "uk": "TER-muh-nayt"
+    },
+    "examples": [
+      "The company terminated the contract.",
+      "The train terminates at the next station."
+    ],
+    "extra": {
+      "synonyms": [
+        "end",
+        "finish",
+        "conclude"
+      ],
+      "antonyms": [
+        "begin",
+        "start",
+        "initiate"
+      ],
+      "memory_tip": "Terminate = the terminal stop.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "terminate",
+        "terminated",
+        "terminating"
+      ]
+    }
+  },
+  {
+    "word": "unwieldy",
+    "type": "adjective",
+    "definition": "Difficult to carry or use because of size, shape, or weight.",
+    "pronunciation": {
+      "us": "un-WEEL-dee",
+      "uk": "un-WEEL-dee"
+    },
+    "examples": [
+      "The unwieldy box needed two people to lift it.",
+      "An unwieldy title can confuse readers."
+    ],
+    "extra": {
+      "synonyms": [
+        "clumsy",
+        "cumbersome",
+        "bulky"
+      ],
+      "antonyms": [
+        "handy",
+        "manageable"
+      ],
+      "memory_tip": "Unwieldy = not easy to wield or handle.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "limit",
+    "type": "noun,verb",
+    "definition": "A point beyond which you cannot go; to set a maximum or restrict something.",
+    "pronunciation": {
+      "us": "LIM-it",
+      "uk": "LIM-it"
+    },
+    "examples": [
+      "The speed limit on this road is 50. (noun)",
+      "Please limit your answer to two sentences. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "boundary",
+        "maximum",
+        "restrict",
+        "cap"
+      ],
+      "antonyms": [
+        "increase",
+        "expand",
+        "free up"
+      ],
+      "memory_tip": "Limit = the line that says ‘no more’.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "limit",
+        "limited",
+        "limiting"
+      ]
+    }
+  }
+]

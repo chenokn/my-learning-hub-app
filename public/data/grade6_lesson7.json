@@ -1,0 +1,264 @@
+[
+  {
+    "word": "brawl",
+    "type": "noun,verb",
+    "definition": "A noisy fight or quarrel; to fight loudly in a public place.",
+    "pronunciation": { "us": "brawl", "uk": "brawl" },
+    "examples": [
+      "A brawl broke out after the match. (noun)",
+      "They were arrested for brawling in the street. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["fight", "scuffle", "melee"],
+      "antonyms": ["truce", "peace"],
+      "memory_tip": "Brawl = big, roaring b-rawl.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["brawl", "brawled", "brawling"]
+    }
+  },
+  {
+    "word": "casual",
+    "type": "adjective",
+    "definition": "Relaxed and informal; happening by chance; not regular or permanent (work).",
+    "pronunciation": { "us": "KAZH-oo-uhl", "uk": "KAZH-yoo-uhl" },
+    "examples": [
+      "Wear casual clothes to the picnic.",
+      "She has casual work on weekends."
+    ],
+    "extra": {
+      "synonyms": ["informal", "relaxed", "occasional"],
+      "antonyms": ["formal", "serious", "regular"],
+      "memory_tip": "Casual = comfy and unplanned.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "constant",
+    "type": "adjective,noun",
+    "definition": "Happening all the time or staying the same; a value that does not change.",
+    "pronunciation": { "us": "KON-stunt", "uk": "KON-stunt" },
+    "examples": [
+      "The fan made a constant humming sound. (adjective)",
+      "In maths, π is a constant. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["steady", "continuous", "unchanging"],
+      "antonyms": ["variable", "occasional", "inconstant"],
+      "memory_tip": "Constant = stands constant, doesn’t change.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "excel",
+    "type": "verb",
+    "definition": "To do extremely well; to be very good at something.",
+    "pronunciation": { "us": "ek-SEL", "uk": "ik-SEL" },
+    "examples": [
+      "She excels in science.",
+      "The team excelled under pressure."
+    ],
+    "extra": {
+      "synonyms": ["outperform", "shine", "surpass"],
+      "antonyms": ["struggle", "underperform"],
+      "memory_tip": "Excel = exceed + excel at it.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["excel", "excelled", "excelling"]
+    }
+  },
+  {
+    "word": "exhaust",
+    "type": "verb,noun",
+    "definition": "To make someone very tired; to use up completely; the waste gases or the pipe that carries them away from an engine.",
+    "pronunciation": { "us": "ig-ZAWST", "uk": "ig-ZAWST" },
+    "examples": [
+      "The long hike exhausted us. (verb)",
+      "The car’s exhaust was noisy. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["tire out", "drain", "deplete"],
+      "antonyms": ["energise", "refresh", "replenish"],
+      "memory_tip": "Exhaust = energy exits.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["exhaust", "exhausted", "exhausting"]
+    }
+  },
+  {
+    "word": "hardy",
+    "type": "adjective",
+    "definition": "Strong and able to survive difficult conditions.",
+    "pronunciation": { "us": "HAR-dee", "uk": "HAR-dee" },
+    "examples": [
+      "Hardy plants survive winter frost.",
+      "She’s a hardy runner even in the rain."
+    ],
+    "extra": {
+      "synonyms": ["robust", "tough", "resilient"],
+      "antonyms": ["delicate", "fragile"],
+      "memory_tip": "Hardy = hardly harmed.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "mediocre",
+    "type": "adjective",
+    "definition": "Only average in quality; not very good.",
+    "pronunciation": { "us": "mee-dee-OH-ker", "uk": "mee-dee-OH-kuh" },
+    "examples": [
+      "The film had mediocre reviews.",
+      "He refused to hand in mediocre work."
+    ],
+    "extra": {
+      "synonyms": ["average", "so-so", "middling"],
+      "antonyms": ["excellent", "superb", "outstanding"],
+      "memory_tip": "Mediocre = middle-of-the-oker.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "monotonous",
+    "type": "adjective",
+    "definition": "Boring because it is always the same; lacking variety in sound or activity.",
+    "pronunciation": { "us": "muh-NOT-uh-nuss", "uk": "muh-NOT-uh-nuss" },
+    "examples": [
+      "The monotonous beeping kept us awake.",
+      "Copying the list became monotonous."
+    ],
+    "extra": {
+      "synonyms": ["repetitive", "dull", "tedious"],
+      "antonyms": ["varied", "lively", "engaging"],
+      "memory_tip": "Monotonous = one (mono) tone.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "originate",
+    "type": "verb",
+    "definition": "To begin or come from a particular place, time, or situation.",
+    "pronunciation": { "us": "uh-RIJ-uh-nayt", "uk": "uh-RIJ-uh-nayt" },
+    "examples": [
+      "The custom originated in the 1800s.",
+      "Many rivers originate in the mountains."
+    ],
+    "extra": {
+      "synonyms": ["begin", "arise", "stem"],
+      "antonyms": ["end", "terminate"],
+      "memory_tip": "Originate = start at the origin.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["originate", "originated", "originating"]
+    }
+  },
+  {
+    "word": "punctuate",
+    "type": "verb",
+    "definition": "To mark writing with punctuation; to interrupt something at intervals.",
+    "pronunciation": { "us": "PUNK-choo-ayt", "uk": "PUNK-choo-ayt" },
+    "examples": [
+      "Remember to punctuate your sentences.",
+      "Thunder punctuated the quiet night."
+    ],
+    "extra": {
+      "synonyms": ["mark", "interject", "pepper"],
+      "antonyms": ["run on", "smooth over"],
+      "memory_tip": "Punctuate = put points in.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["punctuate", "punctuated", "punctuating"]
+    }
+  },
+  {
+    "word": "ravenous",
+    "type": "adjective",
+    "definition": "Extremely hungry; eager for something.",
+    "pronunciation": { "us": "RAV-uh-nuss", "uk": "RAV-uh-nuss" },
+    "examples": [
+      "After the hike we were ravenous.",
+      "She had a ravenous desire to learn."
+    ],
+    "extra": {
+      "synonyms": ["starving", "famished", "voracious"],
+      "antonyms": ["full", "satisfied"],
+      "memory_tip": "Ravenous = you could eat like a raven.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "realistic",
+    "type": "adjective",
+    "definition": "Showing things as they are; sensible and practical about what can be done.",
+    "pronunciation": { "us": "ree-uh-LIS-tik", "uk": "ree-uh-LIS-tik" },
+    "examples": [
+      "Set realistic goals for the project.",
+      "The painting is very realistic."
+    ],
+    "extra": {
+      "synonyms": ["practical", "sensible", "lifelike"],
+      "antonyms": ["unrealistic", "idealistic", "impractical"],
+      "memory_tip": "Realistic = rooted in reality.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "soothe",
+    "type": "verb",
+    "definition": "To make someone feel calmer or less painful.",
+    "pronunciation": { "us": "sooth", "uk": "sooth" },
+    "examples": [
+      "A cool cloth soothed the burn.",
+      "Music can soothe nerves before a test."
+    ],
+    "extra": {
+      "synonyms": ["calm", "ease", "comfort"],
+      "antonyms": ["agitate", "irritate", "inflame"],
+      "memory_tip": "Soothe = smooth the mood.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["soothe", "soothed", "soothing"]
+    }
+  },
+  {
+    "word": "stampede",
+    "type": "noun,verb",
+    "definition": "A sudden rush of a crowd, often in panic; to rush in a mass.",
+    "pronunciation": { "us": "stam-PEED", "uk": "stam-PEED" },
+    "examples": [
+      "A stampede of fans ran onto the field. (noun)",
+      "Shoppers stampeded when the doors opened. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["rush", "surge", "charge"],
+      "antonyms": ["disperse", "retreat", "amble"],
+      "memory_tip": "Stampede = a crowd stomps at speed.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["stampede", "stampeded", "stampeding"]
+    }
+  },
+  {
+    "word": "veteran",
+    "type": "noun,adjective",
+    "definition": "A person with long experience in a job or activity; having a lot of experience; also, someone who has served in the armed forces.",
+    "pronunciation": { "us": "VET-er-un", "uk": "VET-uh-run" },
+    "examples": [
+      "She’s a veteran teacher with thirty years’ experience. (noun)",
+      "A veteran engineer led the team. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["expert", "old hand", "experienced"],
+      "antonyms": ["novice", "beginner"],
+      "memory_tip": "Veteran = very tried-and-true.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

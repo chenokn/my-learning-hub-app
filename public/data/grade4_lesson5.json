@@ -1,0 +1,268 @@
+[
+  {
+    "word": "abrupt",
+    "type": "adjective",
+    "definition": "Sudden and unexpected; speaking or acting in a short, sharp way.",
+    "pronunciation": { "us": "uh-BRUPT", "uk": "uh-BRUPT" },
+    "examples": [
+      "The car came to an abrupt stop.",
+      "His abrupt reply ended the conversation."
+    ],
+    "extra": {
+      "synonyms": ["sudden", "unexpected", "brusque"],
+      "antonyms": ["gradual", "gentle", "polite"],
+      "memory_tip": "Abrupt = a break that happens ‘ab-rupt’—right now.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "achieve",
+    "type": "verb",
+    "definition": "To successfully reach a goal by effort or skill.",
+    "pronunciation": { "us": "uh-CHEEV", "uk": "uh-CHEEV" },
+    "examples": [
+      "She achieved her target score.",
+      "Teams achieve more when they plan."
+    ],
+    "extra": {
+      "synonyms": ["accomplish", "attain", "reach"],
+      "antonyms": ["fail", "miss"],
+      "memory_tip": "Achieve = a goal you ‘chiefly’ aim for.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["achieve", "achieved", "achieving"]
+    }
+  },
+  {
+    "word": "attempt",
+    "type": "verb,noun",
+    "definition": "To try to do something difficult; the act of trying.",
+    "pronunciation": { "us": "uh-TEMPT", "uk": "uh-TEMPT" },
+    "examples": [
+      "We attempted the hardest question first. (verb)",
+      "Her second attempt was successful. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["try", "endeavour", "effort"],
+      "antonyms": ["give up", "abandon"],
+      "memory_tip": "Attempt = put your effort ‘at’ the task.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["attempt", "attempted", "attempting"]
+    }
+  },
+  {
+    "word": "contempt",
+    "type": "noun",
+    "definition": "A strong feeling of dislike or lack of respect for someone or something.",
+    "pronunciation": { "us": "kun-TEMPT", "uk": "kun-TEMPT" },
+    "examples": [
+      "He spoke with open contempt for cheating.",
+      "The rule-breaker faced contempt from the group."
+    ],
+    "extra": {
+      "synonyms": ["disdain", "scorn", "disrespect"],
+      "antonyms": ["respect", "admiration"],
+      "memory_tip": "Contempt = you ‘can’t attempt’ to respect it.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "entertain",
+    "type": "verb",
+    "definition": "To amuse or interest; to consider an idea.",
+    "pronunciation": { "us": "en-ter-TAYN", "uk": "en-tuh-TAYN" },
+    "examples": [
+      "The magician entertained the crowd.",
+      "We entertained the idea of a class trip."
+    ],
+    "extra": {
+      "synonyms": ["amuse", "delight", "consider"],
+      "antonyms": ["bore", "dismiss"],
+      "memory_tip": "Entertain = let fun ‘enter’ the room.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["entertain", "entertained", "entertaining"]
+    }
+  },
+  {
+    "word": "glimpse",
+    "type": "noun,verb",
+    "definition": "A quick, brief look; to see something for a very short time.",
+    "pronunciation": { "us": "glimps", "uk": "glimps" },
+    "examples": [
+      "I caught a glimpse of the comet. (noun)",
+      "We glimpsed dolphins near the boat. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["peek", "glance", "flash"],
+      "antonyms": ["stare", "scrutiny"],
+      "memory_tip": "Glimpse = a little ‘glint’ of sight.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["glimpse", "glimpsed", "glimpsing"]
+    }
+  },
+  {
+    "word": "mock",
+    "type": "verb,adjective,noun",
+    "definition": "To make fun of; not real but made to be similar; a practice version.",
+    "pronunciation": { "us": "mok", "uk": "mok" },
+    "examples": [
+      "It’s unkind to mock someone’s accent. (verb)",
+      "We sat a mock exam before the real one. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["ridicule", "tease", "imitation"],
+      "antonyms": ["praise", "respect", "genuine"],
+      "memory_tip": "Mock = mimic with meanness—or a model run.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["mock", "mocked", "mocking"]
+    }
+  },
+  {
+    "word": "persist",
+    "type": "verb",
+    "definition": "To keep doing something even when it is difficult or others want you to stop.",
+    "pronunciation": { "us": "per-SIST", "uk": "per-SIST" },
+    "examples": [
+      "She persisted until the puzzle was solved.",
+      "Rain persisted all weekend."
+    ],
+    "extra": {
+      "synonyms": ["continue", "persevere", "endure"],
+      "antonyms": ["quit", "give up"],
+      "memory_tip": "Persist = insist on continuing.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["persist", "persisted", "persisting"]
+    }
+  },
+  {
+    "word": "persuade",
+    "type": "verb",
+    "definition": "To cause someone to do or believe something by giving reasons.",
+    "pronunciation": { "us": "per-SWAYD", "uk": "per-SWAYD" },
+    "examples": [
+      "He persuaded his friend to join the club.",
+      "A good argument can persuade the reader."
+    ],
+    "extra": {
+      "synonyms": ["convince", "influence", "sway"],
+      "antonyms": ["deter", "discourage"],
+      "memory_tip": "Persuade = put ‘sweet’ sense into someone’s mind.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["persuade", "persuaded", "persuading"]
+    }
+  },
+  {
+    "word": "phase",
+    "type": "noun,verb",
+    "definition": "A distinct stage in a process; to carry out or introduce in stages.",
+    "pronunciation": { "us": "fayz", "uk": "fayz" },
+    "examples": [
+      "The moon has different phases. (noun)",
+      "They will phase the changes over a year. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["stage", "period", "gradually introduce (verb)"],
+      "antonyms": ["whole (contrast)", "sudden (contrast)"],
+      "memory_tip": "Phase = a face of time in a longer cycle.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["phase", "phased", "phasing"]
+    }
+  },
+  {
+    "word": "quaint",
+    "type": "adjective",
+    "definition": "Attractively old-fashioned or unusual in a pleasing way.",
+    "pronunciation": { "us": "kwaynt", "uk": "kwaynt" },
+    "examples": [
+      "We stayed in a quaint cottage by the sea.",
+      "The village has quaint narrow streets."
+    ],
+    "extra": {
+      "synonyms": ["charming", "picturesque", "old-fashioned"],
+      "antonyms": ["modern", "ordinary"],
+      "memory_tip": "Quaint = quaintly cute and old-timey.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "recall",
+    "type": "verb,noun",
+    "definition": "To remember; to order a product or person to return; the act of remembering or calling back.",
+    "pronunciation": { "us": "ri-KAWL", "uk": "ri-KAWL" },
+    "examples": [
+      "I can’t recall where I put the keys. (verb)",
+      "The company issued a recall of the toys. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["remember", "recollect", "summon back"],
+      "antonyms": ["forget", "dismiss"],
+      "memory_tip": "Re-call = call it back to mind or place.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["recall", "recalled", "recalling"]
+    }
+  },
+  {
+    "word": "reject",
+    "type": "verb,noun",
+    "definition": "To refuse to accept or agree to; a person or thing that is not accepted.",
+    "pronunciation": { "us": "ri-JEKT (verb), REE-jekt (noun)", "uk": "ri-JEKT (verb), REE-jekt (noun)" },
+    "examples": [
+      "The editor rejected the article. (verb)",
+      "Factory rejects are sold at a discount. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["refuse", "decline", "dismiss"],
+      "antonyms": ["accept", "approve"],
+      "memory_tip": "Reject = re-eject—push it back out.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["reject", "rejected", "rejecting"]
+    }
+  },
+  {
+    "word": "revise",
+    "type": "verb",
+    "definition": "To change something to improve it; in UK English, to study again for an exam.",
+    "pronunciation": { "us": "ri-VYZ", "uk": "ri-VYZ" },
+    "examples": [
+      "Please revise your paragraph for clarity.",
+      "I’m revising for science tonight."
+    ],
+    "extra": {
+      "synonyms": ["edit", "amend", "review"],
+      "antonyms": ["ignore", "keep as is"],
+      "memory_tip": "Revise = re-vision—see it again and improve.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["revise", "revised", "revising"]
+    }
+  },
+  {
+    "word": "sensitive",
+    "type": "adjective",
+    "definition": "Quick to feel or notice; easily upset; needing careful handling.",
+    "pronunciation": { "us": "SEN-si-tiv", "uk": "SEN-si-tiv" },
+    "examples": [
+      "Her skin is sensitive to sunlight.",
+      "Be careful—this is sensitive information."
+    ],
+    "extra": {
+      "synonyms": ["delicate", "responsive", "tender"],
+      "antonyms": ["insensitive", "tough", "unfeeling"],
+      "memory_tip": "Sensitive = senses switch on quickly.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "word": "division",
+    "type": "noun",
+    "definition": "The act or process of separating into parts; in maths, the operation of finding how many times one number is contained in another; a disagreement that separates people.",
+    "pronunciation": { "us": "di-VIZH-un", "uk": "di-VIZH-un" },
+    "examples": [
+      "We practised long division in maths today.",
+      "There was a division of labour among the groups.",
+      "The issue caused a deep division in opinion."
+    ],
+    "extra": {
+      "synonyms": ["separation", "section", "split"],
+      "antonyms": ["union", "unity", "whole"],
+      "memory_tip": "Division divides things into parts.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "mental",
+    "type": "adjective",
+    "definition": "Relating to the mind or thinking; done in the head without writing.",
+    "pronunciation": { "us": "MEN-tl", "uk": "MEN-tl" },
+    "examples": [
+      "We did mental maths before the quiz.",
+      "Creating a mental picture can help you remember."
+    ],
+    "extra": {
+      "synonyms": ["cognitive", "intellectual", "psychological"],
+      "antonyms": ["physical (contrast)", "bodily (contrast)"],
+      "memory_tip": "Mental = mind-based, not manual.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "outcome",
+    "type": "noun",
+    "definition": "The result or effect of an action or event.",
+    "pronunciation": { "us": "OUT-kum", "uk": "OUT-kum" },
+    "examples": [
+      "The outcome of the experiment matched our hypothesis.",
+      "The match outcome was a draw."
+    ],
+    "extra": {
+      "synonyms": ["result", "consequence", "effect"],
+      "antonyms": ["cause", "origin"],
+      "memory_tip": "Outcome = what comes out at the end.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "pastime",
+    "type": "noun",
+    "definition": "An activity that you enjoy doing in your free time; a hobby.",
+    "pronunciation": { "us": "PASS-tym", "uk": "PASS-tym" },
+    "examples": [
+      "Reading is her favourite pastime.",
+      "Gardening is a relaxing pastime."
+    ],
+    "extra": {
+      "synonyms": ["hobby", "recreation", "leisure activity"],
+      "antonyms": ["work", "duty"],
+      "memory_tip": "Pastime helps time pass pleasantly.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "promote",
+    "type": "verb",
+    "definition": "To help something grow, happen, or become well known; to raise someone to a higher position.",
+    "pronunciation": { "us": "proh-MOHT", "uk": "pruh-MOHT" },
+    "examples": [
+      "Our posters promote the school play.",
+      "The club promotes healthy habits.",
+      "She was promoted to team leader."
+    ],
+    "extra": {
+      "synonyms": ["encourage", "advance", "advertise"],
+      "antonyms": ["discourage", "demote", "suppress"],
+      "memory_tip": "Promote = move it ‘up’ or make it more known.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["promote", "promoted", "promoting"]
+    }
+  },
+  {
+    "word": "rate",
+    "type": "noun,verb",
+    "definition": "A measure of how often or how much something happens; a price; to judge or value something.",
+    "pronunciation": { "us": "rayt", "uk": "rayt" },
+    "examples": [
+      "Her heart rate increased during exercise. (noun)",
+      "The hotel’s room rate was affordable. (noun)",
+      "How would you rate the book? (verb)"
+    ],
+    "extra": {
+      "synonyms": ["speed", "price", "evaluate (verb)"],
+      "antonyms": ["total (contrast)", "ignore (verb)"],
+      "memory_tip": "Rate = the pace, the price, or the score.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["rate", "rated", "rating"]
+    }
+  },
+  {
+    "word": "regret",
+    "type": "noun,verb",
+    "definition": "A feeling of sadness about something that has happened; to feel sorry about something.",
+    "pronunciation": { "us": "ri-GRET", "uk": "ri-GRET" },
+    "examples": [
+      "He felt regret after speaking unkindly. (noun)",
+      "I regret missing your call. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["remorse", "sorrow", "lament"],
+      "antonyms": ["satisfaction", "pride"],
+      "memory_tip": "Regret = wish you could ‘re-get’ the moment.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["regret", "regretted", "regretting"]
+    }
+  },
+  {
+    "word": "talent",
+    "type": "noun",
+    "definition": "A natural ability to do something well.",
+    "pronunciation": { "us": "TA-lent", "uk": "TA-lent" },
+    "examples": [
+      "She has a talent for drawing animals.",
+      "The show looks for new musical talent."
+    ],
+    "extra": {
+      "synonyms": ["ability", "gift", "skill"],
+      "antonyms": ["inability", "ineptitude"],
+      "memory_tip": "Talent = a gift you can train into skill.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "theory",
+    "type": "noun",
+    "definition": "A well-supported explanation of how or why something happens; an idea used to explain facts.",
+    "pronunciation": { "us": "THEE-uh-ree", "uk": "THEE-uh-ree" },
+    "examples": [
+      "Evolution is a scientific theory supported by evidence.",
+      "Her theory about the puzzle was correct."
+    ],
+    "extra": {
+      "synonyms": ["explanation", "model", "hypothesis (informal use)"],
+      "antonyms": ["fact (contrast)", "practice (contrast)"],
+      "memory_tip": "Theory = a thoughtful ‘story’ that explains facts.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "tournament",
+    "type": "noun",
+    "definition": "A series of contests between many players or teams, with one overall winner.",
+    "pronunciation": { "us": "TOR-nuh-munt", "uk": "TOR-nuh-munt" },
+    "examples": [
+      "Our school entered a football tournament.",
+      "She won the chess tournament last spring."
+    ],
+    "extra": {
+      "synonyms": ["competition", "championship", "contest"],
+      "antonyms": ["friendly match (contrast)", "practice (contrast)"],
+      "memory_tip": "Tournament = turn by turn until a champion remains.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

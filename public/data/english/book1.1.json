@@ -1,0 +1,423 @@
+{
+  "title": "Park Play",
+  "grade": "Early stage",
+  "uk_spelling": true,
+  "font_size": 30,
+  "vocabulary": [
+    "ball",
+    "swing",
+    "slide",
+    "climb",
+    "run",
+    "jump",
+    "push",
+    "pull",
+    "spin",
+    "laugh"
+  ],
+  "images": [
+    "/stem-hub/language/parkplay.1.png",
+    "/stem-hub/language/parkplay.2.png",
+    "/stem-hub/language/parkplay.3.png",
+    "/stem-hub/language/parkplay.4.png",
+    "/stem-hub/language/parkplay.5.png"
+  ],
+  "passage": [
+    "Sam and Lina go to the park with a red ball. They run on the grass and laugh. Sam kicks the ball to Lina, and she taps it back. |'Let’s play chase!' says Sam.",
+    "They reach the swings. Sam sits on the swing and holds tight. 'Push me, please,' he says. Lina gives a gentle push. |Up Sam goes and back he comes. They laugh together.",
+    "Next they climb the ladder to the slide. Lina goes first. Whoosh! Down she goes. Sam slides after her. |They jump from the soft mat and shout, 'Again!'",
+    "At the roundabout they pull the bar to start it moving and then push together to make it spin. Around they go—slow at first, then a little faster.",
+    "They stop, sit on a bench, and laugh one more time."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who goes to the park?",
+      "answer": "Sam and Lina",
+      "keys": [
+        "Sam",
+        "Lina"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What do they take to the park?",
+      "answer": "A red ball",
+      "keys": [
+        "ball"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What do they do on the grass?",
+      "answer": "Run and laugh",
+      "keys": [
+        "run",
+        "laugh"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Who asks to play chase?",
+      "answer": "Sam",
+      "keys": [
+        "Sam"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Who sits on the swing and who gives the push?",
+      "answer": "Sam sits; Lina pushes",
+      "keys": [
+        "sit",
+        "push",
+        "Sam",
+        "Lina"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What do they climb before the whoosh?",
+      "answer": "The ladder to the slide",
+      "keys": [
+        "slide"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What do they shout after jumping from the mat?",
+      "answer": "“Again!”",
+      "keys": [
+        "again"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How do they make the roundabout move?",
+      "answer": "They pull then push to make it spin",
+      "keys": [
+        "pull",
+        "push"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What do they do at the very end?",
+      "answer": "Sit on a bench and laugh",
+      "keys": [
+        "sit",
+        "laugh"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is the name of the story?",
+      "answer": "Park Play",
+      "keys": [
+        "Park",
+        "Play"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "ball",
+      "type": "noun",
+      "definition": "A round object used for games and sports.",
+      "pronunciation": {
+        "us": "/bɔːl/",
+        "uk": "/bɔːl/"
+      },
+      "examples": [
+        "Sam kicks the ball.",
+        "The ball rolls on the grass."
+      ],
+      "extra": {
+        "synonyms": [
+          "sphere"
+        ],
+        "antonyms": [
+          "cube (contrast)"
+        ],
+        "memory_tip": "Ball = round and ready to roll.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "swing",
+      "type": "noun,verb",
+      "definition": "A seat that moves back and forth; to move back and forth.",
+      "pronunciation": {
+        "us": "/swɪŋ/",
+        "uk": "/swɪŋ/"
+      },
+      "examples": [
+        "Sam sits on the swing. (noun)",
+        "The seat swings gently. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "seat",
+          "arc"
+        ],
+        "antonyms": [
+          "stillness"
+        ],
+        "memory_tip": "Swing = back-and-forth fun.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "swing",
+          "swung",
+          "swinging"
+        ]
+      }
+    },
+    {
+      "word": "slide",
+      "type": "noun,verb",
+      "definition": "A smooth chute you go down; to move smoothly along a surface.",
+      "pronunciation": {
+        "us": "/slaɪd/",
+        "uk": "/slaɪd/"
+      },
+      "examples": [
+        "They go down the slide. (noun)",
+        "Sam slides after her. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "chute",
+          "glide"
+        ],
+        "antonyms": [
+          "stop"
+        ],
+        "memory_tip": "Slide = whoosh down!",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "slide",
+          "slid",
+          "sliding"
+        ]
+      }
+    },
+    {
+      "word": "climb",
+      "type": "verb",
+      "definition": "To go up using your hands and feet.",
+      "pronunciation": {
+        "us": "/klaɪm/",
+        "uk": "/klaɪm/"
+      },
+      "examples": [
+        "They climb the ladder.",
+        "Climb the steps carefully."
+      ],
+      "extra": {
+        "synonyms": [
+          "scale",
+          "go up"
+        ],
+        "antonyms": [
+          "descend",
+          "go down"
+        ],
+        "memory_tip": "Climb = up you go.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "climb",
+          "climbed",
+          "climbing"
+        ]
+      }
+    },
+    {
+      "word": "run",
+      "type": "verb",
+      "definition": "To move fast on your feet.",
+      "pronunciation": {
+        "us": "/rʌn/",
+        "uk": "/rʌn/"
+      },
+      "examples": [
+        "They run on the grass.",
+        "Run to the gate and back."
+      ],
+      "extra": {
+        "synonyms": [
+          "dash",
+          "sprint"
+        ],
+        "antonyms": [
+          "walk"
+        ],
+        "memory_tip": "Run = quick feet.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "run",
+          "ran",
+          "running",
+          "run (participle)"
+        ]
+      }
+    },
+    {
+      "word": "jump",
+      "type": "verb",
+      "definition": "To push off the ground into the air.",
+      "pronunciation": {
+        "us": "/dʒʌmp/",
+        "uk": "/dʒʌmp/"
+      },
+      "examples": [
+        "They jump from the soft mat.",
+        "Jump over the line."
+      ],
+      "extra": {
+        "synonyms": [
+          "leap",
+          "hop"
+        ],
+        "antonyms": [
+          "stand",
+          "land"
+        ],
+        "memory_tip": "Jump = feet leave the ground.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "jump",
+          "jumped",
+          "jumping"
+        ]
+      }
+    },
+    {
+      "word": "push",
+      "type": "verb",
+      "definition": "To move something away from you by pressing it.",
+      "pronunciation": {
+        "us": "/pʊʃ/",
+        "uk": "/pʊʃ/"
+      },
+      "examples": [
+        "Lina gives a gentle push.",
+        "Push the door open."
+      ],
+      "extra": {
+        "synonyms": [
+          "press",
+          "shove"
+        ],
+        "antonyms": [
+          "pull"
+        ],
+        "memory_tip": "Push = away it goes.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "push",
+          "pushed",
+          "pushing"
+        ]
+      }
+    },
+    {
+      "word": "pull",
+      "type": "verb",
+      "definition": "To move something towards you by holding it.",
+      "pronunciation": {
+        "us": "/pʊl/",
+        "uk": "/pʊl/"
+      },
+      "examples": [
+        "They pull the bar to start the roundabout.",
+        "Pull the rope gently."
+      ],
+      "extra": {
+        "synonyms": [
+          "tug",
+          "draw"
+        ],
+        "antonyms": [
+          "push"
+        ],
+        "memory_tip": "Pull = bring it close.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "pull",
+          "pulled",
+          "pulling"
+        ]
+      }
+    },
+    {
+      "word": "spin",
+      "type": "verb",
+      "definition": "To turn around and around.",
+      "pronunciation": {
+        "us": "/spɪn/",
+        "uk": "/spɪn/"
+      },
+      "examples": [
+        "The roundabout begins to spin.",
+        "Leaves spin in the wind."
+      ],
+      "extra": {
+        "synonyms": [
+          "twirl",
+          "whirl"
+        ],
+        "antonyms": [
+          "stop",
+          "still"
+        ],
+        "memory_tip": "Spin = turn like a top.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "spin",
+          "spun",
+          "spinning"
+        ]
+      }
+    },
+    {
+      "word": "laugh",
+      "type": "verb",
+      "definition": "To make a happy sound when something is funny or fun.",
+      "pronunciation": {
+        "us": "/læf/",
+        "uk": "/lɑːf/"
+      },
+      "examples": [
+        "They laugh at the park.",
+        "The joke made us laugh."
+      ],
+      "extra": {
+        "synonyms": [
+          "giggle",
+          "chuckle"
+        ],
+        "antonyms": [
+          "cry",
+          "frown"
+        ],
+        "memory_tip": "Laugh = happy sound.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "laugh",
+          "laughed",
+          "laughing"
+        ]
+      }
+    }
+  ]
+}

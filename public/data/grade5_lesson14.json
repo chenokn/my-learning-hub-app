@@ -1,0 +1,730 @@
+[
+  {
+    "word": "access",
+    "type": "noun,verb",
+    "definition": "The ability to enter, use, or get something; to enter or use something.",
+    "pronunciation": {
+      "us": "AK-sess",
+      "uk": "AK-sess"
+    },
+    "examples": [
+      "Students have access to the library after school. (noun)",
+      "Use your code to access the portal. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "entry",
+        "admission",
+        "reach",
+        "use"
+      ],
+      "antonyms": [
+        "barrier",
+        "block",
+        "deny"
+      ],
+      "memory_tip": "Access = a way to ‘get at’ something.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "access",
+        "accessed",
+        "accessing"
+      ]
+    }
+  },
+  {
+    "word": "associate",
+    "type": "verb,noun,adjective",
+    "definition": "To connect in your mind; a partner or colleague; joined with something else.",
+    "pronunciation": {
+      "us": "uh-SOH-shee-ayt (verb), uh-SOH-shee-it (noun/adj.)",
+      "uk": "uh-SOH-see-ate (verb), uh-SOH-see-it (noun/adj.)"
+    },
+    "examples": [
+      "We often associate rain with umbrellas. (verb)",
+      "She is a research associate in the lab. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "connect",
+        "link",
+        "colleague"
+      ],
+      "antonyms": [
+        "separate",
+        "isolate"
+      ],
+      "memory_tip": "Associate = make a mental ‘association’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "associate",
+        "associated",
+        "associating"
+      ]
+    }
+  },
+  {
+    "word": "boisterous",
+    "type": "adjective",
+    "definition": "Noisy, energetic, and a little out of control.",
+    "pronunciation": {
+      "us": "BOY-struhs",
+      "uk": "BOY-stuh-russ"
+    },
+    "examples": [
+      "The boisterous crowd sang after the win.",
+      "Boisterous play is best taken outdoors."
+    ],
+    "extra": {
+      "synonyms": [
+        "rowdy",
+        "noisy",
+        "lively"
+      ],
+      "antonyms": [
+        "quiet",
+        "calm",
+        "sedate"
+      ],
+      "memory_tip": "Boisterous = bursting with noise and energy.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "brilliant",
+    "type": "adjective",
+    "definition": "Very bright or very clever; excellent.",
+    "pronunciation": {
+      "us": "BRIL-yent",
+      "uk": "BRIL-yunt"
+    },
+    "examples": [
+      "A brilliant idea solved the problem.",
+      "We saw a brilliant flash of lightning."
+    ],
+    "extra": {
+      "synonyms": [
+        "bright",
+        "clever",
+        "excellent"
+      ],
+      "antonyms": [
+        "dull",
+        "dim",
+        "ordinary"
+      ],
+      "memory_tip": "Brilliant = shines with light or smarts.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "decade",
+    "type": "noun",
+    "definition": "A period of ten years.",
+    "pronunciation": {
+      "us": "DEK-ayd",
+      "uk": "DEK-ayd"
+    },
+    "examples": [
+      "A decade ago we lived in another city.",
+      "The project took nearly a decade."
+    ],
+    "extra": {
+      "synonyms": [
+        "ten years"
+      ],
+      "antonyms": [
+        "year (contrast)",
+        "century (contrast)"
+      ],
+      "memory_tip": "Deca- = ten, so decade = ten years.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "delicate",
+    "type": "adjective",
+    "definition": "Easily broken or damaged; needing careful handling.",
+    "pronunciation": {
+      "us": "DEL-ih-kit",
+      "uk": "DEL-ih-kit"
+    },
+    "examples": [
+      "Handle the delicate glass with care.",
+      "The butterfly’s wings are delicate."
+    ],
+    "extra": {
+      "synonyms": [
+        "fragile",
+        "fine",
+        "dainty"
+      ],
+      "antonyms": [
+        "sturdy",
+        "robust"
+      ],
+      "memory_tip": "Delicate = ‘delicate touch’ needed.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "idle",
+    "type": "adjective,verb",
+    "definition": "Not active or working; to spend time doing nothing or run without working hard.",
+    "pronunciation": {
+      "us": "EYE-dul",
+      "uk": "EYE-dl"
+    },
+    "examples": [
+      "The machines were idle during the holiday. (adjective)",
+      "Cars idled at the red light. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "inactive",
+        "lazy",
+        "loaf"
+      ],
+      "antonyms": [
+        "busy",
+        "active",
+        "industrious"
+      ],
+      "memory_tip": "Idle = idling engine—on but not going.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "idle",
+        "idled",
+        "idling"
+      ]
+    }
+  },
+  {
+    "word": "provide",
+    "type": "verb",
+    "definition": "To give or supply what is needed.",
+    "pronunciation": {
+      "us": "pruh-VYDE",
+      "uk": "pruh-VYDE"
+    },
+    "examples": [
+      "The school provides lunch for pupils.",
+      "Please provide your name and class."
+    ],
+    "extra": {
+      "synonyms": [
+        "supply",
+        "give",
+        "furnish"
+      ],
+      "antonyms": [
+        "withhold",
+        "deny"
+      ],
+      "memory_tip": "Provide = ‘pro-vid(e)’—see ahead and supply.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "provide",
+        "provided",
+        "providing"
+      ]
+    }
+  },
+  {
+    "word": "require",
+    "type": "verb",
+    "definition": "To need something; to make something necessary.",
+    "pronunciation": {
+      "us": "rih-KWY-er",
+      "uk": "rih-KWY-uh"
+    },
+    "examples": [
+      "Most plants require sunlight.",
+      "The rules require helmets on bikes."
+    ],
+    "extra": {
+      "synonyms": [
+        "need",
+        "demand",
+        "call for"
+      ],
+      "antonyms": [
+        "not need",
+        "dispense with"
+      ],
+      "memory_tip": "Require = the requirement says ‘must’.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "require",
+        "required",
+        "requiring"
+      ]
+    }
+  },
+  {
+    "word": "taunt",
+    "type": "verb,noun",
+    "definition": "To mock or tease in a mean way; a remark made to anger or upset someone.",
+    "pronunciation": {
+      "us": "TAWNT",
+      "uk": "TAWNT"
+    },
+    "examples": [
+      "Don’t taunt others on the playground. (verb)",
+      "He ignored the taunt and walked away. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "mock",
+        "tease",
+        "jeer"
+      ],
+      "antonyms": [
+        "praise",
+        "encourage"
+      ],
+      "memory_tip": "Taunt = talk that taunts and stings.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "taunt",
+        "taunted",
+        "taunting"
+      ]
+    }
+  },
+  {
+    "word": "tolerant",
+    "type": "adjective",
+    "definition": "Willing to accept feelings, habits, or beliefs that are different from your own; patient.",
+    "pronunciation": {
+      "us": "TOL-uh-runt",
+      "uk": "TOL-uh-ruhnt"
+    },
+    "examples": [
+      "A tolerant class welcomes new ideas.",
+      "Be tolerant of small mistakes."
+    ],
+    "extra": {
+      "synonyms": [
+        "accepting",
+        "open-minded",
+        "patient"
+      ],
+      "antonyms": [
+        "intolerant",
+        "narrow-minded"
+      ],
+      "memory_tip": "Tolerant = you ‘tolerate’ differences kindly.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "transform",
+    "type": "verb",
+    "definition": "To change something completely, usually for the better.",
+    "pronunciation": {
+      "us": "trans-FORM",
+      "uk": "trans-FORM"
+    },
+    "examples": [
+      "Sun and water transform seeds into plants.",
+      "A good edit can transform your writing."
+    ],
+    "extra": {
+      "synonyms": [
+        "change",
+        "convert",
+        "turn into"
+      ],
+      "antonyms": [
+        "preserve",
+        "keep the same"
+      ],
+      "memory_tip": "Transform = new ‘form’ after change.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "transform",
+        "transformed",
+        "transforming"
+      ]
+    }
+  },
+  {
+    "word": "wilderness",
+    "type": "noun",
+    "definition": "A wild, natural area where few people live.",
+    "pronunciation": {
+      "us": "WIL-der-ness",
+      "uk": "WIL-duh-ness"
+    },
+    "examples": [
+      "They camped in the mountain wilderness.",
+      "The park protects a large wilderness area."
+    ],
+    "extra": {
+      "synonyms": [
+        "wilds",
+        "backcountry",
+        "outback"
+      ],
+      "antonyms": [
+        "city",
+        "settlement"
+      ],
+      "memory_tip": "Wilderness = ‘wild-ness’ of nature.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  
+  {
+    "word": "wily",
+    "type": "adjective",
+    "definition": "Good at using tricks to get what you want; crafty.",
+    "pronunciation": {
+      "us": "WYE-lee",
+      "uk": "WYE-lee"
+    },
+    "examples": [
+      "The wily fox slipped through the fence.",
+      "A wily plan outsmarted the opponent."
+    ],
+    "extra": {
+      "synonyms": [
+        "crafty",
+        "sly",
+        "cunning"
+      ],
+      "antonyms": [
+        "naive",
+        "honest",
+        "guileless"
+      ],
+      "memory_tip": "Wily = ‘wily old fox’ cleverness.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "yield",
+    "type": "verb,noun",
+    "definition": "To produce or give something; to give way; the amount produced.",
+    "pronunciation": {
+      "us": "YEELD",
+      "uk": "YEELD"
+    },
+    "examples": [
+      "The farm yields a lot of fruit. (verb)",
+      "This year’s wheat yield was high. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "produce",
+        "generate",
+        "surrender",
+        "output (noun)"
+      ],
+      "antonyms": [
+        "resist",
+        "withhold",
+        "shortfall (contrast)"
+      ],
+      "memory_tip": "Yield = either ‘give’ (produce/allow) or ‘give way’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "yield",
+        "yielded",
+        "yielding"
+      ]
+    }
+  }, {
+    "word": "illuminate",
+    "type": "verb",
+    "definition": "To light up; to make something clear or easier to understand.",
+    "pronunciation": { "us": "ih-LOO-muh-nayt", "uk": "ih-LOO-muh-nayt" },
+    "examples": [
+      "Lanterns illuminated the path through the woods.",
+      "The diagram illuminates how the engine works."
+    ],
+    "extra": {
+      "synonyms": ["light", "brighten", "clarify", "enlighten"],
+      "antonyms": ["darken", "obscure", "confuse"],
+      "memory_tip": "Illuminate = put light on it—literally or in your mind.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["illuminate", "illuminated", "illuminating"]
+    }
+  },
+  {
+    "word": "employ",
+    "type": "verb,noun",
+    "definition": "To give someone a job; to use something for a purpose; the state of being hired.",
+    "pronunciation": { "us": "em-PLOY", "uk": "em-PLOY" },
+    "examples": [
+      "The company employs over fifty people. (verb)",
+      "She is in the employ of the bank. (noun, formal)"
+    ],
+    "extra": {
+      "synonyms": ["hire", "use", "utilise", "engage"],
+      "antonyms": ["dismiss", "fire", "idle", "neglect"],
+      "memory_tip": "Employ = use or give employment.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["employ", "employed", "employing"]
+    }
+  },{
+    "word": "cosmology",
+    "type": "noun",
+    "definition": "The branch of science that studies the origin, structure, and development of the universe.",
+    "pronunciation": { "us": "koz-MOL-uh-jee", "uk": "koz-MOL-uh-jee" },
+    "examples": [
+      "She is writing a paper on modern cosmology.",
+      "Cosmology links physics with astronomy."
+    ],
+    "extra": {
+      "synonyms": ["astrophysics (context)", "universe studies"],
+      "antonyms": ["n/a"],
+      "memory_tip": "Cosmology = cosmos + -logy (study).",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "approach",
+    "type": "verb,noun",
+    "definition": "To come near in distance or time; a way of dealing with something.",
+    "pronunciation": { "us": "uh-PROHCH", "uk": "uh-PROHCH" },
+    "examples": [
+      "Winter is approaching fast. (verb)",
+      "We chose a hands-on approach to learning. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["near", "method", "strategy"],
+      "antonyms": ["retreat", "avoidance", "departure"],
+      "memory_tip": "Approach = a path to get close.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["approach", "approached", "approaching"]
+    }
+  },
+  {
+    "word": "re-evaluate",
+    "type": "verb",
+    "definition": "To consider something again, especially in order to change an earlier decision or opinion.",
+    "pronunciation": { "us": "ree-uh-VAL-yoo-ate", "uk": "ree-uh-VAL-yoo-ate" },
+    "examples": [
+      "After the new data arrived, we re-evaluated our plan.",
+      "It’s wise to re-evaluate goals each term."
+    ],
+    "extra": {
+      "synonyms": ["reassess", "review", "reconsider"],
+      "antonyms": ["confirm", "uphold", "maintain"],
+      "memory_tip": "Re-evaluate = evaluate again with fresh eyes.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["re-evaluate", "re-evaluated", "re-evaluating"]
+    }
+  },
+  {
+    "word": "fundamental",
+    "type": "adjective,noun",
+    "definition": "Forming a necessary base or core; of central importance; a basic principle.",
+    "pronunciation": { "us": "fun-duh-MEN-tl", "uk": "fun-duh-MEN-tl" },
+    "examples": [
+      "Reading is a fundamental skill. (adjective)",
+      "Know the fundamentals before advancing. (noun plural)"
+    ],
+    "extra": {
+      "synonyms": ["basic", "essential", "primary"],
+      "antonyms": ["secondary", "trivial", "nonessential"],
+      "memory_tip": "Fundamental = the ‘foundation’ element.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "luminary",
+    "type": "noun",
+    "definition": "A person who inspires or influences others; a leading light in a field.",
+    "pronunciation": { "us": "LOO-muh-nair-ee", "uk": "LOO-muh-nuh-ree" },
+    "examples": [
+      "Ada Lovelace is a luminary of computing.",
+      "The conference featured several scientific luminaries."
+    ],
+    "extra": {
+      "synonyms": ["leading light", "notable", "star"],
+      "antonyms": ["unknown", "nonentity"],
+      "memory_tip": "Luminary = someone who ‘lights up’ a field.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "meticulous",
+    "type": "adjective",
+    "definition": "Very careful and precise, paying great attention to detail.",
+    "pronunciation": { "us": "muh-TIK-yuh-luss", "uk": "muh-TIK-yuh-luss" },
+    "examples": [
+      "Her notes are meticulous and clear.",
+      "Meticulous planning saved time later."
+    ],
+    "extra": {
+      "synonyms": ["careful", "thorough", "scrupulous"],
+      "antonyms": ["careless", "sloppy", "hasty"],
+      "memory_tip": "Meticulous = minute details matter.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "appointed",
+    "type": "adjective,verb",
+    "definition": "Officially chosen for a job or role; past tense of appoint.",
+    "pronunciation": { "us": "uh-POIN-tid", "uk": "uh-POIN-tid" },
+    "examples": [
+      "She is the appointed chair of the board. (adjective)",
+      "They appointed a new director last week. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["designated", "selected", "chosen"],
+      "antonyms": ["dismissed", "removed", "unassigned"],
+      "memory_tip": "Appointed = a point was made to choose you.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["appoint", "appointed", "appointing"]
+    }
+  },
+  {
+    "word": "observatory",
+    "type": "noun",
+    "definition": "A building equipped for observing astronomical, meteorological, or other natural phenomena.",
+    "pronunciation": { "us": "ub-ZUR-vuh-tor-ee", "uk": "ub-ZUR-vuh-tuh-ree" },
+    "examples": [
+      "We visited the mountain observatory at night.",
+      "Data from the observatory confirmed the comet’s path."
+    ],
+    "extra": {
+      "synonyms": ["watchtower (context)", "station", "research centre"],
+      "antonyms": ["n/a"],
+      "memory_tip": "Observatory = a place to observe the sky.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "confirmation",
+    "type": "noun",
+    "definition": "Proof that something is true or correct; the act of verifying.",
+    "pronunciation": { "us": "kon-fer-MAY-shun", "uk": "kon-fuh-MAY-shun" },
+    "examples": [
+      "We received confirmation of the booking.",
+      "The results gave confirmation of the theory."
+    ],
+    "extra": {
+      "synonyms": ["verification", "proof", "validation"],
+      "antonyms": ["refutation", "disproof", "contradiction"],
+      "memory_tip": "Confirmation = the firm ‘yes’ to a claim.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "general relativity",
+    "type": "noun",
+    "definition": "Einstein’s theory describing gravity as the curvature of space-time caused by mass and energy.",
+    "pronunciation": { "us": "JEN-uh-rul reh-luh-TIV-ih-tee", "uk": "JEN-uh-rul reh-luh-TIV-ih-tee" },
+    "examples": [
+      "General relativity predicts black holes.",
+      "The eclipse provided a test of general relativity."
+    ],
+    "extra": {
+      "synonyms": ["Einsteinian gravity", "GR"],
+      "antonyms": ["Newtonian gravity (contrast)"],
+      "memory_tip": "Mass bends space-time—general relativity explains how.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "deformation",
+    "type": "noun",
+    "definition": "A change of shape, usually by applied force; distortion.",
+    "pronunciation": { "us": "dee-for-MAY-shun", "uk": "dee-foh-MAY-shun" },
+    "examples": [
+      "Engineers measured the beam’s deformation.",
+      "Heat can cause plastic deformation in metals."
+    ],
+    "extra": {
+      "synonyms": ["distortion", "warping", "strain"],
+      "antonyms": ["restoration", "integrity", "stability"],
+      "memory_tip": "Deformation = departing from the normal form.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "director",
+    "type": "noun",
+    "definition": "A person who is in charge of an organisation, department, or film.",
+    "pronunciation": { "us": "dye-REK-ter", "uk": "dih-REK-tuh" },
+    "examples": [
+      "The museum director announced a new exhibit.",
+      "The director chose a different ending for the film."
+    ],
+    "extra": {
+      "synonyms": ["head", "chief", "manager"],
+      "antonyms": ["subordinate", "assistant"],
+      "memory_tip": "Director = the one who directs others’ work.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "debate",
+    "type": "noun,verb",
+    "definition": "A formal discussion on a particular topic; to argue about a subject, especially in a formal manner.",
+    "pronunciation": { "us": "di-BAYT", "uk": "di-BAYT" },
+    "examples": [
+      "The class held a debate on recycling. (noun)",
+      "We debated the pros and cons of the rule. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["discussion", "argument", "dispute"],
+      "antonyms": ["agreement", "consensus", "accord"],
+      "memory_tip": "Debate = deliberate back-and-forth.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["debate", "debated", "debating"]
+    }
+  },
+  {
+    "word": "authoritative",
+    "type": "adjective",
+    "definition": "Able to be trusted as being accurate or true; commanding and self-confident.",
+    "pronunciation": { "us": "aw-THOR-ih-tay-tiv", "uk": "aw-THOR-uh-tuh-tiv" },
+    "examples": [
+      "This is the most authoritative guide on the subject.",
+      "Her authoritative voice calmed the room."
+    ],
+    "extra": {
+      "synonyms": ["reliable", "definitive", "commanding"],
+      "antonyms": ["unreliable", "dubious", "hesitant"],
+      "memory_tip": "Authoritative = like an ‘author’ of the facts.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

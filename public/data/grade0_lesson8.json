@@ -1,0 +1,303 @@
+[
+  {
+    "word": "melt",
+    "type": "verb",
+    "definition": "To turn from solid to liquid.",
+    "pronunciation": {
+      "us": "/mɛlt/",
+      "uk": "/mɛlt/"
+    },
+    "examples": [
+      "The ice cream melted in the sun.",
+      "Snow starts to melt in spring."
+    ],
+    "extra": {
+      "synonyms": [
+        "liquefy",
+        "soften",
+        "thaw"
+      ],
+      "antonyms": [
+        "freeze",
+        "harden"
+      ],
+      "memory_tip": "Melt = ice turning into water.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "melt",
+        "melted",
+        "melting"
+      ]
+    }
+  },
+  {
+    "word": "balance",
+    "type": "verb,noun",
+    "definition": "To stay steady without falling; a steady position.",
+    "pronunciation": {
+      "us": "/ˈbæləns/",
+      "uk": "/ˈbæl.əns/"
+    },
+    "examples": [
+      "She balanced on one foot. (verb)",
+      "He lost his balance and fell. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "steady",
+        "stabilize",
+        "hold"
+      ],
+      "antonyms": [
+        "fall",
+        "tip",
+        "wobble"
+      ],
+      "memory_tip": "Balance = don’t fall!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "balance",
+        "balanced",
+        "balancing"
+      ]
+    }
+  },
+  {
+    "word": "bounce",
+    "type": "verb",
+    "definition": "To spring back after hitting something.",
+    "pronunciation": {
+      "us": "/baʊns/",
+      "uk": "/baʊns/"
+    },
+    "examples": [
+      "The ball bounced off the wall.",
+      "Kids love to bounce on trampolines."
+    ],
+    "extra": {
+      "synonyms": [
+        "rebound",
+        "jump",
+        "spring"
+      ],
+      "antonyms": [
+        "stick",
+        "stay"
+      ],
+      "memory_tip": "Bounce = boing, boing!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "bounce",
+        "bounced",
+        "bouncing"
+      ]
+    }
+  },
+  {
+    "word": "sparkle",
+    "type": "verb,noun",
+    "definition": "To shine with little flashes of light; a small flash of light.",
+    "pronunciation": {
+      "us": "/ˈspɑrkəl/",
+      "uk": "/ˈspɑː.kəl/"
+    },
+    "examples": [
+      "The stars sparkle at night. (verb)",
+      "Her eyes had a sparkle. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "shine",
+        "twinkle",
+        "glow"
+      ],
+      "antonyms": [
+        "dull",
+        "fade"
+      ],
+      "memory_tip": "Sparkle = twinkle and shine!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "sparkle",
+        "sparkled",
+        "sparkling"
+      ]
+    }
+  },
+  {
+    "word": "full",
+    "type": "adjective",
+    "definition": "Holding as much as possible; not empty.",
+    "pronunciation": {
+      "us": "/fʊl/",
+      "uk": "/fʊl/"
+    },
+    "examples": [
+      "The basket is full of toys.",
+      "He felt full after dinner."
+    ],
+    "extra": {
+      "synonyms": [
+        "packed",
+        "stuffed",
+        "filled"
+      ],
+      "antonyms": [
+        "empty",
+        "bare"
+      ],
+      "memory_tip": "Full = can’t fit more!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "trade",
+    "type": "verb,noun",
+    "definition": "To give something and get something in return; the act of doing that.",
+    "pronunciation": {
+      "us": "/treɪd/",
+      "uk": "/treɪd/"
+    },
+    "examples": [
+      "I traded my toy for a book. (verb)",
+      "We made a fair trade. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "swap",
+        "exchange",
+        "deal"
+      ],
+      "antonyms": [
+        "keep",
+        "hoard"
+      ],
+      "memory_tip": "Trade = give and get!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "trade",
+        "traded",
+        "trading"
+      ]
+    }
+  },
+  {
+    "word": "top",
+    "type": "noun",
+    "definition": "The highest part of something.",
+    "pronunciation": {
+      "us": "/tɑp/",
+      "uk": "/tɒp/"
+    },
+    "examples": [
+      "He climbed to the top of the hill.",
+      "The cookie is on the top shelf."
+    ],
+    "extra": {
+      "synonyms": [
+        "peak",
+        "summit",
+        "tip"
+      ],
+      "antonyms": [
+        "bottom",
+        "base"
+      ],
+      "memory_tip": "Top = up high!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "drain",
+    "type": "verb",
+    "definition": "To remove liquid from something.",
+    "pronunciation": {
+      "us": "/dreɪn/",
+      "uk": "/dreɪn/"
+    },
+    "examples": [
+      "Drain the water from the sink.",
+      "She drained the pasta in a colander."
+    ],
+    "extra": {
+      "synonyms": [
+        "empty",
+        "flow out",
+        "release"
+      ],
+      "antonyms": [
+        "fill",
+        "flood"
+      ],
+      "memory_tip": "Drain = let the water go!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "drain",
+        "drained",
+        "draining"
+      ]
+    }
+  },
+  {
+    "word": "dusty",
+    "type": "adjective",
+    "definition": "Covered with dust; not clean.",
+    "pronunciation": {
+      "us": "/ˈdʌsti/",
+      "uk": "/ˈdʌsti/"
+    },
+    "examples": [
+      "The shelf was dusty.",
+      "We wiped the dusty floor."
+    ],
+    "extra": {
+      "synonyms": [
+        "dirty",
+        "grimy",
+        "powdery"
+      ],
+      "antonyms": [
+        "clean",
+        "shiny"
+      ],
+      "memory_tip": "Dusty = needs a clean!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "shady",
+    "type": "adjective",
+    "definition": "Out of the sun; covered by shade.",
+    "pronunciation": {
+      "us": "/ˈʃeɪdi/",
+      "uk": "/ˈʃeɪdi/"
+    },
+    "examples": [
+      "We sat in a shady spot.",
+      "The tree made the yard shady."
+    ],
+    "extra": {
+      "synonyms": [
+        "cool",
+        "dim",
+        "sheltered"
+      ],
+      "antonyms": [
+        "sunny",
+        "bright"
+      ],
+      "memory_tip": "Shady = no sunshine here!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

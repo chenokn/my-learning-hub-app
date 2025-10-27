@@ -1,0 +1,298 @@
+[
+  {
+    "word": "bird",
+    "type": "noun",
+    "definition": "An animal with feathers and wings that usually flies.",
+    "pronunciation": {
+      "us": "/bɜrd/",
+      "uk": "/bɜːd/"
+    },
+    "examples": [
+      "The bird flew across the sky.",
+      "We saw a red bird in the tree."
+    ],
+    "extra": {
+      "synonyms": [
+        "fowl",
+        "sparrow",
+        "robin"
+      ],
+      "antonyms": [
+        "fish",
+        "mammal"
+      ],
+      "memory_tip": "Bird = flying animal with wings!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "measure",
+    "type": "verb,noun",
+    "definition": "To find the size or amount of something; the size or amount itself.",
+    "pronunciation": {
+      "us": "/ˈmɛʒər/",
+      "uk": "/ˈmɛʒə/"
+    },
+    "examples": [
+      "We measured the table. (verb)",
+      "She took the measure of flour. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "check",
+        "weigh",
+        "calculate"
+      ],
+      "antonyms": [
+        "guess",
+        "ignore"
+      ],
+      "memory_tip": "Measure = find out how big or long!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "measure",
+        "measured",
+        "measuring"
+      ]
+    }
+  },
+  {
+    "word": "claw",
+    "type": "noun",
+    "definition": "Sharp nails on an animal’s feet.",
+    "pronunciation": {
+      "us": "/klɔ/",
+      "uk": "/klɔː/"
+    },
+    "examples": [
+      "The cat has sharp claws.",
+      "Crabs have big claws."
+    ],
+    "extra": {
+      "synonyms": [
+        "talons",
+        "nails",
+        "grippers"
+      ],
+      "antonyms": [
+        "paws",
+        "hands"
+      ],
+      "memory_tip": "Claws = sharp animal fingers!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "dawn",
+    "type": "noun",
+    "definition": "The time in the morning when the sun starts to rise.",
+    "pronunciation": {
+      "us": "/dɔn/",
+      "uk": "/dɔːn/"
+    },
+    "examples": [
+      "Birds sing at dawn.",
+      "We woke up before dawn."
+    ],
+    "extra": {
+      "synonyms": [
+        "sunrise",
+        "early morning",
+        "daybreak"
+      ],
+      "antonyms": [
+        "dusk",
+        "sunset"
+      ],
+      "memory_tip": "Dawn = start of a new day!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "release",
+    "type": "verb,noun",
+    "definition": "To let go of something or someone; the act of setting something free.",
+    "pronunciation": {
+      "us": "/rɪˈlis/",
+      "uk": "/rɪˈliːs/"
+    },
+    "examples": [
+      "We released the bird. (verb)",
+      "The release of the balloon was fun. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "free",
+        "let go",
+        "unlock"
+      ],
+      "antonyms": [
+        "hold",
+        "keep",
+        "trap"
+      ],
+      "memory_tip": "Release = let it go!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "release",
+        "released",
+        "releasing"
+      ]
+    }
+  },
+  {
+    "word": "demonstrate",
+    "type": "verb",
+    "definition": "To show or explain how something works or is done.",
+    "pronunciation": {
+      "us": "/ˈdɛmənˌstreɪt/",
+      "uk": "/ˈdɛmənstreɪt/"
+    },
+    "examples": [
+      "The teacher demonstrated how to fold the paper.",
+      "She demonstrated kindness by helping others."
+    ],
+    "extra": {
+      "synonyms": [
+        "show",
+        "explain",
+        "display"
+      ],
+      "antonyms": [
+        "hide",
+        "confuse"
+      ],
+      "memory_tip": "Demonstrate = show how to do something!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "demonstrate",
+        "demonstrated",
+        "demonstrating"
+      ]
+    }
+  },
+  {
+    "word": "capture",
+    "type": "verb",
+    "definition": "To catch or take something that is moving.",
+    "pronunciation": {
+      "us": "/ˈkæp.tʃər/",
+      "uk": "/ˈkæp.tʃə/"
+    },
+    "examples": [
+      "They captured the butterfly in a net.",
+      "The lion captured its prey."
+    ],
+    "extra": {
+      "synonyms": [
+        "catch",
+        "grab",
+        "seize"
+      ],
+      "antonyms": [
+        "release",
+        "free"
+      ],
+      "memory_tip": "Capture = grab and hold!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "capture",
+        "captured",
+        "capturing"
+      ]
+    }
+  },
+  {
+    "word": "tangle",
+    "type": "verb,noun",
+    "definition": "To twist together in a messy way; a messy knot.",
+    "pronunciation": {
+      "us": "/ˈtæŋɡəl/",
+      "uk": "/ˈtæŋɡəl/"
+    },
+    "examples": [
+      "Her hair got tangled in the wind. (verb)",
+      "The string is in a tangle. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "knot",
+        "twist",
+        "snarl"
+      ],
+      "antonyms": [
+        "untangle",
+        "straighten"
+      ],
+      "memory_tip": "Tangle = things all mixed up together.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "tangle",
+        "past": "tangled",
+        "participle": "tangled"
+      }
+    }
+  },
+  {
+    "word": "narrow",
+    "type": "adjective",
+    "definition": "Thin or not wide.",
+    "pronunciation": {
+      "us": "/ˈnæroʊ/",
+      "uk": "/ˈnærəʊ/"
+    },
+    "examples": [
+      "We walked down a narrow path.",
+      "The hallway was narrow and long."
+    ],
+    "extra": {
+      "synonyms": [
+        "thin",
+        "tight",
+        "slim"
+      ],
+      "antonyms": [
+        "wide",
+        "broad"
+      ],
+      "memory_tip": "Narrow = tight fit!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "tube",
+    "type": "noun",
+    "definition": "A long, round object that things can flow through.",
+    "pronunciation": {
+      "us": "/tuːb/",
+      "uk": "/tjuːb/"
+    },
+    "examples": [
+      "We squeezed the toothpaste tube.",
+      "Water flowed through the tube."
+    ],
+    "extra": {
+      "synonyms": [
+        "pipe",
+        "cylinder",
+        "hose"
+      ],
+      "antonyms": [
+        "solid block",
+        "flat"
+      ],
+      "memory_tip": "Tube = round and hollow!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

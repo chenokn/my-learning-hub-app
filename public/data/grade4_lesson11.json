@@ -1,0 +1,265 @@
+[
+  {
+    "word": "annual",
+    "type": "adjective,noun",
+    "definition": "Happening once every year; a plant that lives for one year; a yearly publication.",
+    "pronunciation": { "us": "AN-yoo-uhl", "uk": "AN-yoo-uhl" },
+    "examples": [
+      "Sports day is an annual event at our school.",
+      "We planted colourful annuals along the path."
+    ],
+    "extra": {
+      "synonyms": ["yearly", "once-yearly", "per annum"],
+      "antonyms": ["monthly", "one-off", "perennial (plants)"],
+      "memory_tip": "Annual = happens each year, like your birthday.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "artificial",
+    "type": "adjective",
+    "definition": "Made by people rather than occurring naturally; not genuine.",
+    "pronunciation": { "us": "ar-ti-FISH-uhl", "uk": "ar-ti-FISH-uhl" },
+    "examples": [
+      "The flowers looked real but were artificial.",
+      "Artificial light helps plants grow indoors."
+    ],
+    "extra": {
+      "synonyms": ["man-made", "synthetic", "fake"],
+      "antonyms": ["natural", "organic", "genuine"],
+      "memory_tip": "Artificial = art + official—crafted by humans.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "blend",
+    "type": "verb,noun",
+    "definition": "To mix together smoothly; a mixture of different things.",
+    "pronunciation": { "us": "blend", "uk": "blend" },
+    "examples": [
+      "Blend the fruit and yoghurt for a smoothie. (verb)",
+      "This tea is a blend of herbs. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["mix", "combine", "merge"],
+      "antonyms": ["separate", "divide", "isolate"],
+      "memory_tip": "Blend = ‘bend’ flavours together until they match.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["blend", "blended", "blending"]
+    }
+  },
+  {
+    "word": "bore",
+    "type": "verb,noun",
+    "definition": "To make someone feel uninterested; to make a hole by drilling; a dull person or thing; the space inside a tube.",
+    "pronunciation": { "us": "bor", "uk": "baw" },
+    "examples": [
+      "Long speeches can bore the audience. (verb)",
+      "The engineer bored a hole through the panel. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["weary", "drill", "dull person"],
+      "antonyms": ["interest", "excite", "enthral"],
+      "memory_tip": "Bore = boooor-ing, or boring a hole.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["bore", "bored", "boring"]
+    }
+  },
+  {
+    "word": "considerable",
+    "type": "adjective",
+    "definition": "Fairly large in size, amount, or importance.",
+    "pronunciation": { "us": "kun-SID-uh-ruh-bul", "uk": "kun-SID-uh-ruh-bul" },
+    "examples": [
+      "The project required considerable effort.",
+      "She saved a considerable sum of money."
+    ],
+    "extra": {
+      "synonyms": ["significant", "substantial", "notable"],
+      "antonyms": ["small", "minor", "slight"],
+      "memory_tip": "Considerable = worth ‘considering’ because it’s large.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "crude",
+    "type": "adjective,noun",
+    "definition": "In a natural or rough state; simple and not carefully made; rude; unrefined petroleum.",
+    "pronunciation": { "us": "krood", "uk": "krood" },
+    "examples": [
+      "They built a crude shelter from branches. (adjective)",
+      "The country exports crude oil. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["raw", "rough", "unrefined"],
+      "antonyms": ["refined", "polished", "finished"],
+      "memory_tip": "Crude = not yet smoothed or refined.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "evaporate",
+    "type": "verb",
+    "definition": "To change from liquid to gas; to disappear gradually.",
+    "pronunciation": { "us": "ih-VAP-uh-rayt", "uk": "ih-VAP-uh-rayt" },
+    "examples": [
+      "Pools of water evaporate in the sun.",
+      "Their excitement evaporated after the delay."
+    ],
+    "extra": {
+      "synonyms": ["vaporise", "dry up", "dissipate"],
+      "antonyms": ["condense", "collect", "pool"],
+      "memory_tip": "Evaporate = vanish into vapour.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["evaporate", "evaporated", "evaporating"]
+    }
+  },
+  {
+    "word": "foliage",
+    "type": "noun",
+    "definition": "The leaves of a plant or many plants together.",
+    "pronunciation": { "us": "FOH-lee-ij", "uk": "FOH-lee-ij" },
+    "examples": [
+      "Autumn foliage turns red and gold.",
+      "The path was shaded by thick foliage."
+    ],
+    "extra": {
+      "synonyms": ["leaves", "greenery", "leafage"],
+      "antonyms": ["bare branches", "defoliation"],
+      "memory_tip": "Foliage = a ‘folio’ of leaves on display.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "gash",
+    "type": "noun,verb",
+    "definition": "A long deep cut; to make a long deep cut.",
+    "pronunciation": { "us": "gash", "uk": "gash" },
+    "examples": [
+      "He had a gash on his knee. (noun)",
+      "She gashed her hand on the tin lid. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["cut", "slash", "laceration"],
+      "antonyms": ["heal", "seal", "close"],
+      "memory_tip": "Gash = a gaping slash.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["gash", "gashed", "gashing"]
+    }
+  },
+  {
+    "word": "hue",
+    "type": "noun",
+    "definition": "A colour or shade.",
+    "pronunciation": { "us": "hyoo", "uk": "hyoo" },
+    "examples": [
+      "The sky changed hue at sunset.",
+      "Mixing blue and yellow makes a greenish hue."
+    ],
+    "extra": {
+      "synonyms": ["colour", "shade", "tint"],
+      "antonyms": ["colourlessness", "monotone"],
+      "memory_tip": "Hue = the ‘hue-man’ eye’s colour idea.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "increase",
+    "type": "verb,noun",
+    "definition": "To become larger in number, amount, or size; a growth or rise.",
+    "pronunciation": { "us": "in-KREES (verb), IN-kreess (noun)", "uk": "in-KREES (verb), IN-kreess (noun)" },
+    "examples": [
+      "We increased the temperature by two degrees. (verb)",
+      "There was a small increase in rainfall. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["grow", "raise", "rise"],
+      "antonyms": ["decrease", "reduce", "drop"],
+      "memory_tip": "Increase = step ‘in’ to a higher number.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["increase", "increased", "increasing"]
+    }
+  },
+  {
+    "word": "nourish",
+    "type": "verb",
+    "definition": "To feed and help grow; to support and strengthen.",
+    "pronunciation": { "us": "NUR-ish", "uk": "NUR-ish" },
+    "examples": [
+      "Good food nourishes the body.",
+      "Reading nourishes the mind."
+    ],
+    "extra": {
+      "synonyms": ["feed", "sustain", "foster"],
+      "antonyms": ["starve", "deprive", "weaken"],
+      "memory_tip": "Nourish = nurture so it flourishes.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["nourish", "nourished", "nourishing"]
+    }
+  },
+  {
+    "word": "vary",
+    "type": "verb",
+    "definition": "To change or be different; to make changes to something.",
+    "pronunciation": { "us": "VAIR-ee", "uk": "VAIR-ee" },
+    "examples": [
+      "Temperatures vary across the country.",
+      "We varied the recipe to make it less sweet."
+    ],
+    "extra": {
+      "synonyms": ["change", "differ", "modify"],
+      "antonyms": ["match", "stay", "standardise"],
+      "memory_tip": "Vary = add variety.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["vary", "varied", "varying"]
+    }
+  },
+  {
+    "word": "vision",
+    "type": "noun",
+    "definition": "The ability to see; a vivid mental picture or plan for the future.",
+    "pronunciation": { "us": "VIZH-un", "uk": "VIZH-un" },
+    "examples": [
+      "Protect your vision with safety glasses.",
+      "The team shared a clear vision for the project."
+    ],
+    "extra": {
+      "synonyms": ["sight", "view", "foresight"],
+      "antonyms": ["blindness", "shortsightedness (figurative)"],
+      "memory_tip": "Vision = eyes for now and ideas for later.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "yield",
+    "type": "verb,noun",
+    "definition": "To produce or provide; to give way; the amount produced.",
+    "pronunciation": { "us": "yeeld", "uk": "yeeld" },
+    "examples": [
+      "The farm yields plenty of fruit. (verb)",
+      "Please yield to traffic from the right. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["produce", "surrender", "output (noun)"],
+      "antonyms": ["withhold", "resist", "loss (noun)"],
+      "memory_tip": "Yield = yield fruit or yield the right of way.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["yield", "yielded", "yielding"]
+    }
+  }
+]

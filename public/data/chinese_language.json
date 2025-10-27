@@ -1,0 +1,210 @@
+[
+  {
+    "native": "你好",
+    "pinyin": "nǐ hǎo",
+    "cantoneseJyutping": "nei5 hou2",
+    "english": "Hello",
+    "use": "Used as a casual greeting during the day.",
+    "culturalNote": "In formal settings, people may say ‘您好’ (nín hǎo) to show respect."
+  },
+  {
+    "native": "谢谢",
+    "pinyin": "xiè xie",
+    "cantoneseJyutping": "m4 goi1",
+    "english": "Thank you",
+    "use": "Used to show gratitude in everyday conversations.",
+    "culturalNote": "In Cantonese, '唔該' (m4 goi1) is used for services; '多謝' (do1 ze6) is used for gifts."
+  },
+  {
+    "native": "再见",
+    "pinyin": "zài jiàn",
+    "cantoneseJyutping": "zoi3 gin3",
+    "english": "Goodbye",
+    "use": "Used when parting or ending a meeting.",
+    "culturalNote": "Literally means 'see again,' expressing hope to meet again soon."
+  },
+  {
+    "native": "对不起",
+    "pinyin": "duì bù qǐ",
+    "cantoneseJyutping": "deoi3 m4 zi3",
+    "english": "Sorry",
+    "use": "Used to apologise in formal or serious situations.",
+    "culturalNote": "In lighter situations, people might say '不好意思' (Mandarin: bù hǎo yì si / Cantonese: bat1 hou2 ji3 si1)."
+  },
+  {
+    "native": "穿",
+    "pinyin": "chuān",
+    "cantoneseJyutping": "cyun1",
+    "english": "to put on",
+    "use": "Used for wearing clothes.",
+    "culturalNote": "Can also mean 'to wear' in general."
+  },
+  {
+    "native": "衣服",
+    "pinyin": "yī fu",
+    "cantoneseJyutping": "ji1 fuk6",
+    "english": "clothes",
+    "use": "General term for clothing.",
+    "culturalNote": "Refers to all types of garments."
+  },
+  {
+    "native": "裙子",
+    "pinyin": "qún zi",
+    "cantoneseJyutping": "kwan4 zi2",
+    "english": "skirt",
+    "use": "A common piece of women’s clothing.",
+    "culturalNote": "Skirts are often worn during festivals and school events."
+  },
+  {
+    "native": "连衣裙",
+    "pinyin": "lián yī qún",
+    "cantoneseJyutping": "lin4 ji1 kwan4",
+    "english": "dress",
+    "use": "One-piece dress.",
+    "culturalNote": "The term means 'connected clothing and skirt'."
+  },
+  {
+    "native": "裤子",
+    "pinyin": "kù zi",
+    "cantoneseJyutping": "fu3 zi2",
+    "english": "pants",
+    "use": "Used for trousers or slacks.",
+    "culturalNote": "Unisex clothing item for daily wear."
+  },
+  {
+    "native": "牛仔裤",
+    "pinyin": "niú zǎi kù",
+    "cantoneseJyutping": "ngau4 zai2 fu3",
+    "english": "jeans",
+    "use": "Casual denim trousers.",
+    "culturalNote": "Popular among young people in China."
+  },
+  {
+    "native": "毛衣",
+    "pinyin": "máo yī",
+    "cantoneseJyutping": "mou4 ji1",
+    "english": "sweater",
+    "use": "Woolen top for cold weather.",
+    "culturalNote": "Common in northern Chinese winters."
+  },
+  {
+    "native": "校服",
+    "pinyin": "xiào fú",
+    "cantoneseJyutping": "haau6 fuk6",
+    "english": "school uniform",
+    "use": "Mandatory outfit in many schools.",
+    "culturalNote": "Most students wear uniforms from primary to high school."
+  },
+  {
+    "native": "外套",
+    "pinyin": "wài tào",
+    "cantoneseJyutping": "ngoi6 tou3",
+    "english": "coat/jacket",
+    "use": "Outerwear in cold seasons.",
+    "culturalNote": "‘外套’ covers both jackets and coats."
+  },
+  {
+    "native": "脱",
+    "pinyin": "tuō",
+    "cantoneseJyutping": "tyut3",
+    "english": "to take off",
+    "use": "Used for removing clothes.",
+    "culturalNote": "Not to be confused with '退出' which means to quit."
+  },
+  {
+    "native": "件",
+    "pinyin": "jiàn",
+    "cantoneseJyutping": "loeng5 gin6 ji1 fuk6",
+    "english": "piece",
+    "use": "Saying 'two pieces of clothing'.",
+    "culturalNote": "Use '件' as the measure word for clothing."
+  },
+  {
+    "native": "条",
+    "pinyin": "tiáo",
+    "cantoneseJyutping": "loeng5 tiu4 fu3 zi2",
+    "english": "pair",
+    "use": "Used to count pants specifically.",
+    "culturalNote": "‘条’ is the correct measure word for pants."
+  },
+  {
+    "native": "也",
+    "pinyin": "yě",
+    "cantoneseJyutping": "jau5",
+    "english": "too",
+    "use": "Used to mean 'also' or 'too'.",
+    "culturalNote": "Often comes before the verb."
+  },
+  {
+    "native": "小",
+    "pinyin": "xiǎo",
+    "cantoneseJyutping": "siu2",
+    "english": "small",
+    "use": "Describes size.",
+    "culturalNote": "Can also describe age or importance."
+  },
+  {
+    "native": "长",
+    "pinyin": "cháng",
+    "cantoneseJyutping": "coeng4",
+    "english": "long",
+    "use": "Describes length.",
+    "culturalNote": "Sounds the same as 'zhǎng' (to grow)."
+  },
+  {
+    "native": "短",
+    "pinyin": "duǎn",
+    "cantoneseJyutping": "dyun2",
+    "english": "short",
+    "use": "Describes length.",
+    "culturalNote": "Used for hair, clothes, and time."
+  },
+  {
+    "native": "红色",
+    "pinyin": "hóng sè",
+    "cantoneseJyutping": "hung4 sik1",
+    "english": "red",
+    "use": "A lucky colour in Chinese culture.",
+    "culturalNote": "Often worn during Chinese New Year."
+  },
+  {
+    "native": "黄色",
+    "pinyin": "huáng sè",
+    "cantoneseJyutping": "wong4 sik1",
+    "english": "yellow",
+    "use": "Symbol of royalty in history.",
+    "culturalNote": "Used to be reserved for emperors."
+  },
+  {
+    "native": "绿色",
+    "pinyin": "lǜ sè",
+    "cantoneseJyutping": "luk6 sik1",
+    "english": "green",
+    "use": "Represents nature and freshness.",
+    "culturalNote": "Avoid green hats—they have cultural implications."
+  },
+  {
+    "native": "蓝色",
+    "pinyin": "lán sè",
+    "cantoneseJyutping": "laam4 sik1",
+    "english": "blue",
+    "use": "Common colour for school uniforms.",
+    "culturalNote": "Represents calmness and trust."
+  },
+  {
+    "native": "黑色",
+    "pinyin": "hēi sè",
+    "cantoneseJyutping": "hak1 sik1",
+    "english": "black",
+    "use": "Neutral colour, also worn in formal settings.",
+    "culturalNote": "Associated with strength or mystery."
+  },
+  {
+    "native": "白色",
+    "pinyin": "bái sè",
+    "cantoneseJyutping": "baak6 sik1",
+    "english": "white",
+    "use": "Represents purity.",
+    "culturalNote": "In traditional Chinese culture, also used in mourning."
+  }
+]

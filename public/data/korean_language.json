@@ -1,0 +1,184 @@
+[
+  {
+    "native": "안녕하세요",
+    "romanized": "annyeonghaseyo",
+    "english": "Hello",
+    "use": "Used with anyone except close friends or younger people.",
+    "culturalNote": "Politeness is very important in Korean, so this is the go-to greeting for most situations."
+  },
+  {
+    "native": "감사합니다",
+    "romanized": "gamsahamnida",
+    "english": "Thank you",
+    "use": "A formal way to express gratitude.",
+    "culturalNote": "More casual alternatives include ‘고마워요’ or ‘고마워’ among friends."
+  },
+  {
+    "native": "안녕히 가세요",
+    "romanized": "annyeonghi gaseyo",
+    "english": "Goodbye",
+    "use": "Said to someone who is leaving.",
+    "culturalNote": "If you are the one leaving, say '안녕히 계세요' (annyeonghi gyeseyo) instead."
+  },
+  {
+    "native": "죄송합니다",
+    "romanized": "joesonghamnida",
+    "english": "Sorry",
+    "use": "A formal and sincere apology.",
+    "culturalNote": "In casual settings, people often say ‘미안해요’ or ‘미안.’"
+  },
+  {
+    "native": "입다",
+    "romanized": "ipda",
+    "english": "to put on",
+    "use": "Used for wearing clothes.",
+    "culturalNote": "General verb for wearing most clothing items."
+  },
+  {
+    "native": "옷",
+    "romanized": "ot",
+    "english": "clothes",
+    "use": "Refers to all kinds of garments.",
+    "culturalNote": "Used in phrases like '옷을 입어요' (I wear clothes)."
+  },
+  {
+    "native": "치마",
+    "romanized": "chima",
+    "english": "skirt",
+    "use": "Often part of school uniforms.",
+    "culturalNote": "Traditional version is called '한복 치마'."
+  },
+  {
+    "native": "드레스",
+    "romanized": "deureseu",
+    "english": "dress",
+    "use": "Western-style dress.",
+    "culturalNote": "The Korean traditional dress is called '한복'."
+  },
+  {
+    "native": "바지",
+    "romanized": "baji",
+    "english": "pants",
+    "use": "Generic word for trousers.",
+    "culturalNote": "Traditional Korean trousers are also called '바지'."
+  },
+  {
+    "native": "청바지",
+    "romanized": "cheongbaji",
+    "english": "jeans",
+    "use": "Denim trousers.",
+    "culturalNote": "청 means blue/denim."
+  },
+  {
+    "native": "스웨터",
+    "romanized": "seuweteo",
+    "english": "sweater",
+    "use": "Worn in winter.",
+    "culturalNote": "Korean borrows many fashion terms from English."
+  },
+  {
+    "native": "교복",
+    "romanized": "gyobok",
+    "english": "school uniform",
+    "use": "Standard in most Korean schools.",
+    "culturalNote": "Often considered iconic in Korean pop culture."
+  },
+  {
+    "native": "코트/자켓",
+    "romanized": "koteu / jaket",
+    "english": "coat/jacket",
+    "use": "Outerwear.",
+    "culturalNote": "Both borrowed from English."
+  },
+  {
+    "native": "벗다",
+    "romanized": "beotda",
+    "english": "to take off",
+    "use": "Used for removing clothes.",
+    "culturalNote": "Different from quitting (그만두다)."
+  },
+  {
+    "native": "옷",
+    "romanized": "ot du beol",
+    "english": "piece",
+    "use": "Used with correct classifier '벌'.",
+    "culturalNote": "벌 is the counter for clothes."
+  },
+  {
+    "native": "바지",
+    "romanized": "baji du beol",
+    "english": "pair",
+    "use": "Also uses '벌' counter.",
+    "culturalNote": "Avoid using '개' for clothes."
+  },
+  {
+    "native": "또",
+    "romanized": "tto",
+    "english": "too",
+    "use": "Means 'also' or 'again'.",
+    "culturalNote": "Often used to add or repeat."
+  },
+  {
+    "native": "작다",
+    "romanized": "jakda",
+    "english": "small",
+    "use": "Describes size.",
+    "culturalNote": "Can be used for height too."
+  },
+  {
+    "native": "길다",
+    "romanized": "gilda",
+    "english": "long",
+    "use": "Describes length.",
+    "culturalNote": "길게 = in a long way."
+  },
+  {
+    "native": "짧다",
+    "romanized": "jjalbda",
+    "english": "short",
+    "use": "Opposite of long.",
+    "culturalNote": "Can describe time or height too."
+  },
+  {
+    "native": "빨간색",
+    "romanized": "ppalgan saek",
+    "english": "red",
+    "use": "Common in clothes and flags.",
+    "culturalNote": "Red ink is avoided when writing someone’s name."
+  },
+  {
+    "native": "노란색",
+    "romanized": "noran saek",
+    "english": "yellow",
+    "use": "Bright and cheerful colour.",
+    "culturalNote": "Symbolises hope and youth."
+  },
+  {
+    "native": "초록색",
+    "romanized": "chorok saek",
+    "english": "green",
+    "use": "Nature and freshness.",
+    "culturalNote": "Less commonly used in traditional wear."
+  },
+  {
+    "native": "파란색",
+    "romanized": "paran saek",
+    "english": "blue",
+    "use": "Cool colour, often seen in school uniforms.",
+    "culturalNote": "Also symbolises peace."
+  },
+  {
+    "native": "검은색",
+    "romanized": "geomeun saek",
+    "english": "black",
+    "use": "Formal or stylish.",
+    "culturalNote": "Also linked to mystery or seriousness."
+  },
+  {
+    "native": "하얀색",
+    "romanized": "hayan saek",
+    "english": "white",
+    "use": "Clean and pure.",
+    "culturalNote": "White is used in traditional mourning clothes."
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "word": "river",
+    "type": "noun",
+    "definition": "A large, flowing stream of water.",
+    "pronunciation": {
+      "us": "ˈrɪ.vɚ",
+      "uk": "ˈrɪ.və"
+    },
+    "examples": [
+      "The river runs fast after rain.",
+      "They walk along the river bank."
+    ],
+    "extra": {
+      "synonyms": [
+        "stream",
+        "waterway"
+      ],
+      "antonyms": [
+        "desert (contrast)"
+      ],
+      "memory_tip": "River = road of water.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "duckling",
+    "type": "noun",
+    "definition": "A baby duck.",
+    "pronunciation": {
+      "us": "ˈdʌk.lɪŋ",
+      "uk": "ˈdʌk.lɪŋ"
+    },
+    "examples": [
+      "A duckling peeps by the bridge.",
+      "The duckling floats to its mum."
+    ],
+    "extra": {
+      "synonyms": [
+        "baby duck"
+      ],
+      "antonyms": [
+        "adult duck (contrast)"
+      ],
+      "memory_tip": "Duckling = little duck.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "bridge",
+    "type": "noun",
+    "definition": "A structure built to cross over a river or road.",
+    "pronunciation": {
+      "us": "brɪdʒ",
+      "uk": "brɪdʒ"
+    },
+    "examples": [
+      "They stand by the bridge post.",
+      "The bridge goes over the water."
+    ],
+    "extra": {
+      "synonyms": [
+        "span"
+      ],
+      "antonyms": [
+        "gap"
+      ],
+      "memory_tip": "Bridge = safe way across.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "stick",
+    "type": "noun",
+    "definition": "A small piece of wood from a tree.",
+    "pronunciation": {
+      "us": "stɪk",
+      "uk": "stɪk"
+    },
+    "examples": [
+      "A small stick blocks the duckling.",
+      "Use a long stick to move it."
+    ],
+    "extra": {
+      "synonyms": [
+        "twig",
+        "branch"
+      ],
+      "antonyms": [
+        "log (contrast)"
+      ],
+      "memory_tip": "Stick = little bit of wood.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "rope",
+    "type": "noun",
+    "definition": "Strong, thick cord made by twisting strands together.",
+    "pronunciation": {
+      "us": "roʊp",
+      "uk": "rəʊp"
+    },
+    "examples": [
+      "Sam holds a rope on the bridge post.",
+      "Tie the rope to keep safe."
+    ],
+    "extra": {
+      "synonyms": [
+        "line",
+        "cord"
+      ],
+      "antonyms": [
+        "chain (contrast)"
+      ],
+      "memory_tip": "Rope = strong helper line.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "splash",
+    "type": "noun,verb",
+    "definition": "A sound or action of water being moved; to make water fly about.",
+    "pronunciation": {
+      "us": "splæʃ",
+      "uk": "splæʃ"
+    },
+    "examples": [
+      "The river goes splash.",
+      "They splash in puddles."
+    ],
+    "extra": {
+      "synonyms": [
+        "spray",
+        "plop"
+      ],
+      "antonyms": [
+        "stillness"
+      ],
+      "memory_tip": "Splash = water jumps.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "splash",
+        "splashed",
+        "splashing"
+      ]
+    }
+  },
+  {
+    "word": "bank",
+    "type": "noun",
+    "definition": "The land at the side of a river.",
+    "pronunciation": {
+      "us": "bæŋk",
+      "uk": "bæŋk"
+    },
+    "examples": [
+      "They walk along the bank.",
+      "Grass grows on the river bank."
+    ],
+    "extra": {
+      "synonyms": [
+        "shore",
+        "side"
+      ],
+      "antonyms": [
+        "midstream (contrast)"
+      ],
+      "memory_tip": "Bank = river’s edge.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "float",
+    "type": "verb",
+    "definition": "To stay on top of water without sinking.",
+    "pronunciation": {
+      "us": "floʊt",
+      "uk": "fləʊt"
+    },
+    "examples": [
+      "The duckling begins to float to its mum.",
+      "Leaves float on the pond."
+    ],
+    "extra": {
+      "synonyms": [
+        "drift",
+        "glide"
+      ],
+      "antonyms": [
+        "sink"
+      ],
+      "memory_tip": "Float = rest on water.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "float",
+        "floated",
+        "floating"
+      ]
+    }
+  },
+  {
+    "word": "rescue",
+    "type": "noun,verb",
+    "definition": "The act of saving; to save someone or something from danger.",
+    "pronunciation": {
+      "us": "ˈrɛs.kjuː",
+      "uk": "ˈrɛs.kjuː"
+    },
+    "examples": [
+      "'We did a rescue!'",
+      "They rescue the duckling."
+    ],
+    "extra": {
+      "synonyms": [
+        "save",
+        "help"
+      ],
+      "antonyms": [
+        "harm",
+        "ignore"
+      ],
+      "memory_tip": "Rescue = help out fast.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "rescue",
+        "rescued",
+        "rescuing"
+      ]
+    }
+  },
+  {
+    "word": "safe",
+    "type": "adjective",
+    "definition": "Not in danger; protected.",
+    "pronunciation": {
+      "us": "seɪf",
+      "uk": "seɪf"
+    },
+    "examples": [
+      "'Safe now,' says Asha.",
+      "Wear a helmet to stay safe."
+    ],
+    "extra": {
+      "synonyms": [
+        "secure",
+        "OK"
+      ],
+      "antonyms": [
+        "dangerous",
+        "risky"
+      ],
+      "memory_tip": "Safe = out of harm’s way.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

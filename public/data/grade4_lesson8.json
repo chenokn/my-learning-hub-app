@@ -1,0 +1,264 @@
+[
+  {
+    "word": "ancient",
+    "type": "adjective",
+    "definition": "Very old; belonging to a time long past.",
+    "pronunciation": { "us": "AYN-shunt", "uk": "AYN-shunt" },
+    "examples": [
+      "We studied ancient civilisations in history.",
+      "An ancient tree shaded the village green."
+    ],
+    "extra": {
+      "synonyms": ["old", "antique", "age-old"],
+      "antonyms": ["modern", "recent", "new"],
+      "memory_tip": "Ancient = think ‘ages’ ago.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "century",
+    "type": "noun",
+    "definition": "A period of one hundred years.",
+    "pronunciation": { "us": "SEN-chuh-ree", "uk": "SEN-chuh-ree" },
+    "examples": [
+      "The castle was built in the 12th century.",
+      "A new century began in the year 2000."
+    ],
+    "extra": {
+      "synonyms": ["hundred years"],
+      "antonyms": ["year (contrast)", "decade (contrast)"],
+      "memory_tip": "Century = ‘cent’ means 100.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "chamber",
+    "type": "noun",
+    "definition": "A room, especially a special or private one; a space inside a machine or body.",
+    "pronunciation": { "us": "CHAYM-ber", "uk": "CHAYM-buh" },
+    "examples": [
+      "The council met in the main chamber.",
+      "Blood flows through the heart’s chambers."
+    ],
+    "extra": {
+      "synonyms": ["room", "compartment", "cavity"],
+      "antonyms": ["open space", "exterior"],
+      "memory_tip": "Chamber = a contained space for people or things.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "descend",
+    "type": "verb",
+    "definition": "To go down from a higher place to a lower one.",
+    "pronunciation": { "us": "di-SEND", "uk": "di-SEND" },
+    "examples": [
+      "We descended the steep stairs carefully.",
+      "Fog descended over the harbour."
+    ],
+    "extra": {
+      "synonyms": ["go down", "drop", "sink"],
+      "antonyms": ["ascend", "rise", "climb"],
+      "memory_tip": "Descend = down you ‘send’ yourself.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["descend", "descended", "descending"]
+    }
+  },
+  {
+    "word": "entry",
+    "type": "noun",
+    "definition": "The act of going in; a doorway or gate; an item written in a list or diary.",
+    "pronunciation": { "us": "EN-tree", "uk": "EN-tree" },
+    "examples": [
+      "Tickets are required for entry.",
+      "I wrote today’s entry in my journal."
+    ],
+    "extra": {
+      "synonyms": ["admission", "entrance", "record"],
+      "antonyms": ["exit", "departure"],
+      "memory_tip": "Entry = where you enter or what you enter (in a book).",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "interior",
+    "type": "noun,adjective",
+    "definition": "The inside part of something; relating to the inside.",
+    "pronunciation": { "us": "in-TEER-ee-or", "uk": "in-TEER-ee-uh" },
+    "examples": [
+      "The car’s interior is very spacious. (noun)",
+      "They chose an interior colour scheme. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["inside", "inner part", "indoors"],
+      "antonyms": ["exterior", "outside"],
+      "memory_tip": "Interior = in-the-interior (inside).",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "intrude",
+    "type": "verb",
+    "definition": "To enter a place or situation where you are not wanted or expected.",
+    "pronunciation": { "us": "in-TROOD", "uk": "in-TROOD" },
+    "examples": [
+      "We didn’t want to intrude on their meeting.",
+      "Noise from the street intruded on our sleep."
+    ],
+    "extra": {
+      "synonyms": ["encroach", "invade", "butt in"],
+      "antonyms": ["withdraw", "respect (boundaries)"],
+      "memory_tip": "Intrude = ‘in’ where you shouldn’t be.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["intrude", "intruded", "intruding"]
+    }
+  },
+  {
+    "word": "locate",
+    "type": "verb",
+    "definition": "To find the position of something; to set something in a particular place.",
+    "pronunciation": { "us": "LOH-kayt", "uk": "LOH-kayt" },
+    "examples": [
+      "We located the missing file on the server.",
+      "They located the new clinic near the station."
+    ],
+    "extra": {
+      "synonyms": ["find", "spot", "place"],
+      "antonyms": ["lose", "misplace"],
+      "memory_tip": "Locate = find the location.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["locate", "located", "locating"]
+    }
+  },
+  {
+    "word": "passage",
+    "type": "noun",
+    "definition": "A narrow way through or between things; a part of a written work; the act of moving from one place to another.",
+    "pronunciation": { "us": "PASS-ij", "uk": "PASS-ij" },
+    "examples": [
+      "We walked through a dark passage under the road.",
+      "Please read the passage on page ten."
+    ],
+    "extra": {
+      "synonyms": ["corridor", "section", "journey"],
+      "antonyms": ["blockage", "barrier"],
+      "memory_tip": "Passage = a place or piece you ‘pass’ through.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "portion",
+    "type": "noun,verb",
+    "definition": "A part or share of something; to divide and give out parts.",
+    "pronunciation": { "us": "POR-shun", "uk": "POR-shun" },
+    "examples": [
+      "She ate a small portion of cake. (noun)",
+      "Please portion the rice equally. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["share", "part", "serve (verb)"],
+      "antonyms": ["whole", "all"],
+      "memory_tip": "Portion = the part you ‘port’ to each person.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["portion", "portioned", "portioning"]
+    }
+  },
+  {
+    "word": "precious",
+    "type": "adjective",
+    "definition": "Very valuable or important; much loved.",
+    "pronunciation": { "us": "PRESH-us", "uk": "PRESH-us" },
+    "examples": [
+      "The ring is made of precious metal.",
+      "Time with family is precious."
+    ],
+    "extra": {
+      "synonyms": ["valuable", "dear", "cherished"],
+      "antonyms": ["worthless", "common"],
+      "memory_tip": "Precious = priceless to you.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "quarry",
+    "type": "noun,verb",
+    "definition": "A place where stone is dug from the ground; an animal being hunted; to take stone from the ground.",
+    "pronunciation": { "us": "KWOR-ee", "uk": "KWOR-ee" },
+    "examples": [
+      "The old quarry is now a lake. (noun)",
+      "Workers quarried limestone for the cathedral. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["mine (noun)", "pit", "extract (verb)"],
+      "antonyms": ["fill (contrast)", "backfill (contrast)"],
+      "memory_tip": "Quarry = query the earth for stone.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["quarry", "quarried", "quarrying"]
+    }
+  },
+  {
+    "word": "ramp",
+    "type": "noun,verb",
+    "definition": "A sloping surface that connects two different levels; to increase or build up.",
+    "pronunciation": { "us": "ramp", "uk": "ramp" },
+    "examples": [
+      "The building has a wheelchair ramp. (noun)",
+      "They will ramp up production before winter. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["slope", "incline", "increase (verb)"],
+      "antonyms": ["steps (contrast)", "reduce (verb)"],
+      "memory_tip": "Ramp = a gentle rise to reach a level.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["ramp", "ramped", "ramping"]
+    }
+  },
+  {
+    "word": "spacious",
+    "type": "adjective",
+    "definition": "Having a lot of space; roomy.",
+    "pronunciation": { "us": "SPAY-shus", "uk": "SPAY-shus" },
+    "examples": [
+      "The hall is bright and spacious.",
+      "They moved into a more spacious flat."
+    ],
+    "extra": {
+      "synonyms": ["roomy", "wide", "airy"],
+      "antonyms": ["cramped", "small", "tight"],
+      "memory_tip": "Spacious = space to spare.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "surface",
+    "type": "noun,adjective,verb",
+    "definition": "The outside or top layer of something; on or near the outside; to come to the top or become known.",
+    "pronunciation": { "us": "SUR-fiss", "uk": "SUR-fiss" },
+    "examples": [
+      "Wipe the table surface before eating. (noun)",
+      "The dolphin surfaced beside the boat. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["outside", "exterior", "emerge (verb)"],
+      "antonyms": ["interior", "depths", "sink (verb)"],
+      "memory_tip": "Surface = where air meets water, or outside meets inside.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["surface", "surfaced", "surfacing"]
+    }
+  }
+]

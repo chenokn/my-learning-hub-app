@@ -1,0 +1,293 @@
+[
+  {
+    "word": "month",
+    "type": "noun",
+    "definition": "One of the twelve periods that make up a year.",
+    "pronunciation": {
+      "us": "/mʌnθ/",
+      "uk": "/mʌnθ/"
+    },
+    "examples": [
+      "Her birthday is next month.",
+      "A month usually has thirty or thirty-one days."
+    ],
+    "extra": {
+      "synonyms": [
+        "calendar period"
+      ],
+      "antonyms": [
+        "day",
+        "year"
+      ],
+      "memory_tip": "Month = about four weeks long.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "mural",
+    "type": "noun",
+    "definition": "A large picture painted or applied on a wall.",
+    "pronunciation": {
+      "us": "/ˈmjʊrəl/",
+      "uk": "/ˈmjʊərəl/"
+    },
+    "examples": [
+      "The school hallway has a bright mural.",
+      "Artists painted a seaside mural downtown."
+    ],
+    "extra": {
+      "synonyms": [
+        "wall painting",
+        "fresco"
+      ],
+      "antonyms": [
+        "blank wall"
+      ],
+      "memory_tip": "Mural = wall-sized artwork.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "imitate",
+    "type": "verb",
+    "definition": "To copy how someone speaks, moves, or does something.",
+    "pronunciation": {
+      "us": "/ˈɪməˌteɪt/",
+      "uk": "/ˈɪmɪteɪt/"
+    },
+    "examples": [
+      "Babies imitate sounds they hear.",
+      "He can imitate a bird’s song."
+    ],
+    "extra": {
+      "synonyms": [
+        "copy",
+        "mimic",
+        "follow"
+      ],
+      "antonyms": [
+        "originate",
+        "create"
+      ],
+      "memory_tip": "Imitate = do it just the same.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "imitate",
+        "imitated",
+        "imitating"
+      ]
+    }
+  },
+  {
+    "word": "applause",
+    "type": "noun",
+    "definition": "Clapping hands to show enjoyment or approval.",
+    "pronunciation": {
+      "us": "/əˈplɔz/",
+      "uk": "/əˈplɔːz/"
+    },
+    "examples": [
+      "The audience burst into applause.",
+      "Loud applause filled the theater."
+    ],
+    "extra": {
+      "synonyms": [
+        "clapping",
+        "ovation",
+        "cheers"
+      ],
+      "antonyms": [
+        "silence",
+        "booing"
+      ],
+      "memory_tip": "Applause = happy hand claps.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "photograph",
+    "type": "noun,verb",
+    "definition": "A picture taken with a camera; to take such a picture.",
+    "pronunciation": {
+      "us": "/ˈfoʊtəˌɡræf/ (noun), /ˈfoʊtəˌɡræf/ (verb)",
+      "uk": "/ˈfəʊtəɡrɑːf/ (noun), /fəʊˈtəʊɡrɑːf/ (verb)"
+    },
+    "examples": [
+      "That photograph shows the sunset. (noun)",
+      "She will photograph the parade. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "picture",
+        "photo",
+        "snap"
+      ],
+      "antonyms": [
+        "drawing (contrast)"
+      ],
+      "memory_tip": "Photograph = captured image with light.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "photograph",
+        "photographed",
+        "photographing"
+      ]
+    }
+  },
+  {
+    "word": "grow",
+    "type": "verb",
+    "definition": "To become bigger or older over time.",
+    "pronunciation": {
+      "us": "/ɡroʊ/",
+      "uk": "/ɡrəʊ/"
+    },
+    "examples": [
+      "Plants grow with sunlight and water.",
+      "Kids grow taller every year."
+    ],
+    "extra": {
+      "synonyms": [
+        "increase",
+        "develop",
+        "expand"
+      ],
+      "antonyms": [
+        "shrink",
+        "decrease"
+      ],
+      "memory_tip": "Grow = get larger or mature.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "grow",
+        "grew",
+        "growing",
+        "grown"
+      ]
+    }
+  },
+  {
+    "word": "rise",
+    "type": "verb,noun",
+    "definition": "To go up or get higher; an upward movement.",
+    "pronunciation": {
+      "us": "/raɪz/",
+      "uk": "/raɪz/"
+    },
+    "examples": [
+      "The sun will rise at six. (verb)",
+      "There was a rise in temperature. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "go up",
+        "lift",
+        "increase"
+      ],
+      "antonyms": [
+        "fall",
+        "drop"
+      ],
+      "memory_tip": "Rise = move upward.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "rise",
+        "rose",
+        "rising",
+        "risen"
+      ]
+    }
+  },
+  {
+    "word": "mature",
+    "type": "adj.,verb",
+    "definition": "Fully grown or developed; to grow to full size or thinking.",
+    "pronunciation": {
+      "us": "/məˈtʃʊr/",
+      "uk": "/məˈtjʊə/"
+    },
+    "examples": [
+      "A mature tree gives lots of shade. (adjective)",
+      "Caterpillars mature into butterflies. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "adult",
+        "grown",
+        "develop"
+      ],
+      "antonyms": [
+        "immature",
+        "young"
+      ],
+      "memory_tip": "Mature = all grown up.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "mature",
+        "matured",
+        "maturing"
+      ]
+    }
+  },
+  {
+    "word": "memory",
+    "type": "noun",
+    "definition": "Something you remember from the past; the ability to remember.",
+    "pronunciation": {
+      "us": "/ˈmɛməri/",
+      "uk": "/ˈmɛməri/"
+    },
+    "examples": [
+      "That trip is my favorite memory.",
+      "He has a good memory for names."
+    ],
+    "extra": {
+      "synonyms": [
+        "recollection",
+        "remembrance",
+        "mind"
+      ],
+      "antonyms": [
+        "forgetfulness"
+      ],
+      "memory_tip": "Memory = picture or fact stored in your mind.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "artistic",
+    "type": "adjective",
+    "definition": "Good at or interested in art; showing creativity.",
+    "pronunciation": {
+      "us": "/ɑrˈtɪstɪk/",
+      "uk": "/ɑːˈtɪstɪk/"
+    },
+    "examples": [
+      "She has an artistic talent for painting.",
+      "The cake had an artistic design."
+    ],
+    "extra": {
+      "synonyms": [
+        "creative",
+        "artsy",
+        "imaginative"
+      ],
+      "antonyms": [
+        "unimaginative",
+        "plain"
+      ],
+      "memory_tip": "Artistic = full of art ideas.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

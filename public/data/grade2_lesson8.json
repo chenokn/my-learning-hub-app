@@ -1,0 +1,272 @@
+[
+  {
+    "word": "attic",
+    "type": "noun",
+    "definition": "The space or room directly under the roof of a house, often used for storage.",
+    "pronunciation": {
+      "uk": "/ˈætɪk/"
+    },
+    "examples": [
+      "They kept old toys in the attic.",
+      "A small window lit the dusty attic."
+    ],
+    "extra": {
+      "synonyms": [
+        "loft"
+      ],
+      "antonyms": [
+        "cellar"
+      ],
+      "memory_tip": "Attic = top storey hiding memories.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "biscuit",
+    "type": "noun",
+    "definition": "A small, crisp baked cake, often sweet and eaten with tea.",
+    "pronunciation": {
+      "uk": "/ˈbɪskɪt/"
+    },
+    "examples": [
+      "Would you like a chocolate biscuit?",
+      "She dunked the biscuit in her tea."
+    ],
+    "extra": {
+      "synonyms": [
+        "cookie"
+      ],
+      "antonyms": [
+        "scone (contrast)"
+      ],
+      "memory_tip": "Biscuit = British teatime treat.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "circus",
+    "type": "noun",
+    "definition": "A travelling show with acrobats, clowns and trained animals; also a circular open area where several roads meet.",
+    "pronunciation": {
+      "uk": "/ˈsɜːkəs/"
+    },
+    "examples": [
+      "The children loved the circus.",
+      "Piccadilly Circus is busy at night."
+    ],
+    "extra": {
+      "synonyms": [
+        "fair",
+        "arena"
+      ],
+      "antonyms": [
+        "quiet street"
+      ],
+      "memory_tip": "Circus = big top fun or round junction.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "eager",
+    "type": "adjective",
+    "definition": "Very keen and excited to do something.",
+    "pronunciation": {
+      "uk": "/ˈiːɡə/"
+    },
+    "examples": [
+      "Pupils were eager to start the trip.",
+      "The dog waited with eager eyes."
+    ],
+    "extra": {
+      "synonyms": [
+        "keen",
+        "enthusiastic"
+      ],
+      "antonyms": [
+        "reluctant",
+        "uninterested"
+      ],
+      "memory_tip": "Eager = can’t wait attitude.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fringe",
+    "type": "noun,verb",
+    "definition": "The decorative edge of cloth or hair cut straight across the forehead; to form an edge around something.",
+    "pronunciation": {
+      "uk": "/frɪndʒ/"
+    },
+    "examples": [
+      "She trimmed her fringe. (noun)",
+      "Willows fringed the lake. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "border",
+        "bangs",
+        "edge"
+      ],
+      "antonyms": [
+        "centre",
+        "plain"
+      ],
+      "memory_tip": "Fringe = fancy border or front hair.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "fringe",
+        "fringed",
+        "fringing"
+      ]
+    }
+  },
+  {
+    "word": "lantern",
+    "type": "noun",
+    "definition": "A portable case with transparent sides for holding and protecting a light.",
+    "pronunciation": {
+      "uk": "/ˈlæntən/"
+    },
+    "examples": [
+      "A paper lantern glowed softly.",
+      "He carried a lantern along the path."
+    ],
+    "extra": {
+      "synonyms": [
+        "lamp",
+        "light"
+      ],
+      "antonyms": [
+        "darkness"
+      ],
+      "memory_tip": "Lantern = light in a box with a handle.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "picnic",
+    "type": "noun,verb",
+    "definition": "A meal eaten outdoors; to eat a meal outdoors.",
+    "pronunciation": {
+      "uk": "/ˈpɪknɪk/"
+    },
+    "examples": [
+      "We packed a picnic for the park. (noun)",
+      "They picnicked beside the river. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "outdoor meal"
+      ],
+      "antonyms": [
+        "banquet indoors"
+      ],
+      "memory_tip": "Picnic = food + fresh air fun.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "picnic",
+        "picnicked",
+        "picnicking"
+      ]
+    }
+  },
+  {
+    "word": "ripple",
+    "type": "noun,verb",
+    "definition": "A small wave or series of waves on water; to form or cause small waves.",
+    "pronunciation": {
+      "uk": "/ˈrɪpəl/"
+    },
+    "examples": [
+      "A ripple spread across the pond. (noun)",
+      "Wind rippled the wheat field. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "wavelet",
+        "undulation",
+        "ruffle"
+      ],
+      "antonyms": [
+        "stillness",
+        "calm"
+      ],
+      "memory_tip": "Ripple = little wobble on water or fabric.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "ripple",
+        "rippled",
+        "rippling"
+      ]
+    }
+  },
+  {
+    "word": "sprout",
+    "type": "noun,verb",
+    "definition": "A new growth from a seed or plant; to begin to grow.",
+    "pronunciation": {
+      "uk": "/spraʊt/"
+    },
+    "examples": [
+      "Bean sprouts are crunchy. (noun)",
+      "Seeds sprout after rain. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "shoot",
+        "bud",
+        "germinate"
+      ],
+      "antonyms": [
+        "wither",
+        "die"
+      ],
+      "memory_tip": "Sprout = baby plant popping up.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "sprout",
+        "sprouted",
+        "sprouting"
+      ]
+    }
+  },
+  {
+    "word": "whisper",
+    "type": "noun,verb",
+    "definition": "A very quiet way of speaking; to speak very softly.",
+    "pronunciation": {
+      "uk": "/ˈwɪspə/"
+    },
+    "examples": [
+      "She spoke in a whisper. (noun)",
+      "Please whisper in the library. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "murmur",
+        "hiss"
+      ],
+      "antonyms": [
+        "shout",
+        "yell"
+      ],
+      "memory_tip": "Whisper = secret soft voice.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "whisper",
+        "whispered",
+        "whispering"
+      ]
+    }
+  }
+]

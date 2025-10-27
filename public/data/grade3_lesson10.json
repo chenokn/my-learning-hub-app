@@ -1,0 +1,176 @@
+[
+  {
+    "word": "cable",
+    "type": "noun,verb",
+    "definition": "A thick, strong rope of wire or fibre used for carrying electricity or pulling; to send a message or connect using a cable.",
+    "pronunciation": { "us": "KAY-buhl", "uk": "KAY-buhl" },
+    "examples": [
+      "The bridge is held by steel cable. (noun)",
+      "Engineers cabled the new router to the wall port. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["wire", "cord", "line", "connect (verb)"],
+      "antonyms": ["wireless (contrast)", "disconnect (verb)"],
+      "memory_tip": "Cable = a strong, stable line for power or pull.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["cable", "cabled", "cabling"]
+    }
+  },
+  {
+    "word": "cathedral",
+    "type": "noun",
+    "definition": "A large and important church that is the seat of a bishop.",
+    "pronunciation": { "us": "kuh-THEE-druhl", "uk": "kuh-THEE-drul" },
+    "examples": [
+      "Tourists visited the medieval cathedral.",
+      "The cathedral’s spire can be seen across the city."
+    ],
+    "extra": {
+      "synonyms": ["great church", "minster"],
+      "antonyms": ["chapel (contrast)", "meeting hall (contrast)"],
+      "memory_tip": "Cathedral = the chief church in a diocese.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "convey",
+    "type": "verb",
+    "definition": "To carry or transport; to make an idea or feeling known to someone.",
+    "pronunciation": { "us": "kun-VAY", "uk": "kun-VAY" },
+    "examples": [
+      "Pipes convey water to the fields.",
+      "Her smile conveyed gratitude."
+    ],
+    "extra": {
+      "synonyms": ["transport", "carry", "communicate"],
+      "antonyms": ["withhold", "retain", "confuse"],
+      "memory_tip": "Convey = ‘con-vey’—to get it from A to B (things or ideas).",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["convey", "conveyed", "conveying"]
+    }
+  },
+  {
+    "word": "device",
+    "type": "noun",
+    "definition": "A tool, machine, or piece of equipment made for a particular purpose.",
+    "pronunciation": { "us": "di-VYS", "uk": "di-VYS" },
+    "examples": [
+      "This device measures air quality.",
+      "Please switch off electronic devices during the exam."
+    ],
+    "extra": {
+      "synonyms": ["gadget", "tool", "instrument"],
+      "antonyms": ["raw material (contrast)"],
+      "memory_tip": "Device = a devised thing to do a job.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "freight",
+    "type": "noun,verb",
+    "definition": "Goods carried by lorries, trains, ships, or aircraft; to transport goods in bulk.",
+    "pronunciation": { "us": "frayt", "uk": "frayt" },
+    "examples": [
+      "The port handles heavy freight. (noun)",
+      "They freighted the grain by rail. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["cargo", "shipment", "haul (verb)"],
+      "antonyms": ["passengers (contrast)", "unload (verb, contrast)"],
+      "memory_tip": "Freight = freight trains carry freight—goods, not people.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["freight", "freighted", "freighting"]
+    }
+  },
+  {
+    "word": "landmark",
+    "type": "noun",
+    "definition": "A famous or easily recognised feature of a place; an event that marks an important stage or change.",
+    "pronunciation": { "us": "LAND-mark", "uk": "LAND-mark" },
+    "examples": [
+      "The clock tower is a city landmark.",
+      "Winning the prize was a landmark in her career."
+    ],
+    "extra": {
+      "synonyms": ["monument", "milestone", "marker"],
+      "antonyms": ["obscurity (contrast)"],
+      "memory_tip": "Landmark = a mark on the land that stands out.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "method",
+    "type": "noun",
+    "definition": "A planned way of doing something; a system or process.",
+    "pronunciation": { "us": "METH-ud", "uk": "METH-ud" },
+    "examples": [
+      "We tested a new method for recycling plastic.",
+      "Good methods are clear and repeatable."
+    ],
+    "extra": {
+      "synonyms": ["procedure", "technique", "approach"],
+      "antonyms": ["disorder", "guesswork"],
+      "memory_tip": "Method = the map for the task.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "rod",
+    "type": "noun",
+    "definition": "A thin, straight bar made of wood, metal, or plastic.",
+    "pronunciation": { "us": "rod", "uk": "rod" },
+    "examples": [
+      "Curtains hung from a metal rod.",
+      "He used a rod to measure the depth."
+    ],
+    "extra": {
+      "synonyms": ["bar", "stick", "pole"],
+      "antonyms": ["sheet (contrast)", "slab (contrast)"],
+      "memory_tip": "Rod = a straight, sturdy stick.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "shaft",
+    "type": "noun",
+    "definition": "A long, narrow part of something like a tool or arrow; a vertical or sloping passage; a beam of light.",
+    "pronunciation": { "us": "shaft", "uk": "shaft" },
+    "examples": [
+      "The shaft of the hammer is wooden.",
+      "Miners descended the lift shaft."
+    ],
+    "extra": {
+      "synonyms": ["shank", "passage", "beam"],
+      "antonyms": ["head (contrast)", "opening (contrast to solid)"],
+      "memory_tip": "Shaft = the long body or a narrow tunnel.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "structure",
+    "type": "noun,verb",
+    "definition": "The way parts are arranged to make a whole; a building; to organise or arrange carefully.",
+    "pronunciation": { "us": "STRUK-chur", "uk": "STRUK-chuh" },
+    "examples": [
+      "Bone structure supports the body. (noun)",
+      "Let’s structure the essay into three sections. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["framework", "building", "organise (verb)"],
+      "antonyms": ["chaos", "disorganise (verb)"],
+      "memory_tip": "Structure = strong + structure—how it stands together.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["structure", "structured", "structuring"]
+    }
+  }
+]

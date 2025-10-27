@@ -1,0 +1,296 @@
+[
+  {
+    "word": "muddy",
+    "type": "adjective",
+    "definition": "Covered in or full of mud.",
+    "pronunciation": {
+      "us": "/ˈmʌdi/",
+      "uk": "/ˈmʌdi/"
+    },
+    "examples": [
+      "My shoes are muddy after playing outside.",
+      "The dog ran through the muddy yard."
+    ],
+    "extra": {
+      "synonyms": [
+        "dirty",
+        "wet",
+        "messy"
+      ],
+      "antonyms": [
+        "clean",
+        "dry"
+      ],
+      "memory_tip": "Muddy = squishy dirt everywhere!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "soil",
+    "type": "noun",
+    "definition": "The top layer of earth where plants grow.",
+    "pronunciation": {
+      "us": "/sɔɪl/",
+      "uk": "/sɔɪl/"
+    },
+    "examples": [
+      "We planted seeds in the soil.",
+      "Worms live in the soil."
+    ],
+    "extra": {
+      "synonyms": [
+        "dirt",
+        "earth",
+        "ground"
+      ],
+      "antonyms": [
+        "rock",
+        "concrete"
+      ],
+      "memory_tip": "Soil = what plants grow in.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "join",
+    "type": "verb",
+    "definition": "To become part of a group or activity.",
+    "pronunciation": {
+      "us": "/dʒɔɪn/",
+      "uk": "/dʒɔɪn/"
+    },
+    "examples": [
+      "Can I join your game?",
+      "She joined us at the table."
+    ],
+    "extra": {
+      "synonyms": [
+        "connect",
+        "be with",
+        "enter"
+      ],
+      "antonyms": [
+        "leave",
+        "quit"
+      ],
+      "memory_tip": "Join = go together!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": {
+        "present": "join",
+        "past": "joined",
+        "participle": "joined"
+      }
+    }
+  },
+  {
+    "word": "ring",
+    "type": "noun,verb",
+    "definition": "A round band; to make a bell sound.",
+    "pronunciation": {
+      "us": "/rɪŋ/",
+      "uk": "/rɪŋ/"
+    },
+    "examples": [
+      "She wears a gold ring. (noun)",
+      "The bell rings at lunch time. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "circle",
+        "chime",
+        "call"
+      ],
+      "antonyms": [
+        "silence",
+        "square"
+      ],
+      "memory_tip": "Ring = a round shape or a bell sound.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": {
+        "present": "ring",
+        "past": "rang",
+        "participle": "rung"
+      }
+    }
+  },
+  {
+    "word": "slip",
+    "type": "verb",
+    "definition": "To slide by accident and lose your balance.",
+    "pronunciation": {
+      "us": "/slɪp/",
+      "uk": "/slɪp/"
+    },
+    "examples": [
+      "I slipped on the wet floor.",
+      "Be careful or you will slip!"
+    ],
+    "extra": {
+      "synonyms": [
+        "slide",
+        "fall",
+        "trip"
+      ],
+      "antonyms": [
+        "stand",
+        "balance"
+      ],
+      "memory_tip": "Slip = oops, you slid!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": {
+        "present": "slip",
+        "past": "slipped",
+        "participle": "slipped"
+      }
+    }
+  },
+  {
+    "word": "stare",
+    "type": "verb",
+    "definition": "To look at something for a long time.",
+    "pronunciation": {
+      "us": "/stɛr/",
+      "uk": "/steə/"
+    },
+    "examples": [
+      "He stared at the big cake.",
+      "Don’t stare—it’s not polite."
+    ],
+    "extra": {
+      "synonyms": [
+        "look",
+        "gaze",
+        "watch"
+      ],
+      "antonyms": [
+        "glance",
+        "ignore"
+      ],
+      "memory_tip": "Stare = eyes stuck on something!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": {
+        "present": "stare",
+        "past": "stared",
+        "participle": "stared"
+      }
+    }
+  },
+  {
+    "word": "row",
+    "type": "noun,verb",
+    "definition": "A line of things or people; to move a boat using oars.",
+    "pronunciation": {
+      "us": "/roʊ/",
+      "uk": "/rəʊ/"
+    },
+    "examples": [
+      "We sat in the front row. (noun)",
+      "They rowed the boat across the lake. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "line",
+        "paddle",
+        "rank"
+      ],
+      "antonyms": [
+        "pile",
+        "scatter"
+      ],
+      "memory_tip": "Row = a line or boat motion!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": {
+        "present": "row",
+        "past": "rowed",
+        "participle": "rowed"
+      }
+    }
+  },
+  {
+    "word": "dew",
+    "type": "noun",
+    "definition": "Tiny drops of water on grass in the morning.",
+    "pronunciation": {
+      "us": "/duː/",
+      "uk": "/djuː/"
+    },
+    "examples": [
+      "The grass was wet with dew.",
+      "Dew sparkled in the morning light."
+    ],
+    "extra": {
+      "synonyms": [
+        "moisture",
+        "wetness",
+        "drops"
+      ],
+      "antonyms": [
+        "dryness"
+      ],
+      "memory_tip": "Dew = morning water on plants.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "strong",
+    "type": "adjective",
+    "definition": "Having power or strength.",
+    "pronunciation": {
+      "us": "/strɔŋ/",
+      "uk": "/strɒŋ/"
+    },
+    "examples": [
+      "He is strong and can lift the box.",
+      "The wind was very strong today."
+    ],
+    "extra": {
+      "synonyms": [
+        "powerful",
+        "tough",
+        "hard"
+      ],
+      "antonyms": [
+        "weak",
+        "soft"
+      ],
+      "memory_tip": "Strong = full of power!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fluffy",
+    "type": "adjective",
+    "definition": "Soft and light like a cloud or fur.",
+    "pronunciation": {
+      "us": "/ˈflʌfi/",
+      "uk": "/ˈflʌfi/"
+    },
+    "examples": [
+      "The bunny has fluffy fur.",
+      "We ate fluffy pancakes for breakfast."
+    ],
+    "extra": {
+      "synonyms": [
+        "soft",
+        "light",
+        "puffy"
+      ],
+      "antonyms": [
+        "rough",
+        "hard"
+      ],
+      "memory_tip": "Fluffy = soft and poofy!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

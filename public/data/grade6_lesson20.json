@@ -1,0 +1,261 @@
+[
+  {
+    "word": "conspicuous",
+    "type": "adjective",
+    "definition": "Easily seen or noticed; attracting attention.",
+    "pronunciation": { "us": "kun-SPIK-yoo-uhs", "uk": "kun-SPIK-yoo-uhs" },
+    "examples": [
+      "Her bright coat made her conspicuous in the crowd.",
+      "The error was conspicuous on the first page."
+    ],
+    "extra": {
+      "synonyms": ["obvious", "noticeable", "prominent"],
+      "antonyms": ["inconspicuous", "subtle", "hidden"],
+      "memory_tip": "Conspicuous = you can ‘spot’ it quickly.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "segregate",
+    "type": "verb",
+    "definition": "To separate people or things from a larger group, often unfairly.",
+    "pronunciation": { "us": "SEG-ruh-gayt", "uk": "SEG-ruh-gayt" },
+    "examples": [
+      "It is wrong to segregate pupils by background.",
+      "Recycling plants segregate plastics by type."
+    ],
+    "extra": {
+      "synonyms": ["separate", "isolate", "divide"],
+      "antonyms": ["integrate", "combine", "unite"],
+      "memory_tip": "Segregate = set groups apart.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["segregate", "segregated", "segregating"]
+    }
+  },
+  {
+    "word": "squalor",
+    "type": "noun",
+    "definition": "A very dirty and unpleasant condition, often due to poverty or neglect.",
+    "pronunciation": { "us": "SKWOL-er", "uk": "SKWOL-uh" },
+    "examples": [
+      "The abandoned building had fallen into squalor.",
+      "They worked to lift families out of squalor."
+    ],
+    "extra": {
+      "synonyms": ["filth", "misery", "shabbiness"],
+      "antonyms": ["cleanliness", "neatness", "order"],
+      "memory_tip": "Squalor = squalid + horror.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "plummet",
+    "type": "verb,noun",
+    "definition": "To fall very quickly and suddenly; a weight used to find a vertical line (noun).",
+    "pronunciation": { "us": "PLUM-it", "uk": "PLUM-it" },
+    "examples": [
+      "Temperatures plummeted overnight. (verb)",
+      "Builders used a plummet to check the wall. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["drop", "tumble", "nosedive"],
+      "antonyms": ["soar", "rise", "climb"],
+      "memory_tip": "Plummet = plunge like a meteor.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["plummet", "plummeted", "plummeting"]
+    }
+  },
+  {
+    "word": "versatile",
+    "type": "adjective",
+    "definition": "Able to do many different things well; having many uses.",
+    "pronunciation": { "us": "VUR-suh-til", "uk": "VUR-suh-tahyl" },
+    "examples": [
+      "A versatile tool can tighten or cut.",
+      "She’s a versatile performer—she sings and dances."
+    ],
+    "extra": {
+      "synonyms": ["adaptable", "flexible", "multi-purpose"],
+      "antonyms": ["limited", "rigid", "specialised"],
+      "memory_tip": "Versatile = various + style.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "domesticate",
+    "type": "verb",
+    "definition": "To tame an animal or adapt a plant for human use; to make something more home-like.",
+    "pronunciation": { "us": "duh-MES-tih-kayt", "uk": "duh-MES-tih-kayt" },
+    "examples": [
+      "Early farmers domesticated wild wheat.",
+      "Cats were domesticated thousands of years ago."
+    ],
+    "extra": {
+      "synonyms": ["tame", "cultivate", "train"],
+      "antonyms": ["wild", "feral", "abandon"],
+      "memory_tip": "Domesticate = make fit for the home (domus).",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["domesticate", "domesticated", "domesticating"]
+    }
+  },
+  {
+    "word": "monotonous",
+    "type": "adjective",
+    "definition": "Dull and repetitive; lacking variety in sound or activity.",
+    "pronunciation": { "us": "muh-NOT-uh-nuss", "uk": "muh-NOT-uh-nuss" },
+    "examples": [
+      "The monotonous beeping kept us awake.",
+      "Copying notes became monotonous."
+    ],
+    "extra": {
+      "synonyms": ["repetitive", "tedious", "dull"],
+      "antonyms": ["varied", "lively", "engaging"],
+      "memory_tip": "Monotonous = one (mono) tone.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "expedition",
+    "type": "noun",
+    "definition": "A journey with a specific purpose, especially exploration or research.",
+    "pronunciation": { "us": "ek-spuh-DISH-un", "uk": "ek-spuh-DISH-uhn" },
+    "examples": [
+      "They joined an expedition to the reef.",
+      "The expedition gathered valuable samples."
+    ],
+    "extra": {
+      "synonyms": ["journey", "mission", "voyage"],
+      "antonyms": ["stay", "delay", "inaction"],
+      "memory_tip": "Expedition = expert mission.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "perpetual",
+    "type": "adjective",
+    "definition": "Continuing forever or for a very long time without stopping.",
+    "pronunciation": { "us": "per-PETCH-oo-uhl", "uk": "per-PETCH-oo-uhl" },
+    "examples": [
+      "They lived in perpetual daylight in midsummer.",
+      "His perpetual optimism lifted the team."
+    ],
+    "extra": {
+      "synonyms": ["endless", "constant", "everlasting"],
+      "antonyms": ["temporary", "brief", "intermittent"],
+      "memory_tip": "Perpetual = permanent + actual continuity.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "unanimous",
+    "type": "adjective",
+    "definition": "Fully in agreement; with everyone of the same opinion.",
+    "pronunciation": { "us": "yoo-NAN-uh-muss", "uk": "yoo-NAN-uh-muss" },
+    "examples": [
+      "The decision was unanimous.",
+      "The judges were unanimous in their praise."
+    ],
+    "extra": {
+      "synonyms": ["agreed", "of one mind", "consensual"],
+      "antonyms": ["divided", "split", "disputed"],
+      "memory_tip": "Unanimous = uni (one) + animus (mind).",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "sentinel",
+    "type": "noun",
+    "definition": "A guard or lookout who watches for danger.",
+    "pronunciation": { "us": "SEN-tuh-nel", "uk": "SEN-tin-uhl" },
+    "examples": [
+      "A lone sentinel stood at the gate.",
+      "Tall pines acted as sentinels along the ridge."
+    ],
+    "extra": {
+      "synonyms": ["guard", "watchman", "lookout"],
+      "antonyms": ["intruder (contrast)", "attacker (contrast)"],
+      "memory_tip": "Sentinel = ‘sent’ to watch.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "oblivious",
+    "type": "adjective",
+    "definition": "Not aware of or not concerned about what is happening around you.",
+    "pronunciation": { "us": "uh-BLIV-ee-us", "uk": "uh-BLIV-ee-us" },
+    "examples": [
+      "He walked on, oblivious to the rain.",
+      "She was oblivious to the whispers."
+    ],
+    "extra": {
+      "synonyms": ["unaware", "heedless", "insensible"],
+      "antonyms": ["aware", "mindful", "alert"],
+      "memory_tip": "Oblivious = obvious things can be invisible to you.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "relinquish",
+    "type": "verb",
+    "definition": "To give up or let go of something, often unwillingly.",
+    "pronunciation": { "us": "ri-LING-kwish", "uk": "ri-LING-kwish" },
+    "examples": [
+      "She relinquished control of the project.",
+      "They reluctantly relinquished their claim."
+    ],
+    "extra": {
+      "synonyms": ["surrender", "yield", "abandon"],
+      "antonyms": ["keep", "retain", "hold"],
+      "memory_tip": "Relinquish = release your link to it.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["relinquish", "relinquished", "relinquishing"]
+    }
+  },
+  {
+    "word": "apprehensive",
+    "type": "adjective",
+    "definition": "Worried or fearful that something bad might happen.",
+    "pronunciation": { "us": "ap-ree-HEN-siv", "uk": "ap-ree-HEN-siv" },
+    "examples": [
+      "She felt apprehensive before the exam.",
+      "He was apprehensive about the storm."
+    ],
+    "extra": {
+      "synonyms": ["anxious", "uneasy", "nervous"],
+      "antonyms": ["confident", "calm", "assured"],
+      "memory_tip": "Apprehensive = you ‘apprehend’ trouble ahead.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "treacherous",
+    "type": "adjective",
+    "definition": "Dangerous because of hidden or unpredictable hazards; not trustworthy.",
+    "pronunciation": { "us": "TREH-chur-us", "uk": "TREH-chuh-rus" },
+    "examples": [
+      "The icy road was treacherous.",
+      "They avoided the treacherous guide."
+    ],
+    "extra": {
+      "synonyms": ["perilous", "unsafe", "faithless"],
+      "antonyms": ["safe", "reliable", "loyal"],
+      "memory_tip": "Treacherous = tricky and treachery-prone.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  }
+]

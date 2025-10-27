@@ -1,0 +1,453 @@
+{
+  "title": "The Missing Bell",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Mystery",
+  "vocabulary": [
+    "bell",
+    "clue",
+    "noise",
+    "quiet",
+    "hall",
+    "hook",
+    "bag",
+    "ring",
+    "hide",
+    "find"
+  ],
+  "images": [
+    "/stem-hub/language/missingbell.1.png",
+    "/stem-hub/language/missingbell.2.png",
+    "/stem-hub/language/missingbell.3.png",
+    "/stem-hub/language/missingbell.4.png"
+  ],
+  "passage": [
+    "At school the hall is quiet. The bell from the shelf is gone. |'The bell is missing,' says Miss Lee. 'We need it for lunch.' Sam and Lina agree to help.",
+    "They look for a clue. A red ribbon lies on the shelf. A tiny mark of blue paint is on the floor near the door. |'Someone moved it,' says Sam.",
+    "They tiptoe down the hall and listen. A soft ring… ring comes from the music room. |'Did you hear that?' whispers Lina. They peek inside.",
+    "The bell sits in a bag by the drum. The bag has a red ribbon and blue paint on it. |'Thanks!' says Miss Lee. 'The choir borrowed it.' Sam rings the bell. Lunch time!"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is missing at the start?",
+      "answer": "The bell",
+      "options": [
+        "The bell",
+        "The map",
+        "The drum",
+        "The kite"
+      ],
+      "keys": [
+        "bell"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Where are the children when they notice it is missing?",
+      "answer": "In the hall",
+      "options": [
+        "In the hall",
+        "On the playground",
+        "In the library",
+        "At home"
+      ],
+      "keys": [
+        "hall"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What two clues do they find first?",
+      "answer": "A red ribbon and blue paint",
+      "options": [
+        "A red ribbon and blue paint",
+        "A map and a torch",
+        "A rope and a net",
+        "A ticket and a coin"
+      ],
+      "keys": [
+        "clue",
+        "ribbon",
+        "paint"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What do Sam and Lina do to keep the hall quiet?",
+      "answer": "They tiptoe",
+      "options": [
+        "They tiptoe",
+        "They shout",
+        "They sing",
+        "They run"
+      ],
+      "keys": [
+        "quiet"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Where do they hear a soft ring?",
+      "answer": "From the music room",
+      "options": [
+        "From the music room",
+        "From the kitchen",
+        "From the cloakroom",
+        "From the bus"
+      ],
+      "keys": [
+        "ring"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Where do they find the bell?",
+      "answer": "In a bag by the drum",
+      "options": [
+        "In a bag by the drum",
+        "Under the shelf",
+        "In the lost-and-found box",
+        "On a hook by the door"
+      ],
+      "keys": [
+        "bag",
+        "find"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What two things on the bag match the clues?",
+      "answer": "A red ribbon and blue paint",
+      "options": [
+        "A red ribbon and blue paint",
+        "A key and a note",
+        "A scarf and a sticker",
+        "A coin and a leaf"
+      ],
+      "keys": [
+        "clue",
+        "ribbon",
+        "paint"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Who borrowed the bell?",
+      "answer": "The choir",
+      "options": [
+        "The choir",
+        "The football team",
+        "The bus driver",
+        "The art club"
+      ],
+      "keys": [
+        "borrowed",
+        "choir"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What sound word is used for the bell?",
+      "answer": "Ring… ring",
+      "options": [
+        "Ring… ring",
+        "Buzz… buzz",
+        "Croak… croak",
+        "Clap… clap"
+      ],
+      "keys": [
+        "ring",
+        "noise",
+        "sound"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What happens at the end?",
+      "answer": "Sam rings the bell for lunch",
+      "options": [
+        "Sam rings the bell for lunch",
+        "They hide the bell again",
+        "They lose the bell",
+        "They take the bell home"
+      ],
+      "keys": [
+        "ring",
+        "lunch"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "bell",
+      "type": "noun",
+      "definition": "A metal object that makes a ringing sound when hit or shaken.",
+      "pronunciation": {
+        "us": "bɛl",
+        "uk": "bɛl"
+      },
+      "examples": [
+        "The bell is missing.",
+        "Sam rings the bell for lunch."
+      ],
+      "extra": {
+        "synonyms": [
+          "chime"
+        ],
+        "antonyms": [
+          "silence"
+        ],
+        "memory_tip": "Bell = ding-dong!",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "clue",
+      "type": "noun",
+      "definition": "Something that helps you solve a problem or mystery.",
+      "pronunciation": {
+        "us": "kluː",
+        "uk": "kluː"
+      },
+      "examples": [
+        "They look for a clue.",
+        "The ribbon is a clue."
+      ],
+      "extra": {
+        "synonyms": [
+          "hint"
+        ],
+        "antonyms": [
+          "mystery"
+        ],
+        "memory_tip": "Clue = little help to find out.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "noise",
+      "type": "noun",
+      "definition": "A sound, especially a loud or strange one.",
+      "pronunciation": {
+        "us": "nɔɪz",
+        "uk": "nɔɪz"
+      },
+      "examples": [
+        "They hear a soft noise.",
+        "The bell makes a ringing noise."
+      ],
+      "extra": {
+        "synonyms": [
+          "sound"
+        ],
+        "antonyms": [
+          "silence",
+          "quiet"
+        ],
+        "memory_tip": "Noise = what your ears notice.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "quiet",
+      "type": "adj.,noun",
+      "definition": "Making little or no noise; a time or place with little sound.",
+      "pronunciation": {
+        "us": "ˈkwaɪ.ət",
+        "uk": "ˈkwaɪ.ət"
+      },
+      "examples": [
+        "The hall is quiet. (adjective)",
+        "They walk in quiet. (noun)"
+      ],
+      "extra": {
+        "synonyms": [
+          "silent",
+          "calm"
+        ],
+        "antonyms": [
+          "noisy",
+          "loud"
+        ],
+        "memory_tip": "Quiet = shh… soft sounds.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "hall",
+      "type": "noun",
+      "definition": "A large room or passage in a school or building.",
+      "pronunciation": {
+        "us": "hɔl",
+        "uk": "hɔːl"
+      },
+      "examples": [
+        "At school the hall is quiet.",
+        "They tiptoe down the hall."
+      ],
+      "extra": {
+        "synonyms": [
+          "corridor",
+          "assembly room"
+        ],
+        "antonyms": [
+          "playground (contrast)"
+        ],
+        "memory_tip": "Hall = big indoor space.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "hook",
+      "type": "noun,verb",
+      "definition": "A curved piece for hanging things; to catch or hang with a hook.",
+      "pronunciation": {
+        "us": "hʊk",
+        "uk": "hʊk"
+      },
+      "examples": [
+        "Hang your bag on a hook. (noun)",
+        "Hook the bell on the shelf. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "hanger"
+        ],
+        "antonyms": [
+          "unhook (contrast)"
+        ],
+        "memory_tip": "Hook = handy hanger.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "hook",
+          "hooked",
+          "hooking"
+        ]
+      }
+    },
+    {
+      "word": "bag",
+      "type": "noun",
+      "definition": "A soft container for carrying things.",
+      "pronunciation": {
+        "us": "bæɡ",
+        "uk": "bæɡ"
+      },
+      "examples": [
+        "The bell sits in a bag.",
+        "Put the books in your bag."
+      ],
+      "extra": {
+        "synonyms": [
+          "sack"
+        ],
+        "antonyms": [
+          "box (contrast)"
+        ],
+        "memory_tip": "Bag = carry-all pouch.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "ring",
+      "type": "verb,noun",
+      "definition": "To make a bell sound; the sound a bell makes.",
+      "pronunciation": {
+        "us": "rɪŋ",
+        "uk": "rɪŋ"
+      },
+      "examples": [
+        "Sam rings the bell. (verb)",
+        "We hear a ring from the room. (noun)"
+      ],
+      "extra": {
+        "synonyms": [
+          "chime",
+          "ding"
+        ],
+        "antonyms": [
+          "silence"
+        ],
+        "memory_tip": "Ring = ding-dong sound.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "ring",
+          "rang",
+          "rung",
+          "ringing"
+        ]
+      }
+    },
+    {
+      "word": "hide",
+      "type": "verb",
+      "definition": "To put something where it cannot be seen or found.",
+      "pronunciation": {
+        "us": "haɪd",
+        "uk": "haɪd"
+      },
+      "examples": [
+        "Do not hide school things.",
+        "The bell was not meant to hide."
+      ],
+      "extra": {
+        "synonyms": [
+          "cover",
+          "conceal"
+        ],
+        "antonyms": [
+          "show"
+        ],
+        "memory_tip": "Hide = make it hard to see.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "hide",
+          "hid",
+          "hidden",
+          "hiding"
+        ]
+      }
+    },
+    {
+      "word": "find",
+      "type": "verb",
+      "definition": "To discover where something is.",
+      "pronunciation": {
+        "us": "faɪnd",
+        "uk": "faɪnd"
+      },
+      "examples": [
+        "They find the bell in a bag.",
+        "Can you find the clue?"
+      ],
+      "extra": {
+        "synonyms": [
+          "locate",
+          "spot"
+        ],
+        "antonyms": [
+          "lose"
+        ],
+        "memory_tip": "Find = look and see it.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "find",
+          "found",
+          "finding"
+        ]
+      }
+    }
+  ]
+}

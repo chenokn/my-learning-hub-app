@@ -1,0 +1,475 @@
+[
+  {
+    "word": "assemble",
+    "type": "verb",
+    "definition": "To bring people or things together; to put parts together.",
+    "pronunciation": {
+      "us": "uh-SEM-buhl",
+      "uk": "uh-SEM-buhl"
+    },
+    "examples": [
+      "Students assembled in the hall.",
+      "We assembled the table using the instructions."
+    ],
+    "extra": {
+      "synonyms": [
+        "gather",
+        "collect",
+        "build"
+      ],
+      "antonyms": [
+        "disperse",
+        "separate"
+      ],
+      "memory_tip": "Assemble = add and put together.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "assemble",
+        "assembled",
+        "assembling"
+      ]
+    }
+  },
+  {
+    "word": "banquet",
+    "type": "noun",
+    "definition": "A large, special meal for many people, often to celebrate something.",
+    "pronunciation": {
+      "us": "BANK-wit",
+      "uk": "BANK-wit"
+    },
+    "examples": [
+      "They held a banquet for the winners.",
+      "The banquet hall was full of flowers."
+    ],
+    "extra": {
+      "synonyms": [
+        "feast",
+        "spread"
+      ],
+      "antonyms": [
+        "snack",
+        "fast"
+      ],
+      "memory_tip": "Banquet = big feast with many courses.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "cargo",
+    "type": "noun",
+    "definition": "Goods carried by ship, plane, train, or truck.",
+    "pronunciation": {
+      "us": "KAR-go",
+      "uk": "KAH-go"
+    },
+    "examples": [
+      "The ship carried a cargo of grain.",
+      "Cargo is checked before loading."
+    ],
+    "extra": {
+      "synonyms": [
+        "freight",
+        "load",
+        "shipment"
+      ],
+      "antonyms": [
+        "baggage (contrast)",
+        "passengers (contrast)"
+      ],
+      "memory_tip": "Cargo = car-goes with goods.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "cask",
+    "type": "noun",
+    "definition": "A wooden barrel used for storing liquids like wine or oil.",
+    "pronunciation": {
+      "us": "kask",
+      "uk": "kask"
+    },
+    "examples": [
+      "The cellar held casks of cider.",
+      "A fresh cask was rolled into the pub."
+    ],
+    "extra": {
+      "synonyms": [
+        "barrel",
+        "keg"
+      ],
+      "antonyms": [
+        "bottle (contrast)"
+      ],
+      "memory_tip": "Cask = classic wooden barrel.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "celebrate",
+    "type": "verb",
+    "definition": "To do something special because of a happy event.",
+    "pronunciation": {
+      "us": "SEL-uh-brayt",
+      "uk": "SEL-uh-brayt"
+    },
+    "examples": [
+      "We celebrated the team’s victory.",
+      "They celebrated with a small cake."
+    ],
+    "extra": {
+      "synonyms": [
+        "mark",
+        "honour",
+        "rejoice"
+      ],
+      "antonyms": [
+        "ignore",
+        "mourn"
+      ],
+      "memory_tip": "Celebrate = cheer and share joy.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "celebrate",
+        "celebrated",
+        "celebrating"
+      ]
+    }
+  },
+  {
+    "word": "desperate",
+    "type": "adjective",
+    "definition": "Feeling or showing a great need or desire, often because a situation is very bad or urgent.",
+    "pronunciation": {
+      "us": "DES-puh-rit",
+      "uk": "DES-prit"
+    },
+    "examples": [
+      "She was desperate to find her lost cat.",
+      "They made a desperate attempt to score before the whistle."
+    ],
+    "extra": {
+      "synonyms": [
+        "urgent",
+        "frantic",
+        "dire",
+        "hopeless"
+      ],
+      "antonyms": [
+        "calm",
+        "hopeful",
+        "confident"
+      ],
+      "memory_tip": "Desperate = in a ‘dire spirit’—very urgent.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "edible",
+    "type": "adjective",
+    "definition": "Safe and suitable for eating.",
+    "pronunciation": {
+      "us": "EH-duh-buhl",
+      "uk": "EH-duh-buhl"
+    },
+    "examples": [
+      "These berries are edible.",
+      "Check if the mushrooms are edible."
+    ],
+    "extra": {
+      "synonyms": [
+        "safe to eat",
+        "fit for consumption"
+      ],
+      "antonyms": [
+        "inedible",
+        "poisonous"
+      ],
+      "memory_tip": "Edible = eat-able.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "frivolous",
+    "type": "adjective",
+    "definition": "Not serious or important; silly or wasting time and money.",
+    "pronunciation": {
+      "us": "FRIV-uh-luhs",
+      "uk": "FRIV-uh-luhs"
+    },
+    "examples": [
+      "They cut frivolous spending from the budget.",
+      "His joke was funny but a bit frivolous."
+    ],
+    "extra": {
+      "synonyms": [
+        "silly",
+        "trivial",
+        "lighthearted"
+      ],
+      "antonyms": [
+        "serious",
+        "sensible",
+        "important"
+      ],
+      "memory_tip": "Frivolous = frills without purpose.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "harvest",
+    "type": "noun,verb",
+    "definition": "The time of gathering crops; to gather crops or results.",
+    "pronunciation": {
+      "us": "HAR-vest",
+      "uk": "HAR-vist"
+    },
+    "examples": [
+      "The wheat harvest was early this year. (noun)",
+      "They harvest apples in autumn. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "gathering",
+        "reaping",
+        "collect"
+      ],
+      "antonyms": [
+        "sow",
+        "plant"
+      ],
+      "memory_tip": "Harvest = have what you’ve sown.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "harvest",
+        "harvested",
+        "harvesting"
+      ]
+    }
+  },
+  {
+    "word": "hew",
+    "type": "verb",
+    "definition": "To cut or shape something with heavy blows, especially wood or stone.",
+    "pronunciation": {
+      "us": "HYOO",
+      "uk": "HYOO"
+    },
+    "examples": [
+      "They hewed beams from the oak logs.",
+      "Workers hew stone blocks for the wall."
+    ],
+    "extra": {
+      "synonyms": [
+        "chop",
+        "carve",
+        "cut"
+      ],
+      "antonyms": [
+        "assemble (contrast)",
+        "mend (contrast)"
+      ],
+      "memory_tip": "Hew = heavy chopping and shaping.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "hew",
+        "hewed",
+        "hewing",
+        "hewn"
+      ]
+    }
+  },
+  {
+    "word": "hostile",
+    "type": "adjective",
+    "definition": "Unfriendly or aggressive; opposed.",
+    "pronunciation": {
+      "us": "HOS-tyl",
+      "uk": "HOS-tyl"
+    },
+    "examples": [
+      "The two teams exchanged hostile words.",
+      "The desert is a hostile environment."
+    ],
+    "extra": {
+      "synonyms": [
+        "unfriendly",
+        "aggressive",
+        "adverse"
+      ],
+      "antonyms": [
+        "friendly",
+        "welcoming"
+      ],
+      "memory_tip": "Hostile = hard to host or be hosted.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "pledge",
+    "type": "noun,verb",
+    "definition": "A serious promise; to promise sincerely.",
+    "pronunciation": {
+      "us": "plej",
+      "uk": "plej"
+    },
+    "examples": [
+      "She made a pledge to recycle. (noun)",
+      "They pledged to help the team. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "promise",
+        "vow",
+        "commit"
+      ],
+      "antonyms": [
+        "break",
+        "renege"
+      ],
+      "memory_tip": "Pledge = promise you plan to keep.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "pledge",
+        "pledged",
+        "pledging"
+      ]
+    }
+  },
+  {
+    "word": "prosper",
+    "type": "verb",
+    "definition": "To succeed or grow strong, especially in wealth or health.",
+    "pronunciation": {
+      "us": "PROS-per",
+      "uk": "PROS-puh"
+    },
+    "examples": [
+      "Small shops prospered in the busy market.",
+      "May you prosper in your new job."
+    ],
+    "extra": {
+      "synonyms": [
+        "thrive",
+        "flourish",
+        "succeed"
+      ],
+      "antonyms": [
+        "struggle",
+        "fail"
+      ],
+      "memory_tip": "Prosper = progress with power.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "prosper",
+        "prospered",
+        "prospering"
+      ]
+    }
+  },
+  {
+    "word": "task",
+    "type": "noun,verb",
+    "definition": "A piece of work to be done; to give someone a job to do.",
+    "pronunciation": {
+      "us": "task",
+      "uk": "tahsk"
+    },
+    "examples": [
+      "Your task is to write a summary. (noun)",
+      "The teacher tasked us with cleaning up. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "job",
+        "duty",
+        "assignment"
+      ],
+      "antonyms": [
+        "leisure",
+        "idleness"
+      ],
+      "memory_tip": "Task = a tick-box job.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "task",
+        "tasked",
+        "tasking"
+      ]
+    }
+  },
+  {
+    "word": "thermal",
+    "type": "adjective,noun",
+    "definition": "Related to heat; a rising current of warm air used by birds and gliders.",
+    "pronunciation": {
+      "us": "THUR-muhl",
+      "uk": "THUR-muhl"
+    },
+    "examples": [
+      "They wore thermal socks in winter. (adjective)",
+      "The eagle circled on a thermal. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "heating",
+        "warm",
+        "updraft (noun)"
+      ],
+      "antonyms": [
+        "cooling",
+        "cold"
+      ],
+      "memory_tip": "Thermal = think ‘thermometer’—heat.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "decrease",
+    "type": "noun,verb",
+    "definition": "A reduction in size or amount; to become or make less.",
+    "pronunciation": {
+      "us": "DEE-krees (noun), dih-KREES (verb)",
+      "uk": "DEE-krees (noun), dih-KREES (verb)"
+    },
+    "examples": [
+      "There was a decrease in noise after bedtime. (noun)",
+      "We must decrease waste at school. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "reduction",
+        "drop",
+        "lessen"
+      ],
+      "antonyms": [
+        "increase",
+        "rise",
+        "grow"
+      ],
+      "memory_tip": "Decrease = go down; increase = go up.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "decrease",
+        "decreased",
+        "decreasing"
+      ]
+    }
+  }
+]

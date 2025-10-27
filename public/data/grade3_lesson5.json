@@ -1,0 +1,474 @@
+[
+  {
+    "word": "ancient",
+    "type": "adjective",
+    "definition": "Very old; from a long time ago.",
+    "pronunciation": {
+      "us": "/ˈeɪnʃənt/",
+      "uk": "/ˈeɪnʃənt/"
+    },
+    "examples": [
+      "They found ancient coins in the cave.",
+      "The ancient castle stood on the hill."
+    ],
+    "extra": {
+      "synonyms": [
+        "old",
+        "historic",
+        "antique"
+      ],
+      "antonyms": [
+        "modern",
+        "new"
+      ],
+      "memory_tip": "Ancient = older than your great-grandparents!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "clever",
+    "type": "adjective",
+    "definition": "Quick to learn or understand; smart.",
+    "pronunciation": {
+      "us": "/ˈklɛvər/",
+      "uk": "/ˈklɛvə/"
+    },
+    "examples": [
+      "She gave a clever answer to the riddle.",
+      "The clever dog opened the door by itself!"
+    ],
+    "extra": {
+      "synonyms": [
+        "smart",
+        "bright",
+        "intelligent"
+      ],
+      "antonyms": [
+        "silly",
+        "slow"
+      ],
+      "memory_tip": "Clever = quick thinking!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "explore",
+    "type": "verb",
+    "definition": "To go somewhere to find out more about it.",
+    "pronunciation": {
+      "us": "/ɪkˈsplɔr/",
+      "uk": "/ɪkˈsplɔː/"
+    },
+    "examples": [
+      "Let's explore the forest trail today.",
+      "They explored the old castle together."
+    ],
+    "extra": {
+      "synonyms": [
+        "discover",
+        "investigate",
+        "travel"
+      ],
+      "antonyms": [
+        "ignore",
+        "stay"
+      ],
+      "memory_tip": "Explore = go find new things!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "explore",
+        "past": "explored",
+        "participle": "explored"
+      }
+    }
+  },
+  {
+    "word": "habit",
+    "type": "noun",
+    "definition": "Something you do often, usually without thinking.",
+    "pronunciation": {
+      "us": "/ˈhæbɪt/",
+      "uk": "/ˈhæbɪt/"
+    },
+    "examples": [
+      "Brushing your teeth daily is a good habit.",
+      "He has a habit of tapping his fingers."
+    ],
+    "extra": {
+      "synonyms": [
+        "routine",
+        "practice",
+        "custom"
+      ],
+      "antonyms": [
+        "change",
+        "unusual behavior"
+      ],
+      "memory_tip": "Habit = something you do again and again.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "limit",
+    "type": "noun,verb",
+    "definition": "The greatest amount allowed; to stop at a certain point.",
+    "pronunciation": {
+      "us": "/ˈlɪmɪt/",
+      "uk": "/ˈlɪmɪt/"
+    },
+    "examples": [
+      "There's a limit to how many cookies you can eat. (noun)",
+      "Please limit your screen time. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "boundary",
+        "stop",
+        "restrict"
+      ],
+      "antonyms": [
+        "expand",
+        "increase"
+      ],
+      "memory_tip": "Limit = don't go past this point.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "limit",
+        "past": "limited",
+        "participle": "limited"
+      }
+    }
+  },
+  {
+    "word": "watchman",
+    "type": "noun",
+    "definition": "A person who guards or watches a place, especially at night.",
+    "pronunciation": {
+      "us": "/ˈwɑtʃmən/",
+      "uk": "/ˈwɒtʃmən/"
+    },
+    "examples": [
+      "The watchman checked the building every hour.",
+      "A watchman stood at the gate all night."
+    ],
+    "extra": {
+      "synonyms": [
+        "guard",
+        "sentinel",
+        "lookout"
+      ],
+      "antonyms": [
+        "intruder"
+      ],
+      "memory_tip": "Watchman = the one who watches for safety.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "agree",
+    "type": "verb",
+    "definition": "To have the same opinion or say yes to something.",
+    "pronunciation": {
+      "us": "/əˈɡriː/",
+      "uk": "/əˈɡriː/"
+    },
+    "examples": [
+      "I agree with you about the book.",
+      "They agreed to share the toys."
+    ],
+    "extra": {
+      "synonyms": [
+        "accept",
+        "consent",
+        "approve"
+      ],
+      "antonyms": [
+        "disagree",
+        "argue"
+      ],
+      "memory_tip": "Agree = say yes or think the same.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "agree",
+        "past": "agreed",
+        "participle": "agreed"
+      }
+    }
+  },
+  {
+    "word": "bright",
+    "type": "adjective",
+    "definition": "Giving lots of light or full of color; very smart.",
+    "pronunciation": {
+      "us": "/braɪt/",
+      "uk": "/braɪt/"
+    },
+    "examples": [
+      "The sun is bright today.",
+      "She is a bright student who loves math."
+    ],
+    "extra": {
+      "synonyms": [
+        "shiny",
+        "smart",
+        "colorful"
+      ],
+      "antonyms": [
+        "dark",
+        "dull"
+      ],
+      "memory_tip": "Bright = full of light or clever ideas.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "carry",
+    "type": "verb",
+    "definition": "To hold something and move it from one place to another.",
+    "pronunciation": {
+      "us": "/ˈkæri/",
+      "uk": "/ˈkæri/"
+    },
+    "examples": [
+      "Can you carry this box for me?",
+      "She carried her backpack to school."
+    ],
+    "extra": {
+      "synonyms": [
+        "lift",
+        "move",
+        "transport"
+      ],
+      "antonyms": [
+        "drop",
+        "leave"
+      ],
+      "memory_tip": "Carry = hold and walk with it.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "carry",
+        "past": "carried",
+        "participle": "carried"
+      }
+    }
+  },
+  {
+    "word": "destroy",
+    "type": "verb",
+    "definition": "To completely ruin or break something.",
+    "pronunciation": {
+      "us": "/dɪˈstrɔɪ/",
+      "uk": "/dɪˈstrɔɪ/"
+    },
+    "examples": [
+      "The fire destroyed the barn.",
+      "He destroyed the model by accident."
+    ],
+    "extra": {
+      "synonyms": [
+        "ruin",
+        "break",
+        "wreck"
+      ],
+      "antonyms": [
+        "build",
+        "fix"
+      ],
+      "memory_tip": "Destroy = make it go away forever.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "destroy",
+        "past": "destroyed",
+        "participle": "destroyed"
+      }
+    }
+  },
+  {
+    "word": "foolish",
+    "type": "adjective",
+    "definition": "Not showing good sense; silly.",
+    "pronunciation": {
+      "us": "/ˈfuːlɪʃ/",
+      "uk": "/ˈfuːlɪʃ/"
+    },
+    "examples": [
+      "It was foolish to leave your phone in the rain.",
+      "He made a foolish mistake in the game."
+    ],
+    "extra": {
+      "synonyms": [
+        "silly",
+        "unwise",
+        "careless"
+      ],
+      "antonyms": [
+        "wise",
+        "smart"
+      ],
+      "memory_tip": "Foolish = not a smart choice.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "giggle",
+    "type": "verb,noun",
+    "definition": "To laugh in a quiet or silly way.",
+    "pronunciation": {
+      "us": "/ˈɡɪɡəl/",
+      "uk": "/ˈɡɪɡəl/"
+    },
+    "examples": [
+      "The kids giggled at the funny cartoon. (verb)",
+      "She let out a little giggle. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "chuckle",
+        "snicker",
+        "laugh softly"
+      ],
+      "antonyms": [
+        "cry",
+        "yell"
+      ],
+      "memory_tip": "Giggle = tiny, happy laugh.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "giggle",
+        "past": "giggled",
+        "participle": "giggled"
+      }
+    }
+  },
+  {
+    "word": "kind",
+    "type": "adjective",
+    "definition": "Caring and nice to others.",
+    "pronunciation": {
+      "us": "/kaɪnd/",
+      "uk": "/kaɪnd/"
+    },
+    "examples": [
+      "She is kind to her little brother.",
+      "A kind friend helped me carry my books."
+    ],
+    "extra": {
+      "synonyms": [
+        "nice",
+        "caring",
+        "friendly"
+      ],
+      "antonyms": [
+        "mean",
+        "unkind"
+      ],
+      "memory_tip": "Kind = gentle and helpful.",
+      "tier": 2,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "notice",
+    "type": "verb,noun",
+    "definition": "To see or become aware of something; a sign or warning.",
+    "pronunciation": {
+      "us": "/ˈnoʊtɪs/",
+      "uk": "/ˈnəʊtɪs/"
+    },
+    "examples": [
+      "Did you notice the rainbow? (verb)",
+      "I read the notice on the board. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "see",
+        "observe",
+        "spot"
+      ],
+      "antonyms": [
+        "ignore",
+        "overlook"
+      ],
+      "memory_tip": "Notice = open your eyes or share info.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "notice",
+        "past": "noticed",
+        "participle": "noticed"
+      }
+    }
+  },
+  {
+    "word": "polite",
+    "type": "adjective",
+    "definition": "Having good manners; being respectful to others.",
+    "pronunciation": {
+      "us": "/pəˈlaɪt/",
+      "uk": "/pəˈlaɪt/"
+    },
+    "examples": [
+      "Always be polite to your teachers.",
+      "She used a polite tone when asking for help."
+    ],
+    "extra": {
+      "synonyms": [
+        "respectful",
+        "well-mannered",
+        "courteous"
+      ],
+      "antonyms": [
+        "rude",
+        "impolite"
+      ],
+      "memory_tip": "Polite = saying please and thank you.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "wonder",
+    "type": "verb,noun",
+    "definition": "To think about something with curiosity; something amazing.",
+    "pronunciation": {
+      "us": "/ˈwʌndər/",
+      "uk": "/ˈwʌndə/"
+    },
+    "examples": [
+      "I wonder what’s inside the box. (verb)",
+      "The Northern Lights are a wonder of nature. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "think",
+        "amaze",
+        "curiosity"
+      ],
+      "antonyms": [
+        "know",
+        "ignore",
+        "boredom"
+      ],
+      "memory_tip": "Wonder = thinking or seeing something amazing.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "wonder",
+        "past": "wondered",
+        "participle": "wondered"
+      }
+    }
+  }
+]

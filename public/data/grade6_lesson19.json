@@ -1,0 +1,264 @@
+[
+  {
+    "word": "breach",
+    "type": "noun,verb",
+    "definition": "An opening or a breaking of a rule or agreement; to break through or violate.",
+    "pronunciation": { "us": "breech", "uk": "breech" },
+    "examples": [
+      "There was a breach in the castle wall. (noun)",
+      "They breached the contract by delivering late. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["violation", "gap", "break"],
+      "antonyms": ["compliance", "seal", "closure"],
+      "memory_tip": "Breach = break or gap in rules or walls.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["breach", "breached", "breaching"]
+    }
+  },
+  {
+    "word": "clammy",
+    "type": "adjective",
+    "definition": "Unpleasantly damp, sticky, and often cold.",
+    "pronunciation": { "us": "KLAM-ee", "uk": "KLAM-ee" },
+    "examples": [
+      "His hands were clammy with nerves.",
+      "We woke to a clammy fog."
+    ],
+    "extra": {
+      "synonyms": ["damp", "sticky", "sweaty"],
+      "antonyms": ["dry", "crisp", "airy"],
+      "memory_tip": "Clammy feels like a clam—cool and damp.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "construct",
+    "type": "verb,noun",
+    "definition": "To build or put together; something that has been built or formed.",
+    "pronunciation": { "us": "kun-STRUKT (verb), KON-strukt (noun)", "uk": "kun-STRUKT (verb), KON-strukt (noun)" },
+    "examples": [
+      "They will construct a new footbridge. (verb)",
+      "The model is a clever construct. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["build", "assemble", "structure"],
+      "antonyms": ["demolish", "destroy", "ruin"],
+      "memory_tip": "Construct = con-STRUCT—put structure together.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["construct", "constructed", "constructing"]
+    }
+  },
+  {
+    "word": "elaborate",
+    "type": "adjective,verb",
+    "definition": "Detailed and carefully arranged; to add more detail or explain further.",
+    "pronunciation": { "us": "ih-LAB-uh-rit (adj), ih-LAB-uh-rayt (verb)", "uk": "ih-LAB-uh-rit (adj), ih-LAB-uh-rayt (verb)" },
+    "examples": [
+      "They wore elaborate costumes. (adjective)",
+      "Please elaborate on your answer. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["detailed", "ornate", "expand (verb)"],
+      "antonyms": ["simple", "plain", "summarise (verb)"],
+      "memory_tip": "Elaborate = add layers (elabor-ate).",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["elaborate (verb)", "elaborated", "elaborating"]
+    }
+  },
+  {
+    "word": "fragrant",
+    "type": "adjective",
+    "definition": "Having a pleasant smell.",
+    "pronunciation": { "us": "FRAY-grunt", "uk": "FRAY-grunt" },
+    "examples": [
+      "Fragrant roses filled the room.",
+      "The curry was warm and fragrant."
+    ],
+    "extra": {
+      "synonyms": ["aromatic", "sweet-smelling", "perfumed"],
+      "antonyms": ["odourless", "stinky", "rank"],
+      "memory_tip": "Fragrant = a friendly scent.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "haven",
+    "type": "noun",
+    "definition": "A safe or peaceful place; a refuge.",
+    "pronunciation": { "us": "HAY-vun", "uk": "HAY-vun" },
+    "examples": [
+      "The library is a haven for readers.",
+      "Birds used the cove as a haven."
+    ],
+    "extra": {
+      "synonyms": ["refuge", "shelter", "sanctuary"],
+      "antonyms": ["danger zone", "peril", "threat"],
+      "memory_tip": "Haven = have-in safety.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "mammoth",
+    "type": "adjective,noun",
+    "definition": "Extremely large; a large extinct elephant-like animal.",
+    "pronunciation": { "us": "MAM-uth", "uk": "MAM-uth" },
+    "examples": [
+      "They faced a mammoth task. (adjective)",
+      "A mammoth skeleton stood in the museum. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["huge", "enormous", "gigantic"],
+      "antonyms": ["tiny", "minute", "petite"],
+      "memory_tip": "Mammoth size like the animal.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "perish",
+    "type": "verb",
+    "definition": "To die or be destroyed, especially suddenly or violently.",
+    "pronunciation": { "us": "PAIR-ish", "uk": "PEH-rish" },
+    "examples": [
+      "Plants may perish without water.",
+      "Many perished in the storm at sea."
+    ],
+    "extra": {
+      "synonyms": ["die", "expire", "fall"],
+      "antonyms": ["survive", "live", "endure"],
+      "memory_tip": "Perish = permanently finish.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["perish", "perished", "perishing"]
+    }
+  },
+  {
+    "word": "restore",
+    "type": "verb",
+    "definition": "To bring back to a former condition; to repair or return.",
+    "pronunciation": { "us": "ri-STORE", "uk": "ri-STORE" },
+    "examples": [
+      "Volunteers restored the old hall.",
+      "Sleep restores energy."
+    ],
+    "extra": {
+      "synonyms": ["repair", "renew", "return"],
+      "antonyms": ["damage", "ruin", "deprive"],
+      "memory_tip": "Restore = re-store what was lost.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["restore", "restored", "restoring"]
+    }
+  },
+  {
+    "word": "retaliate",
+    "type": "verb",
+    "definition": "To respond to an injury or wrong by doing the same to someone else.",
+    "pronunciation": { "us": "ri-TAL-ee-ate", "uk": "ri-TAL-ee-ate" },
+    "examples": [
+      "He refused to retaliate after the insult.",
+      "Teams were warned not to retaliate on the pitch."
+    ],
+    "extra": {
+      "synonyms": ["take revenge", "hit back", "avenge"],
+      "antonyms": ["forgive", "pardon", "let go"],
+      "memory_tip": "Retaliate = return the tally of harm.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["retaliate", "retaliated", "retaliating"]
+    }
+  },
+  {
+    "word": "stench",
+    "type": "noun",
+    "definition": "A very strong, unpleasant smell.",
+    "pronunciation": { "us": "stench", "uk": "stench" },
+    "examples": [
+      "A stench rose from the bins.",
+      "The spill left a lingering stench."
+    ],
+    "extra": {
+      "synonyms": ["reek", "smell", "fetor"],
+      "antonyms": ["fragrance", "aroma", "perfume"],
+      "memory_tip": "Stench = stink you can clench your nose at.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "strew",
+    "type": "verb",
+    "definition": "To scatter or spread things untidily over an area.",
+    "pronunciation": { "us": "stroo", "uk": "stroo" },
+    "examples": [
+      "Leaves were strewn across the path.",
+      "They strew petals along the aisle."
+    ],
+    "extra": {
+      "synonyms": ["scatter", "sprinkle", "spread"],
+      "antonyms": ["gather", "collect", "clear"],
+      "memory_tip": "Strew = throw and spread through.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["strew", "strewed/strewn", "strewing"]
+    }
+  },
+  {
+    "word": "vicinity",
+    "type": "noun",
+    "definition": "The area near or surrounding a particular place.",
+    "pronunciation": { "us": "vih-SIN-ih-tee", "uk": "vih-SIN-ih-tee" },
+    "examples": [
+      "There are several cafés in the vicinity.",
+      "Police searched the vicinity of the station."
+    ],
+    "extra": {
+      "synonyms": ["area", "neighbourhood", "locale"],
+      "antonyms": ["distance", "faraway", "remoteness"],
+      "memory_tip": "Vicinity = vicinity is ‘vicin-ity’—nearby.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "vulnerable",
+    "type": "adjective",
+    "definition": "Open to harm, damage, or attack; easily hurt.",
+    "pronunciation": { "us": "VUL-ner-uh-bul", "uk": "VUL-nuh-ruh-buhl" },
+    "examples": [
+      "Young seedlings are vulnerable to frost.",
+      "Sharing too much online can make you vulnerable."
+    ],
+    "extra": {
+      "synonyms": ["exposed", "unprotected", "at risk"],
+      "antonyms": ["secure", "protected", "robust"],
+      "memory_tip": "Vulnerable = vulnerable to ‘vultures’—needs protection.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "wary",
+    "type": "adjective",
+    "definition": "Cautious and on guard against danger or trouble.",
+    "pronunciation": { "us": "WAIR-ee", "uk": "WEH-ree" },
+    "examples": [
+      "Be wary of unknown links in emails.",
+      "The cat kept a wary distance."
+    ],
+    "extra": {
+      "synonyms": ["cautious", "alert", "vigilant"],
+      "antonyms": ["careless", "trusting", "reckless"],
+      "memory_tip": "Wary = be aware-y.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

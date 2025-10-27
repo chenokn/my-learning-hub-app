@@ -1,0 +1,265 @@
+[
+  {
+    "word": "apparent",
+    "type": "adjective",
+    "definition": "Easy to see or understand; seeming to be true, but not proven.",
+    "pronunciation": { "us": "uh-PAIR-unt", "uk": "uh-PAR-unt" },
+    "examples": [
+      "It was apparent that the team needed rest.",
+      "The apparent winner still needs official results."
+    ],
+    "extra": {
+      "synonyms": ["obvious", "clear", "evident"],
+      "antonyms": ["hidden", "unclear", "obscure"],
+      "memory_tip": "Apparent = appears clearly.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "ban",
+    "type": "verb,noun",
+    "definition": "To officially say something is not allowed; an official rule that stops something.",
+    "pronunciation": { "us": "ban", "uk": "ban" },
+    "examples": [
+      "The school banned phones in class. (verb)",
+      "A smoking ban is in place. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["forbid", "prohibit", "bar"],
+      "antonyms": ["allow", "permit", "authorise"],
+      "memory_tip": "Ban = big NO from authority.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["ban", "banned", "banning"]
+    }
+  },
+  {
+    "word": "concentrate",
+    "type": "verb,noun",
+    "definition": "To focus your attention; a substance with most of the water removed.",
+    "pronunciation": { "us": "KON-sen-trayt (verb)", "uk": "KON-sen-trayt (verb)" },
+    "examples": [
+      "Please concentrate on the experiment. (verb)",
+      "We mixed the juice concentrate with water. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["focus", "centre", "condense (noun sense)"],
+      "antonyms": ["distract", "disperse", "dilute"],
+      "memory_tip": "Concentrate = centre your brain on one thing.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["concentrate", "concentrated", "concentrating"]
+    }
+  },
+  {
+    "word": "concern",
+    "type": "noun,verb",
+    "definition": "A feeling of worry or interest; to worry or involve someone.",
+    "pronunciation": { "us": "kun-SERN", "uk": "kun-SERN" },
+    "examples": [
+      "Safety is our main concern. (noun)",
+      "This issue concerns everyone. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["worry", "interest", "involve"],
+      "antonyms": ["calm", "ignore", "disregard"],
+      "memory_tip": "Concern = something your mind circles around.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["concern", "concerned", "concerning"]
+    }
+  },
+  {
+    "word": "consider",
+    "type": "verb",
+    "definition": "To think carefully about something before deciding; to regard someone or something in a particular way.",
+    "pronunciation": { "us": "kun-SID-er", "uk": "kun-SID-uh" },
+    "examples": [
+      "We will consider your suggestion.",
+      "She is considered a talented artist."
+    ],
+    "extra": {
+      "synonyms": ["think about", "weigh", "regard"],
+      "antonyms": ["ignore", "dismiss", "overlook"],
+      "memory_tip": "Consider = sit with it in your mind.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["consider", "considered", "considering"]
+    }
+  },
+  {
+    "word": "contrast",
+    "type": "noun,verb",
+    "definition": "A difference between things; to compare to show differences.",
+    "pronunciation": { "us": "KON-trast (noun), kun-TRAST (verb)", "uk": "KON-trast (noun), kun-TRAST (verb)" },
+    "examples": [
+      "There is a strong contrast between the colours. (noun)",
+      "Contrast the two photos to see the changes. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["difference", "distinction", "compare (verb)"],
+      "antonyms": ["similarity", "resemblance"],
+      "memory_tip": "Contrast = con-‘tryst’ of opposites.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["contrast", "contrasted", "contrasting"]
+    }
+  },
+  {
+    "word": "fragile",
+    "type": "adjective",
+    "definition": "Easily broken or damaged; delicate.",
+    "pronunciation": { "us": "FRAJ-yl", "uk": "FRAJ-uhl" },
+    "examples": [
+      "Handle the fragile glass with care.",
+      "Some fragile habitats need protection."
+    ],
+    "extra": {
+      "synonyms": ["delicate", "brittle", "breakable"],
+      "antonyms": ["sturdy", "durable", "tough"],
+      "memory_tip": "Fragile = ‘frail’ + ‘gentle’.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "menace",
+    "type": "noun,verb",
+    "definition": "A person or thing that is dangerous; to threaten in a hostile way.",
+    "pronunciation": { "us": "MEN-iss", "uk": "MEN-iss" },
+    "examples": [
+      "Mosquitoes are a menace in summer. (noun)",
+      "Dark clouds menaced the coast. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["threat", "danger", "endanger (verb)"],
+      "antonyms": ["safety", "protection", "secure"],
+      "memory_tip": "Menace = mean + menace-y vibes.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["menace", "menaced", "menacing"]
+    }
+  },
+  {
+    "word": "pounce",
+    "type": "verb,noun",
+    "definition": "To jump suddenly in order to catch or attack; a sudden jump or attack.",
+    "pronunciation": { "us": "pownss", "uk": "pownss" },
+    "examples": [
+      "The cat pounced on the toy. (verb)",
+      "With a swift pounce, the owl caught its prey. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["leap", "spring", "attack"],
+      "antonyms": ["retreat", "withdraw", "hold back"],
+      "memory_tip": "Pounce = powerful bounce.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["pounce", "pounced", "pouncing"]
+    }
+  },
+  {
+    "word": "prompt",
+    "type": "adjective,verb,noun",
+    "definition": "Done without delay; to cause or remind; a cue or reminder.",
+    "pronunciation": { "us": "prompt", "uk": "prompt" },
+    "examples": [
+      "Thank you for your prompt reply. (adjective)",
+      "The smell of rain prompted old memories. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["quick", "urge", "cue"],
+      "antonyms": ["late", "delay", "hindrance"],
+      "memory_tip": "Prompt = pronto!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["prompt", "prompted", "prompting"]
+    }
+  },
+  {
+    "word": "recent",
+    "type": "adjective",
+    "definition": "Happening or starting not long ago.",
+    "pronunciation": { "us": "REE-sent", "uk": "REE-sent" },
+    "examples": [
+      "Recent studies show good results.",
+      "We moved here in recent years."
+    ],
+    "extra": {
+      "synonyms": ["new", "late", "current"],
+      "antonyms": ["old", "ancient", "past"],
+      "memory_tip": "Recent = just ‘re-’cent (newly sent).",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "symbol",
+    "type": "noun",
+    "definition": "A sign or object that stands for something else.",
+    "pronunciation": { "us": "SIM-bul", "uk": "SIM-bul" },
+    "examples": [
+      "A dove is a symbol of peace.",
+      "Letters are symbols for sounds."
+    ],
+    "extra": {
+      "synonyms": ["sign", "emblem", "icon"],
+      "antonyms": ["literal thing", "object itself"],
+      "memory_tip": "Symbol = simple badge of meaning.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "talon",
+    "type": "noun",
+    "definition": "A claw of a bird of prey.",
+    "pronunciation": { "us": "TAL-un", "uk": "TAL-un" },
+    "examples": [
+      "The eagle’s talons were sharp.",
+      "It gripped the branch with its talons."
+    ],
+    "extra": {
+      "synonyms": ["claw", "hooked claw"],
+      "antonyms": ["hoof (contrast)", "paw (contrast)"],
+      "memory_tip": "Talon = talon-ted claw!",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "trophy",
+    "type": "noun",
+    "definition": "A cup, medal, or object given as a prize for winning.",
+    "pronunciation": { "us": "TROH-fee", "uk": "TROH-fee" },
+    "examples": [
+      "The team lifted the trophy after the final.",
+      "Her shelf is full of swimming trophies."
+    ],
+    "extra": {
+      "synonyms": ["award", "prize", "cup"],
+      "antonyms": ["penalty (contrast)", "forfeit (contrast)"],
+      "memory_tip": "Trophy = proof of triumph.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "widespread",
+    "type": "adjective",
+    "definition": "Happening or existing in many places or among many people.",
+    "pronunciation": { "us": "WYDE-spred", "uk": "WYDE-spred" },
+    "examples": [
+      "There was widespread support for the plan.",
+      "The storm caused widespread damage."
+    ],
+    "extra": {
+      "synonyms": ["common", "prevalent", "extensive"],
+      "antonyms": ["rare", "limited", "localised"],
+      "memory_tip": "Widespread = spread far and wide.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "word": "calf",
+    "type": "noun",
+    "definition": "A young cow or other large mammal such as an elephant or whale.",
+    "pronunciation": {
+      "us": "/kæf/",
+      "uk": "/kɑːf/"
+    },
+    "examples": [
+      "The farmer looked after the newborn calf.",
+      "An elephant calf stays close to its mother."
+    ],
+    "extra": {
+      "synonyms": [
+        "young",
+        "offspring"
+      ],
+      "antonyms": [
+        "adult"
+      ],
+      "memory_tip": "Calf = baby cow or large mammal.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "claw",
+    "type": "noun,verb",
+    "definition": "A sharp, curved nail on an animal's foot; to scratch or tear with claws.",
+    "pronunciation": {
+      "us": "/klɔː/",
+      "uk": "/klɔː/"
+    },
+    "examples": [
+      "The cat's claw was very sharp. (noun)",
+      "Crabs claw at their food. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "talon",
+        "scrape",
+        "scratch"
+      ],
+      "antonyms": [
+        "pad",
+        "soothe"
+      ],
+      "memory_tip": "Claw = animal nail and the act of scratching.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "claw",
+        "clawed",
+        "clawing"
+      ]
+    }
+  },
+  {
+    "word": "couple",
+    "type": "noun",
+    "definition": "Two people or things that go together; a small number.",
+    "pronunciation": {
+      "us": "/ˈkʌpəl/",
+      "uk": "/ˈkʌpəl/"
+    },
+    "examples": [
+      "A couple of birds sat on the fence.",
+      "The married couple danced."
+    ],
+    "extra": {
+      "synonyms": [
+        "pair",
+        "duo",
+        "two"
+      ],
+      "antonyms": [
+        "single",
+        "one"
+      ],
+      "memory_tip": "Couple = always two together.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "cushion",
+    "type": "noun",
+    "definition": "A soft pad used for sitting or leaning on.",
+    "pronunciation": {
+      "us": "/ˈkʊʃən/",
+      "uk": "/ˈkʊʃən/"
+    },
+    "examples": [
+      "She placed a cushion on the chair.",
+      "The sofa is covered with bright cushions."
+    ],
+    "extra": {
+      "synonyms": [
+        "pillow",
+        "pad"
+      ],
+      "antonyms": [
+        "hard surface"
+      ],
+      "memory_tip": "Cushion = soft comfort for sitting.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "flap",
+    "type": "verb,noun",
+    "definition": "To move quickly up and down; a piece that hangs and can be lifted.",
+    "pronunciation": {
+      "us": "/flæp/",
+      "uk": "/flæp/"
+    },
+    "examples": [
+      "Birds flap their wings to fly. (verb)",
+      "Close the envelope flap. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "wave",
+        "flutter",
+        "lid"
+      ],
+      "antonyms": [
+        "still",
+        "seal"
+      ],
+      "memory_tip": "Flap = up-down movement or loose piece.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "flap",
+        "flapped",
+        "flapping"
+      ]
+    }
+  },
+  {
+    "word": "groom",
+    "type": "verb,noun",
+    "definition": "To clean and brush an animal or oneself; a man on his wedding day.",
+    "pronunciation": {
+      "us": "/ɡruːm/",
+      "uk": "/ɡruːm/"
+    },
+    "examples": [
+      "Horses are groomed every morning. (verb)",
+      "The groom waited at the altar. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "brush",
+        "tidy",
+        "bridegroom"
+      ],
+      "antonyms": [
+        "neglect",
+        "mess"
+      ],
+      "memory_tip": "Groom = tidy up or man getting married.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "groom",
+        "groomed",
+        "grooming"
+      ]
+    }
+  },
+  {
+    "word": "share",
+    "type": "verb,noun",
+    "definition": "To give part of something to others; a portion that someone receives.",
+    "pronunciation": {
+      "us": "/ʃeər/",
+      "uk": "/ʃeə/"
+    },
+    "examples": [
+      "Please share your crayons. (verb)",
+      "Each friend took an equal share of cake. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "divide",
+        "portion",
+        "part"
+      ],
+      "antonyms": [
+        "keep",
+        "hoard"
+      ],
+      "memory_tip": "Share = give others a piece.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "share",
+        "shared",
+        "sharing"
+      ]
+    }
+  },
+  {
+    "word": "shelter",
+    "type": "noun,verb",
+    "definition": "A place that protects from weather or danger; to protect or give cover.",
+    "pronunciation": {
+      "us": "/ˈʃɛltər/",
+      "uk": "/ˈʃɛltə/"
+    },
+    "examples": [
+      "The cave offered shelter from the storm. (noun)",
+      "They sheltered under a tree. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "protection",
+        "refuge",
+        "cover"
+      ],
+      "antonyms": [
+        "exposure",
+        "endanger"
+      ],
+      "memory_tip": "Shelter = safe covering place or act.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "shelter",
+        "sheltered",
+        "sheltering"
+      ]
+    }
+  },
+  {
+    "word": "yard",
+    "type": "noun",
+    "definition": "A small outdoor area next to a house or building.",
+    "pronunciation": {
+      "us": "/jɑːrd/",
+      "uk": "/jɑːd/"
+    },
+    "examples": [
+      "Children played in the back yard.",
+      "He mowed the grass in the yard."
+    ],
+    "extra": {
+      "synonyms": [
+        "garden",
+        "courtyard",
+        "lawn"
+      ],
+      "antonyms": [
+        "indoors",
+        "house"
+      ],
+      "memory_tip": "Yard = open space beside a home.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "zero",
+    "type": "noun,adjective",
+    "definition": "The number 0; showing no amount.",
+    "pronunciation": {
+      "us": "/ˈzɪəroʊ/",
+      "uk": "/ˈzɪərəʊ/"
+    },
+    "examples": [
+      "Zero is less than one. (noun)",
+      "There were zero mistakes on her test. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "nil",
+        "none",
+        "nothing"
+      ],
+      "antonyms": [
+        "one",
+        "some"
+      ],
+      "memory_tip": "Zero = nothing at all.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

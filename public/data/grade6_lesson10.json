@@ -1,0 +1,267 @@
+[
+  {
+    "word": "anticipate",
+    "type": "verb",
+    "definition": "To expect something to happen; to look forward to; to act in advance of.",
+    "pronunciation": { "us": "an-TISS-uh-payt", "uk": "an-TISS-uh-payt" },
+    "examples": [
+      "We anticipate finishing the project by Friday.",
+      "She anticipated the question and prepared an answer."
+    ],
+    "extra": {
+      "synonyms": ["expect", "foresee", "predict"],
+      "antonyms": ["doubt", "ignore", "miss"],
+      "memory_tip": "Anticipate = anti-cipate (before it happens, you’re ready).",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["anticipate", "anticipated", "anticipating"]
+    }
+  },
+  {
+    "word": "bankrupt",
+    "type": "adjective,verb,noun",
+    "definition": "Having no money to pay what is owed; to make someone or something run out of money; a person declared unable to pay debts.",
+    "pronunciation": { "us": "BANG-krupt", "uk": "BANG-krupt" },
+    "examples": [
+      "The bankrupt company closed its stores. (adjective)",
+      "Poor planning can bankrupt a small business. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["insolvent", "ruined", "penniless"],
+      "antonyms": ["solvent", "prosperous", "wealthy"],
+      "memory_tip": "Bankrupt = the bank account ruptures.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["bankrupt (verb)", "bankrupted", "bankrupting"]
+    }
+  },
+  {
+    "word": "brief",
+    "type": "adjective,verb,noun",
+    "definition": "Short in time or length; to give essential information quickly; a short summary or set of instructions.",
+    "pronunciation": { "us": "breef", "uk": "breef" },
+    "examples": [
+      "We had a brief meeting before class. (adjective)",
+      "The coach briefed the team on tactics. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["short", "concise", "summarise (verb)"],
+      "antonyms": ["long", "lengthy", "elaborate"],
+      "memory_tip": "Brief = be brief: keep it short.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["brief", "briefed", "briefing"]
+    }
+  },
+  {
+    "word": "brisk",
+    "type": "adjective",
+    "definition": "Quick and active; refreshing and cool.",
+    "pronunciation": { "us": "brisk", "uk": "brisk" },
+    "examples": [
+      "They set a brisk walking pace.",
+      "A brisk wind blew across the harbour."
+    ],
+    "extra": {
+      "synonyms": ["lively", "rapid", "bracing"],
+      "antonyms": ["slow", "sluggish", "stagnant"],
+      "memory_tip": "Brisk = brisket of speed—quick and sharp.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "budget",
+    "type": "noun,verb,adjective",
+    "definition": "A plan for how to spend money; to plan how to spend money; low-cost.",
+    "pronunciation": { "us": "BUJ-it", "uk": "BUJ-it" },
+    "examples": [
+      "We made a weekly food budget. (noun)",
+      "Remember to budget for transport costs. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["spending plan", "allocate (verb)", "economy (adj)"],
+      "antonyms": ["splurge", "waste", "extravagant (adj)"],
+      "memory_tip": "Budget = ‘budge it’ carefully, don’t overspend.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["budget", "budgeted", "budgeting"]
+    }
+  },
+  {
+    "word": "compete",
+    "type": "verb",
+    "definition": "To take part in a contest or try to win against others.",
+    "pronunciation": { "us": "kum-PEET", "uk": "kum-PEET" },
+    "examples": [
+      "Our school will compete in the finals.",
+      "Many companies compete for customers."
+    ],
+    "extra": {
+      "synonyms": ["contend", "vie", "rival"],
+      "antonyms": ["cooperate (contrast)", "yield"],
+      "memory_tip": "Compete = complete effort to win.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["compete", "competed", "competing"]
+    }
+  },
+  {
+    "word": "complicate",
+    "type": "verb",
+    "definition": "To make something more difficult or involved.",
+    "pronunciation": { "us": "KOM-pli-kayt", "uk": "KOM-pli-kayt" },
+    "examples": [
+      "Adding too many rules will complicate the game.",
+      "Missing data complicates the analysis."
+    ],
+    "extra": {
+      "synonyms": ["worsen", "entangle", "confuse"],
+      "antonyms": ["simplify", "clarify", "streamline"],
+      "memory_tip": "Complicate = tie it in knots.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["complicate", "complicated", "complicating"]
+    }
+  },
+  {
+    "word": "effect",
+    "type": "noun,verb",
+    "definition": "A result or change caused by something; to bring about or make happen.",
+    "pronunciation": { "us": "ee-FEKT (noun), ih-FEKT (verb)", "uk": "ee-FEKT (noun), ih-FEKT (verb)" },
+    "examples": [
+      "Lack of sleep has a negative effect on focus. (noun)",
+      "The council effected several road repairs. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["result", "outcome", "achieve (verb)"],
+      "antonyms": ["cause (contrast)", "prevent (verb)"],
+      "memory_tip": "Affect = action; effect = end result (and verb ‘effect’ means cause to happen).",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["effect (verb)", "effected", "effecting"]
+    }
+  },
+  {
+    "word": "err",
+    "type": "verb",
+    "definition": "To make a mistake; to be wrong.",
+    "pronunciation": { "us": "ur", "uk": "ur" },
+    "examples": [
+      "To err is human; to learn is wise.",
+      "The map erred on the distance between towns."
+    ],
+    "extra": {
+      "synonyms": ["blunder", "misjudge", "miscalculate"],
+      "antonyms": ["correct", "succeed", "judge rightly"],
+      "memory_tip": "Err rhymes with ‘her’: when you err, own it and fix it.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["err", "erred", "erring"]
+    }
+  },
+  {
+    "word": "factor",
+    "type": "noun,verb",
+    "definition": "Something that influences a result; in maths, a number that divides another exactly; to include something in a plan or calculation.",
+    "pronunciation": { "us": "FAK-ter", "uk": "FAK-tuh" },
+    "examples": [
+      "Weather is a key factor in farming. (noun)",
+      "Please factor travel time into the schedule. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["element", "component", "include (verb)"],
+      "antonyms": ["result (contrast)", "exclude (verb)"],
+      "memory_tip": "Factor = a fact that turns outcomes.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["factor (verb)", "factored", "factoring"]
+    }
+  },
+  {
+    "word": "fad",
+    "type": "noun",
+    "definition": "Something that is very popular for a short time.",
+    "pronunciation": { "us": "fad", "uk": "fad" },
+    "examples": [
+      "That toy was last year’s fad.",
+      "Fads fade fast when the next thing arrives."
+    ],
+    "extra": {
+      "synonyms": ["craze", "trend", "mania"],
+      "antonyms": ["classic", "tradition", "mainstay"],
+      "memory_tip": "Fad = fashionable for a day.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "gripe",
+    "type": "verb,noun",
+    "definition": "To complain in an irritated way; a complaint.",
+    "pronunciation": { "us": "grype", "uk": "grype" },
+    "examples": [
+      "He’s always griping about the weather. (verb)",
+      "One common gripe is slow Wi-Fi. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["moan", "grumble", "complaint"],
+      "antonyms": ["praise", "applaud", "compliment"],
+      "memory_tip": "Gripe = gripey gripe—small but nagging.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["gripe", "griped/gript", "griping"]
+    }
+  },
+  {
+    "word": "knack",
+    "type": "noun",
+    "definition": "A natural skill or special way of doing something easily.",
+    "pronunciation": { "us": "nak", "uk": "nak" },
+    "examples": [
+      "She has a knack for fixing gadgets.",
+      "With practice you’ll get the knack of it."
+    ],
+    "extra": {
+      "synonyms": ["skill", "talent", "aptitude"],
+      "antonyms": ["ineptness", "inability"],
+      "memory_tip": "Knack = knack for knackering tricky tasks.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "leisure",
+    "type": "noun",
+    "definition": "Time when you are not working and can relax or enjoy activities.",
+    "pronunciation": { "us": "LEE-zher", "uk": "LEH-zhuh" },
+    "examples": [
+      "She reads for leisure in the evenings.",
+      "At your leisure, please review the draft."
+    ],
+    "extra": {
+      "synonyms": ["free time", "relaxation", "spare time"],
+      "antonyms": ["work", "labour", "duty"],
+      "memory_tip": "Leisure = ‘leisurely’ time at ease.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "unique",
+    "type": "adjective",
+    "definition": "The only one of its kind; unlike anything else.",
+    "pronunciation": { "us": "yoo-NEEK", "uk": "yoo-NEEK" },
+    "examples": [
+      "Her painting style is unique.",
+      "Every fingerprint is unique."
+    ],
+    "extra": {
+      "synonyms": ["one-of-a-kind", "distinctive", "singular"],
+      "antonyms": ["common", "ordinary", "typical"],
+      "memory_tip": "Unique = you + unique: only you!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

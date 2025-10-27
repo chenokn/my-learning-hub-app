@@ -1,0 +1,177 @@
+[
+  {
+    "word": "calendar",
+    "type": "noun",
+    "definition": "A chart or system showing the days, weeks, and months of a year; a schedule of planned events.",
+    "pronunciation": { "us": "KAL-en-dur", "uk": "KAL-en-duh" },
+    "examples": [
+      "Check the calendar for the trip dates.",
+      "Our class calendar lists all assignments."
+    ],
+    "extra": {
+      "synonyms": ["schedule", "timetable", "planner"],
+      "antonyms": ["unscheduled time (contrast)"],
+      "memory_tip": "Calendar keeps your days in order.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "carnival",
+    "type": "noun",
+    "definition": "A public festival with music, costumes, rides, and parades.",
+    "pronunciation": { "us": "KAR-nuh-vul", "uk": "KAH-nuh-vul" },
+    "examples": [
+      "We ate candyfloss at the seaside carnival.",
+      "The carnival parade filled the streets with colour."
+    ],
+    "extra": {
+      "synonyms": ["festival", "fair", "parade"],
+      "antonyms": ["fast (religious) (contrast)", "routine day (contrast)"],
+      "memory_tip": "Carnival = colour, costumes, and celebration.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "experience",
+    "type": "noun,verb",
+    "definition": "Knowledge or skill gained by doing and feeling; to go through or feel something.",
+    "pronunciation": { "us": "ik-SPEER-ee-ens", "uk": "ik-SPEER-ee-uhns" },
+    "examples": [
+      "Work experience can help you get a job. (noun)",
+      "Visitors experienced the art through VR headsets. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["practice", "encounter", "undergo"],
+      "antonyms": ["inexperience", "avoid"],
+      "memory_tip": "Experience = lessons life gives you.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["experience", "experienced", "experiencing"]
+    }
+  },
+  {
+    "word": "govern",
+    "type": "verb",
+    "definition": "To rule or manage the affairs of a place, people, or organisation.",
+    "pronunciation": { "us": "GUH-vern", "uk": "GUV-uhn" },
+    "examples": [
+      "Citizens elect leaders to govern the country.",
+      "Clear rules govern how labs handle chemicals."
+    ],
+    "extra": {
+      "synonyms": ["rule", "administer", "manage"],
+      "antonyms": ["misrule", "neglect"],
+      "memory_tip": "Govern = give direction and rules.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["govern", "governed", "governing"]
+    }
+  },
+  {
+    "word": "gulf",
+    "type": "noun",
+    "definition": "A large sea inlet partly surrounded by land; a wide difference or separation between people or ideas.",
+    "pronunciation": { "us": "gulf", "uk": "gulf" },
+    "examples": [
+      "Fishermen sailed across the gulf.",
+      "There’s a gulf between their opinions."
+    ],
+    "extra": {
+      "synonyms": ["bay", "inlet", "gap"],
+      "antonyms": ["isthmus (contrast)", "bridge (figurative)"],
+      "memory_tip": "Gulf = a great gap—of water or ideas.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "haste",
+    "type": "noun",
+    "definition": "Great speed, often with little thought; hurry.",
+    "pronunciation": { "us": "hayst", "uk": "hayst" },
+    "examples": [
+      "In his haste, he forgot his ticket.",
+      "Haste in science can cause errors."
+    ],
+    "extra": {
+      "synonyms": ["hurry", "rush", "urgency"],
+      "antonyms": ["deliberation", "slowness"],
+      "memory_tip": "Haste makes waste—slow down.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "nation",
+    "type": "noun",
+    "definition": "A large group of people living in one country under one government.",
+    "pronunciation": { "us": "NAY-shun", "uk": "NAY-shun" },
+    "examples": [
+      "The nation voted on a new law.",
+      "Nations meet to discuss climate goals."
+    ],
+    "extra": {
+      "synonyms": ["country", "state", "people"],
+      "antonyms": ["statelessness (contrast)", "colony (contrast)"],
+      "memory_tip": "Nation = one people under one flag.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "scatter",
+    "type": "verb,noun",
+    "definition": "To throw or spread things widely in different directions; the spread itself.",
+    "pronunciation": { "us": "SKAT-er", "uk": "SKAT-uh" },
+    "examples": [
+      "The wind scattered the leaves. (verb)",
+      "We analysed the scatter of the data points. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["strew", "disperse", "spread"],
+      "antonyms": ["gather", "collect"],
+      "memory_tip": "Scatter = send things ‘out and about’.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["scatter", "scattered", "scattering"]
+    }
+  },
+  {
+    "word": "surrender",
+    "type": "verb,noun",
+    "definition": "To give up control or stop resisting; the act of giving up.",
+    "pronunciation": { "us": "sur-REN-der", "uk": "suh-REN-duh" },
+    "examples": [
+      "The army surrendered after a long siege. (verb)",
+      "The surrender was signed at noon. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["yield", "give up", "submit"],
+      "antonyms": ["resist", "fight", "withstand"],
+      "memory_tip": "Surrender = send it over to the other side.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["surrender", "surrendered", "surrendering"]
+    }
+  },
+  {
+    "word": "thrill",
+    "type": "noun,verb",
+    "definition": "A sudden strong feeling of excitement; to excite greatly.",
+    "pronunciation": { "us": "thrill", "uk": "thrill" },
+    "examples": [
+      "Riding the rollercoaster was a thrill. (noun)",
+      "The announcement thrilled the crowd. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["excitement", "rush", "exhilarate (verb)"],
+      "antonyms": ["boredom", "dull", "disappoint"],
+      "memory_tip": "Thrill = a tingling surge of joy.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["thrill", "thrilled", "thrilling"]
+    }
+  }
+]

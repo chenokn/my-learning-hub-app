@@ -1,0 +1,455 @@
+{
+  "title": "Robot Helper",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Science Fiction",
+  "vocabulary": [
+    "robot",
+    "rule",
+    "safe",
+    "help",
+    "button",
+    "charge",
+    "task",
+    "voice",
+    "tidy",
+    "learn"
+  ],
+  "images": [
+    "/stem-hub/language/robothelper.1.png",
+    "/stem-hub/language/robothelper.2.png",
+    "/stem-hub/language/robothelper.3.png",
+    "/stem-hub/language/robothelper.4.png"
+  ],
+  "passage": [
+    "A home robot called Mopp beeps hello. A card on its chest shows three rules: be kind, be safe, help. |“Ready to help,” says Mopp.",
+    "In the morning, Sam presses the blue button. Mopp says, “Ready!” It sets the table and carries cups carefully. A splash of water drops on the floor. Mopp stops. |“Safe rule—ask for a towel,” it says.",
+    "After lunch, a red light blinks. |“Low power,” says Mopp. It rolls to the dock to charge. While charging, it practises a soft voice. |“Indoor voice,” it says, reading the rule card.",
+    "In the evening, toys cover the floor. The family and Mopp tidy together. Mopp learns a new task list: “Pick up, sort, put away.” |“Rules help robots and kids,” says Mum."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the robot’s name?",
+      "answer": "Mopp",
+      "options": [
+        "Mopp",
+        "Dot",
+        "Zed",
+        "Pip"
+      ],
+      "keys": [
+        "robot"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What shows Mopp’s three rules?",
+      "answer": "A card on its chest",
+      "options": [
+        "A card on its chest",
+        "A note on the door",
+        "A sticker on the table",
+        "A label on the dock"
+      ],
+      "keys": [
+        "rule"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which is one of Mopp’s rules?",
+      "answer": "Be safe",
+      "options": [
+        "Be safe",
+        "Be loud",
+        "Run fast",
+        "Hide things"
+      ],
+      "keys": [
+        "safe",
+        "rule"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What colour button does Sam press?",
+      "answer": "Blue",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "keys": [
+        "button"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does Mopp do when water spills?",
+      "answer": "Stops and asks for a towel",
+      "options": [
+        "Stops and asks for a towel",
+        "Drives through the water",
+        "Turns off the lights",
+        "Goes outside"
+      ],
+      "keys": [
+        "safe",
+        "help"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Why does Mopp go to the dock?",
+      "answer": "To charge its battery",
+      "options": [
+        "To charge its battery",
+        "To have a nap",
+        "To get a new rule",
+        "To read a book"
+      ],
+      "keys": [
+        "charge"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What kind of voice does Mopp practise?",
+      "answer": "A soft indoor voice",
+      "options": [
+        "A soft indoor voice",
+        "A shouting voice",
+        "A singing voice",
+        "A whispering whistle"
+      ],
+      "keys": [
+        "voice"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What do the family and Mopp tidy?",
+      "answer": "Toys on the floor",
+      "options": [
+        "Toys on the floor",
+        "Leaves in the garden",
+        "Books at the library",
+        "Shells at the beach"
+      ],
+      "keys": [
+        "tidy"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How many steps are in Mopp’s new task list?",
+      "answer": "Three",
+      "options": [
+        "Three",
+        "One",
+        "Two",
+        "Four"
+      ],
+      "keys": [
+        "task",
+        "learn"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is the main idea of the story?",
+      "answer": "Rules help robots and kids stay safe and helpful",
+      "options": [
+        "Rules help robots and kids stay safe and helpful",
+        "Robots should always be loud",
+        "Charging is not important",
+        "Toys should stay on the floor"
+      ],
+      "keys": [
+        "rule",
+        "safe",
+        "help"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "robot",
+      "type": "noun",
+      "definition": "A machine that can do tasks by itself or when programmed.",
+      "pronunciation": {
+        "us": "ˈroʊ.bɑːt",
+        "uk": "ˈrəʊ.bɒt"
+      },
+      "examples": [
+        "A home robot helps the family.",
+        "The robot shines a light."
+      ],
+      "extra": {
+        "synonyms": [
+          "bot",
+          "android"
+        ],
+        "antonyms": [
+          "human (contrast)"
+        ],
+        "memory_tip": "Robot = helper machine.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "rule",
+      "type": "noun,verb",
+      "definition": "A guide that tells you what to do; to control or decide.",
+      "pronunciation": {
+        "us": "ruːl",
+        "uk": "ruːl"
+      },
+      "examples": [
+        "The card shows three rules. (noun)",
+        "We rule out unsafe choices. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "law",
+          "guide"
+        ],
+        "antonyms": [
+          "chaos"
+        ],
+        "memory_tip": "Rule = safe guide to follow.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "rule",
+          "ruled",
+          "ruling"
+        ]
+      }
+    },
+    {
+      "word": "safe",
+      "type": "adjective",
+      "definition": "Not in danger; protected.",
+      "pronunciation": {
+        "us": "seɪf",
+        "uk": "seɪf"
+      },
+      "examples": [
+        "Be safe near water.",
+        "A helmet keeps you safe."
+      ],
+      "extra": {
+        "synonyms": [
+          "secure",
+          "OK"
+        ],
+        "antonyms": [
+          "dangerous",
+          "risky"
+        ],
+        "memory_tip": "Safe = out of harm’s way.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "help",
+      "type": "verb,noun",
+      "definition": "To make it easier for someone; useful action given to someone.",
+      "pronunciation": {
+        "us": "hɛlp",
+        "uk": "help"
+      },
+      "examples": [
+        "Please help me carry cups. (verb)",
+        "Thanks for the help! (noun)"
+      ],
+      "extra": {
+        "synonyms": [
+          "assist",
+          "aid"
+        ],
+        "antonyms": [
+          "harm",
+          "ignore"
+        ],
+        "memory_tip": "Help = make a job easier.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "help",
+          "helped",
+          "helping"
+        ]
+      }
+    },
+    {
+      "word": "button",
+      "type": "noun",
+      "definition": "A small switch that you press to make something work.",
+      "pronunciation": {
+        "us": "ˈbʌt.ən",
+        "uk": "ˈbʌt.ən"
+      },
+      "examples": [
+        "Press the blue button to start.",
+        "The button turns on the light."
+      ],
+      "extra": {
+        "synonyms": [
+          "switch"
+        ],
+        "antonyms": [
+          "lever (contrast)"
+        ],
+        "memory_tip": "Button = press to begin.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "charge",
+      "type": "verb,noun",
+      "definition": "To fill a battery with power; the amount of power a battery has.",
+      "pronunciation": {
+        "us": "tʃɑːrdʒ",
+        "uk": "tʃɑːdʒ"
+      },
+      "examples": [
+        "The robot goes to charge. (verb)",
+        "The battery has a full charge. (noun)"
+      ],
+      "extra": {
+        "synonyms": [
+          "power up"
+        ],
+        "antonyms": [
+          "drain"
+        ],
+        "memory_tip": "Charge = give power.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "charge",
+          "charged",
+          "charging"
+        ]
+      }
+    },
+    {
+      "word": "task",
+      "type": "noun",
+      "definition": "A job that you need to do.",
+      "pronunciation": {
+        "us": "tæsk",
+        "uk": "tɑːsk"
+      },
+      "examples": [
+        "Setting the table is a task.",
+        "We finish one task at a time."
+      ],
+      "extra": {
+        "synonyms": [
+          "job",
+          "duty"
+        ],
+        "antonyms": [
+          "play (contrast)"
+        ],
+        "memory_tip": "Task = job to tick off.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "voice",
+      "type": "noun",
+      "definition": "The sound you make when you speak.",
+      "pronunciation": {
+        "us": "vɔɪs",
+        "uk": "vɔɪs"
+      },
+      "examples": [
+        "Use an indoor voice.",
+        "Her voice is calm."
+      ],
+      "extra": {
+        "synonyms": [
+          "speech"
+        ],
+        "antonyms": [
+          "silence"
+        ],
+        "memory_tip": "Voice = your sound.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "tidy",
+      "type": "verb,adjective",
+      "definition": "To make things neat; neat and in order.",
+      "pronunciation": {
+        "us": "ˈtaɪ.di",
+        "uk": "ˈtaɪ.di"
+      },
+      "examples": [
+        "Let’s tidy the toys. (verb)",
+        "The room is tidy. (adjective)"
+      ],
+      "extra": {
+        "synonyms": [
+          "clean up",
+          "neat"
+        ],
+        "antonyms": [
+          "messy",
+          "untidy"
+        ],
+        "memory_tip": "Tidy = put things back.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "tidy",
+          "tidied",
+          "tidying"
+        ]
+      }
+    },
+    {
+      "word": "learn",
+      "type": "verb",
+      "definition": "To get new knowledge or skills.",
+      "pronunciation": {
+        "us": "lɝːn",
+        "uk": "lɜːn"
+      },
+      "examples": [
+        "Robots can learn new tasks.",
+        "We learn by practising."
+      ],
+      "extra": {
+        "synonyms": [
+          "study",
+          "pick up"
+        ],
+        "antonyms": [
+          "forget"
+        ],
+        "memory_tip": "Learn = grow your brain.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "learn",
+          "learned",
+          "learning"
+        ]
+      }
+    }
+  ]
+}

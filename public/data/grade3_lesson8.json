@@ -1,0 +1,177 @@
+[
+  {
+    "word": "contain",
+    "type": "verb",
+    "definition": "To hold or have inside; to include.",
+    "pronunciation": { "us": "kun-TAYN", "uk": "kun-TAYN" },
+    "examples": [
+      "This bottle contains one litre of water.",
+      "Many stories contain a lesson."
+    ],
+    "extra": {
+      "synonyms": ["hold", "include", "carry"],
+      "antonyms": ["release", "exclude", "spill"],
+      "memory_tip": "ConTAIN = what a conTAINER holds.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["contain", "contained", "containing"]
+    }
+  },
+  {
+    "word": "digest",
+    "type": "verb,noun",
+    "definition": "To break down food or understand information; a short collection or summary of information.",
+    "pronunciation": { "us": "dy-JEST (verb), DYE-jest (noun)", "uk": "dy-JEST (verb), DYE-jest (noun)" },
+    "examples": [
+      "Your body digests food after you eat. (verb)",
+      "We read a weekly news digest. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["break down", "absorb", "summary (noun)"],
+      "antonyms": ["vomit (contrast)", "expand (contrast)"],
+      "memory_tip": "Di-gest = ‘get’ information or food inside properly.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["digest", "digested", "digesting"]
+    }
+  },
+  {
+    "word": "finicky",
+    "type": "adjective",
+    "definition": "Hard to please; fussy about small details.",
+    "pronunciation": { "us": "FIN-ih-kee", "uk": "FIN-ih-kee" },
+    "examples": [
+      "The cat is finicky about its food.",
+      "He’s finicky when choosing colours."
+    ],
+    "extra": {
+      "synonyms": ["fussy", "particular", "picky"],
+      "antonyms": ["easy-going", "undemanding"],
+      "memory_tip": "Finicky = fussy about fine details.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "habit",
+    "type": "noun",
+    "definition": "Something you do often, usually without thinking.",
+    "pronunciation": { "us": "HAB-it", "uk": "HAB-it" },
+    "examples": [
+      "Brushing your teeth at night is a good habit.",
+      "He has a habit of tapping his pencil."
+    ],
+    "extra": {
+      "synonyms": ["routine", "custom", "practice"],
+      "antonyms": ["one-off", "break (of a habit)"],
+      "memory_tip": "Habit = what you ‘have it’ in your routine.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "hinge",
+    "type": "noun,verb",
+    "definition": "A joint that lets a door or lid open and close; to depend on something.",
+    "pronunciation": { "us": "hinj", "uk": "hinj" },
+    "examples": [
+      "The gate swings on a metal hinge. (noun)",
+      "Our plan hinges on the weather. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["pivot", "joint", "depend (verb)"],
+      "antonyms": ["separate", "unrelated (contrast)"],
+      "memory_tip": "Hinge = the part everything ‘hangs’ on.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["hinge", "hinged", "hinging"]
+    }
+  },
+  {
+    "word": "marsh",
+    "type": "noun",
+    "definition": "Soft, wet land with grasses and shallow water.",
+    "pronunciation": { "us": "marsh", "uk": "mahsh" },
+    "examples": [
+      "We saw ducks nesting in the marsh.",
+      "Marsh plants grow in soggy soil."
+    ],
+    "extra": {
+      "synonyms": ["wetland", "bog", "swamp"],
+      "antonyms": ["desert", "upland"],
+      "memory_tip": "Marsh = muddy, marshy ground.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "nursery",
+    "type": "noun",
+    "definition": "A room or place for caring for babies or young children; a place where young plants are grown.",
+    "pronunciation": { "us": "NER-suh-ree", "uk": "NER-suh-ree" },
+    "examples": [
+      "The nursery has story time every morning.",
+      "We bought tomato seedlings from the plant nursery."
+    ],
+    "extra": {
+      "synonyms": ["daycare", "pre-school", "plant bed"],
+      "antonyms": ["wild (contrast)", "home (contrast)"],
+      "memory_tip": "Nursery = where the ‘new’ are nursed.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "rely",
+    "type": "verb",
+    "definition": "To depend on someone or something with confidence.",
+    "pronunciation": { "us": "ri-LYE", "uk": "ri-LYE" },
+    "examples": [
+      "You can rely on Sam to be on time.",
+      "Plants rely on sunlight to grow."
+    ],
+    "extra": {
+      "synonyms": ["depend", "trust", "count on"],
+      "antonyms": ["doubt", "mistrust"],
+      "memory_tip": "ReLY = lean on; you ‘lie’ your weight on it.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["rely", "relied", "relying"]
+    }
+  },
+  {
+    "word": "spine",
+    "type": "noun",
+    "definition": "The backbone in your body; the narrow back edge of a book; a sharp, pointed part on a plant or animal.",
+    "pronunciation": { "us": "spyn", "uk": "spyn" },
+    "examples": [
+      "The spine protects the spinal cord.",
+      "The book’s title is printed on the spine."
+    ],
+    "extra": {
+      "synonyms": ["backbone", "vertebral column", "thorn"],
+      "antonyms": ["soft tissue (contrast)"],
+      "memory_tip": "Spine = the line that supports your shape.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "thrive",
+    "type": "verb",
+    "definition": "To grow well and be healthy; to do very well.",
+    "pronunciation": { "us": "thryv", "uk": "thryv" },
+    "examples": [
+      "Cacti thrive in dry, sunny places.",
+      "With practice, her confidence thrived."
+    ],
+    "extra": {
+      "synonyms": ["flourish", "prosper", "grow"],
+      "antonyms": ["wither", "decline", "struggle"],
+      "memory_tip": "Thrive = drive forward with life.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["thrive", "thrived", "thriving"]
+    }
+  }
+]

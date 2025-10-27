@@ -1,0 +1,403 @@
+[
+  {
+    "word": "accurate",
+    "type": "adjective",
+    "definition": "Correct and free from errors; exact.",
+    "pronunciation": {
+      "uk": "/ˈækjʊrət/"
+    },
+    "examples": [
+      "The map is accurate to within a metre.",
+      "Please check the figures are accurate."
+    ],
+    "extra": {
+      "synonyms": [
+        "precise",
+        "exact",
+        "correct"
+      ],
+      "antonyms": [
+        "inaccurate",
+        "wrong"
+      ],
+      "memory_tip": "Accurate = aims true and hits the mark.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "approximate",
+    "type": "adj.,verb",
+    "definition": "Nearly correct or exact; to come close to or estimate a value.",
+    "pronunciation": {
+      "uk": "/əˈprɒksɪmət/ (adj), /əˈprɒksɪmeɪt/ (verb)"
+    },
+    "examples": [
+      "The approximate cost is £50. (adjective)",
+      "Can you approximate the distance? (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "rough",
+        "near",
+        "estimate"
+      ],
+      "antonyms": [
+        "exact",
+        "pinpoint"
+      ],
+      "memory_tip": "Approximate = close enough but not exact.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "approximate",
+        "approximated",
+        "approximating"
+      ]
+    }
+  },
+  {
+    "word": "course",
+    "type": "noun,verb",
+    "definition": "A route or direction; a series of lessons; a dish served as part of a meal; to move quickly or flow.",
+    "pronunciation": {
+      "uk": "/kɔːs/"
+    },
+    "examples": [
+      "The pilot changed course to avoid the storm. (noun)",
+      "Tears coursed down his cheeks. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "route",
+        "class",
+        "flow"
+      ],
+      "antonyms": [
+        "halt",
+        "stillness"
+      ],
+      "memory_tip": "Course = path you follow or lessons you take.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "course",
+        "coursed",
+        "coursing"
+      ]
+    }
+  },
+  {
+    "word": "depart",
+    "type": "verb",
+    "definition": "To leave, especially to start a journey.",
+    "pronunciation": {
+      "uk": "/dɪˈpɑːt/"
+    },
+    "examples": [
+      "The train departs at 09:12.",
+      "They departed for Paris at dawn."
+    ],
+    "extra": {
+      "synonyms": [
+        "leave",
+        "set off",
+        "go"
+      ],
+      "antonyms": [
+        "arrive",
+        "remain"
+      ],
+      "memory_tip": "Depart = part from a place.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "depart",
+        "departed",
+        "departing"
+      ]
+    }
+  },
+  {
+    "word": "despair",
+    "type": "noun,verb",
+    "definition": "A complete loss of hope; to lose all hope.",
+    "pronunciation": {
+      "uk": "/dɪˈspeə/"
+    },
+    "examples": [
+      "She sank into despair after the news. (noun)",
+      "Do not despair; help is coming. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "hopelessness",
+        "despondency",
+        "give up"
+      ],
+      "antonyms": [
+        "hope",
+        "optimism"
+      ],
+      "memory_tip": "Despair = when hope seems to disappear.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "despair",
+        "despaired",
+        "despairing"
+      ]
+    }
+  },
+  {
+    "word": "destination",
+    "type": "noun",
+    "definition": "The place to which someone or something is going.",
+    "pronunciation": {
+      "uk": "/ˌdɛstɪˈneɪʃən/"
+    },
+    "examples": [
+      "Our destination is Sydney.",
+      "The parcel reached its destination."
+    ],
+    "extra": {
+      "synonyms": [
+        "goal",
+        "end",
+        "terminus"
+      ],
+      "antonyms": [
+        "origin",
+        "departure point"
+      ],
+      "memory_tip": "Destination = where the journey ends.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "deteriorate",
+    "type": "verb",
+    "definition": "To become worse in quality, condition or value.",
+    "pronunciation": {
+      "uk": "/dɪˈtɪəriəreɪt/"
+    },
+    "examples": [
+      "The road surface has deteriorated.",
+      "Relations deteriorated after the dispute."
+    ],
+    "extra": {
+      "synonyms": [
+        "worsen",
+        "decline",
+        "degenerate"
+      ],
+      "antonyms": [
+        "improve",
+        "strengthen"
+      ],
+      "memory_tip": "Deteriorate = wear down or go downhill.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "deteriorate",
+        "deteriorated",
+        "deteriorating"
+      ]
+    }
+  },
+  {
+    "word": "gale",
+    "type": "noun",
+    "definition": "A very strong wind, stronger than a breeze.",
+    "pronunciation": {
+      "uk": "/ɡeɪl/"
+    },
+    "examples": [
+      "Gales battered the coastline.",
+      "We could hardly walk in the gale."
+    ],
+    "extra": {
+      "synonyms": [
+        "storm wind",
+        "blast"
+      ],
+      "antonyms": [
+        "calm",
+        "stillness"
+      ],
+      "memory_tip": "Gale = wind that howls and pushes hard.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "horizon",
+    "type": "noun",
+    "definition": "The line where the Earth or sea seems to meet the sky.",
+    "pronunciation": {
+      "uk": "/həˈraɪzən/"
+    },
+    "examples": [
+      "The sun dipped below the horizon.",
+      "Ships appeared on the horizon."
+    ],
+    "extra": {
+      "synonyms": [
+        "skyline",
+        "vista edge"
+      ],
+      "antonyms": [
+        "zenith (contrast)"
+      ],
+      "memory_tip": "Horizon = far-away line between land/sea and sky.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "jubilation",
+    "type": "noun",
+    "definition": "Great joy and celebration.",
+    "pronunciation": {
+      "uk": "/ˌdʒuːbɪˈleɪʃən/"
+    },
+    "examples": [
+      "There was jubilation after the victory.",
+      "Crowds cheered in jubilation."
+    ],
+    "extra": {
+      "synonyms": [
+        "elation",
+        "rejoicing",
+        "exultation"
+      ],
+      "antonyms": [
+        "misery",
+        "sorrow"
+      ],
+      "memory_tip": "Jubilation = joy that bursts into celebration.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "navigate",
+    "type": "verb",
+    "definition": "To plan and follow a route, especially by using maps or instruments.",
+    "pronunciation": {
+      "uk": "/ˈnævɪɡeɪt/"
+    },
+    "examples": [
+      "They navigated by the stars.",
+      "Use the satnav to navigate the city centre."
+    ],
+    "extra": {
+      "synonyms": [
+        "steer",
+        "pilot",
+        "direct"
+      ],
+      "antonyms": [
+        "wander",
+        "drift"
+      ],
+      "memory_tip": "Navigate = find the way from A to B.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "navigate",
+        "navigated",
+        "navigating"
+      ]
+    }
+  },
+  {
+    "word": "nostalgia",
+    "type": "noun",
+    "definition": "A sentimental longing for the past, often for a happy time or place.",
+    "pronunciation": {
+      "uk": "/nɒˈstældʒə/"
+    },
+    "examples": [
+      "Old songs filled him with nostalgia.",
+      "She spoke with nostalgia about her childhood."
+    ],
+    "extra": {
+      "synonyms": [
+        "homesickness",
+        "yearning",
+        "reminiscence"
+      ],
+      "antonyms": [
+        "indifference",
+        "present-focus"
+      ],
+      "memory_tip": "Nostalgia = warm glow for yesterday.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "revive",
+    "type": "verb",
+    "definition": "To bring back to life, consciousness, or an improved condition.",
+    "pronunciation": {
+      "uk": "/rɪˈvaɪv/"
+    },
+    "examples": [
+      "Fresh air revived the fainted runner.",
+      "The festival revived the town’s economy."
+    ],
+    "extra": {
+      "synonyms": [
+        "resuscitate",
+        "renew",
+        "restore"
+      ],
+      "antonyms": [
+        "wither",
+        "extinguish"
+      ],
+      "memory_tip": "Revive = breathe life back in.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "revive",
+        "revived",
+        "reviving"
+      ]
+    }
+  },
+  {
+    "word": "sever",
+    "type": "verb",
+    "definition": "To cut off or break apart, especially by cutting.",
+    "pronunciation": {
+      "uk": "/ˈsɛvə/"
+    },
+    "examples": [
+      "They severed the rope with a knife.",
+      "The firm decided to sever ties with the supplier."
+    ],
+    "extra": {
+      "synonyms": [
+        "cut",
+        "divide",
+        "break off"
+      ],
+      "antonyms": [
+        "join",
+        "connect"
+      ],
+      "memory_tip": "Sever = separate sharply and completely.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "sever",
+        "severed",
+        "severing"
+      ]
+    }
+  }
+]

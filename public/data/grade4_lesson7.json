@@ -1,0 +1,268 @@
+[
+  {
+    "word": "alter",
+    "type": "verb",
+    "definition": "To change something slightly; to make different without turning it into something else.",
+    "pronunciation": { "us": "AWL-ter", "uk": "AWL-tuh" },
+    "examples": [
+      "We altered the plan after the weather report.",
+      "She will alter the trousers to fit better."
+    ],
+    "extra": {
+      "synonyms": ["change", "modify", "adjust"],
+      "antonyms": ["keep", "maintain", "preserve"],
+      "memory_tip": "Alter = a little change at the ‘altar’.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["alter", "altered", "altering"]
+    }
+  },
+  {
+    "word": "confuse",
+    "type": "verb",
+    "definition": "To make someone unable to think clearly; to mix things up.",
+    "pronunciation": { "us": "kun-FYOOZ", "uk": "kun-FYOOZ" },
+    "examples": [
+      "The tricky question confused many students.",
+      "Don’t confuse salt with sugar."
+    ],
+    "extra": {
+      "synonyms": ["puzzle", "bewilder", "mix up"],
+      "antonyms": ["clarify", "explain", "sort"],
+      "memory_tip": "Con-fuse = fuse things together so they’re unclear.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["confuse", "confused", "confusing"]
+    }
+  },
+  {
+    "word": "distribute",
+    "type": "verb",
+    "definition": "To give or deliver to many people or places; to spread out.",
+    "pronunciation": { "us": "di-STRIB-yoot", "uk": "dis-TRIB-yoot" },
+    "examples": [
+      "Please distribute the worksheets to each table.",
+      "Wind distributes seeds across the field."
+    ],
+    "extra": {
+      "synonyms": ["hand out", "deliver", "spread"],
+      "antonyms": ["collect", "gather", "withhold"],
+      "memory_tip": "Distribute = make things ‘tribe-wide’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["distribute", "distributed", "distributing"]
+    }
+  },
+  {
+    "word": "eject",
+    "type": "verb",
+    "definition": "To force out or throw out.",
+    "pronunciation": { "us": "ee-JEKT", "uk": "ee-JEKT" },
+    "examples": [
+      "The referee ejected the player from the match.",
+      "Press this button to eject the disc."
+    ],
+    "extra": {
+      "synonyms": ["expel", "throw out", "oust"],
+      "antonyms": ["admit", "include", "insert"],
+      "memory_tip": "Eject = ‘ject’ means throw—throw out.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["eject", "ejected", "ejecting"]
+    }
+  },
+  {
+    "word": "embrace",
+    "type": "verb,noun",
+    "definition": "To hold someone closely in your arms; to gladly accept an idea; an act of holding someone.",
+    "pronunciation": { "us": "em-BRAYS", "uk": "em-BRAYS" },
+    "examples": [
+      "They embraced at the station. (verb)",
+      "Her embrace was warm and kind. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["hug", "welcome", "adopt"],
+      "antonyms": ["reject", "spurn", "push away"],
+      "memory_tip": "Embrace = bring close—people or ideas.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["embrace", "embraced", "embracing"]
+    }
+  },
+  {
+    "word": "equip",
+    "type": "verb",
+    "definition": "To provide with the things needed for a task.",
+    "pronunciation": { "us": "ih-KWIP", "uk": "ih-KWIP" },
+    "examples": [
+      "The lab is equipped with safety goggles.",
+      "We equipped the hikers with maps and water."
+    ],
+    "extra": {
+      "synonyms": ["supply", "provide", "outfit"],
+      "antonyms": ["deprive", "strip", "disarm"],
+      "memory_tip": "Equip = give the kit.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["equip", "equipped", "equipping"]
+    }
+  },
+  {
+    "word": "flexible",
+    "type": "adjective",
+    "definition": "Able to bend or change easily without breaking; willing to change plans.",
+    "pronunciation": { "us": "FLEK-si-bul", "uk": "FLEK-si-buhl" },
+    "examples": [
+      "Rubber is flexible.",
+      "Our timetable is flexible this week."
+    ],
+    "extra": {
+      "synonyms": ["bendable", "adaptable", "pliable"],
+      "antonyms": ["rigid", "stiff", "inflexible"],
+      "memory_tip": "Flexible = flex and bend without breaking.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "instant",
+    "type": "adjective,noun",
+    "definition": "Happening immediately; a very short moment.",
+    "pronunciation": { "us": "IN-stunt", "uk": "IN-stunt" },
+    "examples": [
+      "She got an instant reply. (adjective)",
+      "Wait just an instant, please. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["immediate", "quick", "moment"],
+      "antonyms": ["delayed", "slow", "interval"],
+      "memory_tip": "Instant = in an instant—right now.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "keen",
+    "type": "adjective",
+    "definition": "Very eager or interested; sharp or quick (as in senses or mind).",
+    "pronunciation": { "us": "keen", "uk": "keen" },
+    "examples": [
+      "She is keen to learn coding.",
+      "An owl has keen hearing."
+    ],
+    "extra": {
+      "synonyms": ["eager", "enthusiastic", "sharp"],
+      "antonyms": ["reluctant", "dull", "uninterested"],
+      "memory_tip": "Keen = keen-as to get started.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "limp",
+    "type": "adjective,verb,noun",
+    "definition": "Not firm or strong; to walk with difficulty because of an injury; an uneven walk.",
+    "pronunciation": { "us": "limp", "uk": "limp" },
+    "examples": [
+      "The flowers looked limp without water. (adjective)",
+      "He limped after twisting his ankle. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["floppy", "weak", "hobble (verb)"],
+      "antonyms": ["firm", "sturdy", "stride (verb)"],
+      "memory_tip": "Limp = limp leaves or a limping walk.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["limp", "limped", "limping"]
+    }
+  },
+  {
+    "word": "scurry",
+    "type": "verb,noun",
+    "definition": "To move quickly with short, hurried steps; a quick, confused rush.",
+    "pronunciation": { "us": "SKUR-ee", "uk": "SKU-ree" },
+    "examples": [
+      "Mice scurried across the path. (verb)",
+      "There was a scurry to pack before the rain. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["dash", "scuttle", "hurry"],
+      "antonyms": ["stroll", "amble", "dawdle"],
+      "memory_tip": "Scurry = small, speedy steps.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["scurry", "scurried", "scurrying"]
+    }
+  },
+  {
+    "word": "seize",
+    "type": "verb",
+    "definition": "To take hold of suddenly and firmly; to take by force or legal authority.",
+    "pronunciation": { "us": "seez", "uk": "seez" },
+    "examples": [
+      "She seized the rope before it slipped away.",
+      "Officials seized the smuggled goods."
+    ],
+    "extra": {
+      "synonyms": ["grab", "snatch", "confiscate"],
+      "antonyms": ["release", "let go", "surrender"],
+      "memory_tip": "Seize the moment = grab it fast.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["seize", "seized", "seizing"]
+    }
+  },
+  {
+    "word": "shallow",
+    "type": "adjective,verb",
+    "definition": "Not deep; lacking depth of thought or feeling; to make or become less deep.",
+    "pronunciation": { "us": "SHA-loh", "uk": "SHAL-oh" },
+    "examples": [
+      "The water is shallow near the shore. (adjective)",
+      "The stream shallowed after the dry spell. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["low", "superficial", "shoal (verb)"],
+      "antonyms": ["deep", "profound"],
+      "memory_tip": "Shallow = ‘shallow end’ of the pool.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["shallow (verb)", "shallows", "shallowed", "shallowing"]
+    }
+  },
+  {
+    "word": "surround",
+    "type": "verb,noun",
+    "definition": "To be all around something or someone; the area or things that are around.",
+    "pronunciation": { "us": "suh-ROWND", "uk": "suh-ROWND" },
+    "examples": [
+      "Trees surround the playground. (verb)",
+      "The fireplace had a marble surround. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["enclose", "encircle", "ring"],
+      "antonyms": ["free", "expose (contrast)"],
+      "memory_tip": "Surround = circle it on all sides.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["surround", "surrounded", "surrounding"]
+    }
+  },
+  {
+    "word": "victim",
+    "type": "noun",
+    "definition": "A person who is harmed or suffers because of a crime, accident, or event.",
+    "pronunciation": { "us": "VIK-tim", "uk": "VIK-tim" },
+    "examples": [
+      "The victims of the storm received help.",
+      "A scam can make someone a victim."
+    ],
+    "extra": {
+      "synonyms": ["sufferer", "casualty", "target"],
+      "antonyms": ["perpetrator (contrast)", "beneficiary (contrast)"],
+      "memory_tip": "Victim = the one affected by harm.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

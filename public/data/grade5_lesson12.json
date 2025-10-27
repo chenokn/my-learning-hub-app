@@ -1,0 +1,470 @@
+[
+  {
+    "word": "convalesce",
+    "type": "verb",
+    "definition": "To recover health and strength after an illness or injury.",
+    "pronunciation": {
+      "us": "kon-vuh-LES",
+      "uk": "kon-vuh-LES"
+    },
+    "examples": [
+      "She convalesced at home after the operation.",
+      "Doctors advised him to convalesce for two weeks."
+    ],
+    "extra": {
+      "synonyms": [
+        "recover",
+        "heal",
+        "recuperate"
+      ],
+      "antonyms": [
+        "relapse",
+        "deteriorate"
+      ],
+      "memory_tip": "Convalesce = come back to wellness.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "convalesce",
+        "convalesced",
+        "convalescing"
+      ]
+    }
+  },
+  {
+    "word": "dedicate",
+    "type": "verb",
+    "definition": "To give time, effort, or yourself to a purpose; to officially name something in honour of someone.",
+    "pronunciation": {
+      "us": "DED-ih-kayt",
+      "uk": "DED-ih-kayt"
+    },
+    "examples": [
+      "She dedicated years to her research.",
+      "The library was dedicated to the town’s founders."
+    ],
+    "extra": {
+      "synonyms": [
+        "devote",
+        "commit",
+        "pledge"
+      ],
+      "antonyms": [
+        "neglect",
+        "abandon"
+      ],
+      "memory_tip": "Dedicate = decide + commit.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "dedicate",
+        "dedicated",
+        "dedicating"
+      ]
+    }
+  },
+  {
+    "word": "dictate",
+    "type": "verb,noun",
+    "definition": "To say or order something with authority; a rule or command that must be followed.",
+    "pronunciation": {
+      "us": "DIK-tayt (verb), DIK-tayt (noun)",
+      "uk": "DIK-tayt (verb), DIK-tayt (noun)"
+    },
+    "examples": [
+      "He dictated a letter to his assistant. (verb)",
+      "They followed the dictates of safety. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "command",
+        "order",
+        "decree"
+      ],
+      "antonyms": [
+        "request",
+        "suggestion"
+      ],
+      "memory_tip": "Dictate = speak like a dictator—firmly.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "dictate",
+        "dictated",
+        "dictating"
+      ]
+    }
+  },
+  {
+    "word": "exasperate",
+    "type": "verb",
+    "definition": "To greatly annoy or make someone feel very irritated.",
+    "pronunciation": {
+      "us": "ig-ZAZ-puh-rayt",
+      "uk": "ig-ZAZ-puh-rayt"
+    },
+    "examples": [
+      "The constant noise exasperated the neighbours.",
+      "His careless mistakes exasperate his coach."
+    ],
+    "extra": {
+      "synonyms": [
+        "annoy",
+        "irritate",
+        "infuriate"
+      ],
+      "antonyms": [
+        "soothe",
+        "calm"
+      ],
+      "memory_tip": "Exasperate = ‘ex-as-per-ate’—push someone past patience.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "exasperate",
+        "exasperated",
+        "exasperating"
+      ]
+    }
+  },
+  {
+    "word": "notable",
+    "type": "adjective",
+    "definition": "Worthy of attention or notice; remarkable.",
+    "pronunciation": {
+      "us": "NOH-tuh-buhl",
+      "uk": "NOH-tuh-buhl"
+    },
+    "examples": [
+      "A notable improvement was seen in scores.",
+      "She made a notable contribution to the team."
+    ],
+    "extra": {
+      "synonyms": [
+        "remarkable",
+        "noteworthy",
+        "significant"
+      ],
+      "antonyms": [
+        "ordinary",
+        "unremarkable"
+      ],
+      "memory_tip": "Notable = notable enough for notes.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "overdue",
+    "type": "adjective",
+    "definition": "Not done or paid by the expected time; late.",
+    "pronunciation": {
+      "us": "oh-ver-DOO",
+      "uk": "oh-vuh-DOO"
+    },
+    "examples": [
+      "Your library book is overdue.",
+      "The meeting was long overdue."
+    ],
+    "extra": {
+      "synonyms": [
+        "late",
+        "behind",
+        "tardy"
+      ],
+      "antonyms": [
+        "early",
+        "on-time"
+      ],
+      "memory_tip": "Overdue = the due date is over.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "overthrow",
+    "type": "verb,noun",
+    "definition": "To remove a leader or government by force; the act of removing a leader or system.",
+    "pronunciation": {
+      "us": "oh-ver-THROH",
+      "uk": "oh-vuh-THROH"
+    },
+    "examples": [
+      "The rebels tried to overthrow the dictator. (verb)",
+      "The overthrow happened without violence. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "topple",
+        "depose",
+        "oust"
+      ],
+      "antonyms": [
+        "install",
+        "enthrone"
+      ],
+      "memory_tip": "Overthrow = throw power over and out.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "overthrow",
+        "overthrew",
+        "overthrown",
+        "overthrowing"
+      ]
+    }
+  },
+  {
+    "word": "penetrate",
+    "type": "verb",
+    "definition": "To go into or through something; to understand something deeply.",
+    "pronunciation": {
+      "us": "PEN-uh-trayt",
+      "uk": "PEN-uh-trayt"
+    },
+    "examples": [
+      "Light barely penetrated the dense forest.",
+      "It took time to penetrate the meaning of the poem."
+    ],
+    "extra": {
+      "synonyms": [
+        "pierce",
+        "enter",
+        "permeate"
+      ],
+      "antonyms": [
+        "block",
+        "resist"
+      ],
+      "memory_tip": "Penetrate = point in and through.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "penetrate",
+        "penetrated",
+        "penetrating"
+      ]
+    }
+  },  
+  {
+    "word": "portrait",
+    "type": "noun",
+    "definition": "A painting, drawing, or photograph of a person, usually showing the face and shoulders.",
+    "pronunciation": { "us": "POR-trit", "uk": "POR-trit" },
+    "examples": [
+      "The artist painted a portrait of her grandmother.",
+      "We saw a famous royal portrait in the museum."
+    ],
+    "extra": {
+      "synonyms": ["likeness", "image", "representation"],
+      "antonyms": ["landscape (contrast)"],
+      "memory_tip": "Portrait = ‘portray’ a person’s face.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "rebel",
+    "type": "noun,verb",
+    "definition": "A person who resists authority or control; to resist or fight against authority.",
+    "pronunciation": {
+      "us": "REH-bel (noun), ri-BEL (verb)",
+      "uk": "REH-bel (noun), ri-BEL (verb)"
+    },
+    "examples": [
+      "The rebels marched through the square. (noun)",
+      "Students rebelled against the new rule. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "resister",
+        "dissenter",
+        "defy"
+      ],
+      "antonyms": [
+        "supporter",
+        "obey"
+      ],
+      "memory_tip": "Rebel = re-believe in your own way.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "rebel",
+        "rebelled",
+        "rebelling"
+      ]
+    }
+  },
+  {
+    "word": "restrict",
+    "type": "verb",
+    "definition": "To limit or control the size, amount, or range of something.",
+    "pronunciation": {
+      "us": "ri-STRIKT",
+      "uk": "ri-STRIKT"
+    },
+    "examples": [
+      "The school restricts phone use during lessons.",
+      "A diet may restrict sugar."
+    ],
+    "extra": {
+      "synonyms": [
+        "limit",
+        "confine",
+        "curb"
+      ],
+      "antonyms": [
+        "allow",
+        "permit",
+        "expand"
+      ],
+      "memory_tip": "Restrict = draw a ring around the rule.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "restrict",
+        "restricted",
+        "restricting"
+      ]
+    }
+  },
+  {
+    "word": "seldom",
+    "type": "adverb",
+    "definition": "Not often; rarely.",
+    "pronunciation": {
+      "us": "SEL-dum",
+      "uk": "SEL-dum"
+    },
+    "examples": [
+      "We seldom eat out on weekdays.",
+      "It seldom snows in this region."
+    ],
+    "extra": {
+      "synonyms": [
+        "rarely",
+        "hardly ever",
+        "infrequently"
+      ],
+      "antonyms": [
+        "often",
+        "frequently"
+      ],
+      "memory_tip": "Seldom = ‘sell-dumb’—you rarely do it.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "stimulate",
+    "type": "verb",
+    "definition": "To encourage something to become more active or develop.",
+    "pronunciation": {
+      "us": "STIM-yuh-layt",
+      "uk": "STIM-yuh-layt"
+    },
+    "examples": [
+      "The game stimulates quick thinking.",
+      "Sunlight stimulates plant growth."
+    ],
+    "extra": {
+      "synonyms": [
+        "encourage",
+        "spark",
+        "energise"
+      ],
+      "antonyms": [
+        "dull",
+        "depress"
+      ],
+      "memory_tip": "Stimulate = stir it up to start.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "stimulate",
+        "stimulated",
+        "stimulating"
+      ]
+    }
+  },
+  {
+    "word": "tempest",
+    "type": "noun",
+    "definition": "A violent and windy storm; a situation of great anger or excitement.",
+    "pronunciation": {
+      "us": "TEM-pest",
+      "uk": "TEM-pest"
+    },
+    "examples": [
+      "Sailors feared the approaching tempest.",
+      "The decision caused a political tempest."
+    ],
+    "extra": {
+      "synonyms": [
+        "storm",
+        "uproar",
+        "turmoil"
+      ],
+      "antonyms": [
+        "calm",
+        "peace"
+      ],
+      "memory_tip": "Tempest = temper of the sky.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "upbringing",
+    "type": "noun",
+    "definition": "The care and training a child gets while growing up.",
+    "pronunciation": {
+      "us": "UP-bring-ing",
+      "uk": "UP-bring-ing"
+    },
+    "examples": [
+      "Her upbringing taught her to be polite.",
+      "Different upbringings shape different values."
+    ],
+    "extra": {
+      "synonyms": [
+        "raising",
+        "rearing",
+        "education"
+      ],
+      "antonyms": [
+        "neglect"
+      ],
+      "memory_tip": "Upbringing = how you’re brought up.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "uproar",
+    "type": "noun",
+    "definition": "Loud noise and confusion; a strong public reaction.",
+    "pronunciation": {
+      "us": "UP-roar",
+      "uk": "UP-raw"
+    },
+    "examples": [
+      "The crowd’s joke caused an uproar of laughter.",
+      "The rule change led to public uproar."
+    ],
+    "extra": {
+      "synonyms": [
+        "commotion",
+        "outcry",
+        "ruckus"
+      ],
+      "antonyms": [
+        "silence",
+        "order"
+      ],
+      "memory_tip": "Uproar = the roar goes up.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

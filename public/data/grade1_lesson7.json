@@ -1,0 +1,297 @@
+[
+  {
+    "word": "cross",
+    "type": "verb,noun",
+    "definition": "To go from one side to the other; a mark or shape of two lines that meet.",
+    "pronunciation": {
+      "us": "/krɔs/",
+      "uk": "/krɒs/"
+    },
+    "examples": [
+      "Look both ways before you cross the street. (verb)",
+      "Draw a cross in the box. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "go over",
+        "traverse",
+        "X"
+      ],
+      "antonyms": [
+        "stay",
+        "circle"
+      ],
+      "memory_tip": "Cross = go across or an X-shape.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "cross",
+        "crossed",
+        "crossing"
+      ]
+    }
+  },
+  {
+    "word": "wagon",
+    "type": "noun",
+    "definition": "A vehicle with four wheels used to carry things or people, often pulled.",
+    "pronunciation": {
+      "us": "/ˈwæɡən/",
+      "uk": "/ˈwæɡən/"
+    },
+    "examples": [
+      "We pulled the wagon full of toys.",
+      "Farmers used a horse and wagon."
+    ],
+    "extra": {
+      "synonyms": [
+        "cart",
+        "carriage"
+      ],
+      "antonyms": [
+        "sleigh (no wheels)",
+        "scooter"
+      ],
+      "memory_tip": "Wagon = four-wheel cart you pull.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "weave",
+    "type": "verb",
+    "definition": "To make cloth or a pattern by crossing threads; to move in and out.",
+    "pronunciation": {
+      "us": "/wiːv/",
+      "uk": "/wiːv/"
+    },
+    "examples": [
+      "Spiders weave webs. (verb)",
+      "She weaved through the crowd. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "braid",
+        "interlace",
+        "twist"
+      ],
+      "antonyms": [
+        "unravel",
+        "straighten"
+      ],
+      "memory_tip": "Weave = over-under, over-under!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "weave",
+        "wove",
+        "weaving"
+      ]
+    }
+  },
+  {
+    "word": "fancy",
+    "type": "adj.,verb",
+    "definition": "Very nice or decorated; to like or want something.",
+    "pronunciation": {
+      "us": "/ˈfænsi/",
+      "uk": "/ˈfænsi/"
+    },
+    "examples": [
+      "She wore a fancy dress. (adjective)",
+      "Do you fancy some ice-cream? (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "flashy",
+        "posh",
+        "desire"
+      ],
+      "antonyms": [
+        "plain",
+        "simple",
+        "dislike"
+      ],
+      "memory_tip": "Fancy = extra special or to wish for.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "fancy",
+        "fancied",
+        "fancying"
+      ]
+    }
+  },
+  {
+    "word": "tame",
+    "type": "adj.,verb",
+    "definition": "Not wild; to make an animal gentle.",
+    "pronunciation": {
+      "us": "/teɪm/",
+      "uk": "/teɪm/"
+    },
+    "examples": [
+      "A rabbit can be tame. (adjective)",
+      "They tamed the horse. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "gentle",
+        "domestic",
+        "train"
+      ],
+      "antonyms": [
+        "wild",
+        "ferocious"
+      ],
+      "memory_tip": "Tame = calm, not wild.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "tame",
+        "tamed",
+        "taming"
+      ]
+    }
+  },
+  {
+    "word": "lively",
+    "type": "adjective",
+    "definition": "Full of energy or activity.",
+    "pronunciation": {
+      "us": "/ˈlaɪvli/",
+      "uk": "/ˈlaɪvli/"
+    },
+    "examples": [
+      "The party was lively and fun.",
+      "A lively puppy ran around the yard."
+    ],
+    "extra": {
+      "synonyms": [
+        "active",
+        "energetic",
+        "bustling"
+      ],
+      "antonyms": [
+        "quiet",
+        "dull"
+      ],
+      "memory_tip": "Lively = full of life!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "chore",
+    "type": "noun",
+    "definition": "A small job you do regularly at home.",
+    "pronunciation": {
+      "us": "/tʃɔr/",
+      "uk": "/tʃɔː/"
+    },
+    "examples": [
+      "Washing dishes is my chore.",
+      "She finished her chores before playing."
+    ],
+    "extra": {
+      "synonyms": [
+        "task",
+        "job",
+        "duty"
+      ],
+      "antonyms": [
+        "play",
+        "rest"
+      ],
+      "memory_tip": "Chore = quick home job.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "pile",
+    "type": "noun,verb",
+    "definition": "A group of things stacked together; to stack things.",
+    "pronunciation": {
+      "us": "/paɪl/",
+      "uk": "/paɪl/"
+    },
+    "examples": [
+      "There is a pile of books. (noun)",
+      "Let’s pile the blocks up high. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "stack",
+        "heap",
+        "mount"
+      ],
+      "antonyms": [
+        "spread",
+        "scatter"
+      ],
+      "memory_tip": "Pile = things stacked up.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "pile",
+        "piled",
+        "piling"
+      ]
+    }
+  },
+  {
+    "word": "ripe",
+    "type": "adjective",
+    "definition": "Ready to eat or use; fully grown.",
+    "pronunciation": {
+      "us": "/raɪp/",
+      "uk": "/raɪp/"
+    },
+    "examples": [
+      "The banana is ripe and sweet.",
+      "We picked ripe tomatoes."
+    ],
+    "extra": {
+      "synonyms": [
+        "ready",
+        "mature",
+        "juicy"
+      ],
+      "antonyms": [
+        "unripe",
+        "green"
+      ],
+      "memory_tip": "Ripe = perfect time to eat!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "hollow",
+    "type": "adj.,noun",
+    "definition": "Empty inside; a hole or space inside something.",
+    "pronunciation": {
+      "us": "/ˈhɑloʊ/",
+      "uk": "/ˈhɒləʊ/"
+    },
+    "examples": [
+      "The tree trunk was hollow. (adjective)",
+      "A small hollow in the ground filled with water. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "empty",
+        "cavity",
+        "void"
+      ],
+      "antonyms": [
+        "solid",
+        "filled"
+      ],
+      "memory_tip": "Hollow = empty middle.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

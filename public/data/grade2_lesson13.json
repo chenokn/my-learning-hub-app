@@ -1,0 +1,268 @@
+[
+  {
+    "word": "algebra",
+    "type": "noun",
+    "definition": "A branch of mathematics in which symbols are used to represent numbers and quantities in formulas and equations.",
+    "pronunciation": {
+      "uk": "/ˈældʒɪbrə/"
+    },
+    "examples": [
+      "In algebra, letters stand for unknown numbers.",
+      "She solved an algebra equation in class."
+    ],
+    "extra": {
+      "synonyms": [
+        "symbolic maths"
+      ],
+      "antonyms": [
+        "arithmetic (contrast)"
+      ],
+      "memory_tip": "Algebra = maths with letters and unknowns.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "canyon",
+    "type": "noun",
+    "definition": "A deep valley with steep rocky sides, often with a river flowing through it.",
+    "pronunciation": {
+      "uk": "/ˈkænjən/"
+    },
+    "examples": [
+      "The Grand Canyon is famous for its size.",
+      "A narrow canyon cut through the desert."
+    ],
+    "extra": {
+      "synonyms": [
+        "gorge",
+        "ravine"
+      ],
+      "antonyms": [
+        "plain",
+        "plateau"
+      ],
+      "memory_tip": "Canyon = giant rocky crack in the land.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "daring",
+    "type": "noun,adjective",
+    "definition": "The quality of being brave and willing to take risks; adventurous or bold.",
+    "pronunciation": {
+      "uk": "/ˈdeərɪŋ/"
+    },
+    "examples": [
+      "The firefighter’s daring saved many lives. (noun)",
+      "She made a daring leap across the gap. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "bravery",
+        "bold",
+        "audacious"
+      ],
+      "antonyms": [
+        "caution",
+        "timid"
+      ],
+      "memory_tip": "Daring = courage to do risky things.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "eyelid",
+    "type": "noun",
+    "definition": "The thin fold of skin that covers and protects the eye.",
+    "pronunciation": {
+      "uk": "/ˈaɪlɪd/"
+    },
+    "examples": [
+      "Her eyelids felt heavy with sleep.",
+      "Eyelids blink to keep eyes moist."
+    ],
+    "extra": {
+      "synonyms": [
+        "lid"
+      ],
+      "antonyms": [
+        "eye (contrast)"
+      ],
+      "memory_tip": "Eyelid = skin curtain for your eye.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fiddle",
+    "type": "noun,verb",
+    "definition": "An informal name for a violin; to play with something restlessly or to play the violin.",
+    "pronunciation": {
+      "uk": "/ˈfɪdəl/"
+    },
+    "examples": [
+      "He played a lively tune on his fiddle. (noun)",
+      "Stop fiddling with your pen. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "violin",
+        "tinker",
+        "twiddle"
+      ],
+      "antonyms": [
+        "still",
+        "ignore"
+      ],
+      "memory_tip": "Fiddle = small violin or restless fingers.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "fiddle",
+        "fiddled",
+        "fiddling"
+      ]
+    }
+  },
+  {
+    "word": "helmet",
+    "type": "noun",
+    "definition": "A hard protective hat worn to protect the head.",
+    "pronunciation": {
+      "uk": "/ˈhelmɪt/"
+    },
+    "examples": [
+      "Cyclists must wear a helmet.",
+      "The soldier’s helmet was dented."
+    ],
+    "extra": {
+      "synonyms": [
+        "hard hat",
+        "headgear"
+      ],
+      "antonyms": [
+        "bare head"
+      ],
+      "memory_tip": "Helmet = safety shell for your head.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "meadow",
+    "type": "noun",
+    "definition": "A field in which grass and wild flowers grow.",
+    "pronunciation": {
+      "uk": "/ˈmɛdəʊ/"
+    },
+    "examples": [
+      "Butterflies danced over the meadow.",
+      "Cows grazed in the green meadow."
+    ],
+    "extra": {
+      "synonyms": [
+        "field",
+        "grassland",
+        "pasture"
+      ],
+      "antonyms": [
+        "forest",
+        "desert"
+      ],
+      "memory_tip": "Meadow = grassy open field full of flowers.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "nugget",
+    "type": "noun",
+    "definition": "A small lump of valuable metal such as gold; a small, tasty piece of food.",
+    "pronunciation": {
+      "uk": "/ˈnʌɡɪt/"
+    },
+    "examples": [
+      "The prospector found a gold nugget.",
+      "She ate a chicken nugget."
+    ],
+    "extra": {
+      "synonyms": [
+        "lump",
+        "chunk",
+        "morsel"
+      ],
+      "antonyms": [
+        "dust",
+        "powder"
+      ],
+      "memory_tip": "Nugget = little lump of goodness or value.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "recess",
+    "type": "noun,verb",
+    "definition": "A break between school lessons; a small hollow space; to set or be set back into something.",
+    "pronunciation": {
+      "uk": "/ˈriːsɛs/"
+    },
+    "examples": [
+      "Playtime begins at morning recess. (noun)",
+      "A statue was recessed into the wall. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "break",
+        "niche",
+        "set back"
+      ],
+      "antonyms": [
+        "lesson",
+        "projection"
+      ],
+      "memory_tip": "Recess = time-out or little hollow spot.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "recess",
+        "recessed",
+        "recessing"
+      ]
+    }
+  },
+  {
+    "word": "thunder",
+    "type": "noun,verb",
+    "definition": "The loud rumbling sound following a lightning flash; to make a loud, deep noise.",
+    "pronunciation": {
+      "uk": "/ˈθʌndə/"
+    },
+    "examples": [
+      "A clap of thunder shook the windows. (noun)",
+      "Horses thundered across the plain. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "rumble",
+        "boom",
+        "roar"
+      ],
+      "antonyms": [
+        "silence",
+        "whisper"
+      ],
+      "memory_tip": "Thunder = sky drum roll or any deep rumble.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "thunder",
+        "thundered",
+        "thundering"
+      ]
+    }
+  }
+]

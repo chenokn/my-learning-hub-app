@@ -1,0 +1,298 @@
+[
+  {
+    "word": "accident",
+    "type": "noun",
+    "definition": "Something bad that happens unexpectedly and causes harm or damage.",
+    "pronunciation": {
+      "us": "/ˈæksɪdənt/",
+      "uk": "/ˈæksɪdənt/"
+    },
+    "examples": [
+      "The car accident blocked the road.",
+      "He spilt the juice by accident."
+    ],
+    "extra": {
+      "synonyms": [
+        "mishap",
+        "crash"
+      ],
+      "antonyms": [
+        "plan",
+        "intention"
+      ],
+      "memory_tip": "Accident = an unplanned ‘oops’.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "acrobat",
+    "type": "noun",
+    "definition": "A person who performs difficult jumps, balances and spins, often in a circus.",
+    "pronunciation": {
+      "us": "/ˈækrəˌbæt/",
+      "uk": "/ˈækrəbæt/"
+    },
+    "examples": [
+      "The acrobat flipped high above the crowd.",
+      "An acrobat must be strong and flexible."
+    ],
+    "extra": {
+      "synonyms": [
+        "gymnast",
+        "performer"
+      ],
+      "antonyms": [
+        "spectator",
+        "audience"
+      ],
+      "memory_tip": "Acrobat = expert at flips and balance.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "alarm",
+    "type": "noun,verb",
+    "definition": "A device or signal that warns of danger; to make someone feel worried or afraid.",
+    "pronunciation": {
+      "us": "/əˈlɑrm/",
+      "uk": "/əˈlɑːm/"
+    },
+    "examples": [
+      "The smoke alarm started beeping. (noun)",
+      "News of the storm alarmed the villagers. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "alert",
+        "warning",
+        "frighten"
+      ],
+      "antonyms": [
+        "calm",
+        "reassure"
+      ],
+      "memory_tip": "Alarm = loud sound or sudden worry.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "alarm",
+        "alarmed",
+        "alarming"
+      ]
+    }
+  },
+  {
+    "word": "bounce",
+    "type": "verb,noun",
+    "definition": "To spring back after hitting a surface; the act of bouncing.",
+    "pronunciation": {
+      "us": "/baʊns/",
+      "uk": "/baʊns/"
+    },
+    "examples": [
+      "The ball bounced off the wall. (verb)",
+      "Give the ball a big bounce. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "rebound",
+        "spring"
+      ],
+      "antonyms": [
+        "stick",
+        "sink"
+      ],
+      "memory_tip": "Bounce = ‘boing’ up again.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "bounce",
+        "bounced",
+        "bouncing"
+      ]
+    }
+  },
+  {
+    "word": "enormous",
+    "type": "adjective",
+    "definition": "Very, very large in size or amount.",
+    "pronunciation": {
+      "us": "/ɪˈnɔrməs/",
+      "uk": "/ɪˈnɔːməs/"
+    },
+    "examples": [
+      "They saw an enormous whale.",
+      "An enormous pile of leaves covered the path."
+    ],
+    "extra": {
+      "synonyms": [
+        "huge",
+        "massive",
+        "gigantic"
+      ],
+      "antonyms": [
+        "tiny",
+        "small"
+      ],
+      "memory_tip": "Enormous = super-sized.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "gap",
+    "type": "noun",
+    "definition": "An empty space or opening between two things.",
+    "pronunciation": {
+      "us": "/ɡæp/",
+      "uk": "/ɡæp/"
+    },
+    "examples": [
+      "Mind the gap between the train and the platform.",
+      "There is a gap in the fence."
+    ],
+    "extra": {
+      "synonyms": [
+        "opening",
+        "hole",
+        "space"
+      ],
+      "antonyms": [
+        "block",
+        "closure"
+      ],
+      "memory_tip": "Gap = little space in between.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "scoop",
+    "type": "noun,verb",
+    "definition": "A tool shaped like a deep spoon; to pick up or move something with a scoop.",
+    "pronunciation": {
+      "us": "/skuːp/",
+      "uk": "/skuːp/"
+    },
+    "examples": [
+      "Use an ice-cream scoop. (noun)",
+      "She scooped sand into the bucket. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "ladle",
+        "shovel",
+        "lift"
+      ],
+      "antonyms": [
+        "spill",
+        "dump"
+      ],
+      "memory_tip": "Scoop = deep spoon and the action.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "scoop",
+        "scooped",
+        "scooping"
+      ]
+    }
+  },
+  {
+    "word": "support",
+    "type": "verb,noun",
+    "definition": "To hold up or help; the help or strength given.",
+    "pronunciation": {
+      "us": "/səˈpɔrt/",
+      "uk": "/səˈpɔːt/"
+    },
+    "examples": [
+      "The pillars support the roof. (verb)",
+      "Friends give emotional support. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "hold",
+        "help",
+        "aid"
+      ],
+      "antonyms": [
+        "oppose",
+        "weaken"
+      ],
+      "memory_tip": "Support = lift up or lend help.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "support",
+        "supported",
+        "supporting"
+      ]
+    }
+  },
+  {
+    "word": "tangle",
+    "type": "noun,verb",
+    "definition": "A twisted mess of things; to twist together into a mess.",
+    "pronunciation": {
+      "us": "/ˈtæŋɡəl/",
+      "uk": "/ˈtæŋɡəl/"
+    },
+    "examples": [
+      "The string is in a tangle. (noun)",
+      "Headphones often tangle in my pocket. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "knot",
+        "snarl",
+        "twist"
+      ],
+      "antonyms": [
+        "untangle",
+        "straighten"
+      ],
+      "memory_tip": "Tangle = muddled knot.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "tangle",
+        "tangled",
+        "tangling"
+      ]
+    }
+  },
+  {
+    "word": "weigh",
+    "type": "verb",
+    "definition": "To find out how heavy something is; to have a certain weight.",
+    "pronunciation": {
+      "us": "/weɪ/",
+      "uk": "/weɪ/"
+    },
+    "examples": [
+      "Please weigh the apples on the scales.",
+      "The parcel weighs two kilograms."
+    ],
+    "extra": {
+      "synonyms": [
+        "measure",
+        "balance",
+        "check weight"
+      ],
+      "antonyms": [
+        "guess"
+      ],
+      "memory_tip": "Weigh = measure heaviness.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "weigh",
+        "weighed",
+        "weighing"
+      ]
+    }
+  }
+]

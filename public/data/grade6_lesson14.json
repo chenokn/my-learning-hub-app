@@ -1,0 +1,265 @@
+[
+  {
+    "word": "benevolent",
+    "type": "adjective",
+    "definition": "Kind and helpful; wanting to do good for others.",
+    "pronunciation": { "us": "beh-NEV-uh-lunt", "uk": "beh-NEV-uh-lunt" },
+    "examples": [
+      "A benevolent neighbour brought soup to the family.",
+      "The benevolent fund supports students in need."
+    ],
+    "extra": {
+      "synonyms": ["kind", "charitable", "compassionate"],
+      "antonyms": ["cruel", "unkind", "malevolent"],
+      "memory_tip": "Benevolent = ‘bene’ (good) + willing to help.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "consent",
+    "type": "noun,verb",
+    "definition": "Permission for something to happen; to give permission or agree.",
+    "pronunciation": { "us": "kun-SENT", "uk": "kun-SENT" },
+    "examples": [
+      "Parents’ consent is required for the trip. (noun)",
+      "She consented to share her notes. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["permission", "approval", "agree (verb)"],
+      "antonyms": ["refusal", "denial", "object (verb)"],
+      "memory_tip": "Consent = you ‘send’ a yes.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["consent", "consented", "consenting"]
+    }
+  },
+  {
+    "word": "discreet",
+    "type": "adjective",
+    "definition": "Careful about what you say or do, to keep something private or to avoid embarrassment.",
+    "pronunciation": { "us": "diss-KREET", "uk": "diss-KREET" },
+    "examples": [
+      "Be discreet when discussing grades.",
+      "A discreet nod signalled it was time to go."
+    ],
+    "extra": {
+      "synonyms": ["careful", "tactful", "prudent"],
+      "antonyms": ["indiscreet", "careless", "blunt"],
+      "memory_tip": "Discreet = keep secrets neat.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "engross",
+    "type": "verb",
+    "definition": "To absorb all the attention or interest of someone.",
+    "pronunciation": { "us": "en-GROHS", "uk": "en-GROHS" },
+    "examples": [
+      "The puzzle engrossed the whole class.",
+      "She was engrossed in her book."
+    ],
+    "extra": {
+      "synonyms": ["absorb", "captivate", "immerse"],
+      "antonyms": ["bore", "distract", "disinterest"],
+      "memory_tip": "Engross = your mind is ‘in gross’—fully taken.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["engross", "engrossed", "engrossing"]
+    }
+  },
+  {
+    "word": "esteem",
+    "type": "noun,verb",
+    "definition": "Respect and admiration; to regard highly.",
+    "pronunciation": { "us": "eh-STEEM", "uk": "eh-STEEM" },
+    "examples": [
+      "She is held in high esteem by her peers. (noun)",
+      "They esteemd the coach for his fairness. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["respect", "regard", "value"],
+      "antonyms": ["disrespect", "contempt", "scorn"],
+      "memory_tip": "Esteem = esteem lifts esteem (value).",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["esteem", "esteemed", "esteeming"]
+    }
+  },
+  {
+    "word": "exaggerate",
+    "type": "verb",
+    "definition": "To make something seem larger, better, or worse than it really is.",
+    "pronunciation": { "us": "ig-ZAJ-uh-rayt", "uk": "ig-ZAJ-uh-rayt" },
+    "examples": [
+      "He exaggerated the size of the fish.",
+      "Try not to exaggerate the problem."
+    ],
+    "extra": {
+      "synonyms": ["overstate", "inflate", "embellish"],
+      "antonyms": ["understate", "downplay", "minimise"],
+      "memory_tip": "Exaggerate = add extra to the facts.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["exaggerate", "exaggerated", "exaggerating"]
+    }
+  },
+  {
+    "word": "extensive",
+    "type": "adjective",
+    "definition": "Large in amount or area; covering a wide range.",
+    "pronunciation": { "us": "ek-STEN-siv", "uk": "ek-STEN-siv" },
+    "examples": [
+      "The library has an extensive collection.",
+      "Floods caused extensive damage."
+    ],
+    "extra": {
+      "synonyms": ["wide", "broad", "comprehensive"],
+      "antonyms": ["limited", "narrow", "restricted"],
+      "memory_tip": "Extensive = extends a lot.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fantastic",
+    "type": "adjective",
+    "definition": "Extremely good; also very imaginative or unrealistic.",
+    "pronunciation": { "us": "fan-TASS-tik", "uk": "fan-TASS-tik" },
+    "examples": [
+      "You did a fantastic job on the poster!",
+      "The film’s creatures were fantastic and strange."
+    ],
+    "extra": {
+      "synonyms": ["excellent", "amazing", "fanciful"],
+      "antonyms": ["poor", "ordinary", "realistic (context)"],
+      "memory_tip": "Fantastic = like fantasy or just fantastic quality.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "intrigue",
+    "type": "verb,noun",
+    "definition": "To arouse curiosity or interest; a secret plan or mysterious affair.",
+    "pronunciation": { "us": "in-TREEG", "uk": "in-TREEG" },
+    "examples": [
+      "The strange footprints intrigued the campers. (verb)",
+      "The novel was full of political intrigue. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["fascinate", "puzzle", "plot (noun)"],
+      "antonyms": ["bore", "clarify", "plainness (contrast)"],
+      "memory_tip": "Intrigue = in + trigger curiosity.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["intrigue", "intrigued", "intriguing"]
+    }
+  },
+  {
+    "word": "marvel",
+    "type": "noun,verb",
+    "definition": "Something that causes wonder; to feel or express wonder.",
+    "pronunciation": { "us": "MAR-vul", "uk": "MAH-vul" },
+    "examples": [
+      "The new bridge is an engineering marvel. (noun)",
+      "We marvelled at the night sky. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["wonder", "miracle", "admire (verb)"],
+      "antonyms": ["commonplace", "disregard (verb)"],
+      "memory_tip": "Marvel = your mouth goes ‘marvellous!’",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["marvel", "marvelled", "marvelling"]
+    }
+  },
+  {
+    "word": "mission",
+    "type": "noun",
+    "definition": "An important task or goal; a journey with a purpose.",
+    "pronunciation": { "us": "MISH-un", "uk": "MISH-un" },
+    "examples": [
+      "The rescue team’s mission was to find survivors.",
+      "Our mission this term is to reduce waste."
+    ],
+    "extra": {
+      "synonyms": ["assignment", "purpose", "quest"],
+      "antonyms": ["aimlessness", "idleness"],
+      "memory_tip": "Mission = what you’re sent to do.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "opportunity",
+    "type": "noun",
+    "definition": "A good chance to do something.",
+    "pronunciation": { "us": "op-er-TOO-nuh-tee", "uk": "op-uh-CHOO-nuh-tee" },
+    "examples": [
+      "This internship is a great opportunity.",
+      "Don’t miss the opportunity to ask questions."
+    ],
+    "extra": {
+      "synonyms": ["chance", "opening", "possibility"],
+      "antonyms": ["setback", "obstacle", "mischance"],
+      "memory_tip": "Opportunity = door opens—step through.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "relinquish",
+    "type": "verb",
+    "definition": "To give up or let go of something, often unwillingly.",
+    "pronunciation": { "us": "ri-LING-kwish", "uk": "ri-LING-kwish" },
+    "examples": [
+      "He relinquished control of the project.",
+      "They reluctantly relinquished their claim."
+    ],
+    "extra": {
+      "synonyms": ["surrender", "yield", "abandon"],
+      "antonyms": ["keep", "retain", "hold"],
+      "memory_tip": "Relinquish = release your link to it.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["relinquish", "relinquished", "relinquishing"]
+    }
+  },
+  {
+    "word": "tyrant",
+    "type": "noun",
+    "definition": "A cruel and oppressive ruler.",
+    "pronunciation": { "us": "TY-runt", "uk": "TY-runt" },
+    "examples": [
+      "The tyrant silenced all critics.",
+      "Stories warn of tyrants who abuse power."
+    ],
+    "extra": {
+      "synonyms": ["dictator", "oppressor", "despot"],
+      "antonyms": ["liberator", "protector", "democrat"],
+      "memory_tip": "Tyrant = tries to rule with terror.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "vanquish",
+    "type": "verb",
+    "definition": "To defeat completely in battle or competition.",
+    "pronunciation": { "us": "VANG-kwish", "uk": "VANG-kwish" },
+    "examples": [
+      "The team vanquished their rivals.",
+      "Legends tell of heroes who vanquish monsters."
+    ],
+    "extra": {
+      "synonyms": ["defeat", "conquer", "overcome"],
+      "antonyms": ["yield", "surrender", "lose"],
+      "memory_tip": "Vanquish = vanish the opposition.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["vanquish", "vanquished", "vanquishing"]
+    }
+  }
+]

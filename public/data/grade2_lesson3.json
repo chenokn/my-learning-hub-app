@@ -1,0 +1,262 @@
+[
+  {
+    "word": "antenna",
+    "type": "noun",
+    "definition": "A long, thin sensory feeler on the head of an insect or crustacean; also, a rod or wire that sends or receives signals.",
+    "pronunciation": {
+      "uk": "/ænˈtenə/"
+    },
+    "examples": [
+      "The moth brushed its antennae together.",
+      "A tall antenna stood on the roof."
+    ],
+    "extra": {
+      "synonyms": [
+        "aerial",
+        "feeler"
+      ],
+      "antonyms": [
+        "none"
+      ],
+      "memory_tip": "Antenna = insect’s feeler or signal stick.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "balance",
+    "type": "verb,noun",
+    "definition": "To stay steady without falling; an even, steady state.",
+    "pronunciation": {
+      "uk": "/ˈbæləns/"
+    },
+    "examples": [
+      "Try to balance on one foot. (verb)",
+      "The gymnast kept perfect balance. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "steady",
+        "poise",
+        "equilibrium"
+      ],
+      "antonyms": [
+        "fall",
+        "imbalance"
+      ],
+      "memory_tip": "Balance = no wobbling.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "balance",
+        "balanced",
+        "balancing"
+      ]
+    }
+  },
+  {
+    "word": "boulder",
+    "type": "noun",
+    "definition": "A very large, round rock.",
+    "pronunciation": {
+      "uk": "/ˈbəʊldə/"
+    },
+    "examples": [
+      "A huge boulder blocked the path.",
+      "Climbers practised on the boulder."
+    ],
+    "extra": {
+      "synonyms": [
+        "rock",
+        "stone"
+      ],
+      "antonyms": [
+        "pebble"
+      ],
+      "memory_tip": "Boulder = rock too big to lift.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "cliff",
+    "type": "noun",
+    "definition": "A high, steep face of rock or earth.",
+    "pronunciation": {
+      "uk": "/klɪf/"
+    },
+    "examples": [
+      "Seagulls nested on the cliff.",
+      "They looked over the edge of the cliff."
+    ],
+    "extra": {
+      "synonyms": [
+        "precipice",
+        "bluff"
+      ],
+      "antonyms": [
+        "valley",
+        "plain"
+      ],
+      "memory_tip": "Cliff = steep drop.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "joint",
+    "type": "noun,adjective",
+    "definition": "A place where two parts of the body, or two pieces, meet and move; shared by two or more.",
+    "pronunciation": {
+      "uk": "/dʒɔɪnt/"
+    },
+    "examples": [
+      "Your knee is a joint. (noun)",
+      "They opened a joint account. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "hinge",
+        "connection",
+        "shared"
+      ],
+      "antonyms": [
+        "separate",
+        "solo"
+      ],
+      "memory_tip": "Joint = body hinge or shared thing.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "machine",
+    "type": "noun",
+    "definition": "A piece of equipment with moving parts that does work when given power.",
+    "pronunciation": {
+      "uk": "/məˈʃiːn/"
+    },
+    "examples": [
+      "The washing machine spins clothes dry.",
+      "A vending machine sells snacks."
+    ],
+    "extra": {
+      "synonyms": [
+        "device",
+        "engine"
+      ],
+      "antonyms": [
+        "hand tool"
+      ],
+      "memory_tip": "Machine = powered helper.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "motor",
+    "type": "noun,adjective",
+    "definition": "A machine that makes something move; relating to movement or engines.",
+    "pronunciation": {
+      "uk": "/ˈməʊtə/"
+    },
+    "examples": [
+      "The motor in the car needs oil. (noun)",
+      "Fine motor skills help you write neatly. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "engine",
+        "drive",
+        "movement"
+      ],
+      "antonyms": [
+        "manual",
+        "still"
+      ],
+      "memory_tip": "Motor = power to move things.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "muscle",
+    "type": "noun",
+    "definition": "Body tissue that can contract to produce movement.",
+    "pronunciation": {
+      "uk": "/ˈmʌsəl/"
+    },
+    "examples": [
+      "Exercise strengthens muscle.",
+      "He flexed his arm muscles."
+    ],
+    "extra": {
+      "synonyms": [
+        "sinew",
+        "brawn"
+      ],
+      "antonyms": [
+        "fat",
+        "weakness"
+      ],
+      "memory_tip": "Muscle = body’s engine for movement.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "planet",
+    "type": "noun",
+    "definition": "A large body in space that moves around a star, such as the Earth.",
+    "pronunciation": {
+      "uk": "/ˈplænɪt/"
+    },
+    "examples": [
+      "Mars is called the red planet.",
+      "Our planet is mostly covered by water."
+    ],
+    "extra": {
+      "synonyms": [
+        "world",
+        "globe"
+      ],
+      "antonyms": [
+        "asteroid (contrast)"
+      ],
+      "memory_tip": "Planet = huge space ball orbiting a star.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "slope",
+    "type": "noun,verb",
+    "definition": "A surface that rises or falls at an angle; to tilt or incline.",
+    "pronunciation": {
+      "uk": "/sləʊp/"
+    },
+    "examples": [
+      "Skiers went down the snowy slope. (noun)",
+      "The path slopes gently upwards. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "incline",
+        "hill",
+        "tilt"
+      ],
+      "antonyms": [
+        "level",
+        "flat"
+      ],
+      "memory_tip": "Slope = slanty ground or action.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "slope",
+        "sloped",
+        "sloping"
+      ]
+    }
+  }
+]

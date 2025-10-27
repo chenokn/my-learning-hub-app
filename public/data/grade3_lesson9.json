@@ -1,0 +1,176 @@
+[
+  {
+    "word": "attitude",
+    "type": "noun",
+    "definition": "A way of thinking or feeling about something that affects behaviour.",
+    "pronunciation": { "us": "AT-uh-tood", "uk": "AT-ih-tyood" },
+    "examples": [
+      "Her positive attitude helped the whole team.",
+      "A careless attitude can lead to mistakes."
+    ],
+    "extra": {
+      "synonyms": ["mindset", "outlook", "stance"],
+      "antonyms": ["indifference (to tone)", "open-mindedness (to stubborn stance)"],
+      "memory_tip": "Attitude = the tune your actions follow.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "confess",
+    "type": "verb",
+    "definition": "To admit that you did something wrong or to tell the truth about something secret.",
+    "pronunciation": { "us": "kun-FESS", "uk": "kun-FESS" },
+    "examples": [
+      "He confessed that he broke the window.",
+      "She finally confessed her worries to a friend."
+    ],
+    "extra": {
+      "synonyms": ["admit", "own up", "acknowledge"],
+      "antonyms": ["deny", "conceal"],
+      "memory_tip": "Confess = come clean and say it.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["confess", "confessed", "confessing"]
+    }
+  },
+  {
+    "word": "defend",
+    "type": "verb",
+    "definition": "To protect from harm or to support in argument.",
+    "pronunciation": { "us": "dih-FEND", "uk": "dih-FEND" },
+    "examples": [
+      "The dog defended its pups.",
+      "She defended her idea during the debate."
+    ],
+    "extra": {
+      "synonyms": ["protect", "guard", "justify"],
+      "antonyms": ["attack", "abandon", "criticise"],
+      "memory_tip": "Defend = put a fence around what you care about.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["defend", "defended", "defending"]
+    }
+  },
+  {
+    "word": "gradual",
+    "type": "adjective",
+    "definition": "Happening slowly or by small steps.",
+    "pronunciation": { "us": "GRAJ-oo-uhl", "uk": "GRAJ-oo-uhl" },
+    "examples": [
+      "There was a gradual rise in temperature.",
+      "Learning is a gradual process."
+    ],
+    "extra": {
+      "synonyms": ["slow", "steady", "progressive"],
+      "antonyms": ["sudden", "rapid"],
+      "memory_tip": "Gradual = change by degrees, not leaps.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "hint",
+    "type": "noun,verb",
+    "definition": "A small piece of information that helps; to suggest something without saying it directly.",
+    "pronunciation": { "us": "hint", "uk": "hint" },
+    "examples": [
+      "The teacher gave a helpful hint. (noun)",
+      "She hinted that a quiz was coming. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["clue", "tip", "suggest"],
+      "antonyms": ["explain fully", "state outright"],
+      "memory_tip": "Hint = a little hint of the answer.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["hint", "hinted", "hinting"]
+    }
+  },
+  {
+    "word": "individual",
+    "type": "noun,adjective",
+    "definition": "A single person or thing; single and separate from others.",
+    "pronunciation": { "us": "in-duh-VIJ-oo-uhl", "uk": "in-duh-VIJ-oo-uhl" },
+    "examples": [
+      "Each individual must sign the form. (noun)",
+      "Students receive individual feedback. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["person", "single", "separate"],
+      "antonyms": ["group", "collective"],
+      "memory_tip": "Individual = in-divide-you-all → one, not many.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "malice",
+    "type": "noun",
+    "definition": "The wish to harm or upset someone; wicked intent.",
+    "pronunciation": { "us": "MAL-iss", "uk": "MAL-iss" },
+    "examples": [
+      "The rumour was spread with malice.",
+      "There was no malice in his mistake."
+    ],
+    "extra": {
+      "synonyms": ["spite", "ill will", "hostility"],
+      "antonyms": ["kindness", "goodwill"],
+      "memory_tip": "Malice = ‘mal’ means bad; bad intent.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "misery",
+    "type": "noun",
+    "definition": "Great unhappiness or suffering.",
+    "pronunciation": { "us": "MIZ-uh-ree", "uk": "MIZ-uh-ree" },
+    "examples": [
+      "The long drought caused misery for farmers.",
+      "He lived in misery after the loss."
+    ],
+    "extra": {
+      "synonyms": ["sorrow", "distress", "wretchedness"],
+      "antonyms": ["joy", "comfort", "happiness"],
+      "memory_tip": "Misery = a miserable feeling that lingers.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "solution",
+    "type": "noun",
+    "definition": "An answer to a problem; a liquid mixture where something is dissolved.",
+    "pronunciation": { "us": "suh-LOO-shun", "uk": "suh-LOO-shun" },
+    "examples": [
+      "We found a solution that helped everyone.",
+      "Salt water is a solution of salt in water."
+    ],
+    "extra": {
+      "synonyms": ["answer", "fix", "remedy"],
+      "antonyms": ["problem", "complication"],
+      "memory_tip": "Solution = solves it—or dissolves it!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "survey",
+    "type": "noun,verb",
+    "definition": "A set of questions to gather information; to look over or to ask questions for information.",
+    "pronunciation": { "us": "sir-VAY (verb), SUR-vay (noun)", "uk": "suh-VAY (verb), SUR-vay (noun)" },
+    "examples": [
+      "We answered a survey about school lunches. (noun)",
+      "Workers surveyed the site before building. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["questionnaire", "study", "inspect"],
+      "antonyms": ["guess", "ignore"],
+      "memory_tip": "Survey = ‘see the whole view’ or ask many for views.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["survey", "surveyed", "surveying"]
+    }
+  }
+]

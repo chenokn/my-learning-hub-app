@@ -1,0 +1,250 @@
+[
+  {
+    "word": "ability",
+    "type": "noun",
+    "definition": "The power, skill, or means to do something.",
+    "pronunciation": { "us": "uh-BIL-i-tee", "uk": "uh-BIL-i-tee" },
+    "examples": [
+      "Her ability in maths improved with practice.",
+      "The test measures reading ability."
+    ],
+    "extra": {
+      "synonyms": ["skill", "capability", "talent"],
+      "antonyms": ["inability", "incapacity"],
+      "memory_tip": "Ability = being ABLE to do it.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "amiable",
+    "type": "adjective",
+    "definition": "Friendly and pleasant in manner.",
+    "pronunciation": { "us": "AY-mee-uh-bul", "uk": "AY-mee-uh-buhl" },
+    "examples": [
+      "The new pupil is very amiable and helpful.",
+      "Her amiable smile put everyone at ease."
+    ],
+    "extra": {
+      "synonyms": ["friendly", "pleasant", "genial"],
+      "antonyms": ["unfriendly", "hostile"],
+      "memory_tip": "Amiable = easy to be ‘ami(able)’ around.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "bliss",
+    "type": "noun",
+    "definition": "Perfect happiness; great joy.",
+    "pronunciation": { "us": "bliss", "uk": "bliss" },
+    "examples": [
+      "A quiet day with a book is bliss.",
+      "They stared at the stars in bliss."
+    ],
+    "extra": {
+      "synonyms": ["joy", "delight", "ecstasy"],
+      "antonyms": ["misery", "sorrow"],
+      "memory_tip": "Bliss = big, lasting happiness.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "caress",
+    "type": "verb,noun",
+    "definition": "To touch or stroke gently with affection; a gentle, loving touch.",
+    "pronunciation": { "us": "kuh-RESS", "uk": "kuh-RESS" },
+    "examples": [
+      "She caressed the puppy’s soft ears. (verb)",
+      "The cat enjoyed a slow caress. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["stroke", "pat", "touch"],
+      "antonyms": ["slap", "strike"],
+      "memory_tip": "Caress = kind, caring touch.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["caress", "caressed", "caressing"]
+    }
+  },
+  {
+    "word": "clutch",
+    "type": "verb,noun",
+    "definition": "To grasp or hold tightly; a tight grasp; a small bag without a strap.",
+    "pronunciation": { "us": "kluch", "uk": "kluch" },
+    "examples": [
+      "He clutched the rail on the stairs. (verb)",
+      "Her clutch on the rope loosened. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["grip", "grasp", "seize"],
+      "antonyms": ["release", "let go"],
+      "memory_tip": "Clutch = close your hand like a claw.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["clutch", "clutched", "clutching"]
+    }
+  },
+  {
+    "word": "coax",
+    "type": "verb",
+    "definition": "To gently persuade someone to do something.",
+    "pronunciation": { "us": "kohks", "uk": "kohks" },
+    "examples": [
+      "We coaxed the kitten out from under the bed.",
+      "She coaxed her friend to try the game."
+    ],
+    "extra": {
+      "synonyms": ["persuade", "cajole", "encourage"],
+      "antonyms": ["deter", "discourage", "repel"],
+      "memory_tip": "Coax = coach with kindness.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["coax", "coaxed", "coaxing"]
+    }
+  },
+  {
+    "word": "furious",
+    "type": "adjective",
+    "definition": "Very angry; moving or happening with great energy or speed.",
+    "pronunciation": { "us": "FYOO-ree-us", "uk": "FYOOR-ee-us" },
+    "examples": [
+      "He was furious about the broken window.",
+      "They made a furious dash for the bus."
+    ],
+    "extra": {
+      "synonyms": ["angry", "enraged", "wild"],
+      "antonyms": ["calm", "peaceful"],
+      "memory_tip": "Furious = feelings on fast fire.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "gesture",
+    "type": "noun,verb",
+    "definition": "A movement of the hands or body to express an idea or feeling; to make such a movement.",
+    "pronunciation": { "us": "JES-chur", "uk": "JES-chuh" },
+    "examples": [
+      "A thumbs-up is a friendly gesture. (noun)",
+      "She gestured towards the empty seat. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["signal", "motion", "indicate (verb)"],
+      "antonyms": ["stillness", "ignore (verb)"],
+      "memory_tip": "Gesture = ‘gest’ (carry) meaning with motion.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["gesture", "gestured", "gesturing"]
+    }
+  },
+  {
+    "word": "mope",
+    "type": "verb,noun",
+    "definition": "To be gloomy and do little; a person who is often gloomy.",
+    "pronunciation": { "us": "mohp", "uk": "mohp" },
+    "examples": [
+      "Don’t mope—join the game! (verb)",
+      "He can be a bit of a mope on rainy days. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["sulk", "brood", "pout"],
+      "antonyms": ["cheer up", "brighten"],
+      "memory_tip": "Mope = move slowly with a moody face.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["mope", "moped", "moping"]
+    }
+  },
+  {
+    "word": "prefer",
+    "type": "verb",
+    "definition": "To like one thing better than another.",
+    "pronunciation": { "us": "pri-FER", "uk": "pri-FER" },
+    "examples": [
+      "I prefer tea to coffee.",
+      "She prefers reading at night."
+    ],
+    "extra": {
+      "synonyms": ["favour", "choose", "like better"],
+      "antonyms": ["dislike", "reject"],
+      "memory_tip": "Prefer = pick your favourite.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["prefer", "preferred", "preferring"]
+    }
+  },
+  {
+    "word": "recover",
+    "type": "verb",
+    "definition": "To get better after illness or trouble; to get something back.",
+    "pronunciation": { "us": "ri-KUV-er", "uk": "ri-KUV-uh" },
+    "examples": [
+      "He recovered quickly from the flu.",
+      "The police recovered the stolen bike."
+    ],
+    "extra": {
+      "synonyms": ["heal", "regain", "retrieve"],
+      "antonyms": ["worsen", "lose"],
+      "memory_tip": "Recover = cover the gap and get back to normal.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["recover", "recovered", "recovering"]
+    }
+  },
+  {
+    "word": "request",
+    "type": "noun,verb",
+    "definition": "A polite or formal ask; to ask politely for something.",
+    "pronunciation": { "us": "ri-KWEST", "uk": "ri-KWEST" },
+    "examples": [
+      "We sent a request for more books. (noun)",
+      "She requested an extension on the task. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["ask", "appeal", "petition"],
+      "antonyms": ["refusal", "deny"],
+      "memory_tip": "Request = a respectful quest for help.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["request", "requested", "requesting"]
+    }
+  },
+  {
+    "word": "separate",
+    "type": "verb,adjective",
+    "definition": "To divide or move apart; not joined or together.",
+    "pronunciation": { "us": "SEP-uh-rayt (verb), SEP-uh-rit (adj)", "uk": "SEP-uh-rayt (verb), SEP-uh-rit (adj)" },
+    "examples": [
+      "Please separate the recycling from the rubbish. (verb)",
+      "They sleep in separate rooms. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["divide", "split", "apart (adj)"],
+      "antonyms": ["join", "connect", "together (adj)"],
+      "memory_tip": "Separate = set apart.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["separate", "separated", "separating"]
+    }
+  },
+  {
+    "word": "shun",
+    "type": "verb",
+    "definition": "To avoid something or someone on purpose.",
+    "pronunciation": { "us": "shuhn", "uk": "shuhn" },
+    "examples": [
+      "Wise hikers shun risky paths in storms.",
+      "He shunned junk food for a month."
+    ],
+    "extra": {
+      "synonyms": ["avoid", "eschew", "sidestep"],
+      "antonyms": ["seek", "welcome", "embrace"],
+      "memory_tip": "Shun = shut it out.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["shun", "shunned", "shunning"]
+    }
+  }
+]

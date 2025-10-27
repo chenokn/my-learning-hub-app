@@ -1,0 +1,285 @@
+[
+  {
+    "word": "bouquet",
+    "type": "noun",
+    "definition": "A carefully arranged bunch of flowers, often given as a gift.",
+    "pronunciation": {
+      "uk": "/buːˈkeɪ/"
+    },
+    "examples": [
+      "She received a bouquet of roses on her birthday.",
+      "The bride held a white bouquet."
+    ],
+    "extra": {
+      "synonyms": [
+        "posy",
+        "flower arrangement"
+      ],
+      "antonyms": [
+        "single bloom"
+      ],
+      "memory_tip": "Bouquet = bunch of blossoms tied together.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "canyon",
+    "type": "noun",
+    "definition": "A deep valley with very steep sides, usually formed by river erosion.",
+    "pronunciation": {
+      "uk": "/ˈkænjən/"
+    },
+    "examples": [
+      "They kayaked through a narrow canyon.",
+      "The canyon walls glowed red at sunset."
+    ],
+    "extra": {
+      "synonyms": [
+        "gorge",
+        "ravine"
+      ],
+      "antonyms": [
+        "plain",
+        "plateau"
+      ],
+      "memory_tip": "Canyon = giant rocky corridor cut by water.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "drizzle",
+    "type": "noun, verb",
+    "definition": "Light, gentle rain falling in fine drops; to rain lightly.",
+    "pronunciation": {
+      "uk": "/ˈdrɪzəl/"
+    },
+    "examples": [
+      "A fine drizzle covered the streets. (noun)",
+      "It began to drizzle just after lunch. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "mist",
+        "sprinkle"
+      ],
+      "antonyms": [
+        "downpour",
+        "dry"
+      ],
+      "memory_tip": "Drizzle = rain’s whisper, not its shout.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "drizzle",
+        "drizzled",
+        "drizzling"
+      ]
+    }
+  },
+  {
+    "word": "hammock",
+    "type": "noun",
+    "definition": "A hanging bed made of canvas or rope netting, suspended at each end.",
+    "pronunciation": {
+      "uk": "/ˈhæmək/"
+    },
+    "examples": [
+      "She read a book in a garden hammock.",
+      "The hammock swayed gently in the breeze."
+    ],
+    "extra": {
+      "synonyms": [
+        "swinging bed",
+        "sling"
+      ],
+      "antonyms": [
+        "camp bed",
+        "mat"
+      ],
+      "memory_tip": "Hammock = relaxing bed that hangs between two trees.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "jaguar",
+    "type": "noun",
+    "definition": "A large, powerful wild cat with a yellow coat and black spots, native to the Americas.",
+    "pronunciation": {
+      "uk": "/ˈdʒæɡjuːə/"
+    },
+    "examples": [
+      "A jaguar stalked silently through the rainforest.",
+      "The jaguar is an excellent swimmer."
+    ],
+    "extra": {
+      "synonyms": [
+        "big cat",
+        "panther"
+      ],
+      "antonyms": [
+        "house cat"
+      ],
+      "memory_tip": "Jaguar = spotted jungle hunter.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "kneel",
+    "type": "verb",
+    "definition": "To rest on one or both knees.",
+    "pronunciation": {
+      "uk": "/niːl/"
+    },
+    "examples": [
+      "Gardening required her to kneel on the grass.",
+      "They knelt in respect."
+    ],
+    "extra": {
+      "synonyms": [
+        "genuflect",
+        "bow"
+      ],
+      "antonyms": [
+        "stand",
+        "rise"
+      ],
+      "memory_tip": "Kneel = bend legs until knees touch the ground.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "kneel",
+        "knelt",
+        "kneeling"
+      ]
+    }
+  },
+  {
+    "word": "quilt",
+    "type": "noun, verb",
+    "definition": "A warm bedcover made of two layers of fabric with padding stitched between; to stitch layers together in decorative patterns.",
+    "pronunciation": {
+      "uk": "/kwɪlt/"
+    },
+    "examples": [
+      "The colourful quilt brightened the room. (noun)",
+      "They quilted squares of fabric into a blanket. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "duvet",
+        "counterpane",
+        "stitch"
+      ],
+      "antonyms": [
+        "sheet",
+        "unstitch"
+      ],
+      "memory_tip": "Quilt = cosy sandwich of fabric and fluff.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "quilt",
+        "quilted",
+        "quilting"
+      ]
+    }
+  },
+  {
+    "word": "riddle",
+    "type": "noun, verb",
+    "definition": "A puzzling question or statement to be solved; to make many holes in something or to pose riddles.",
+    "pronunciation": {
+      "uk": "/ˈrɪdəl/"
+    },
+    "examples": [
+      "Can you solve this ancient riddle? (noun)",
+      "Woodpeckers riddled the tree with holes. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "puzzle",
+        "conundrum",
+        "perforate"
+      ],
+      "antonyms": [
+        "answer",
+        "plug"
+      ],
+      "memory_tip": "Riddle = brain teaser or hole-maker.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "riddle",
+        "riddled",
+        "riddling"
+      ]
+    }
+  },
+  {
+    "word": "tunnel",
+    "type": "noun, verb",
+    "definition": "An underground passage through which vehicles, people or water can pass; to dig such a passage.",
+    "pronunciation": {
+      "uk": "/ˈtʌnəl/"
+    },
+    "examples": [
+      "Trains raced through the mountain tunnel. (noun)",
+      "Moles tunnel under the garden. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "passage",
+        "subway",
+        "bore"
+      ],
+      "antonyms": [
+        "bridge",
+        "fill in"
+      ],
+      "memory_tip": "Tunnel = secret hollow way through earth.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "tunnel",
+        "tunnelled",
+        "tunnelling"
+      ]
+    }
+  },
+  {
+    "word": "zigzag",
+    "type": "noun, verb, adj.",
+    "definition": "A line or course with sharp turns in alternating directions; to move in such a pattern; having a back-and-forth pattern.",
+    "pronunciation": {
+      "uk": "/ˈzɪɡzæɡ/"
+    },
+    "examples": [
+      "The path formed a zigzag up the hill. (noun)",
+      "Lightning zigzagged across the sky. (verb)",
+      "She drew a zigzag pattern. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "wavy",
+        "criss-cross",
+        "swerve"
+      ],
+      "antonyms": [
+        "straight",
+        "direct"
+      ],
+      "memory_tip": "Zigzag = Z-shaped back-and-forth motion.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "zigzag",
+        "zigzagged",
+        "zigzagging"
+      ]
+    }
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "word": "thick",
+    "type": "adjective",
+    "definition": "Wide from one side to the other; not thin.",
+    "pronunciation": {
+      "us": "/θɪk/",
+      "uk": "/θɪk/"
+    },
+    "examples": [
+      "The book has thick pages.",
+      "A thick blanket kept us warm."
+    ],
+    "extra": {
+      "synonyms": [
+        "wide",
+        "fat",
+        "bulky"
+      ],
+      "antonyms": [
+        "thin",
+        "slim"
+      ],
+      "memory_tip": "Thick = chunky, not skinny!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "utensil",
+    "type": "noun",
+    "definition": "Tools used for eating or cooking, like forks or spoons.",
+    "pronunciation": {
+      "us": "/juˈtɛnsəl/",
+      "uk": "/juːˈtɛnsəl/"
+    },
+    "examples": [
+      "Put the utensils on the table.",
+      "We keep our cooking utensils in a drawer."
+    ],
+    "extra": {
+      "synonyms": [
+        "tools",
+        "cutlery",
+        "implements"
+      ],
+      "antonyms": [
+        "hands (alone)"
+      ],
+      "memory_tip": "Utensils = kitchen tools for food!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "solid",
+    "type": "adj.,noun",
+    "definition": "Hard or firm and not liquid or gas; a substance that keeps its shape.",
+    "pronunciation": {
+      "us": "/ˈsɑlɪd/",
+      "uk": "/ˈsɒlɪd/"
+    },
+    "examples": [
+      "Ice is water in a solid form. (adjective)",
+      "Wood is a solid we use to build. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "hard",
+        "firm",
+        "strong"
+      ],
+      "antonyms": [
+        "liquid",
+        "gas",
+        "soft"
+      ],
+      "memory_tip": "Solid = keeps its own shape!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "separate",
+    "type": "verb,adjective",
+    "definition": "To divide into parts; not joined.",
+    "pronunciation": {
+      "us": "/ˈsɛpəˌreɪt/ (v), /ˈsɛprɪt/ (adj)",
+      "uk": "/ˈsɛpəreɪt/ (v), /ˈsɛprɪt/ (adj)"
+    },
+    "examples": [
+      "Please separate the red blocks from the blue ones. (verb)",
+      "They slept in separate beds. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "split",
+        "divide",
+        "apart"
+      ],
+      "antonyms": [
+        "join",
+        "together"
+      ],
+      "memory_tip": "Separate = pull apart!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "separate",
+        "separated",
+        "separating"
+      ]
+    }
+  },
+  {
+    "word": "uneven",
+    "type": "adjective",
+    "definition": "Not smooth, flat, or equal.",
+    "pronunciation": {
+      "us": "/ʌnˈivən/",
+      "uk": "/ʌnˈiːvən/"
+    },
+    "examples": [
+      "The sidewalk is uneven here.",
+      "She cut an uneven line."
+    ],
+    "extra": {
+      "synonyms": [
+        "bumpy",
+        "rough",
+        "lopsided"
+      ],
+      "antonyms": [
+        "even",
+        "level"
+      ],
+      "memory_tip": "Uneven = up-down, not flat!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "close",
+    "type": "verb,adjective",
+    "definition": "To shut something; near in distance.",
+    "pronunciation": {
+      "us": "/kloʊz/ (v), /kloʊs/ (adj)",
+      "uk": "/kləʊz/ (v), /kləʊs/ (adj)"
+    },
+    "examples": [
+      "Please close the door. (verb)",
+      "The store is close to our house. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "shut",
+        "near",
+        "nearby"
+      ],
+      "antonyms": [
+        "open",
+        "far"
+      ],
+      "memory_tip": "Close = shut OR near!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "close",
+        "closed",
+        "closing"
+      ]
+    }
+  },
+  {
+    "word": "flaky",
+    "type": "adjective",
+    "definition": "Breaking into thin, light pieces; crumbly.",
+    "pronunciation": {
+      "us": "/ˈfleɪki/",
+      "uk": "/ˈfleɪki/"
+    },
+    "examples": [
+      "The pastry was light and flaky.",
+      "Paint gets flaky when it peels."
+    ],
+    "extra": {
+      "synonyms": [
+        "crumbly",
+        "crispy",
+        "scaly"
+      ],
+      "antonyms": [
+        "smooth",
+        "solid"
+      ],
+      "memory_tip": "Flaky = tiny bits fall off!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "shape",
+    "type": "noun,verb",
+    "definition": "The outline of something; to form or mold.",
+    "pronunciation": {
+      "us": "/ʃeɪp/",
+      "uk": "/ʃeɪp/"
+    },
+    "examples": [
+      "A circle is a round shape. (noun)",
+      "We shaped the clay into a bowl. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "form",
+        "figure",
+        "mold"
+      ],
+      "antonyms": [
+        "mess",
+        "destroy"
+      ],
+      "memory_tip": "Shape = how something looks or making that look!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "shape",
+        "shaped",
+        "shaping"
+      ]
+    }
+  },
+  {
+    "word": "boil",
+    "type": "verb,noun",
+    "definition": "To heat a liquid until it bubbles; the point when it bubbles.",
+    "pronunciation": {
+      "us": "/bɔɪl/",
+      "uk": "/bɔɪl/"
+    },
+    "examples": [
+      "Water boils at 100 °C. (verb)",
+      "Wait for the boil before adding pasta. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "bubble",
+        "heat",
+        "simmer"
+      ],
+      "antonyms": [
+        "freeze",
+        "cool"
+      ],
+      "memory_tip": "Boil = big bubbles in hot water!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "boil",
+        "boiled",
+        "boiling"
+      ]
+    }
+  },
+  {
+    "word": "sprinkle",
+    "type": "verb,noun",
+    "definition": "To scatter small bits of something; the little bits themselves.",
+    "pronunciation": {
+      "us": "/ˈsprɪŋkəl/",
+      "uk": "/ˈsprɪŋk(ə)l/"
+    },
+    "examples": [
+      "Sprinkle sugar on the cereal. (verb)",
+      "A sprinkle of rain fell. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "scatter",
+        "dust",
+        "dash"
+      ],
+      "antonyms": [
+        "pour",
+        "dump"
+      ],
+      "memory_tip": "Sprinkle = tiny drops or bits!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "sprinkle",
+        "sprinkled",
+        "sprinkling"
+      ]
+    }
+  }
+]

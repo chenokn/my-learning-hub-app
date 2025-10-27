@@ -1,0 +1,453 @@
+[
+  {
+    "word": "avalanche",
+    "type": "noun",
+    "definition": "A large mass of snow and ice that suddenly slides down a mountain.",
+    "pronunciation": {
+      "us": "ˈæv.ə.læntʃ",
+      "uk": "ˈæv.ə.lɑːnʃ"
+    },
+    "examples": [
+      "The rangers closed the trail because of avalanche risk.",
+      "We saw pictures of an avalanche sweeping down the slope."
+    ],
+    "extra": {
+      "synonyms": [
+        "snow slide",
+        "snowslip"
+      ],
+      "antonyms": [
+        "drift (contrast)",
+        "melt"
+      ],
+      "memory_tip": "Avalanche = a valley of snow that launches downhill.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "blizzard",
+    "type": "noun",
+    "definition": "A severe snowstorm with strong winds and low visibility.",
+    "pronunciation": {
+      "us": "ˈblɪz.ɚd",
+      "uk": "ˈblɪz.əd"
+    },
+    "examples": [
+      "The blizzard made the roads impossible to see.",
+      "We stayed indoors during the blizzard."
+    ],
+    "extra": {
+      "synonyms": [
+        "snowstorm",
+        "whiteout"
+      ],
+      "antonyms": [
+        "clear skies",
+        "calm"
+      ],
+      "memory_tip": "Blizzard = blinding blizzardy blast of snow.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "challenge",
+    "type": "noun,verb",
+    "definition": "A difficult task or test; to invite someone to try something difficult.",
+    "pronunciation": {
+      "us": "ˈtʃæl.əndʒ",
+      "uk": "ˈtʃæl.ɪndʒ"
+    },
+    "examples": [
+      "Climbing the cliff was a real challenge. (noun)",
+      "She challenged herself to finish the race. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "test",
+        "trial",
+        "dare"
+      ],
+      "antonyms": [
+        "easy task",
+        "concede"
+      ],
+      "memory_tip": "Challenge = a call to do something hard.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "challenge",
+        "challenged",
+        "challenging"
+      ]
+    }
+  },
+  {
+    "word": "conquer",
+    "type": "verb",
+    "definition": "To defeat or overcome something by effort or force.",
+    "pronunciation": {
+      "us": "ˈkɑːŋ.kɚ",
+      "uk": "ˈkɒŋ.kə"
+    },
+    "examples": [
+      "They trained to conquer their fear of heights.",
+      "The team conquered the steepest section of the route."
+    ],
+    "extra": {
+      "synonyms": [
+        "overcome",
+        "defeat",
+        "master"
+      ],
+      "antonyms": [
+        "surrender",
+        "yield"
+      ],
+      "memory_tip": "Conquer = come over and take control.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "conquer",
+        "conquered",
+        "conquering"
+      ]
+    }
+  },
+  {
+    "word": "crevice",
+    "type": "noun",
+    "definition": "A narrow crack in a rock, wall, or surface.",
+    "pronunciation": {
+      "us": "ˈkrɛv.ɪs",
+      "uk": "ˈkrɛv.ɪs"
+    },
+    "examples": [
+      "Snow filled every crevice in the cliff face.",
+      "A tiny plant grew from a crevice in the pavement."
+    ],
+    "extra": {
+      "synonyms": [
+        "crack",
+        "fissure",
+        "split"
+      ],
+      "antonyms": [
+        "surface",
+        "solid block"
+      ],
+      "memory_tip": "Crevice = a crisp, very slim slice in stone.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "grim",
+    "type": "adjective",
+    "definition": "Very serious, gloomy, or unpleasant.",
+    "pronunciation": {
+      "us": "grim",
+      "uk": "grim"
+    },
+    "examples": [
+      "The weather looked grim before the match.",
+      "They faced the grim facts together."
+    ],
+    "extra": {
+      "synonyms": [
+        "gloomy",
+        "bleak",
+        "stern"
+      ],
+      "antonyms": [
+        "cheerful",
+        "bright",
+        "pleasant"
+      ],
+      "memory_tip": "Grim = grimacing and gloomy.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "foolhardy",
+    "type": "adjective",
+    "definition": "Brave in a silly or risky way; not caring about danger.",
+    "pronunciation": {
+      "us": "ˈfuːl.hɑːr.di",
+      "uk": "ˈfuːl.hɑː.di"
+    },
+    "examples": [
+      "Going out in the blizzard was foolhardy.",
+      "A foolhardy leap nearly cost him his footing."
+    ],
+    "extra": {
+      "synonyms": [
+        "reckless",
+        "rash"
+      ],
+      "antonyms": [
+        "cautious",
+        "careful"
+      ],
+      "memory_tip": "Foolhardy = a foolish kind of bravery.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "makeshift",
+    "type": "adj.,noun",
+    "definition": "Used temporarily when nothing better is available; a temporary substitute.",
+    "pronunciation": {
+      "us": "ˈmeɪk.ʃɪft",
+      "uk": "ˈmeɪk.ʃɪft"
+    },
+    "examples": [
+      "They built a makeshift shelter from branches. (adjective)",
+      "The tarp served as a makeshift. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "temporary",
+        "improvised"
+      ],
+      "antonyms": [
+        "permanent",
+        "durable"
+      ],
+      "memory_tip": "Makeshift = what you make to shift you through.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "optimist",
+    "type": "noun",
+    "definition": "A person who expects good things to happen.",
+    "pronunciation": {
+      "us": "ˈɑːp.tə.mɪst",
+      "uk": "ˈɒp.tɪ.mɪst"
+    },
+    "examples": [
+      "The optimist in our group kept spirits high.",
+      "An optimist looks for a bright side in setbacks."
+    ],
+    "extra": {
+      "synonyms": [
+        "positive thinker",
+        "hopeful person"
+      ],
+      "antonyms": [
+        "pessimist"
+      ],
+      "memory_tip": "Optimist = opts for the best outcome.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "previous",
+    "type": "adjective",
+    "definition": "Happening or existing before the one you are talking about.",
+    "pronunciation": {
+      "us": "ˈpriː.vi.əs",
+      "uk": "ˈpriː.vi.əs"
+    },
+    "examples": [
+      "Our previous camp was lower on the mountain.",
+      "Check the previous page for the map key."
+    ],
+    "extra": {
+      "synonyms": [
+        "earlier",
+        "former",
+        "prior"
+      ],
+      "antonyms": [
+        "later",
+        "next"
+      ],
+      "memory_tip": "Previous = the one from before.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "route",
+    "type": "noun,verb",
+    "definition": "A way from one place to another; to send or direct along a path.",
+    "pronunciation": {
+      "us": "ruːt",
+      "uk": "ruːt"
+    },
+    "examples": [
+      "We chose the safest route to the summit. (noun)",
+      "They routed the hikers around the avalanche area. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "path",
+        "course",
+        "track"
+      ],
+      "antonyms": [
+        "dead end",
+        "detour (opposite aim)"
+      ],
+      "memory_tip": "Route = the road you choose.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "route",
+        "routed",
+        "routing"
+      ]
+    }
+  },
+  {
+    "word": "summit",
+    "type": "noun,verb",
+    "definition": "The highest point of a hill or mountain; to reach the highest point.",
+    "pronunciation": {
+      "us": "ˈsʌ.mɪt",
+      "uk": "ˈsʌ.mɪt"
+    },
+    "examples": [
+      "Clouds hid the summit of the peak. (noun)",
+      "They planned to summit before noon. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "peak",
+        "top",
+        "crest"
+      ],
+      "antonyms": [
+        "base",
+        "valley"
+      ],
+      "memory_tip": "Summit = the sum-most top.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "summit",
+        "summited",
+        "summiting"
+      ]
+    }
+  },
+  {
+    "word": "terse",
+    "type": "adjective",
+    "definition": "Using only a few words, sometimes unfriendly or sudden.",
+    "pronunciation": {
+      "us": "tɜːrs",
+      "uk": "tɜːs"
+    },
+    "examples": [
+      "Her reply was terse: “No.”",
+      "The notice was terse but clear."
+    ],
+    "extra": {
+      "synonyms": [
+        "brief",
+        "curt",
+        "concise"
+      ],
+      "antonyms": [
+        "wordy",
+        "verbose"
+      ],
+      "memory_tip": "Terse = trimmed to the bare terms.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "thwart",
+    "type": "verb",
+    "definition": "To stop something from happening; to block or defeat a plan.",
+    "pronunciation": {
+      "us": "θwɔːrt",
+      "uk": "θwɔːt"
+    },
+    "examples": [
+      "Bad weather thwarted their final push.",
+      "Extra practice can thwart careless mistakes."
+    ],
+    "extra": {
+      "synonyms": [
+        "foil",
+        "hinder",
+        "frustrate"
+      ],
+      "antonyms": [
+        "aid",
+        "assist",
+        "enable"
+      ],
+      "memory_tip": "Thwart = throw a wrench in it.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "thwart",
+        "thwarted",
+        "thwarting"
+      ]
+    }
+  },
+  {
+    "word": "vertical",
+    "type": "adj.,noun",
+    "definition": "Standing straight up and down; a line or direction that goes up and down.",
+    "pronunciation": {
+      "us": "ˈvɝː.tɪ.kəl",
+      "uk": "ˈvɜː.tɪ.kəl"
+    },
+    "examples": [
+      "The cliff was nearly vertical. (adjective)",
+      "Draw a vertical through the centre. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "upright",
+        "perpendicular"
+      ],
+      "antonyms": [
+        "horizontal",
+        "level"
+      ],
+      "memory_tip": "Vertical = like a very tall tower.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "victim",
+    "type": "noun",
+    "definition": "A person who is harmed by an event, action, or someone else’s behaviour.",
+    "pronunciation": {
+      "us": "ˈvɪk.tɪm",
+      "uk": "ˈvɪk.tɪm"
+    },
+    "examples": [
+      "Rescuers helped the storm’s victims.",
+      "The victim of the scam reported it to the police."
+    ],
+    "extra": {
+      "synonyms": [
+        "sufferer",
+        "casualty"
+      ],
+      "antonyms": [
+        "culprit (contrast)",
+        "offender (contrast)"
+      ],
+      "memory_tip": "Victim = the one who is affected or hurt.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

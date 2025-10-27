@@ -1,0 +1,296 @@
+[
+  {
+    "word": "headlight",
+    "type": "noun",
+    "definition": "A bright light at the front of a car, bike, or train for seeing in the dark.",
+    "pronunciation": {
+      "us": "/ˈhɛdˌlaɪt/",
+      "uk": "/ˈhedˌlaɪt/"
+    },
+    "examples": [
+      "Turn on your headlights at night.",
+      "A broken headlight must be fixed."
+    ],
+    "extra": {
+      "synonyms": [
+        "lamp",
+        "front light",
+        "beam"
+      ],
+      "antonyms": [
+        "taillight (back light)"
+      ],
+      "memory_tip": "Headlight = light at the vehicle’s head.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "pattern",
+    "type": "noun",
+    "definition": "A repeated design or arrangement of shapes or colors.",
+    "pronunciation": {
+      "us": "/ˈpætərn/",
+      "uk": "/ˈpætən/"
+    },
+    "examples": [
+      "The dress has a flower pattern.",
+      "We spotted a pattern of stripes."
+    ],
+    "extra": {
+      "synonyms": [
+        "design",
+        "motif",
+        "sequence"
+      ],
+      "antonyms": [
+        "random",
+        "plain"
+      ],
+      "memory_tip": "Pattern = design that repeats.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "caution",
+    "type": "noun,verb",
+    "definition": "Care to avoid danger; to warn someone of danger.",
+    "pronunciation": {
+      "us": "/ˈkɔʃən/",
+      "uk": "/ˈkɔːʃən/"
+    },
+    "examples": [
+      "Use caution when crossing the road. (noun)",
+      "He cautioned us about the wet floor. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "care",
+        "warning",
+        "alert"
+      ],
+      "antonyms": [
+        "carelessness",
+        "risk"
+      ],
+      "memory_tip": "Caution = careful warning.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "caution",
+        "cautioned",
+        "cautioning"
+      ]
+    }
+  },
+  {
+    "word": "alone",
+    "type": "adj.,adverb",
+    "definition": "By yourself; with no one else.",
+    "pronunciation": {
+      "us": "/əˈloʊn/",
+      "uk": "/əˈləʊn/"
+    },
+    "examples": [
+      "She sat alone at lunch. (adverb)",
+      "An alone traveler walked the path. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "solo",
+        "single",
+        "by oneself"
+      ],
+      "antonyms": [
+        "together",
+        "with others"
+      ],
+      "memory_tip": "Alone = just you.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "gleaming",
+    "type": "adjective",
+    "definition": "Shining brightly; sparkling clean.",
+    "pronunciation": {
+      "us": "/ˈɡliːmɪŋ/",
+      "uk": "/ˈɡliːmɪŋ/"
+    },
+    "examples": [
+      "The floor was gleaming after cleaning.",
+      "She wore a gleaming silver crown."
+    ],
+    "extra": {
+      "synonyms": [
+        "shiny",
+        "sparkling",
+        "bright"
+      ],
+      "antonyms": [
+        "dull",
+        "dim"
+      ],
+      "memory_tip": "Gleaming = shining like a beam.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "eager",
+    "type": "adjective",
+    "definition": "Excited and ready to do something.",
+    "pronunciation": {
+      "us": "/ˈiːɡər/",
+      "uk": "/ˈiːɡə/"
+    },
+    "examples": [
+      "The kids were eager to play.",
+      "She is eager to learn new words."
+    ],
+    "extra": {
+      "synonyms": [
+        "keen",
+        "enthusiastic",
+        "excited"
+      ],
+      "antonyms": [
+        "reluctant",
+        "uninterested"
+      ],
+      "memory_tip": "Eager = can’t wait!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "adjust",
+    "type": "verb",
+    "definition": "To change something a little to make it better or right.",
+    "pronunciation": {
+      "us": "/əˈdʒʌst/",
+      "uk": "/əˈdʒʌst/"
+    },
+    "examples": [
+      "Adjust the seat so you can reach the pedals.",
+      "He adjusted his hat in the wind."
+    ],
+    "extra": {
+      "synonyms": [
+        "change",
+        "fix",
+        "set"
+      ],
+      "antonyms": [
+        "keep",
+        "leave"
+      ],
+      "memory_tip": "Adjust = tweak until it fits.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "adjust",
+        "adjusted",
+        "adjusting"
+      ]
+    }
+  },
+  {
+    "word": "steady",
+    "type": "adj.,verb",
+    "definition": "Firm, stable, and not moving; to make something stable.",
+    "pronunciation": {
+      "us": "/ˈstɛdi/",
+      "uk": "/ˈstɛdi/"
+    },
+    "examples": [
+      "Hold the ladder steady. (adjective)",
+      "She steadied the cup. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "stable",
+        "even",
+        "balance"
+      ],
+      "antonyms": [
+        "wobbly",
+        "unsteady"
+      ],
+      "memory_tip": "Steady = no shakes.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "steady",
+        "steadied",
+        "steadying"
+      ]
+    }
+  },
+  {
+    "word": "exercise",
+    "type": "noun,verb",
+    "definition": "Physical activity that helps keep you healthy; to move your body for health.",
+    "pronunciation": {
+      "us": "/ˈɛksərˌsaɪz/",
+      "uk": "/ˈɛksəsaɪz/"
+    },
+    "examples": [
+      "Running is good exercise. (noun)",
+      "We exercise every morning. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "workout",
+        "train",
+        "activity"
+      ],
+      "antonyms": [
+        "rest",
+        "idle"
+      ],
+      "memory_tip": "Exercise = body’s homework.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "exercise",
+        "exercised",
+        "exercising"
+      ]
+    }
+  },
+  {
+    "word": "complete",
+    "type": "verb,adjective",
+    "definition": "To finish something; finished or whole.",
+    "pronunciation": {
+      "us": "/kəmˈpliːt/",
+      "uk": "/kəmˈpliːt/"
+    },
+    "examples": [
+      "Please complete your homework. (verb)",
+      "The puzzle is complete. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "finish",
+        "end",
+        "whole"
+      ],
+      "antonyms": [
+        "start",
+        "incomplete"
+      ],
+      "memory_tip": "Complete = all done!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "complete",
+        "completed",
+        "completing"
+      ]
+    }
+  }
+]

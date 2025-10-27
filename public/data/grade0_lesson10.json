@@ -1,0 +1,289 @@
+[
+  {
+    "word": "sting",
+    "type": "verb,noun",
+    "definition": "To hurt with a sharp point; a sharp pain caused by something like a bee.",
+    "pronunciation": {
+      "us": "/stɪŋ/",
+      "uk": "/stɪŋ/"
+    },
+    "examples": [
+      "A bee can sting you. (verb)",
+      "She felt a sting on her finger. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "prick",
+        "bite",
+        "jab"
+      ],
+      "antonyms": [
+        "soothe",
+        "caress"
+      ],
+      "memory_tip": "Sting = small sharp pain!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "sting",
+        "stung",
+        "stinging"
+      ]
+    }
+  },
+  {
+    "word": "beak",
+    "type": "noun",
+    "definition": "The hard, pointed mouth part of a bird.",
+    "pronunciation": {
+      "us": "/biːk/",
+      "uk": "/biːk/"
+    },
+    "examples": [
+      "The bird used its beak to pick seeds.",
+      "Parrots have curved beaks."
+    ],
+    "extra": {
+      "synonyms": [
+        "bill",
+        "nose (for birds)",
+        "point"
+      ],
+      "antonyms": [],
+      "memory_tip": "Beak = bird’s tool for eating!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "blossom",
+    "type": "noun",
+    "definition": "Flowers on a tree or plant.",
+    "pronunciation": {
+      "us": "/ˈblɑsəm/",
+      "uk": "/ˈblɒsəm/"
+    },
+    "examples": [
+      "The blossoms appeared in spring.",
+      "Cherry blossoms are pink and pretty."
+    ],
+    "extra": {
+      "synonyms": [
+        "flowers",
+        "blooms",
+        "petals"
+      ],
+      "antonyms": [
+        "buds",
+        "seeds (before blooming)"
+      ],
+      "memory_tip": "Blossoms = pretty flowers on trees!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "pair",
+    "type": "noun",
+    "definition": "Two things that go together.",
+    "pronunciation": {
+      "us": "/pɛr/",
+      "uk": "/peə/"
+    },
+    "examples": [
+      "I wore a pair of socks.",
+      "We saw a pair of birds."
+    ],
+    "extra": {
+      "synonyms": [
+        "couple",
+        "set",
+        "duo"
+      ],
+      "antonyms": [
+        "single",
+        "one"
+      ],
+      "memory_tip": "Pair = two of the same!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fear",
+    "type": "noun,verb",
+    "definition": "A feeling of being scared; to be afraid.",
+    "pronunciation": {
+      "us": "/fɪr/",
+      "uk": "/fɪə/"
+    },
+    "examples": [
+      "He had a fear of the dark. (noun)",
+      "She fears loud noises. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "scare",
+        "worry",
+        "fright"
+      ],
+      "antonyms": [
+        "bravery",
+        "calm"
+      ],
+      "memory_tip": "Fear = feel scared!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "fear",
+        "feared",
+        "fearing"
+      ]
+    }
+  },
+  {
+    "word": "brave",
+    "type": "adjective",
+    "definition": "Not afraid; showing courage.",
+    "pronunciation": {
+      "us": "/breɪv/",
+      "uk": "/breɪv/"
+    },
+    "examples": [
+      "The firefighter was brave.",
+      "She was brave during her first day at school."
+    ],
+    "extra": {
+      "synonyms": [
+        "courageous",
+        "bold",
+        "fearless"
+      ],
+      "antonyms": [
+        "scared",
+        "afraid"
+      ],
+      "memory_tip": "Brave = strong heart, no fear!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "protect",
+    "type": "verb",
+    "definition": "To keep someone or something safe.",
+    "pronunciation": {
+      "us": "/prəˈtɛkt/",
+      "uk": "/prəˈtɛkt/"
+    },
+    "examples": [
+      "She protects her baby brother.",
+      "A helmet protects your head."
+    ],
+    "extra": {
+      "synonyms": [
+        "guard",
+        "shield",
+        "defend"
+      ],
+      "antonyms": [
+        "harm",
+        "hurt"
+      ],
+      "memory_tip": "Protect = keep safe!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "protect",
+        "protected",
+        "protecting"
+      ]
+    }
+  },
+  {
+    "word": "store",
+    "type": "verb,noun",
+    "definition": "To keep something for later; a place where you buy things.",
+    "pronunciation": {
+      "us": "/stɔr/",
+      "uk": "/stɔː/"
+    },
+    "examples": [
+      "We stored the toys in a box. (verb)",
+      "I went to the store for milk. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "keep",
+        "save",
+        "shop"
+      ],
+      "antonyms": [
+        "throw away",
+        "use up"
+      ],
+      "memory_tip": "Store = keep or shop!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "store",
+        "stored",
+        "storing"
+      ]
+    }
+  },
+  {
+    "word": "miserable",
+    "type": "adjective",
+    "definition": "Very sad or uncomfortable.",
+    "pronunciation": {
+      "us": "/ˈmɪzərəbəl/",
+      "uk": "/ˈmɪz(ə)rəbl/"
+    },
+    "examples": [
+      "She looked miserable in the rain.",
+      "I felt miserable when I was sick."
+    ],
+    "extra": {
+      "synonyms": [
+        "unhappy",
+        "sad",
+        "gloomy"
+      ],
+      "antonyms": [
+        "happy",
+        "cheerful"
+      ],
+      "memory_tip": "Miserable = not a good day!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "wing",
+    "type": "noun",
+    "definition": "A part of a bird or plane that helps it fly.",
+    "pronunciation": {
+      "us": "/wɪŋ/",
+      "uk": "/wɪŋ/"
+    },
+    "examples": [
+      "The bird flapped its wings.",
+      "The plane has two large wings."
+    ],
+    "extra": {
+      "synonyms": [
+        "flap",
+        "fin",
+        "appendage"
+      ],
+      "antonyms": [
+        "body",
+        "leg"
+      ],
+      "memory_tip": "Wing = what helps things fly!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

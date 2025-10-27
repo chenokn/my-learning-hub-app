@@ -1,0 +1,268 @@
+[
+  {
+    "word": "approach",
+    "type": "verb,noun",
+    "definition": "To move closer to something; a way of doing something.",
+    "pronunciation": { "us": "uh-PROHCH", "uk": "uh-PROHCH" },
+    "examples": [
+      "Dark clouds are approaching from the west. (verb)",
+      "Our approach to the project is step by step. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["near", "advance", "method"],
+      "antonyms": ["retreat", "withdraw", "avoid"],
+      "memory_tip": "Approach = go ‘a step closer’.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["approach", "approached", "approaching"]
+    }
+  },
+  {
+    "word": "burrow",
+    "type": "noun,verb",
+    "definition": "A hole or tunnel made by an animal; to dig or press into something.",
+    "pronunciation": { "us": "BURR-oh", "uk": "BURR-oh" },
+    "examples": [
+      "The rabbit hid in its burrow. (noun)",
+      "Moles burrow under the garden. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["tunnel", "den", "dig"],
+      "antonyms": ["emerge", "surface"],
+      "memory_tip": "Burrow = borrow the ground for a home.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["burrow", "burrowed", "burrowing"]
+    }
+  },
+  {
+    "word": "cease",
+    "type": "verb,noun",
+    "definition": "To stop doing something; a stopping or end.",
+    "pronunciation": { "us": "sees", "uk": "sees" },
+    "examples": [
+      "The rain ceased by afternoon. (verb)",
+      "They called for a cease of hostilities. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["stop", "end", "halt"],
+      "antonyms": ["begin", "continue", "resume"],
+      "memory_tip": "Cease = peace and stop sound similar.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["cease", "ceased", "ceasing"]
+    }
+  },
+  {
+    "word": "destructive",
+    "type": "adjective",
+    "definition": "Causing great damage or harm.",
+    "pronunciation": { "us": "di-STRUK-tiv", "uk": "di-STRUK-tiv" },
+    "examples": [
+      "Destructive winds tore off roofs.",
+      "That habit can be destructive to health."
+    ],
+    "extra": {
+      "synonyms": ["damaging", "ruinous", "devastating"],
+      "antonyms": ["constructive", "helpful"],
+      "memory_tip": "Destructive = de-struct—undoing structure.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "drowsy",
+    "type": "adjective",
+    "definition": "Sleepy and not fully awake.",
+    "pronunciation": { "us": "DROW-zee", "uk": "DROW-zee" },
+    "examples": [
+      "The warm room made me drowsy.",
+      "He felt drowsy after lunch."
+    ],
+    "extra": {
+      "synonyms": ["sleepy", "dozy", "groggy"],
+      "antonyms": ["alert", "awake", "lively"],
+      "memory_tip": "Drowsy = eyes droop down.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "famished",
+    "type": "adjective",
+    "definition": "Extremely hungry.",
+    "pronunciation": { "us": "FAM-isht", "uk": "FAM-isht" },
+    "examples": [
+      "After the hike, we were famished.",
+      "The pups looked famished and tired."
+    ],
+    "extra": {
+      "synonyms": ["starving", "ravenous", "hungry"],
+      "antonyms": ["full", "satisfied"],
+      "memory_tip": "Famished = food vanishing makes you famished.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "forecast",
+    "type": "noun,verb",
+    "definition": "A prediction of future conditions; to predict what will happen.",
+    "pronunciation": { "us": "FOR-kast", "uk": "FOR-kahst" },
+    "examples": [
+      "The weather forecast says it will snow. (noun)",
+      "Scientists forecast higher rainfall this year. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["prediction", "outlook", "predict"],
+      "antonyms": ["review (past)", "recall (contrast)"],
+      "memory_tip": "Forecast = cast the future forward.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["forecast", "forecast", "forecasting"]
+    }
+  },
+  {
+    "word": "hibernate",
+    "type": "verb",
+    "definition": "To spend the winter in a deep sleep to save energy.",
+    "pronunciation": { "us": "HY-ber-nayt", "uk": "HY-buh-nayt" },
+    "examples": [
+      "Some bears hibernate in cold months.",
+      "Tortoises hibernate until spring arrives."
+    ],
+    "extra": {
+      "synonyms": ["overwinter", "sleep (seasonally)"],
+      "antonyms": ["awaken", "rouse"],
+      "memory_tip": "Hibernate = hide and wait through winter.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["hibernate", "hibernated", "hibernating"]
+    }
+  },
+  {
+    "word": "migrate",
+    "type": "verb",
+    "definition": "To move from one place to another, often seasonally.",
+    "pronunciation": { "us": "MY-grayt", "uk": "MY-grayt" },
+    "examples": [
+      "Swallows migrate south for winter.",
+      "Caribou migrate across the tundra."
+    ],
+    "extra": {
+      "synonyms": ["move", "travel", "relocate"],
+      "antonyms": ["stay", "remain"],
+      "memory_tip": "Migrate = make a big move.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["migrate", "migrated", "migrating"]
+    }
+  },
+  {
+    "word": "nestle",
+    "type": "verb",
+    "definition": "To settle snugly and comfortably; to be located in a sheltered spot.",
+    "pronunciation": { "us": "NES-ul", "uk": "NES-ul" },
+    "examples": [
+      "Kittens nestled beside their mother.",
+      "The village nestles in the hills."
+    ],
+    "extra": {
+      "synonyms": ["snuggle", "cuddle", "settle"],
+      "antonyms": ["separate", "pull away"],
+      "memory_tip": "Nestle = get cosy like in a nest.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["nestle", "nestled", "nestling"]
+    }
+  },
+  {
+    "word": "observe",
+    "type": "verb",
+    "definition": "To watch carefully; to notice or follow rules or traditions.",
+    "pronunciation": { "us": "ob-ZERV", "uk": "ob-ZERV" },
+    "examples": [
+      "We observed the ants carrying crumbs.",
+      "Please observe the safety rules."
+    ],
+    "extra": {
+      "synonyms": ["watch", "notice", "comply"],
+      "antonyms": ["ignore", "overlook", "violate"],
+      "memory_tip": "Observe = use keen eyes and mind.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["observe", "observed", "observing"]
+    }
+  },
+  {
+    "word": "prepare",
+    "type": "verb",
+    "definition": "To make ready before something happens.",
+    "pronunciation": { "us": "pri-PAIR", "uk": "pri-PAIR" },
+    "examples": [
+      "We prepared lunch together.",
+      "Athletes prepare for months before a race."
+    ],
+    "extra": {
+      "synonyms": ["ready", "set up", "organise"],
+      "antonyms": ["neglect", "delay"],
+      "memory_tip": "Prepare = pre-pair—pair things up in advance.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["prepare", "prepared", "preparing"]
+    }
+  },
+  {
+    "word": "reduce",
+    "type": "verb",
+    "definition": "To make something smaller or less in amount, size, or degree.",
+    "pronunciation": { "us": "ri-DOOS", "uk": "ri-DYOOS" },
+    "examples": [
+      "Turn off lights to reduce energy use.",
+      "They reduced prices during the sale."
+    ],
+    "extra": {
+      "synonyms": ["lessen", "decrease", "cut"],
+      "antonyms": ["increase", "raise", "expand"],
+      "memory_tip": "Reduce = re-do to a smaller size.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["reduce", "reduced", "reducing"]
+    }
+  },
+  {
+    "word": "severe",
+    "type": "adjective",
+    "definition": "Very serious, harsh, or extreme.",
+    "pronunciation": { "us": "suh-VEER", "uk": "suh-VEER" },
+    "examples": [
+      "The storm caused severe damage.",
+      "She has a severe peanut allergy."
+    ],
+    "extra": {
+      "synonyms": ["serious", "harsh", "intense"],
+      "antonyms": ["mild", "gentle", "light"],
+      "memory_tip": "Severe = several levels stronger.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "venture",
+    "type": "noun,verb",
+    "definition": "A risky journey or project; to go somewhere or do something risky or new.",
+    "pronunciation": { "us": "VEN-chur", "uk": "VEN-chuh" },
+    "examples": [
+      "Starting the café was a brave venture. (noun)",
+      "They ventured into the cave with torches. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["undertaking", "enterprise", "dare"],
+      "antonyms": ["certainty (contrast)", "stay (verb)"],
+      "memory_tip": "Venture = adventure with a bit of risk.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["venture", "ventured", "venturing"]
+    }
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "word": "analyse",
+    "type": "verb",
+    "definition": "To examine something in detail in order to understand it better or draw conclusions.",
+    "pronunciation": { "us": "AN-uh-lyze", "uk": "AN-uh-lyze" },
+    "examples": [
+      "We will analyse the survey results in class.",
+      "Scientists analysed the rock samples."
+    ],
+    "extra": {
+      "synonyms": ["examine", "study", "inspect"],
+      "antonyms": ["ignore", "overlook", "guess"],
+      "memory_tip": "Analyse = break it into parts and look closely.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["analyse", "analysed", "analysing"]
+    }
+  },
+  {
+    "word": "apprehensive",
+    "type": "adjective",
+    "definition": "Worried or fearful that something bad might happen.",
+    "pronunciation": { "us": "ap-ree-HEN-siv", "uk": "ap-ree-HEN-siv" },
+    "examples": [
+      "She felt apprehensive before the exam.",
+      "He was apprehensive about the storm."
+    ],
+    "extra": {
+      "synonyms": ["anxious", "uneasy", "nervous"],
+      "antonyms": ["confident", "calm", "assured"],
+      "memory_tip": "Apprehensive = you ‘apprehend’ trouble ahead.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "coincide",
+    "type": "verb",
+    "definition": "To happen at the same time; to match exactly in position or idea.",
+    "pronunciation": { "us": "koh-in-SYDE", "uk": "koh-in-SYDE" },
+    "examples": [
+      "The festival dates coincide with our trip.",
+      "Her view coincides with mine."
+    ],
+    "extra": {
+      "synonyms": ["concur", "match", "align"],
+      "antonyms": ["differ", "diverge", "conflict"],
+      "memory_tip": "Coincide = two things ‘co’ inside the same time.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["coincide", "coincided", "coinciding"]
+    }
+  },
+  {
+    "word": "compose",
+    "type": "verb",
+    "definition": "To create or write (music, poetry, text); to form or make up; to calm oneself.",
+    "pronunciation": { "us": "kum-POHZ", "uk": "kum-POHZ" },
+    "examples": [
+      "She composed a song for the play.",
+      "Water is composed of hydrogen and oxygen."
+    ],
+    "extra": {
+      "synonyms": ["create", "write", "form"],
+      "antonyms": ["destroy", "disorganise"],
+      "memory_tip": "Compose = put parts together with purpose.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["compose", "composed", "composing"]
+    }
+  },
+  {
+    "word": "disk",
+    "type": "noun",
+    "definition": "A thin, flat, round object; in computing, a device or medium for storing data.",
+    "pronunciation": { "us": "disk", "uk": "disk" },
+    "examples": [
+      "The moon looked like a bright disk.",
+      "Save your work to the disk."
+    ],
+    "extra": {
+      "synonyms": ["plate", "disc", "platter"],
+      "antonyms": ["sphere (contrast)", "cube (contrast)"],
+      "memory_tip": "Disk = think ‘disc’—a flat round shape or storage.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "envelop",
+    "type": "verb",
+    "definition": "To cover or surround completely.",
+    "pronunciation": { "us": "en-VEL-up", "uk": "en-VEL-up" },
+    "examples": [
+      "Fog enveloped the harbour.",
+      "Warm blankets enveloped the baby."
+    ],
+    "extra": {
+      "synonyms": ["cover", "wrap", "encircle"],
+      "antonyms": ["expose", "uncover", "reveal"],
+      "memory_tip": "Envelop = act like an ‘envelope’ around something.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["envelop", "enveloped", "enveloping"]
+    }
+  },
+  {
+    "word": "exist",
+    "type": "verb",
+    "definition": "To be real or present; to live.",
+    "pronunciation": { "us": "ig-ZIST", "uk": "ig-ZIST" },
+    "examples": [
+      "Do black swans exist in this region?",
+      "Some species exist only on remote islands."
+    ],
+    "extra": {
+      "synonyms": ["be", "live", "persist"],
+      "antonyms": ["perish", "vanish", "cease"],
+      "memory_tip": "Exist = to ‘be’ there.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["exist", "existed", "existing"]
+    }
+  },
+  {
+    "word": "extraordinary",
+    "type": "adjective",
+    "definition": "Very unusual or remarkable; beyond the ordinary.",
+    "pronunciation": { "us": "ek-STRAWR-duh-ner-ee", "uk": "ek-STRAWD-nuh-ree" },
+    "examples": [
+      "The rescue was an extraordinary effort.",
+      "She has an extraordinary memory."
+    ],
+    "extra": {
+      "synonyms": ["remarkable", "exceptional", "amazing"],
+      "antonyms": ["ordinary", "common", "usual"],
+      "memory_tip": "Extraordinary = extra + ordinary (more than ordinary).",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fuse",
+    "type": "noun,verb",
+    "definition": "A safety device that breaks an electrical circuit when it’s overloaded; to join or blend into one.",
+    "pronunciation": { "us": "fyooz", "uk": "fyooz" },
+    "examples": [
+      "The lights went out because a fuse blew. (noun)",
+      "Heat fused the pieces of glass together. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["link", "merge", "join"],
+      "antonyms": ["separate", "split", "divide"],
+      "memory_tip": "Fuse = either a safety ‘stop’ or a way to ‘join’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["fuse", "fused", "fusing"]
+    }
+  },
+  {
+    "word": "mere",
+    "type": "adjective",
+    "definition": "Used to emphasise how small or unimportant something is; nothing more than.",
+    "pronunciation": { "us": "meer", "uk": "meer" },
+    "examples": [
+      "It was a mere scratch.",
+      "A mere five minutes remained."
+    ],
+    "extra": {
+      "synonyms": ["only", "just", "simple"],
+      "antonyms": ["considerable", "substantial", "significant"],
+      "memory_tip": "Mere = just the minimum.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "revolve",
+    "type": "verb",
+    "definition": "To move in a circle around a central point; to turn or rotate.",
+    "pronunciation": { "us": "ri-VOLV", "uk": "ri-VOLV" },
+    "examples": [
+      "Planets revolve around the sun.",
+      "The story revolves around friendship."
+    ],
+    "extra": {
+      "synonyms": ["orbit", "rotate", "turn"],
+      "antonyms": ["stay", "stand still"],
+      "memory_tip": "Revolve = roll around a centre.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["revolve", "revolved", "revolving"]
+    }
+  },
+  {
+    "word": "scale",
+    "type": "noun,verb",
+    "definition": "A series of marks used for measuring size or level; the size ratio on a map or model; to climb; to remove scales from fish.",
+    "pronunciation": { "us": "skayl", "uk": "skayl" },
+    "examples": [
+      "Use the scale on the map to find distance. (noun)",
+      "They scaled the cliff before noon. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["measure", "ratio", "climb"],
+      "antonyms": ["descend (verb)", "guess (contrast)"],
+      "memory_tip": "Scale = measure or ‘scale’ up a wall.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["scale", "scaled", "scaling"]
+    }
+  },
+  {
+    "word": "solar",
+    "type": "adjective",
+    "definition": "Relating to the sun.",
+    "pronunciation": { "us": "SOH-lar", "uk": "SOH-luh" },
+    "examples": [
+      "Solar panels turn sunlight into electricity.",
+      "A solar eclipse happens when the moon blocks the sun."
+    ],
+    "extra": {
+      "synonyms": ["sun-powered", "sun-related"],
+      "antonyms": ["lunar (contrast)", "terrestrial (contrast)"],
+      "memory_tip": "Solar = think ‘sol’, the Latin word for sun.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "trace",
+    "type": "verb,noun",
+    "definition": "To find or follow the course of something; to draw a copy by following lines; a very small amount.",
+    "pronunciation": { "us": "trayss", "uk": "trayss" },
+    "examples": [
+      "Detectives traced the call to a café. (verb)",
+      "There was only a trace of salt left. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["track", "outline", "hint"],
+      "antonyms": ["lose", "erase", "abundance (contrast)"],
+      "memory_tip": "Trace = track the trail or outline it.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["trace", "traced", "tracing"]
+    }
+  },
+  {
+    "word": "velocity",
+    "type": "noun",
+    "definition": "Speed in a given direction; the rate of motion.",
+    "pronunciation": { "us": "vuh-LOSS-ih-tee", "uk": "vuh-LOSS-ih-tee" },
+    "examples": [
+      "The ball’s velocity increased down the slope.",
+      "In physics, velocity includes both speed and direction."
+    ],
+    "extra": {
+      "synonyms": ["speed", "rapidity", "pace"],
+      "antonyms": ["slowness", "stillness"],
+      "memory_tip": "Velocity = ‘velocity of a vehicle’—how fast and where.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

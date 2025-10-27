@@ -1,0 +1,306 @@
+[
+  {
+    "word": "chart",
+    "type": "noun,verb",
+    "definition": "A picture that shows information; to make a map or plan of something.",
+    "pronunciation": {
+      "us": "/tʃɑrt/",
+      "uk": "/tʃɑːt/"
+    },
+    "examples": [
+      "The bar chart shows our scores. (noun)",
+      "We will chart the stars tonight. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "graph",
+        "map",
+        "plot"
+      ],
+      "antonyms": [
+        "guess",
+        "mess"
+      ],
+      "memory_tip": "Chart = picture facts or map a path.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "chart",
+        "charted",
+        "charting"
+      ]
+    }
+  },
+  {
+    "word": "button",
+    "type": "noun,verb",
+    "definition": "A small fastener on clothes or a switch to press; to fasten with buttons.",
+    "pronunciation": {
+      "us": "/ˈbʌtən/",
+      "uk": "/ˈbʌtən/"
+    },
+    "examples": [
+      "Press the red button to start. (noun)",
+      "Please button your coat. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "switch",
+        "fastener",
+        "clasp"
+      ],
+      "antonyms": [
+        "zip",
+        "unbutton"
+      ],
+      "memory_tip": "Button = tiny circle to close or start things.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "button",
+        "buttoned",
+        "buttoning"
+      ]
+    }
+  },
+  {
+    "word": "view",
+    "type": "noun,verb",
+    "definition": "What you can see; to look at something.",
+    "pronunciation": {
+      "us": "/vjuː/",
+      "uk": "/vjuː/"
+    },
+    "examples": [
+      "The mountain view is beautiful. (noun)",
+      "Let’s view the video again. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "sight",
+        "scene",
+        "watch"
+      ],
+      "antonyms": [
+        "blind spot",
+        "ignore"
+      ],
+      "memory_tip": "View = picture for your eyes.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "view",
+        "viewed",
+        "viewing"
+      ]
+    }
+  },
+  {
+    "word": "land",
+    "type": "noun,verb",
+    "definition": "The solid part of Earth; to come down onto the ground.",
+    "pronunciation": {
+      "us": "/lænd/",
+      "uk": "/lænd/"
+    },
+    "examples": [
+      "We walked across dry land. (noun)",
+      "The airplane will land soon. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "ground",
+        "soil",
+        "touch down"
+      ],
+      "antonyms": [
+        "sea",
+        "take off"
+      ],
+      "memory_tip": "Land = ground or touch the ground.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "land",
+        "landed",
+        "landing"
+      ]
+    }
+  },
+  {
+    "word": "tearful",
+    "type": "adjective",
+    "definition": "Crying or likely to cry.",
+    "pronunciation": {
+      "us": "/ˈtɪrfəl/",
+      "uk": "/ˈtɪəfʊl/"
+    },
+    "examples": [
+      "She felt tearful after the sad movie.",
+      "A tearful child hugged his mom."
+    ],
+    "extra": {
+      "synonyms": [
+        "crying",
+        "weeping",
+        "sobbing"
+      ],
+      "antonyms": [
+        "smiling",
+        "cheerful"
+      ],
+      "memory_tip": "Tearful = full of tears.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "whole",
+    "type": "adjective",
+    "definition": "All of something; not broken or in pieces.",
+    "pronunciation": {
+      "us": "/hoʊl/",
+      "uk": "/həʊl/"
+    },
+    "examples": [
+      "He ate the whole apple.",
+      "We spent the whole day at the beach."
+    ],
+    "extra": {
+      "synonyms": [
+        "entire",
+        "complete",
+        "full"
+      ],
+      "antonyms": [
+        "part",
+        "partial"
+      ],
+      "memory_tip": "Whole = every bit of it.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "astronaut",
+    "type": "noun",
+    "definition": "A person trained to travel in space.",
+    "pronunciation": {
+      "us": "/ˈæstrəˌnɔt/",
+      "uk": "/ˈæstrənɔːt/"
+    },
+    "examples": [
+      "An astronaut walks on the Moon.",
+      "She dreams of becoming an astronaut."
+    ],
+    "extra": {
+      "synonyms": [
+        "space traveler",
+        "cosmonaut"
+      ],
+      "antonyms": [
+        "earthbound",
+        "non-pilot"
+      ],
+      "memory_tip": "Astronaut = space explorer.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "dim",
+    "type": "adj.,verb",
+    "definition": "Not bright; to make something less bright.",
+    "pronunciation": {
+      "us": "/dɪm/",
+      "uk": "/dɪm/"
+    },
+    "examples": [
+      "The room was dim at dusk. (adjective)",
+      "Please dim the lights. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "faint",
+        "low-light",
+        "darken"
+      ],
+      "antonyms": [
+        "bright",
+        "shine"
+      ],
+      "memory_tip": "Dim = just a little light.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "dim",
+        "dimmed",
+        "dimming"
+      ]
+    }
+  },
+  {
+    "word": "scale",
+    "type": "noun,verb",
+    "definition": "A tool to measure weight; the size of a map or model; to climb up something.",
+    "pronunciation": {
+      "us": "/skeɪl/",
+      "uk": "/skeɪl/"
+    },
+    "examples": [
+      "Step on the scale to see your weight. (noun)",
+      "They scaled the tall wall. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "balance",
+        "proportion",
+        "climb"
+      ],
+      "antonyms": [
+        "guess",
+        "descend"
+      ],
+      "memory_tip": "Scale = weigh or climb!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "scale",
+        "scaled",
+        "scaling"
+      ]
+    }
+  },
+  {
+    "word": "tilt",
+    "type": "verb,noun",
+    "definition": "To tip something so one side is higher; a slanted position.",
+    "pronunciation": {
+      "us": "/tɪlt/",
+      "uk": "/tɪlt/"
+    },
+    "examples": [
+      "Tilt the cup to pour slowly. (verb)",
+      "The picture hung at a slight tilt. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "tip",
+        "lean",
+        "slant"
+      ],
+      "antonyms": [
+        "level",
+        "straighten"
+      ],
+      "memory_tip": "Tilt = not straight but slanted.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "tilt",
+        "tilted",
+        "tilting"
+      ]
+    }
+  }
+]

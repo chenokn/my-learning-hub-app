@@ -1,0 +1,265 @@
+[
+  {
+    "word": "abroad",
+    "type": "adverb",
+    "definition": "In or to a foreign country; widely spread.",
+    "pronunciation": { "us": "uh-BRAWD", "uk": "uh-BRAWD" },
+    "examples": [
+      "She studied abroad for a year.",
+      "News of the discovery spread abroad quickly."
+    ],
+    "extra": {
+      "synonyms": ["overseas", "internationally", "widely"],
+      "antonyms": ["domestically", "locally"],
+      "memory_tip": "Abroad = a-‘broad’ world beyond your borders.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "anguish",
+    "type": "noun,verb",
+    "definition": "Severe mental or physical pain; to suffer great pain.",
+    "pronunciation": { "us": "ANG-gwish", "uk": "ANG-gwish" },
+    "examples": [
+      "He spoke with visible anguish. (noun)",
+      "Families anguished over the delays. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["agony", "torment", "distress"],
+      "antonyms": ["relief", "comfort", "ease"],
+      "memory_tip": "Anguish = ‘anguish-ing’ pain in heart or body.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["anguish (verb)", "anguished", "anguishing"]
+    }
+  },
+  {
+    "word": "commence",
+    "type": "verb",
+    "definition": "To begin or start.",
+    "pronunciation": { "us": "kuh-MENS", "uk": "kuh-MENS" },
+    "examples": [
+      "The ceremony will commence at noon.",
+      "Work commenced after approval."
+    ],
+    "extra": {
+      "synonyms": ["begin", "start", "initiate"],
+      "antonyms": ["finish", "conclude", "terminate"],
+      "memory_tip": "Commence = commence the ‘common’ start.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["commence", "commenced", "commencing"]
+    }
+  },
+  {
+    "word": "commend",
+    "type": "verb",
+    "definition": "To praise formally; to recommend as worthy.",
+    "pronunciation": { "us": "kuh-MEND", "uk": "kuh-MEND" },
+    "examples": [
+      "The headteacher commended the pupils.",
+      "I commend this book to all new readers."
+    ],
+    "extra": {
+      "synonyms": ["praise", "applaud", "recommend"],
+      "antonyms": ["criticise", "condemn", "disparage"],
+      "memory_tip": "Commend = comment with praise.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["commend", "commended", "commending"]
+    }
+  },
+  {
+    "word": "controversy",
+    "type": "noun",
+    "definition": "A prolonged public disagreement or heated discussion.",
+    "pronunciation": { "us": "KON-truh-ver-see", "uk": "kun-TROV-uh-see" },
+    "examples": [
+      "The policy sparked controversy.",
+      "They avoided controversy by delaying the vote."
+    ],
+    "extra": {
+      "synonyms": ["dispute", "debate", "argument"],
+      "antonyms": ["consensus", "agreement", "harmony"],
+      "memory_tip": "Controversy = ‘contra’ (against) + ‘versy’ (turn) — ideas turned against each other.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "cordial",
+    "type": "adjective,noun",
+    "definition": "Warm and friendly; a sweet fruit drink or liqueur (UK).",
+    "pronunciation": { "us": "KOR-juhl", "uk": "KAW-juhl" },
+    "examples": [
+      "They exchanged cordial greetings. (adjective)",
+      "Would you like blackcurrant cordial? (noun, UK)"
+    ],
+    "extra": {
+      "synonyms": ["friendly", "warm", "affable"],
+      "antonyms": ["hostile", "cold", "aloof"],
+      "memory_tip": "Cordial = from the ‘heart’—warm and friendly.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "dissent",
+    "type": "noun,verb",
+    "definition": "Disagreement with commonly held views; to disagree.",
+    "pronunciation": { "us": "di-SENT", "uk": "di-SENT" },
+    "examples": [
+      "There was little room for dissent. (noun)",
+      "Two members dissented from the decision. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["disagreement", "objection", "dispute"],
+      "antonyms": ["consent", "agreement", "accord"],
+      "memory_tip": "Dissent = ‘dis’-sent—send a different view.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["dissent", "dissented", "dissenting"]
+    }
+  },
+  {
+    "word": "earnest",
+    "type": "adjective,noun",
+    "definition": "Serious and sincere; a token of good faith (in earnest).",
+    "pronunciation": { "us": "UR-nist", "uk": "UR-nist" },
+    "examples": [
+      "Her apology was earnest. (adjective)",
+      "The project begins in earnest next month. (noun phrase)"
+    ],
+    "extra": {
+      "synonyms": ["serious", "sincere", "grave"],
+      "antonyms": ["flippant", "casual", "insincere"],
+      "memory_tip": "Earnest = you ‘earn’ trust by being sincere.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "elicit",
+    "type": "verb",
+    "definition": "To draw out a response or fact from someone.",
+    "pronunciation": { "us": "ih-LISS-it", "uk": "ih-LISS-it" },
+    "examples": [
+      "The teacher’s questions elicited lively debate.",
+      "A smile can elicit a smile in return."
+    ],
+    "extra": {
+      "synonyms": ["evoke", "extract", "bring out"],
+      "antonyms": ["suppress", "stifle", "ignore"],
+      "memory_tip": "Elicit (draw out) ≠ illicit (illegal).",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["elicit", "elicited", "eliciting"]
+    }
+  },
+  {
+    "word": "exhilaration",
+    "type": "noun",
+    "definition": "A feeling of great excitement and happiness.",
+    "pronunciation": { "us": "eg-ZIL-uh-RAY-shun", "uk": "eg-ZIL-uh-RAY-shun" },
+    "examples": [
+      "They shouted with exhilaration at the finish line.",
+      "The flight over the canyon brought pure exhilaration."
+    ],
+    "extra": {
+      "synonyms": ["euphoria", "thrill", "elation"],
+      "antonyms": ["depression", "gloom", "boredom"],
+      "memory_tip": "Exhilaration = energy that ‘hurtles’ you into joy.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "genuine",
+    "type": "adjective",
+    "definition": "Real, authentic, and sincere.",
+    "pronunciation": { "us": "JEN-yoo-in", "uk": "JEN-yoo-in" },
+    "examples": [
+      "The necklace is made of genuine silver.",
+      "Her genuine interest made everyone relax."
+    ],
+    "extra": {
+      "synonyms": ["authentic", "real", "sincere"],
+      "antonyms": ["fake", "counterfeit", "insincere"],
+      "memory_tip": "Genuine = the ‘gen-u-wine’ real thing.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "hoax",
+    "type": "noun,verb",
+    "definition": "A trick intended to deceive; to trick someone into believing something false.",
+    "pronunciation": { "us": "hohks", "uk": "hohks" },
+    "examples": [
+      "The story turned out to be a hoax. (noun)",
+      "They were hoaxed by the fake email. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["trick", "fraud", "prank"],
+      "antonyms": ["truth", "fact", "reality"],
+      "memory_tip": "Hoax = hoax folks—fake news alert.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["hoax (verb)", "hoaxed", "hoaxing"]
+    }
+  },
+  {
+    "word": "manipulate",
+    "type": "verb",
+    "definition": "To control or influence cleverly, often unfairly; to handle with skill.",
+    "pronunciation": { "us": "muh-NIP-yuh-layt", "uk": "muh-NIP-yuh-layt" },
+    "examples": [
+      "The ad tried to manipulate customers’ emotions.",
+      "Engineers manipulate data to model outcomes."
+    ],
+    "extra": {
+      "synonyms": ["control", "influence", "handle"],
+      "antonyms": ["release", "mismanage", "neglect"],
+      "memory_tip": "Manipulate = ‘manual’ skills + influence.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["manipulate", "manipulated", "manipulating"]
+    }
+  },
+  {
+    "word": "recount",
+    "type": "verb,noun",
+    "definition": "To tell a story or describe in detail; a second count of votes or items.",
+    "pronunciation": { "us": "ri-KOUNT (tell), REE-count (count again)", "uk": "ri-KOUNT (tell), REE-count (count again)" },
+    "examples": [
+      "She recounted her journey across the desert. (verb, tell)",
+      "The close result led to a recount. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["narrate", "relate", "retell"],
+      "antonyms": ["suppress", "withhold", "silence"],
+      "memory_tip": "Recount = either re-tell a tale or re-count the totals.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["recount", "recounted", "recounting"]
+    }
+  },
+  {
+    "word": "skeptic",
+    "type": "noun",
+    "definition": "A person who doubts accepted opinions; UK spelling: ‘sceptic’.",
+    "pronunciation": { "us": "SKEP-tik", "uk": "SKEP-tik" },
+    "examples": [
+      "A healthy skeptic asks for evidence.",
+      "Skeptics questioned the bold claim."
+    ],
+    "extra": {
+      "synonyms": ["doubter", "questioner", "nonbeliever"],
+      "antonyms": ["believer", "advocate", "supporter"],
+      "memory_tip": "Skeptic = you ‘scope’ claims before you accept.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

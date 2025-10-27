@@ -1,0 +1,178 @@
+[
+  {
+    "word": "amaze",
+    "type": "verb",
+    "definition": "To surprise someone very much; to fill with wonder.",
+    "pronunciation": { "us": "uh-MAYZ", "uk": "uh-MAYZ" },
+    "examples": [
+      "The magician’s tricks amazed the crowd.",
+      "It never ceases to amaze me how fast plants grow."
+    ],
+    "extra": {
+      "synonyms": ["astonish", "surprise", "wow"],
+      "antonyms": ["bore", "disappoint"],
+      "memory_tip": "Amaze = make mouths say ‘amaze-ing!’",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["amaze", "amazed", "amazing"]
+    }
+  },
+  {
+    "word": "arctic",
+    "type": "adjective,noun",
+    "definition": "Very cold; relating to the regions around the North Pole; the Arctic region.",
+    "pronunciation": { "us": "AHRK-tik", "uk": "AHK-tik" },
+    "examples": [
+      "Penguins live in Antarctic regions, although the Arctic is also extremely cold. (adjective)",
+      "Sea ice covers much of the Arctic in winter. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["polar", "freezing", "north polar (noun)"],
+      "antonyms": ["tropical", "warm"],
+      "memory_tip": "Arctic = think ‘ice and aurora’ at the top of the world.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "court",
+    "type": "noun,verb",
+    "definition": "A place where legal cases are heard or a marked area for games; to try to win favour or to risk bringing about something.",
+    "pronunciation": { "us": "kort", "uk": "kawt" },
+    "examples": [
+      "The case will go to court next month. (noun)",
+      "They played tennis on the new court. (noun)",
+      "He courted disaster by driving too fast. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["tribunal", "arena", "seek (verb)"],
+      "antonyms": ["avoid (verb)", "shun (verb)"],
+      "memory_tip": "Court can be a law room, a sports room, or the act of seeking favour.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["court", "courted", "courting"]
+    }
+  },
+  {
+    "word": "elect",
+    "type": "verb,adjective",
+    "definition": "To choose by voting; chosen but not yet in office.",
+    "pronunciation": { "us": "ih-LEKT", "uk": "ih-LEKT" },
+    "examples": [
+      "Citizens will elect a new council on Friday. (verb)",
+      "The president-elect will take office in January. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["choose", "select", "pick"],
+      "antonyms": ["reject", "dismiss"],
+      "memory_tip": "Elect = select by ballot.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["elect", "elected", "electing"]
+    }
+  },
+  {
+    "word": "interval",
+    "type": "noun",
+    "definition": "A pause or break in activity; the time or distance between two points or events.",
+    "pronunciation": { "us": "IN-ter-vul", "uk": "IN-tuh-vuhl" },
+    "examples": [
+      "We bought snacks during the interval at the theatre.",
+      "Trains arrive at ten-minute intervals."
+    ],
+    "extra": {
+      "synonyms": ["break", "gap", "pause"],
+      "antonyms": ["continuation", "stretch (unbroken)"],
+      "memory_tip": "Interval = in-between time.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "league",
+    "type": "noun",
+    "definition": "A group of teams that compete against each other; also a long-distance measure used in the past.",
+    "pronunciation": { "us": "leeg", "uk": "leeg" },
+    "examples": [
+      "Her team won the football league this year.",
+      "Sailors once measured journeys in leagues."
+    ],
+    "extra": {
+      "synonyms": ["association", "division", "conference"],
+      "antonyms": ["individual match (contrast)", "disunion"],
+      "memory_tip": "League = linked teams in a season.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "limit",
+    "type": "noun,verb",
+    "definition": "A point beyond which something cannot go; to set a maximum or restrict.",
+    "pronunciation": { "us": "LIM-it", "uk": "LIM-it" },
+    "examples": [
+      "Please keep under the speed limit. (noun)",
+      "We must limit screen time in the evening. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["boundary", "cap", "restrict (verb)"],
+      "antonyms": ["freedom", "expand (verb)"],
+      "memory_tip": "Limit = line in it—don’t cross the line.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["limit", "limited", "limiting"]
+    }
+  },
+  {
+    "word": "milestone",
+    "type": "noun",
+    "definition": "An important event or stage in development or progress.",
+    "pronunciation": { "us": "MYL-stohn", "uk": "MYL-stohn" },
+    "examples": [
+      "Learning to read is a major milestone for children.",
+      "The company marked a milestone of one million users."
+    ],
+    "extra": {
+      "synonyms": ["landmark", "turning point", "benchmark"],
+      "antonyms": ["setback", "trivial event"],
+      "memory_tip": "Milestone = a stone that marks how far you’ve come.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "recreation",
+    "type": "noun",
+    "definition": "Activities done for enjoyment and relaxation when not working.",
+    "pronunciation": { "us": "rek-ree-AY-shun", "uk": "rek-ree-AY-shun" },
+    "examples": [
+      "Swimming is popular recreation in summer.",
+      "The park was built for community recreation."
+    ],
+    "extra": {
+      "synonyms": ["leisure", "pastime", "fun"],
+      "antonyms": ["work", "drudgery"],
+      "memory_tip": "Re-creation = creating your energy again by resting and playing.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "tackle",
+    "type": "verb,noun",
+    "definition": "To deal with a task or person directly; in sport, to stop an opponent by grabbing or knocking; the equipment used for a particular activity.",
+    "pronunciation": { "us": "TAK-uhl", "uk": "TAK-uhl" },
+    "examples": [
+      "We’ll tackle the hardest question first. (verb)",
+      "His last-minute tackle saved a goal. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["address", "confront", "gear (noun)"],
+      "antonyms": ["avoid", "sidestep"],
+      "memory_tip": "Tackle = take hold of the problem—or the player.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["tackle", "tackled", "tackling"]
+    }
+  }
+]

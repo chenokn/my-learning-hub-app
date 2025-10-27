@@ -1,0 +1,278 @@
+[
+  {
+    "word": "ape",
+    "type": "noun,verb",
+    "definition": "A large primate like a gorilla or chimpanzee; to copy someone’s actions or words in a silly way.",
+    "pronunciation": {
+      "uk": "/eɪp/"
+    },
+    "examples": [
+      "An ape can use simple tools. (noun)",
+      "He aped the teacher’s voice for fun. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "primate",
+        "mimic",
+        "imitate"
+      ],
+      "antonyms": [
+        "original",
+        "human (contrast)"
+      ],
+      "memory_tip": "Ape = big monkey or someone copying.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "ape",
+        "aped",
+        "aping"
+      ]
+    }
+  },
+  {
+    "word": "brain",
+    "type": "noun",
+    "definition": "The organ in your head that controls thoughts, feelings and movement; an intelligent person.",
+    "pronunciation": {
+      "uk": "/breɪn/"
+    },
+    "examples": [
+      "The brain sends signals to the body.",
+      "She is the brain of the team."
+    ],
+    "extra": {
+      "synonyms": [
+        "mind",
+        "intellect"
+      ],
+      "antonyms": [
+        "body (contrast)"
+      ],
+      "memory_tip": "Brain = body’s control centre.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "branch",
+    "type": "noun,verb",
+    "definition": "A limb growing from the trunk of a tree; to split off from a main route or part.",
+    "pronunciation": {
+      "uk": "/brɑːntʃ/"
+    },
+    "examples": [
+      "A bird sat on the branch. (noun)",
+      "The path branches to the left. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "limb",
+        "bough",
+        "divide"
+      ],
+      "antonyms": [
+        "trunk",
+        "join"
+      ],
+      "memory_tip": "Branch = tree arm or split in a road.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "branch",
+        "branched",
+        "branching"
+      ]
+    }
+  },
+  {
+    "word": "cavern",
+    "type": "noun",
+    "definition": "A very large cave or underground chamber.",
+    "pronunciation": {
+      "uk": "/ˈkævən/"
+    },
+    "examples": [
+      "They explored a dark cavern.",
+      "Water dripped inside the cavern."
+    ],
+    "extra": {
+      "synonyms": [
+        "cave",
+        "grotto"
+      ],
+      "antonyms": [
+        "hill",
+        "plain"
+      ],
+      "memory_tip": "Cavern = giant cave underground.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "chimney",
+    "type": "noun",
+    "definition": "A vertical structure that carries smoke from a fire or furnace out of a building.",
+    "pronunciation": {
+      "uk": "/ˈtʃɪmni/"
+    },
+    "examples": [
+      "Smoke rose from the cottage chimney.",
+      "Birds sometimes nest in old chimneys."
+    ],
+    "extra": {
+      "synonyms": [
+        "flue",
+        "stack"
+      ],
+      "antonyms": [
+        "vent (contrast)"
+      ],
+      "memory_tip": "Chimney = smoke’s way out.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "dozen",
+    "type": "noun",
+    "definition": "A group of twelve.",
+    "pronunciation": {
+      "uk": "/ˈdʌzn/"
+    },
+    "examples": [
+      "She bought a dozen eggs.",
+      "There are a dozen months in a year."
+    ],
+    "extra": {
+      "synonyms": [
+        "twelve"
+      ],
+      "antonyms": [
+        "one",
+        "score (contrast)"
+      ],
+      "memory_tip": "Dozen = set of twelve.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "flame",
+    "type": "noun,verb",
+    "definition": "The bright, hot part of a fire; to burn with a visible flame.",
+    "pronunciation": {
+      "uk": "/fleɪm/"
+    },
+    "examples": [
+      "The candle’s flame flickered. (noun)",
+      "The logs flamed brightly. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "fire",
+        "blaze",
+        "burn"
+      ],
+      "antonyms": [
+        "smoulder",
+        "extinguish"
+      ],
+      "memory_tip": "Flame = dancing bit of fire.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "flame",
+        "flamed",
+        "flaming"
+      ]
+    }
+  },
+  {
+    "word": "net",
+    "type": "noun,verb",
+    "definition": "Material made of crossing threads with holes; to catch with a net or achieve a result.",
+    "pronunciation": {
+      "uk": "/net/"
+    },
+    "examples": [
+      "He caught a fish in a net. (noun)",
+      "She netted the winning goal. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "mesh",
+        "catch",
+        "earn"
+      ],
+      "antonyms": [
+        "lose",
+        "free"
+      ],
+      "memory_tip": "Net = holes for catching or result gained.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "net",
+        "netted",
+        "netting"
+      ]
+    }
+  },
+  {
+    "word": "spear",
+    "type": "noun,verb",
+    "definition": "A long pole with a sharp point; to pierce or throw a spear at something.",
+    "pronunciation": {
+      "uk": "/spɪə/"
+    },
+    "examples": [
+      "The warrior carried a spear. (noun)",
+      "They speared fish in shallow water. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "lance",
+        "stab",
+        "pierce"
+      ],
+      "antonyms": [
+        "shield",
+        "defend"
+      ],
+      "memory_tip": "Spear = pointy pole weapon.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "spear",
+        "speared",
+        "spearing"
+      ]
+    }
+  },
+  {
+    "word": "torch",
+    "type": "noun",
+    "definition": "A portable device that produces light, especially a battery-powered flashlight.",
+    "pronunciation": {
+      "uk": "/tɔːtʃ/"
+    },
+    "examples": [
+      "Use a torch when walking at night.",
+      "He shone the torch into the cave."
+    ],
+    "extra": {
+      "synonyms": [
+        "flashlight",
+        "lantern"
+      ],
+      "antonyms": [
+        "darkness"
+      ],
+      "memory_tip": "Torch = hand-held light source.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

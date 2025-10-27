@@ -1,0 +1,265 @@
+[
+  {
+    "word": "advantage",
+    "type": "noun,verb",
+    "definition": "Something helpful that puts you in a better position; to put someone or something in a favourable position.",
+    "pronunciation": { "us": "ad-VAN-tij", "uk": "ad-VAN-tij" },
+    "examples": [
+      "Playing at home was a big advantage. (noun)",
+      "The schedule advantaged the early starters. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["benefit", "edge", "gain"],
+      "antonyms": ["disadvantage", "drawback", "handicap"],
+      "memory_tip": "Advantage = ‘advance’ toward winning.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["advantage (verb)", "advantaged", "advantaging"]
+    }
+  },
+  {
+    "word": "astonish",
+    "type": "verb",
+    "definition": "To surprise greatly; to amaze.",
+    "pronunciation": { "us": "uh-STON-ish", "uk": "uh-STON-ish" },
+    "examples": [
+      "The magician’s trick astonished the crowd.",
+      "Her rapid progress astonished her coach."
+    ],
+    "extra": {
+      "synonyms": ["amaze", "astound", "startle"],
+      "antonyms": ["bore", "disappoint"],
+      "memory_tip": "Astonish = a stone-cold surprise!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["astonish", "astonished", "astonishing"]
+    }
+  },
+  {
+    "word": "confirm",
+    "type": "verb",
+    "definition": "To show that something is true or correct; to make something certain.",
+    "pronunciation": { "us": "kun-FERM", "uk": "kun-FERM" },
+    "examples": [
+      "The lab confirmed the results.",
+      "Please confirm your booking by email."
+    ],
+    "extra": {
+      "synonyms": ["verify", "affirm", "validate"],
+      "antonyms": ["deny", "refute", "contradict"],
+      "memory_tip": "Confirm = firm up the facts.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["confirm", "confirmed", "confirming"]
+    }
+  },
+  {
+    "word": "distant",
+    "type": "adjective",
+    "definition": "Far away in space or time; not friendly or close.",
+    "pronunciation": { "us": "DIS-tunt", "uk": "DIS-tunt" },
+    "examples": [
+      "We saw distant mountains on the horizon.",
+      "He seemed distant during the meeting."
+    ],
+    "extra": {
+      "synonyms": ["far", "remote", "aloof"],
+      "antonyms": ["near", "close", "friendly"],
+      "memory_tip": "Distant = a big distance between.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "founder",
+    "type": "noun,verb",
+    "definition": "A person who starts something such as a company or school; to fail, break down, or sink (especially of a plan, project, or ship).",
+    "pronunciation": { "us": "FOWN-der", "uk": "FOWN-duh" },
+    "examples": [
+      "The founders wrote the charity’s mission. (noun)",
+      "The boat began to founder in rough seas. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["originator (noun)", "establish (verb: contrast sense)", "collapse (verb)"],
+      "antonyms": ["successor (noun)", "succeed (verb)"],
+      "memory_tip": "Founder (verb) = flounder and fail; (noun) = the one who founds.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["founder (verb)", "foundered", "foundering"]
+    }
+  },
+  {
+    "word": "hamlet",
+    "type": "noun",
+    "definition": "A very small village.",
+    "pronunciation": { "us": "HAM-lit", "uk": "HAM-lit" },
+    "examples": [
+      "They live in a quiet hamlet near the woods.",
+      "The hamlet has one shop and a post box."
+    ],
+    "extra": {
+      "synonyms": ["small village", "settlement"],
+      "antonyms": ["city", "metropolis"],
+      "memory_tip": "Hamlet = a little home cluster.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "host",
+    "type": "noun,verb",
+    "definition": "A person who welcomes and entertains guests; a large number; to organise and provide the place for an event.",
+    "pronunciation": { "us": "hohst", "uk": "hohst" },
+    "examples": [
+      "The host greeted everyone at the door. (noun)",
+      "Our school will host the tournament. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["presenter", "entertainer", "hold (verb)"],
+      "antonyms": ["guest (noun)", "attend (verb)"],
+      "memory_tip": "Host = the one who holds the gathering.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["host", "hosted", "hosting"]
+    }
+  },
+  {
+    "word": "misgiving",
+    "type": "noun",
+    "definition": "A feeling of doubt or worry about a future event (often used in the plural).",
+    "pronunciation": { "us": "miz-GIV-ing", "uk": "miz-GIV-ing" },
+    "examples": [
+      "She had misgivings about the plan.",
+      "Despite misgiving, they went ahead."
+    ],
+    "extra": {
+      "synonyms": ["doubt", "unease", "suspicion"],
+      "antonyms": ["confidence", "assurance"],
+      "memory_tip": "Misgiving = you ‘mis-give’ your trust.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "parch",
+    "type": "verb",
+    "definition": "To make or become very dry, especially by heat.",
+    "pronunciation": { "us": "parch", "uk": "parch" },
+    "examples": [
+      "The sun parched the fields.",
+      "After the run, my throat was parched."
+    ],
+    "extra": {
+      "synonyms": ["dry out", "dehydrate", "scorch"],
+      "antonyms": ["soak", "moisten", "rehydrate"],
+      "memory_tip": "Parch = parked in the sun too long.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["parch", "parched", "parching"]
+    }
+  },
+  {
+    "word": "prospect",
+    "type": "noun,verb",
+    "definition": "The possibility of something happening; a view; to search for valuable minerals.",
+    "pronunciation": { "us": "PROS-pekt (noun)", "uk": "PROS-pekt (noun), pruh-SPEKT (verb)" },
+    "examples": [
+      "The prospect of rain changed our plans. (noun)",
+      "They prospected for gold in the hills. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["chance", "outlook", "explore (verb)"],
+      "antonyms": ["certainty (contrast)", "ignore (verb)"],
+      "memory_tip": "Prospect = look forward; or look for ore.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["prospect", "prospected", "prospecting"]
+    }
+  },
+  {
+    "word": "scarce",
+    "type": "adjective",
+    "definition": "Hard to find; in short supply.",
+    "pronunciation": { "us": "skairs", "uk": "skairs" },
+    "examples": [
+      "Fresh water is scarce in the desert.",
+      "In winter, berries become scarce."
+    ],
+    "extra": {
+      "synonyms": ["rare", "sparse", "limited"],
+      "antonyms": ["abundant", "plentiful", "ample"],
+      "memory_tip": "Scarce = scarcely enough.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "shrewd",
+    "type": "adjective",
+    "definition": "Having sharp judgement; clever at making good decisions.",
+    "pronunciation": { "us": "shrood", "uk": "shrood" },
+    "examples": [
+      "She is a shrewd negotiator.",
+      "A shrewd guess saved us time."
+    ],
+    "extra": {
+      "synonyms": ["astute", "savvy", "clever"],
+      "antonyms": ["foolish", "naive", "gullible"],
+      "memory_tip": "Shrewd = sharp + shrewd sense.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "sole",
+    "type": "adjective,noun",
+    "definition": "Only; single; the bottom of a foot or shoe; a kind of flat fish.",
+    "pronunciation": { "us": "sohl", "uk": "sohl" },
+    "examples": [
+      "She was the sole survivor. (adjective)",
+      "There’s a hole in my shoe’s sole. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["only", "single", "underside (noun)"],
+      "antonyms": ["shared", "multiple", "upper (contrast)"],
+      "memory_tip": "Sole = only one; or the sole of your shoe.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "torment",
+    "type": "noun,verb",
+    "definition": "Severe physical or mental suffering; to cause great pain or distress.",
+    "pronunciation": { "us": "TOR-ment (noun), tor-MENT (verb)", "uk": "TOR-ment (noun), tor-MENT (verb)" },
+    "examples": [
+      "The noise was a torment to the patient. (noun)",
+      "Don’t torment others with unkind jokes. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["agony", "torture", "distress"],
+      "antonyms": ["comfort", "relief", "soothe"],
+      "memory_tip": "Torment = tormenting trouble.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["torment", "tormented", "tormenting"]
+    }
+  },
+  {
+    "word": "typical",
+    "type": "adjective",
+    "definition": "Showing the usual qualities of a particular type; normal or expected.",
+    "pronunciation": { "us": "TIP-i-kuhl", "uk": "TIP-i-kuhl" },
+    "examples": [
+      "A typical school day starts at nine.",
+      "Rain is typical in April here."
+    ],
+    "extra": {
+      "synonyms": ["usual", "normal", "standard"],
+      "antonyms": ["unusual", "atypical", "rare"],
+      "memory_tip": "Typical = the type you expect.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

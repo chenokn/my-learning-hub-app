@@ -1,0 +1,452 @@
+[
+  {
+    "word": "accommodate",
+    "type": "verb",
+    "definition": "To provide space for; to help or adjust to someone’s needs.",
+    "pronunciation": {
+      "us": "uh-KOM-uh-dayt",
+      "uk": "uh-KOM-uh-dayt"
+    },
+    "examples": [
+      "The cabin can accommodate six people.",
+      "We adjusted the plan to accommodate the new student."
+    ],
+    "extra": {
+      "synonyms": [
+        "house",
+        "fit",
+        "adapt",
+        "help"
+      ],
+      "antonyms": [
+        "evict",
+        "reject",
+        "inconvenience"
+      ],
+      "memory_tip": "Accommodate = make room or make it fit.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "accommodate",
+        "accommodated",
+        "accommodating"
+      ]
+    }
+  },
+  {
+    "word": "aggressive",
+    "type": "adjective",
+    "definition": "Ready to attack or argue; very forceful in pushing to succeed.",
+    "pronunciation": {
+      "us": "uh-GRES-iv",
+      "uk": "uh-GRES-iv"
+    },
+    "examples": [
+      "An aggressive dog barked at the gate.",
+      "He used an aggressive strategy to win the match."
+    ],
+    "extra": {
+      "synonyms": [
+        "hostile",
+        "pushy",
+        "forceful"
+      ],
+      "antonyms": [
+        "calm",
+        "gentle",
+        "peaceful"
+      ],
+      "memory_tip": "Aggressive = acts like it’s ready to press in.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "bask",
+    "type": "verb",
+    "definition": "To lie or relax in a warm place; to take pleasure in praise or good feelings.",
+    "pronunciation": {
+      "us": "bask",
+      "uk": "bahsk"
+    },
+    "examples": [
+      "Lizards bask on sunny rocks.",
+      "She basked in the crowd’s applause."
+    ],
+    "extra": {
+      "synonyms": [
+        "sunbathe",
+        "relax",
+        "revel"
+      ],
+      "antonyms": [
+        "shiver",
+        "suffer"
+      ],
+      "memory_tip": "Bask = bathe in warmth or praise.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "bask",
+        "basked",
+        "basking"
+      ]
+    }
+  },
+  {
+    "word": "carcass",
+    "type": "noun",
+    "definition": "The dead body of an animal.",
+    "pronunciation": {
+      "us": "KAR-kuss",
+      "uk": "KAH-kuss"
+    },
+    "examples": [
+      "Vultures circled the carcass.",
+      "The carcass was found near the road."
+    ],
+    "extra": {
+      "synonyms": [
+        "corpse",
+        "remains"
+      ],
+      "antonyms": [
+        "living creature (contrast)"
+      ],
+      "memory_tip": "Carcass = what’s left after life has gone.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "conceal",
+    "type": "verb",
+    "definition": "To hide or keep something from being seen or known.",
+    "pronunciation": {
+      "us": "kun-SEEL",
+      "uk": "kun-SEEL"
+    },
+    "examples": [
+      "She concealed the gift behind her back.",
+      "Clouds concealed the mountain peak."
+    ],
+    "extra": {
+      "synonyms": [
+        "hide",
+        "cover",
+        "mask"
+      ],
+      "antonyms": [
+        "reveal",
+        "expose"
+      ],
+      "memory_tip": "Conceal = keep concealed (sealed) from view.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "conceal",
+        "concealed",
+        "concealing"
+      ]
+    }
+  },
+  {
+    "word": "flail",
+    "type": "verb,noun",
+    "definition": "To wave or swing wildly; a tool for threshing grain.",
+    "pronunciation": {
+      "us": "flayl",
+      "uk": "flayl"
+    },
+    "examples": [
+      "He flailed his arms to keep balance. (verb)",
+      "The old flail hung in the barn. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "thrash",
+        "whip",
+        "wave"
+      ],
+      "antonyms": [
+        "steady",
+        "control"
+      ],
+      "memory_tip": "Flail = fail to control your flapping.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "flail",
+        "flailed",
+        "flailing"
+      ]
+    }
+  },
+  {
+    "word": "gorge",
+    "type": "noun,verb",
+    "definition": "A deep, narrow valley with steep sides; to eat greedily.",
+    "pronunciation": {
+      "us": "gorj",
+      "uk": "gorj"
+    },
+    "examples": [
+      "A river cut the gorge through the hills. (noun)",
+      "They gorged on berries after the hike. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "ravine",
+        "canyon",
+        "devour"
+      ],
+      "antonyms": [
+        "sip",
+        "nibble"
+      ],
+      "memory_tip": "Gorge = a giant gap—or to fill your own!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "gorge",
+        "gorged",
+        "gorging"
+      ]
+    }
+  },
+  {
+    "word": "morsel",
+    "type": "noun",
+    "definition": "A small piece or bite of food.",
+    "pronunciation": {
+      "us": "MOR-suhl",
+      "uk": "MOR-suhl"
+    },
+    "examples": [
+      "He gave the pup a morsel of bread.",
+      "Not a morsel was left on the plate."
+    ],
+    "extra": {
+      "synonyms": [
+        "bite",
+        "nibble",
+        "crumb"
+      ],
+      "antonyms": [
+        "feast (contrast)",
+        "heap (contrast)"
+      ],
+      "memory_tip": "Morsel = more-so little piece.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "protrude",
+    "type": "verb",
+    "definition": "To stick out from a surface.",
+    "pronunciation": {
+      "us": "proh-TROOD",
+      "uk": "pruh-TROOD"
+    },
+    "examples": [
+      "Tree roots protruded from the path.",
+      "A nail protrudes from the board."
+    ],
+    "extra": {
+      "synonyms": [
+        "stick out",
+        "jut",
+        "bulge"
+      ],
+      "antonyms": [
+        "recede",
+        "sink"
+      ],
+      "memory_tip": "Protrude = push out past the edge.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "protrude",
+        "protruded",
+        "protruding"
+      ]
+    }
+  },
+  {
+    "word": "ripple",
+    "type": "noun,verb",
+    "definition": "A small wave or series of waves; to form small waves.",
+    "pronunciation": {
+      "us": "RIP-uhl",
+      "uk": "RIP-uhl"
+    },
+    "examples": [
+      "Wind made ripples on the pond. (noun)",
+      "Laughter rippled through the class. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "wavelet",
+        "undulation",
+        "ruffle"
+      ],
+      "antonyms": [
+        "calm",
+        "stillness"
+      ],
+      "memory_tip": "Ripple = little rip in the water’s smoothness.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "ripple",
+        "rippled",
+        "rippling"
+      ]
+    }
+  },
+  {
+    "word": "slither",
+    "type": "verb",
+    "definition": "To move smoothly over a surface with a twisting, sliding motion.",
+    "pronunciation": {
+      "us": "SLITH-er",
+      "uk": "SLITH-uh"
+    },
+    "examples": [
+      "The snake slithered into the grass.",
+      "Spilt oil made him slither on the floor."
+    ],
+    "extra": {
+      "synonyms": [
+        "slide",
+        "glide",
+        "wriggle"
+      ],
+      "antonyms": [
+        "march",
+        "stamp"
+      ],
+      "memory_tip": "Slither = slippery slink.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "slither",
+        "slithered",
+        "slithering"
+      ]
+    }
+  },
+  {
+    "word": "sluggish",
+    "type": "adjective",
+    "definition": "Moving slowly or lacking energy.",
+    "pronunciation": {
+      "us": "SLUG-ish",
+      "uk": "SLUG-ish"
+    },
+    "examples": [
+      "I felt sluggish after the long flight.",
+      "Traffic was sluggish in the rain."
+    ],
+    "extra": {
+      "synonyms": [
+        "slow",
+        "lethargic",
+        "inactive"
+      ],
+      "antonyms": [
+        "lively",
+        "brisk",
+        "energetic"
+      ],
+      "memory_tip": "Sluggish = like a slug—slow to go.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "snout",
+    "type": "noun",
+    "definition": "The long nose and mouth of an animal like a pig, dog, or crocodile.",
+    "pronunciation": {
+      "us": "snout",
+      "uk": "snout"
+    },
+    "examples": [
+      "The pig’s snout pushed through the fence.",
+      "Mud covered the pup’s snout."
+    ],
+    "extra": {
+      "synonyms": [
+        "muzzle",
+        "nose"
+      ],
+      "antonyms": [
+        "tail (contrast)"
+      ],
+      "memory_tip": "Snout = nose that sticks out.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "taper",
+    "type": "verb,noun",
+    "definition": "To become gradually thinner or narrower; a small, thin candle.",
+    "pronunciation": {
+      "us": "TAY-per",
+      "uk": "TAY-puh"
+    },
+    "examples": [
+      "The road tapers to a single lane. (verb)",
+      "She lit a taper to read. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "thin",
+        "narrow",
+        "diminish"
+      ],
+      "antonyms": [
+        "widen",
+        "thicken"
+      ],
+      "memory_tip": "Taper = tip gets tinier toward the end.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "taper",
+        "tapered",
+        "tapering"
+      ]
+    }
+  },
+  {
+    "word": "visible",
+    "type": "adjective",
+    "definition": "Able to be seen.",
+    "pronunciation": {
+      "us": "VIZ-uh-buhl",
+      "uk": "VIZ-uh-buhl"
+    },
+    "examples": [
+      "The moon was clearly visible.",
+      "Your name should be visible on your bag."
+    ],
+    "extra": {
+      "synonyms": [
+        "clear",
+        "noticeable",
+        "apparent"
+      ],
+      "antonyms": [
+        "invisible",
+        "hidden"
+      ],
+      "memory_tip": "Visible = in view for your eyes.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

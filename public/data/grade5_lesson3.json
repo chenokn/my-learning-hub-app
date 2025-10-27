@@ -1,0 +1,315 @@
+[
+  {
+    "word": "abandon",
+    "type": "verb",
+    "definition": "To leave something or someone behind forever or suddenly.",
+    "pronunciation": {
+      "us": "/əˈbændən/",
+      "uk": "/əˈbændən/"
+    },
+    "examples": [
+      "They had to abandon the ship during the storm.",
+      "The dog was abandoned at the park."
+    ],
+    "extra": {
+      "synonyms": [
+        "leave",
+        "desert",
+        "quit"
+      ],
+      "antonyms": [
+        "keep",
+        "stay",
+        "support"
+      ],
+      "memory_tip": "Abandon = to walk away and not return.",
+      "tier": 2,
+      "eslLevel": "challenging",
+      "tenses": {
+        "present": "abandon",
+        "past": "abandoned",
+        "participle": "abandoned"
+      }
+    }
+  },
+  {
+    "word": "benefit",
+    "type": "noun,verb",
+    "definition": "Something good or helpful; to receive something good.",
+    "pronunciation": {
+      "us": "/ˈbɛnəfɪt/",
+      "uk": "/ˈbɛnɪfɪt/"
+    },
+    "examples": [
+      "One benefit of exercise is better health. (noun)",
+      "Students benefit from reading every day. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "advantage",
+        "help",
+        "gain"
+      ],
+      "antonyms": [
+        "harm",
+        "disadvantage"
+      ],
+      "memory_tip": "Benefit = something good for you.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "benefit",
+        "past": "benefited",
+        "participle": "benefited"
+      }
+    }
+  },
+  {
+    "word": "citizen",
+    "type": "noun",
+    "definition": "A person who belongs to and has rights in a country.",
+    "pronunciation": {
+      "us": "/ˈsɪtɪzən/",
+      "uk": "/ˈsɪtɪzən/"
+    },
+    "examples": [
+      "She is a citizen of Australia.",
+      "Every citizen has the right to vote."
+    ],
+    "extra": {
+      "synonyms": [
+        "resident",
+        "member",
+        "inhabitant"
+      ],
+      "antonyms": [
+        "foreigner",
+        "visitor"
+      ],
+      "memory_tip": "Citizen = legal member of a country.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "conflict",
+    "type": "noun,verb",
+    "definition": "A struggle or disagreement; to be in opposition.",
+    "pronunciation": {
+      "us": "/ˈkɑnflɪkt/ (n), /kənˈflɪkt/ (v)",
+      "uk": "/ˈkɒnflɪkt/ (n), /kənˈflɪkt/ (v)"
+    },
+    "examples": [
+      "There was a conflict between the two groups. (noun)",
+      "The two schedules conflict with each other. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "fight",
+        "dispute",
+        "clash"
+      ],
+      "antonyms": [
+        "agreement",
+        "peace"
+      ],
+      "memory_tip": "Conflict = a crash between ideas or people.",
+      "tier": 2,
+      "eslLevel": "challenging",
+      "tenses": {
+        "present": "conflict",
+        "past": "conflicted",
+        "participle": "conflicted"
+      }
+    }
+  },
+  {
+    "word": "debate",
+    "type": "noun,verb",
+    "definition": "A formal discussion with opposing sides; to argue about something.",
+    "pronunciation": {
+      "us": "/dɪˈbeɪt/",
+      "uk": "/dɪˈbeɪt/"
+    },
+    "examples": [
+      "The class had a debate about school uniforms. (noun)",
+      "We debated which team was better. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "discussion",
+        "argument",
+        "dispute"
+      ],
+      "antonyms": [
+        "agreement",
+        "silence"
+      ],
+      "memory_tip": "Debate = take turns to share and defend ideas.",
+      "tier": 2,
+      "eslLevel": "challenging",
+      "tenses": {
+        "present": "debate",
+        "past": "debated",
+        "participle": "debated"
+      }
+    }
+  },
+  {
+    "word": "effective",
+    "type": "adjective",
+    "definition": "Doing something well or getting the result you want.",
+    "pronunciation": {
+      "us": "/ɪˈfɛktɪv/",
+      "uk": "/ɪˈfɛktɪv/"
+    },
+    "examples": [
+      "Group work was effective for this task.",
+      "This medicine is very effective."
+    ],
+    "extra": {
+      "synonyms": [
+        "useful",
+        "powerful",
+        "successful"
+      ],
+      "antonyms": [
+        "useless",
+        "weak",
+        "ineffective"
+      ],
+      "memory_tip": "Effective = it works well!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "establish",
+    "type": "verb",
+    "definition": "To set up or create something important or lasting.",
+    "pronunciation": {
+      "us": "/ɪˈstæblɪʃ/",
+      "uk": "/ɪˈstæblɪʃ/"
+    },
+    "examples": [
+      "The school was established in 1910.",
+      "They established new rules for the game."
+    ],
+    "extra": {
+      "synonyms": [
+        "create",
+        "found",
+        "start"
+      ],
+      "antonyms": [
+        "end",
+        "cancel",
+        "abolish"
+      ],
+      "memory_tip": "Establish = begin something strong and lasting.",
+      "tier": 2,
+      "eslLevel": "challenging",
+      "tenses": {
+        "present": "establish",
+        "past": "established",
+        "participle": "established"
+      }
+    }
+  },
+  {
+    "word": "influence",
+    "type": "noun,verb",
+    "definition": "The power to change or affect someone or something; to have an effect on someone’s actions or thoughts.",
+    "pronunciation": {
+      "us": "/ˈɪnfluəns/",
+      "uk": "/ˈɪnfluəns/"
+    },
+    "examples": [
+      "Her speech had a big influence on the class. (noun)",
+      "Parents influence how children behave. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "impact",
+        "control",
+        "persuade"
+      ],
+      "antonyms": [
+        "ignore",
+        "neglect"
+      ],
+      "memory_tip": "Influence = gently guide or change someone.",
+      "tier": 2,
+      "eslLevel": "challenging",
+      "tenses": {
+        "present": "influence",
+        "past": "influenced",
+        "participle": "influenced"
+      }
+    }
+  },
+  {
+    "word": "persuade",
+    "type": "verb",
+    "definition": "To make someone do or believe something by giving reasons.",
+    "pronunciation": {
+      "us": "/pərˈsweɪd/",
+      "uk": "/pəˈsweɪd/"
+    },
+    "examples": [
+      "He persuaded me to try a new book.",
+      "Can you persuade your parents to let you stay up late?"
+    ],
+    "extra": {
+      "synonyms": [
+        "convince",
+        "encourage",
+        "urge"
+      ],
+      "antonyms": [
+        "dissuade",
+        "discourage"
+      ],
+      "memory_tip": "Persuade = use words to win someone over.",
+      "tier": 2,
+      "eslLevel": "challenging",
+      "tenses": {
+        "present": "persuade",
+        "past": "persuaded",
+        "participle": "persuaded"
+      }
+    }
+  },
+  {
+    "word": "rely",
+    "type": "verb",
+    "definition": "To trust or depend on someone or something.",
+    "pronunciation": {
+      "us": "/rɪˈlaɪ/",
+      "uk": "/rɪˈlaɪ/"
+    },
+    "examples": [
+      "We rely on teachers to help us learn.",
+      "Can I rely on you to keep a secret?"
+    ],
+    "extra": {
+      "synonyms": [
+        "depend",
+        "trust",
+        "count on"
+      ],
+      "antonyms": [
+        "doubt",
+        "mistrust"
+      ],
+      "memory_tip": "Rely = lean on someone to help or support.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "rely",
+        "past": "relied",
+        "participle": "relied"
+      }
+    }
+  }
+]

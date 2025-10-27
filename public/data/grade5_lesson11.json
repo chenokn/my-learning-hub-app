@@ -1,0 +1,438 @@
+[
+  {
+    "word": "accelerate",
+    "type": "verb",
+    "definition": "To move or happen more quickly; to increase speed.",
+    "pronunciation": {
+      "us": "ak-SEL-uh-rayt",
+      "uk": "ak-SEL-uh-rayt"
+    },
+    "examples": [
+      "The car accelerated past the bus.",
+      "Practice can accelerate your progress."
+    ],
+    "extra": {
+      "synonyms": [
+        "speed up",
+        "hasten",
+        "quicken"
+      ],
+      "antonyms": [
+        "slow down",
+        "decelerate"
+      ],
+      "memory_tip": "Accelerate = add speed to ‘accelerate’ ahead.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "accelerate",
+        "accelerated",
+        "accelerating"
+      ]
+    }
+  },
+  {
+    "word": "altitude",
+    "type": "noun",
+    "definition": "The height of something above sea level or the ground.",
+    "pronunciation": {
+      "us": "AL-ti-tood",
+      "uk": "AL-ti-tyood"
+    },
+    "examples": [
+      "The plane climbed to a high altitude.",
+      "Plants change with altitude on the mountain."
+    ],
+    "extra": {
+      "synonyms": [
+        "height",
+        "elevation"
+      ],
+      "antonyms": [
+        "depth",
+        "low level"
+      ],
+      "memory_tip": "Altitude = ‘attic’ of the sky—how high up.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "anxious",
+    "type": "adjective",
+    "definition": "Worried or nervous; eager in a way that shows worry.",
+    "pronunciation": {
+      "us": "ANGK-shus",
+      "uk": "ANGK-shus"
+    },
+    "examples": [
+      "She felt anxious before the test.",
+      "He was anxious to hear the results."
+    ],
+    "extra": {
+      "synonyms": [
+        "worried",
+        "nervous",
+        "uneasy"
+      ],
+      "antonyms": [
+        "calm",
+        "relaxed",
+        "confident"
+      ],
+      "memory_tip": "Anxious = ants in your stomach.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "brace",
+    "type": "verb,noun",
+    "definition": "To prepare or support yourself for something difficult; a device that holds or supports.",
+    "pronunciation": {
+      "us": "BRAYS",
+      "uk": "BRAYS"
+    },
+    "examples": [
+      "Brace yourself for the cold wind. (verb)",
+      "He wore a knee brace after the injury. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "steady",
+        "support",
+        "ready"
+      ],
+      "antonyms": [
+        "weaken",
+        "relax"
+      ],
+      "memory_tip": "Brace = make it strong and steady.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "brace",
+        "braced",
+        "bracing"
+      ]
+    }
+  },
+  {
+    "word": "confident",
+    "type": "adjective",
+    "definition": "Feeling sure about your ability or decisions.",
+    "pronunciation": {
+      "us": "KON-fi-dent",
+      "uk": "KON-fi-dent"
+    },
+    "examples": [
+      "She is confident about her speech.",
+      "Practice made him more confident."
+    ],
+    "extra": {
+      "synonyms": [
+        "sure",
+        "self-assured"
+      ],
+      "antonyms": [
+        "unsure",
+        "insecure"
+      ],
+      "memory_tip": "Confident = with firm faith in yourself.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "contact",
+    "type": "noun,verb",
+    "definition": "Communication or touching between people or things; to communicate with or get in touch.",
+    "pronunciation": {
+      "us": "KON-takt (noun), kon-TAKT (verb)",
+      "uk": "KON-takt (noun), kon-TAKT (verb)"
+    },
+    "examples": [
+      "Keep contact with your group. (noun)",
+      "Please contact me after class. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "connection",
+        "touch",
+        "reach out"
+      ],
+      "antonyms": [
+        "separation",
+        "ignore"
+      ],
+      "memory_tip": "Contact = come in touch with someone.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "contact",
+        "contacted",
+        "contacting"
+      ]
+    }
+  },
+  {
+    "word": "exult",
+    "type": "verb",
+    "definition": "To show great happiness or joy, especially after a success.",
+    "pronunciation": {
+      "us": "ig-ZULT",
+      "uk": "ig-ZULT"
+    },
+    "examples": [
+      "Fans exulted after the late goal.",
+      "She exulted when the project won first prize."
+    ],
+    "extra": {
+      "synonyms": [
+        "rejoice",
+        "celebrate",
+        "triumph"
+      ],
+      "antonyms": [
+        "mourn",
+        "lament"
+      ],
+      "memory_tip": "Exult = results bring joy.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": [
+        "exult",
+        "exulted",
+        "exulting"
+      ]
+    }
+  },
+  {
+    "word": "hangar",
+    "type": "noun",
+    "definition": "A large building for housing and repairing aircraft.",
+    "pronunciation": {
+      "us": "HANG-er",
+      "uk": "HANG-uh"
+    },
+    "examples": [
+      "The plane was rolled into the hangar.",
+      "Mechanics worked on the jet inside the hangar."
+    ],
+    "extra": {
+      "synonyms": [
+        "aircraft shed",
+        "bay"
+      ],
+      "antonyms": [
+        "runway (contrast)",
+        "apron (contrast)"
+      ],
+      "memory_tip": "Hangar (with ‘ar’) = home for planes, not coat hangers.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "maximum",
+    "type": "noun,adjective",
+    "definition": "The greatest possible amount or level; greatest in amount.",
+    "pronunciation": {
+      "us": "MAK-si-mum",
+      "uk": "MAK-si-mum"
+    },
+    "examples": [
+      "The maximum is 100 points. (noun)",
+      "Drive at the maximum speed limit of 50. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "upper limit",
+        "peak"
+      ],
+      "antonyms": [
+        "minimum",
+        "least"
+      ],
+      "memory_tip": "Maximum = max, the most.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "methodical",
+    "type": "adjective",
+    "definition": "Done in a careful, organised, and regular way.",
+    "pronunciation": {
+      "us": "muh-THOD-ih-kul",
+      "uk": "muh-THOD-ih-kul"
+    },
+    "examples": [
+      "She has a methodical way of studying.",
+      "The team searched the field methodically."
+    ],
+    "extra": {
+      "synonyms": [
+        "systematic",
+        "orderly"
+      ],
+      "antonyms": [
+        "random",
+        "haphazard"
+      ],
+      "memory_tip": "Methodical = follow a method.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "nonchalant",
+    "type": "adjective",
+    "definition": "Calm and not showing worry or excitement; casually unconcerned.",
+    "pronunciation": {
+      "us": "non-shuh-LAHNT",
+      "uk": "non-shuh-LAHNT"
+    },
+    "examples": [
+      "He gave a nonchalant shrug.",
+      "She stayed nonchalant during the delay."
+    ],
+    "extra": {
+      "synonyms": [
+        "casual",
+        "unruffled",
+        "cool"
+      ],
+      "antonyms": [
+        "anxious",
+        "eager",
+        "agitated"
+      ],
+      "memory_tip": "Nonchalant = none-of-it-bothers-me.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "proceed",
+    "type": "verb",
+    "definition": "To go forward or continue with an action.",
+    "pronunciation": {
+      "us": "proh-SEED",
+      "uk": "proh-SEED"
+    },
+    "examples": [
+      "After the break, we proceeded with the lesson.",
+      "Please proceed to the next page."
+    ],
+    "extra": {
+      "synonyms": [
+        "continue",
+        "advance",
+        "go on"
+      ],
+      "antonyms": [
+        "stop",
+        "halt"
+      ],
+      "memory_tip": "Proceed = proceed to go on.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "proceed",
+        "proceeded",
+        "proceeding"
+      ]
+    }
+  },
+  {
+    "word": "saunter",
+    "type": "verb,noun",
+    "definition": "To walk in a slow, relaxed way; a slow, relaxed walk.",
+    "pronunciation": {
+      "us": "SAWN-ter",
+      "uk": "SAWN-tuh"
+    },
+    "examples": [
+      "We sauntered through the park. (verb)",
+      "He took a saunter after lunch. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "stroll",
+        "amble"
+      ],
+      "antonyms": [
+        "hurry",
+        "dash"
+      ],
+      "memory_tip": "Saunter = slow and unbothered.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "saunter",
+        "sauntered",
+        "sauntering"
+      ]
+    }
+  },
+  {
+    "word": "solo",
+    "type": "adjective,noun,adverb",
+    "definition": "Done by one person alone; a performance by one person; done alone.",
+    "pronunciation": {
+      "us": "SOH-loh",
+      "uk": "SOH-loh"
+    },
+    "examples": [
+      "She made a solo trip to the shop. (adjective)",
+      "His drum solo was loud and fun. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "alone",
+        "single-handed"
+      ],
+      "antonyms": [
+        "group",
+        "duet",
+        "team"
+      ],
+      "memory_tip": "Solo = so low on people—just one.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "stall",
+    "type": "verb,noun",
+    "definition": "To stop running or moving forward; to delay; a small booth or stand for selling goods.",
+    "pronunciation": {
+      "us": "stawl",
+      "uk": "stawl"
+    },
+    "examples": [
+      "The engine stalled at the lights. (verb)",
+      "We bought fruit from a market stall. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "stop",
+        "delay",
+        "booth"
+      ],
+      "antonyms": [
+        "advance",
+        "hasten"
+      ],
+      "memory_tip": "Stall = stop suddenly, or a small shop stall.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "stall",
+        "stalled",
+        "stalling"
+      ]
+    }
+  }
+]

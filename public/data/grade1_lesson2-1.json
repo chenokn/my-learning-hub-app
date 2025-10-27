@@ -1,0 +1,261 @@
+[
+  {
+    "word": "bag",
+    "type": "noun",
+    "definition": "A container used to carry things.",
+    "pronunciation": {
+      "us": "/bæɡ/",
+      "uk": "/bæɡ/"
+    },
+    "examples": [
+      "She packed her lunch in a bag.",
+      "My school bag is heavy today."
+    ],
+    "extra": {
+      "synonyms": [
+        "sack",
+        "backpack",
+        "pouch"
+      ],
+      "antonyms": [
+        "box",
+        "tray"
+      ],
+      "memory_tip": "Bags carry stuff!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "box",
+    "type": "noun",
+    "definition": "A container with straight sides and a flat top.",
+    "pronunciation": {
+      "us": "/bɑks/",
+      "uk": "/bɒks/"
+    },
+    "examples": [
+      "The gift is in a red box.",
+      "We keep toys in a big box."
+    ],
+    "extra": {
+      "synonyms": [
+        "container",
+        "crate"
+      ],
+      "antonyms": [
+        "bag",
+        "basket"
+      ],
+      "memory_tip": "A box is square or rectangle and holds things.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "cup",
+    "type": "noun",
+    "definition": "A small round container used for drinking.",
+    "pronunciation": {
+      "us": "/kʌp/",
+      "uk": "/kʌp/"
+    },
+    "examples": [
+      "She drank juice from a cup.",
+      "I spilled water from my cup."
+    ],
+    "extra": {
+      "synonyms": [
+        "mug",
+        "glass"
+      ],
+      "antonyms": [
+        "bottle",
+        "plate"
+      ],
+      "memory_tip": "Cups hold drinks!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "duck",
+    "type": "noun",
+    "definition": "A bird that swims and says 'quack'.",
+    "pronunciation": {
+      "us": "/dʌk/",
+      "uk": "/dʌk/"
+    },
+    "examples": [
+      "We saw a duck in the pond.",
+      "The duck has yellow feathers."
+    ],
+    "extra": {
+      "synonyms": [
+        "bird",
+        "waterfowl"
+      ],
+      "antonyms": [
+        "cat",
+        "dog"
+      ],
+      "memory_tip": "Ducks swim and quack!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fan",
+    "type": "noun",
+    "definition": "A machine that moves air to make you cool.",
+    "pronunciation": {
+      "us": "/fæn/",
+      "uk": "/fæn/"
+    },
+    "examples": [
+      "Turn on the fan to cool the room.",
+      "The fan is spinning fast."
+    ],
+    "extra": {
+      "synonyms": [
+        "blower",
+        "cooler"
+      ],
+      "antonyms": [
+        "heater"
+      ],
+      "memory_tip": "Fans blow air when it’s hot!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "hen",
+    "type": "noun",
+    "definition": "A female chicken that lays eggs.",
+    "pronunciation": {
+      "us": "/hɛn/",
+      "uk": "/hen/"
+    },
+    "examples": [
+      "The hen laid three eggs.",
+      "A hen lives in the chicken coop."
+    ],
+    "extra": {
+      "synonyms": [
+        "chicken",
+        "bird"
+      ],
+      "antonyms": [
+        "rooster"
+      ],
+      "memory_tip": "Hens lay eggs!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "jam",
+    "type": "noun",
+    "definition": "A sweet spread made from fruit.",
+    "pronunciation": {
+      "us": "/dʒæm/",
+      "uk": "/dʒæm/"
+    },
+    "examples": [
+      "I had toast with strawberry jam.",
+      "She likes jam on her sandwich."
+    ],
+    "extra": {
+      "synonyms": [
+        "jelly",
+        "fruit spread"
+      ],
+      "antonyms": [
+        "butter",
+        "cheese"
+      ],
+      "memory_tip": "Jam is sweet and sticky!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "log",
+    "type": "noun",
+    "definition": "A thick piece of wood from a tree.",
+    "pronunciation": {
+      "us": "/lɔɡ/",
+      "uk": "/lɒɡ/"
+    },
+    "examples": [
+      "He sat on a log near the fire.",
+      "We rolled the log down the hill."
+    ],
+    "extra": {
+      "synonyms": [
+        "wood",
+        "branch"
+      ],
+      "antonyms": [
+        "leaf",
+        "stick"
+      ],
+      "memory_tip": "Logs are round and come from trees.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "man",
+    "type": "noun",
+    "definition": "A grown-up male person.",
+    "pronunciation": {
+      "us": "/mæn/",
+      "uk": "/mæn/"
+    },
+    "examples": [
+      "The man is fixing his car.",
+      "That man is my teacher."
+    ],
+    "extra": {
+      "synonyms": [
+        "male",
+        "gentleman"
+      ],
+      "antonyms": [
+        "woman",
+        "boy"
+      ],
+      "memory_tip": "Man = grown-up boy.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "net",
+    "type": "noun",
+    "definition": "Something made of string with holes, used to catch things.",
+    "pronunciation": {
+      "us": "/nɛt/",
+      "uk": "/net/"
+    },
+    "examples": [
+      "The fisherman used a net to catch fish.",
+      "I hit the ball into the net."
+    ],
+    "extra": {
+      "synonyms": [
+        "mesh",
+        "web"
+      ],
+      "antonyms": [
+        "fence",
+        "wall"
+      ],
+      "memory_tip": "Nets catch things like fish or balls!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

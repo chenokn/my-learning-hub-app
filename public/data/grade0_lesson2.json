@@ -1,0 +1,324 @@
+[
+  {
+    "word": "abate",
+    "type": "verb",
+    "definition": "To become less strong or intense.",
+    "pronunciation": {
+      "us": "/əˈbeɪt/",
+      "uk": "/əˈbeɪt/"
+    },
+    "examples": [
+      "The storm began to abate.",
+      "His anger abated over time."
+    ],
+    "extra": {
+      "synonyms": [
+        "lessen",
+        "ease",
+        "fade"
+      ],
+      "antonyms": [
+        "increase",
+        "grow"
+      ],
+      "memory_tip": "Abate sounds like 'a bait' – once the fish is caught, the fight slows down.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "abate",
+        "abated",
+        "abating"
+      ]
+    }
+  },
+  {
+    "word": "wave",
+    "type": "verb, noun",
+    "definition": "To move your hand to say hello or goodbye; a moving bump on water.",
+    "pronunciation": {
+      "us": "/weɪv/",
+      "uk": "/weɪv/"
+    },
+    "examples": [
+      "I waved to my friend. (verb)",
+      "We saw big waves at the beach. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "signal",
+        "splash",
+        "greet"
+      ],
+      "antonyms": [
+        "still",
+        "ignore"
+      ],
+      "memory_tip": "Wave = move hand or water!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": {
+        "present": "wave",
+        "past": "waved",
+        "participle": "waved"
+      }
+    }
+  },
+  {
+    "word": "tiny",
+    "type": "adjective",
+    "definition": "Very, very small.",
+    "pronunciation": {
+      "us": "/ˈtaɪni/",
+      "uk": "/ˈtaɪni/"
+    },
+    "examples": [
+      "That is a tiny bug!",
+      "She wore tiny shoes for her doll."
+    ],
+    "extra": {
+      "synonyms": [
+        "small",
+        "little",
+        "mini"
+      ],
+      "antonyms": [
+        "huge",
+        "giant"
+      ],
+      "memory_tip": "Tiny = teeny weeny small!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "wiggle",
+    "type": "verb",
+    "definition": "To move side to side quickly.",
+    "pronunciation": {
+      "us": "/ˈwɪɡəl/",
+      "uk": "/ˈwɪɡəl/"
+    },
+    "examples": [
+      "The worm wiggled on the dirt.",
+      "She wiggled her loose tooth."
+    ],
+    "extra": {
+      "synonyms": [
+        "shake",
+        "squirm",
+        "twist"
+      ],
+      "antonyms": [
+        "stay still",
+        "freeze"
+      ],
+      "memory_tip": "Wiggle = little silly dance!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": {
+        "present": "wiggle",
+        "past": "wiggled",
+        "participle": "wiggled"
+      }
+    }
+  },
+  {
+    "word": "insect",
+    "type": "noun",
+    "definition": "Tiny animals with six legs, like ants or bees.",
+    "pronunciation": {
+      "us": "/ˈɪnˌsɛkt/",
+      "uk": "/ˈɪnsekt/"
+    },
+    "examples": [
+      "Bees and ants are insects.",
+      "We saw many insects in the garden."
+    ],
+    "extra": {
+      "synonyms": [
+        "bugs",
+        "creatures",
+        "critters"
+      ],
+      "antonyms": [
+        "mammals",
+        "birds"
+      ],
+      "memory_tip": "Insects = tiny bugs with 6 legs!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "creep",
+    "type": "verb",
+    "definition": "To move slowly and quietly.",
+    "pronunciation": {
+      "us": "/kriːp/",
+      "uk": "/kriːp/"
+    },
+    "examples": [
+      "The cat crept across the floor.",
+      "We crept into the room like spies."
+    ],
+    "extra": {
+      "synonyms": [
+        "crawl",
+        "sneak",
+        "tiptoe"
+      ],
+      "antonyms": [
+        "run",
+        "rush"
+      ],
+      "memory_tip": "Creep = quiet and sneaky steps!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": {
+        "present": "creep",
+        "past": "crept",
+        "participle": "crept"
+      }
+    }
+  },
+  {
+    "word": "community",
+    "type": "noun",
+    "definition": "A group of people who live or work together.",
+    "pronunciation": {
+      "us": "/kəˈmjuːnəti/",
+      "uk": "/kəˈmjuːnɪti/"
+    },
+    "examples": [
+      "Our school is a community.",
+      "We help each other in our community."
+    ],
+    "extra": {
+      "synonyms": [
+        "group",
+        "neighborhood",
+        "team"
+      ],
+      "antonyms": [
+        "individual",
+        "stranger"
+      ],
+      "memory_tip": "Community = people together in one place.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "destroy",
+    "type": "verb",
+    "definition": "To break or ruin something completely.",
+    "pronunciation": {
+      "us": "/dɪˈstrɔɪ/",
+      "uk": "/dɪˈstrɔɪ/"
+    },
+    "examples": [
+      "The wind destroyed the sandcastle.",
+      "Don’t destroy your toys!"
+    ],
+    "extra": {
+      "synonyms": [
+        "break",
+        "wreck",
+        "ruin"
+      ],
+      "antonyms": [
+        "build",
+        "fix"
+      ],
+      "memory_tip": "Destroy = break so it's gone!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "destroy",
+        "past": "destroyed",
+        "participle": "destroyed"
+      }
+    }
+  },
+  {
+    "word": "healthy",
+    "type": "adjective",
+    "definition": "Feeling good and strong in your body.",
+    "pronunciation": {
+      "us": "/ˈhɛlθi/",
+      "uk": "/ˈhɛlθi/"
+    },
+    "examples": [
+      "Eating fruit helps you stay healthy.",
+      "She feels healthy after a good sleep."
+    ],
+    "extra": {
+      "synonyms": [
+        "strong",
+        "well",
+        "fit"
+      ],
+      "antonyms": [
+        "sick",
+        "weak"
+      ],
+      "memory_tip": "Healthy = happy body and mind!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "sign",
+    "type": "noun",
+    "definition": "Things that show a message or give a clue.",
+    "pronunciation": {
+      "us": "/saɪn/",
+      "uk": "/saɪn/"
+    },
+    "examples": [
+      "The stop sign is red.",
+      "She looked for signs of rain."
+    ],
+    "extra": {
+      "synonyms": [
+        "clues",
+        "symbols",
+        "messages"
+      ],
+      "antonyms": [
+        "mystery",
+        "unknown"
+      ],
+      "memory_tip": "Signs = things that tell you something.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "peaceful",
+    "type": "adjective",
+    "definition": "Very quiet and calm.",
+    "pronunciation": {
+      "us": "/ˈpiːsfəl/",
+      "uk": "/ˈpiːsfʊl/"
+    },
+    "examples": [
+      "The lake is peaceful in the morning.",
+      "We had a peaceful nap after lunch."
+    ],
+    "extra": {
+      "synonyms": [
+        "calm",
+        "quiet",
+        "gentle"
+      ],
+      "antonyms": [
+        "noisy",
+        "wild"
+      ],
+      "memory_tip": "Peaceful = no loud sounds, just calm.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

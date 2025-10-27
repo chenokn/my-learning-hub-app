@@ -1,0 +1,279 @@
+[
+  {
+    "word": "universe",
+    "type": "noun",
+    "definition": "All of space and time and everything that exists within them—stars, planets, energy, and matter.",
+    "pronunciation": { "us": "YOO-nuh-verss", "uk": "YOO-nuh-vuhs" },
+    "examples": [
+      "Astronomers study how the Universe began.",
+      "Our galaxy is only a tiny part of the Universe."
+    ],
+    "extra": {
+      "synonyms": ["cosmos", "creation", "all existence"],
+      "antonyms": ["nothingness (contrast)"],
+      "memory_tip": "Universe = one (uni) whole verse of everything.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "alternative",
+    "type": "noun,adjective",
+    "definition": "Another choice or option; describing something different from the usual.",
+    "pronunciation": { "us": "awl-TER-nuh-tiv", "uk": "awl-TER-nuh-tiv" },
+    "examples": [
+      "We need an alternative if it rains. (noun)",
+      "There are alternative routes to school. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["option", "choice", "substitute"],
+      "antonyms": ["standard", "primary", "only"],
+      "memory_tip": "Alternative = an ‘other native’ path to take.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "historians",
+    "type": "noun (plural)",
+    "definition": "People who study and write about the past using evidence.",
+    "pronunciation": { "us": "hiss-TOR-ee-unz", "uk": "hiss-TAW-ree-unz" },
+    "examples": [
+      "Historians analyse diaries and maps to learn about events.",
+      "Modern historians often compare many sources."
+    ],
+    "extra": {
+      "synonyms": ["scholars", "researchers (of history)"],
+      "antonyms": ["non-experts (contrast)"],
+      "memory_tip": "Historians handle history.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "formalism",
+    "type": "noun",
+    "definition": "A way of understanding art, literature, or maths by focusing on form, structure, and rules rather than content or context.",
+    "pronunciation": { "us": "FOR-muh-liz-um", "uk": "FAW-muh-liz-um" },
+    "examples": [
+      "In poetry, formalism values rhyme and metre.",
+      "Some maths proofs rely on strict formalism."
+    ],
+    "extra": {
+      "synonyms": ["structuralism", "rule-based approach"],
+      "antonyms": ["contextualism", "expressivism"],
+      "memory_tip": "Formalism = the form comes first.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "expedition",
+    "type": "noun",
+    "definition": "A journey with a clear purpose, often for exploration, research, or war.",
+    "pronunciation": { "us": "ek-spuh-DISH-un", "uk": "ek-spuh-DISH-uhn" },
+    "examples": [
+      "The team prepared for an Arctic expedition.",
+      "A science expedition collected rock samples."
+    ],
+    "extra": {
+      "synonyms": ["journey", "mission", "venture"],
+      "antonyms": ["loitering (contrast)", "stay-at-home (contrast)"],
+      "memory_tip": "Expedition = a planned ‘expedient’ trip with goals.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "gravity",
+    "type": "noun",
+    "definition": "The force that pulls objects toward each other; seriousness of a situation.",
+    "pronunciation": { "us": "GRAV-ih-tee", "uk": "GRAV-ih-tee" },
+    "examples": [
+      "Gravity keeps our feet on the ground.",
+      "She spoke with gravity about the crisis."
+    ],
+    "extra": {
+      "synonyms": ["attraction", "weight", "seriousness"],
+      "antonyms": ["weightlessness", "levity (figurative)"],
+      "memory_tip": "Gravity = think ‘grave’ weight pulling down.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "space-time",
+    "type": "noun",
+    "definition": "The four-dimensional fabric that combines space and time, used to describe the Universe in physics.",
+    "pronunciation": { "us": "SPAYS-tym", "uk": "SPAYS-tym" },
+    "examples": [
+      "Mass bends space-time around planets.",
+      "GPS works by accounting for space-time effects."
+    ],
+    "extra": {
+      "synonyms": ["spacetime", "space–time continuum"],
+      "antonyms": ["separate space and time (contrast)"],
+      "memory_tip": "Space-time = space and time woven together.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "embedded",
+    "type": "adjective,verb (past participle)",
+    "definition": "Fixed firmly inside something; placed deeply within.",
+    "pronunciation": { "us": "em-BED-id", "uk": "em-BED-id" },
+    "examples": [
+      "Fossils embedded in rock tell ancient stories.",
+      "The reporter was embedded with the unit."
+    ],
+    "extra": {
+      "synonyms": ["fixed", "implanted", "ingrained"],
+      "antonyms": ["loose", "detached"],
+      "memory_tip": "Embedded = ‘in-bedded’ like set in a bed of material.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["embed", "embedded", "embedding"]
+    }
+  },
+  {
+    "word": "revolutionary",
+    "type": "adjective,noun",
+    "definition": "Causing a great change; a person who supports or takes part in a revolution.",
+    "pronunciation": { "us": "rev-uh-LOO-shuh-nair-ee", "uk": "rev-uh-LOO-shuh-nuh-ree" },
+    "examples": [
+      "It was a revolutionary idea in medicine. (adjective)",
+      "The revolutionary planned reforms. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["radical", "groundbreaking", "reformer (noun)"],
+      "antonyms": ["conservative", "traditional"],
+      "memory_tip": "Revolutionary = turns the old order ‘around’.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "eclipse",
+    "type": "noun,verb",
+    "definition": "When one celestial body blocks the light of another; to overshadow or outshine.",
+    "pronunciation": { "us": "ih-KLIPS", "uk": "ih-KLIPS" },
+    "examples": [
+      "We watched a solar eclipse with special glasses. (noun)",
+      "Her performance eclipsed all others. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["obscuration", "occultation", "outshine (verb)"],
+      "antonyms": ["reveal", "illuminate"],
+      "memory_tip": "Eclipse = clip the light.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["eclipse", "eclipsed", "eclipsing"]
+    }
+  },
+  {
+    "word": "curvature",
+    "type": "noun",
+    "definition": "The amount by which something bends or curves.",
+    "pronunciation": { "us": "KUR-vuh-cher", "uk": "KUH-vuh-chuh" },
+    "examples": [
+      "The curvature of Earth is slight to the eye.",
+      "Designers measured the curvature of the lens."
+    ],
+    "extra": {
+      "synonyms": ["bend", "arc", "bow"],
+      "antonyms": ["straightness", "flatness"],
+      "memory_tip": "Curvature = how ‘curvy’ a line or surface is.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "respected",
+    "type": "adjective",
+    "definition": "Admired and trusted by many people.",
+    "pronunciation": { "us": "ri-SPEK-tid", "uk": "ri-SPEK-tid" },
+    "examples": [
+      "She is a respected scientist in her field.",
+      "It’s a respected tradition in the community."
+    ],
+    "extra": {
+      "synonyms": ["esteemed", "admired", "revered"],
+      "antonyms": ["disregarded", "disrespected"],
+      "memory_tip": "Respected = people ‘look back’ with regard.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["respect", "respected", "respecting"]
+    }
+  },
+  {
+    "word": "exhausting",
+    "type": "adjective",
+    "definition": "Making you very tired; draining energy completely.",
+    "pronunciation": { "us": "eg-ZAWST-ing", "uk": "ig-ZAWST-ing" },
+    "examples": [
+      "Climbing the ridge was exhausting.",
+      "It was an exhausting day of exams."
+    ],
+    "extra": {
+      "synonyms": ["tiring", "draining", "fatiguing"],
+      "antonyms": ["refreshing", "restorative"],
+      "memory_tip": "Exhausting = like an engine’s exhaust—energy all used up.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["exhaust", "exhausted", "exhausting"]
+    }
+  },
+  {
+    "word": "methodology",
+    "type": "noun",
+    "definition": "A system of methods used in a particular area of study or activity.",
+    "pronunciation": { "us": "meth-uh-THOL-uh-jee", "uk": "meth-uh-DOL-uh-jee" },
+    "examples": [
+      "Their research methodology was clearly explained.",
+      "Good methodology helps others repeat an experiment."
+    ],
+    "extra": {
+      "synonyms": ["approach", "framework", "procedure"],
+      "antonyms": ["disorder", "guesswork"],
+      "memory_tip": "Methodology = the logic behind your methods.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "critical",
+    "type": "adjective",
+    "definition": "Very important; expressing careful judgment; at a dangerous or intense point.",
+    "pronunciation": { "us": "KRIT-ih-kul", "uk": "KRIT-ih-kul" },
+    "examples": [
+      "Water safety is critical in chemistry labs.",
+      "She wrote a critical review of the book."
+    ],
+    "extra": {
+      "synonyms": ["crucial", "vital", "analytical"],
+      "antonyms": ["minor", "uncritical", "praising-only"],
+      "memory_tip": "Critical = at the ‘crisis’ point or judging carefully.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "promising",
+    "type": "adjective",
+    "definition": "Showing signs of future success or good results.",
+    "pronunciation": { "us": "PROM-ih-sing", "uk": "PROM-ih-sing" },
+    "examples": [
+      "The data show promising results.",
+      "She is a promising young engineer."
+    ],
+    "extra": {
+      "synonyms": ["hopeful", "encouraging", "favourable"],
+      "antonyms": ["discouraging", "unpromising"],
+      "memory_tip": "Promising = like a promise of success ahead.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["promise", "promised", "promising"]
+    }
+  }
+]

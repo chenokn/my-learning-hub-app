@@ -1,0 +1,292 @@
+[
+  {
+    "word": "simple",
+    "type": "adjective",
+    "definition": "Easy to do or understand; not complicated.",
+    "pronunciation": {
+      "us": "/ˈsɪmpəl/",
+      "uk": "/ˈsɪmpəl/"
+    },
+    "examples": [
+      "This puzzle is simple to solve.",
+      "She wore a simple dress without patterns."
+    ],
+    "extra": {
+      "synonyms": [
+        "easy",
+        "plain",
+        "basic"
+      ],
+      "antonyms": [
+        "complex",
+        "complicated"
+      ],
+      "memory_tip": "Simple = no extra parts, easy-peasy.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "rude",
+    "type": "adjective",
+    "definition": "Not polite; showing bad manners.",
+    "pronunciation": {
+      "us": "/ruːd/",
+      "uk": "/ruːd/"
+    },
+    "examples": [
+      "It’s rude to interrupt people.",
+      "He made a rude comment in class."
+    ],
+    "extra": {
+      "synonyms": [
+        "impolite",
+        "unmannerly",
+        "disrespectful"
+      ],
+      "antonyms": [
+        "polite",
+        "respectful"
+      ],
+      "memory_tip": "Rude = no please or thank-you.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "wind",
+    "type": "noun",
+    "definition": "Moving air you can feel outside.",
+    "pronunciation": {
+      "us": "/wɪnd/",
+      "uk": "/wɪnd/"
+    },
+    "examples": [
+      "The wind blew the leaves.",
+      "A strong wind shook the trees."
+    ],
+    "extra": {
+      "synonyms": [
+        "breeze",
+        "air",
+        "gust"
+      ],
+      "antonyms": [
+        "calm",
+        "stillness"
+      ],
+      "memory_tip": "Wind = invisible air that pushes.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "sob",
+    "type": "verb,noun",
+    "definition": "To cry loudly with short breaths; the sound of such crying.",
+    "pronunciation": {
+      "us": "/sɑb/",
+      "uk": "/sɒb/"
+    },
+    "examples": [
+      "She began to sob after falling. (verb)",
+      "His sobs could be heard in the next room. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "cry",
+        "weep",
+        "bawl"
+      ],
+      "antonyms": [
+        "laugh",
+        "cheer"
+      ],
+      "memory_tip": "Sob = big loud crying.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "sob",
+        "sobbed",
+        "sobbing"
+      ]
+    }
+  },
+  {
+    "word": "damage",
+    "type": "adj.,verb",
+    "definition": "Broken or harmed; hurt or spoiled.",
+    "pronunciation": {
+      "us": "/ˈdæmɪdʒ/",
+      "uk": "/ˈdæmɪdʒ/"
+    },
+    "examples": [
+      "The damaged toy could not roll. (adjective)",
+      "Rain damaged the roof. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "broken",
+        "ruined",
+        "harmed"
+      ],
+      "antonyms": [
+        "repaired",
+        "intact"
+      ],
+      "memory_tip": "Damaged = not in perfect shape.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "damage",
+        "damaged",
+        "damaging"
+      ]
+    }
+  },
+  {
+    "word": "meadow",
+    "type": "noun",
+    "definition": "A wide, open field of grass and flowers.",
+    "pronunciation": {
+      "us": "/ˈmɛdoʊ/",
+      "uk": "/ˈmɛdəʊ/"
+    },
+    "examples": [
+      "Butterflies flew over the meadow.",
+      "Cows grazed in the green meadow."
+    ],
+    "extra": {
+      "synonyms": [
+        "field",
+        "grassland",
+        "pasture"
+      ],
+      "antonyms": [
+        "forest",
+        "desert"
+      ],
+      "memory_tip": "Meadow = big grassy place.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "atmosphere",
+    "type": "noun",
+    "definition": "The layer of gases around Earth; the mood of a place.",
+    "pronunciation": {
+      "us": "/ˈætməsˌfɪr/",
+      "uk": "/ˈætməsfɪə/"
+    },
+    "examples": [
+      "The atmosphere protects us from space rocks.",
+      "The café has a cozy atmosphere."
+    ],
+    "extra": {
+      "synonyms": [
+        "air",
+        "mood",
+        "environment"
+      ],
+      "antonyms": [
+        "vacuum",
+        "emptiness"
+      ],
+      "memory_tip": "Atmosphere = Earth’s air blanket or room’s feeling.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "crash",
+    "type": "verb,noun",
+    "definition": "To hit something hard and make a loud noise; the sound of a hard hit.",
+    "pronunciation": {
+      "us": "/kræʃ/",
+      "uk": "/kræʃ/"
+    },
+    "examples": [
+      "The bike crashed into the fence. (verb)",
+      "We heard a big crash in the kitchen. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "smash",
+        "collide",
+        "bang"
+      ],
+      "antonyms": [
+        "avoid",
+        "miss"
+      ],
+      "memory_tip": "Crash = big bang when things hit.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "crash",
+        "crashed",
+        "crashing"
+      ]
+    }
+  },
+  {
+    "word": "search",
+    "type": "verb,noun",
+    "definition": "To look carefully for something; the act of looking.",
+    "pronunciation": {
+      "us": "/sɜrtʃ/",
+      "uk": "/sɜːtʃ/"
+    },
+    "examples": [
+      "Let’s search for your lost toy. (verb)",
+      "The search took two hours. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "look",
+        "hunt",
+        "seek"
+      ],
+      "antonyms": [
+        "find (already)",
+        "ignore"
+      ],
+      "memory_tip": "Search = look everywhere!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "search",
+        "searched",
+        "searching"
+      ]
+    }
+  },
+  {
+    "word": "clever",
+    "type": "adjective",
+    "definition": "Smart and quick at thinking or learning.",
+    "pronunciation": {
+      "us": "/ˈklɛvər/",
+      "uk": "/ˈklɛvə/"
+    },
+    "examples": [
+      "That was a clever idea!",
+      "The clever fox found a way out."
+    ],
+    "extra": {
+      "synonyms": [
+        "smart",
+        "bright",
+        "sharp"
+      ],
+      "antonyms": [
+        "dull",
+        "slow"
+      ],
+      "memory_tip": "Clever = brain works fast.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

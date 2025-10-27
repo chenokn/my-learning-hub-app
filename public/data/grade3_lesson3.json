@@ -1,0 +1,178 @@
+[
+  {
+    "word": "average",
+    "type": "adj.,noun,verb",
+    "definition": "Typical or normal; the result of adding numbers and dividing by how many there are; to calculate the average of something.",
+    "pronunciation": { "us": "AV-er-ij", "uk": "AV-uh-rij" },
+    "examples": [
+      "An average day at school ends at three o’clock.",
+      "The average of 6, 8, and 10 is 8."
+    ],
+    "extra": {
+      "synonyms": ["typical", "ordinary", "mean (math)"],
+      "antonyms": ["exceptional", "unusual"],
+      "memory_tip": "Average = the ‘in-the-middle’ value or the usual kind.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["average", "averaged", "averaging"]
+    }
+  },
+  {
+    "word": "border",
+    "type": "noun,verb",
+    "definition": "The edge or boundary of something; to be next to or form an edge around something.",
+    "pronunciation": { "us": "BOR-der", "uk": "BAW-duh" },
+    "examples": [
+      "We crossed the border into Scotland.",
+      "Tulips border the garden path."
+    ],
+    "extra": {
+      "synonyms": ["edge", "boundary", "fringe"],
+      "antonyms": ["centre", "interior"],
+      "memory_tip": "Border = the ‘borderline’ where one area ends.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["border", "bordered", "bordering"]
+    }
+  },
+  {
+    "word": "cocoon",
+    "type": "noun,verb",
+    "definition": "A silky case made by insects to protect themselves while changing; to wrap or protect closely.",
+    "pronunciation": { "us": "koh-KOON", "uk": "koh-KOON" },
+    "examples": [
+      "The caterpillar slept inside its cocoon.",
+      "She cocooned herself in a warm blanket."
+    ],
+    "extra": {
+      "synonyms": ["case", "shell", "wrap (verb)"],
+      "antonyms": ["expose", "uncover"],
+      "memory_tip": "Cocoon = cosy cover for change.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["cocoon", "cocooned", "cocooning"]
+    }
+  },
+  {
+    "word": "flutter",
+    "type": "verb,noun",
+    "definition": "To move quickly with light, gentle motions; a quick, light movement.",
+    "pronunciation": { "us": "FLUT-er", "uk": "FLUT-uh" },
+    "examples": [
+      "Butterflies flutter over the flowers.",
+      "A flutter of leaves passed the window."
+    ],
+    "extra": {
+      "synonyms": ["flit", "flicker", "tremble"],
+      "antonyms": ["still", "steady"],
+      "memory_tip": "Flutter = soft, tiny flaps like wings.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["flutter", "fluttered", "fluttering"]
+    }
+  },
+  {
+    "word": "moisture",
+    "type": "noun",
+    "definition": "Small amounts of water in the air or on a surface; dampness.",
+    "pronunciation": { "us": "MOYS-chur", "uk": "MOYS-chuh" },
+    "examples": [
+      "Morning moisture sparkled on the grass.",
+      "Seal the jar to keep out moisture."
+    ],
+    "extra": {
+      "synonyms": ["dampness", "wetness", "humidity"],
+      "antonyms": ["dryness", "aridity"],
+      "memory_tip": "Moisture = a little bit of wet.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "nectar",
+    "type": "noun",
+    "definition": "A sweet liquid made by flowers that attracts insects and birds.",
+    "pronunciation": { "us": "NEK-tar", "uk": "NEK-tuh" },
+    "examples": [
+      "Bees collect nectar to make honey.",
+      "The hummingbird sipped nectar from the bloom."
+    ],
+    "extra": {
+      "synonyms": ["sweet juice", "sap"],
+      "antonyms": ["bitter liquid (contrast)"],
+      "memory_tip": "Nectar = nature’s sweet drink for pollinators.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "process",
+    "type": "noun,verb",
+    "definition": "A series of actions that lead to a result; to deal with or prepare something in steps.",
+    "pronunciation": { "us": "PROH-sess (noun), pruh-SESS (verb)", "uk": "PROH-sess (noun), pruh-SESS (verb)" },
+    "examples": [
+      "Germination is the process of a seed sprouting. (noun)",
+      "The lab will process the samples today. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["procedure", "method", "handle (verb)"],
+      "antonyms": ["chaos (contrast)", "neglect (verb)"],
+      "memory_tip": "Process = progress in steps.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["process (verb)", "processed", "processing"]
+    }
+  },
+  {
+    "word": "span",
+    "type": "noun,verb",
+    "definition": "The full length or extent from end to end; to stretch across or cover.",
+    "pronunciation": { "us": "span", "uk": "span" },
+    "examples": [
+      "The bridge has a long span over the river. (noun)",
+      "The rainbow spanned the whole valley. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["extent", "reach", "bridge (verb)"],
+      "antonyms": ["gap (contrast)", "shorten (verb)"],
+      "memory_tip": "Span = space it spans across.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["span", "spanned", "spanning"]
+    }
+  },
+  {
+    "word": "suitable",
+    "type": "adjective",
+    "definition": "Right or appropriate for a particular person, purpose, or situation.",
+    "pronunciation": { "us": "SOO-tuh-buhl", "uk": "SYOO-tuh-buhl" },
+    "examples": [
+      "This book is suitable for Year 1 readers.",
+      "Wear suitable shoes for hiking."
+    ],
+    "extra": {
+      "synonyms": ["appropriate", "fit", "proper"],
+      "antonyms": ["unsuitable", "inappropriate"],
+      "memory_tip": "Suitable = ‘suited’ to the job.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "timber",
+    "type": "noun",
+    "definition": "Wood prepared for building; trees grown for wood.",
+    "pronunciation": { "us": "TIM-ber", "uk": "TIM-buh" },
+    "examples": [
+      "The cabin was built from local timber.",
+      "The storm damaged valuable timber in the forest."
+    ],
+    "extra": {
+      "synonyms": ["lumber", "wood"],
+      "antonyms": ["metal (contrast)", "stone (contrast)"],
+      "memory_tip": "Timber = trees turned into building wood.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

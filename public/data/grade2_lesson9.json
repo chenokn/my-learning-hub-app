@@ -1,0 +1,291 @@
+[
+  {
+    "word": "blizzard",
+    "type": "noun",
+    "definition": "A severe snowstorm with strong winds and very low visibility.",
+    "pronunciation": {
+      "uk": "/ˈblɪzəd/"
+    },
+    "examples": [
+      "The train was delayed by a blizzard.",
+      "A fierce blizzard swept across the moors."
+    ],
+    "extra": {
+      "synonyms": [
+        "snowstorm",
+        "white-out"
+      ],
+      "antonyms": [
+        "clear skies"
+      ],
+      "memory_tip": "Blizzard = blankets of blowing snow.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "carve",
+    "type": "verb",
+    "definition": "To cut wood, stone, or other material into a shape; to slice cooked meat.",
+    "pronunciation": {
+      "uk": "/kɑːv/"
+    },
+    "examples": [
+      "She carved an owl from oak.",
+      "Dad will carve the roast chicken."
+    ],
+    "extra": {
+      "synonyms": [
+        "sculpt",
+        "chisel",
+        "slice"
+      ],
+      "antonyms": [
+        "mould",
+        "assemble"
+      ],
+      "memory_tip": "Carve = cut away to create.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "carve",
+        "carved",
+        "carving"
+      ]
+    }
+  },
+  {
+    "word": "compass",
+    "type": "noun",
+    "definition": "A device with a magnetic needle that shows the direction of north.",
+    "pronunciation": {
+      "uk": "/ˈkʌmpəs/"
+    },
+    "examples": [
+      "Use a compass when hiking.",
+      "The compass needle pointed north."
+    ],
+    "extra": {
+      "synonyms": [
+        "navigator",
+        "direction finder"
+      ],
+      "antonyms": [
+        "guesswork"
+      ],
+      "memory_tip": "Compass = your pocket north-pointer.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "ferry",
+    "type": "noun,verb",
+    "definition": "A boat or ship that carries people or goods across water; to transport repeatedly across water or short distances.",
+    "pronunciation": {
+      "uk": "/ˈfɛri/"
+    },
+    "examples": [
+      "We took the ferry to the Isle of Wight. (noun)",
+      "Buses ferry passengers to the terminal. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "boat",
+        "shuttle",
+        "transport"
+      ],
+      "antonyms": [
+        "strand",
+        "leave"
+      ],
+      "memory_tip": "Ferry = water taxi or act of shuttling.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "ferry",
+        "ferried",
+        "ferrying"
+      ]
+    }
+  },
+  {
+    "word": "hurry",
+    "type": "noun,verb",
+    "definition": "Great speed; to move or act quickly.",
+    "pronunciation": {
+      "uk": "/ˈhʌri/"
+    },
+    "examples": [
+      "She left in a hurry. (noun)",
+      "Please hurry or we’ll miss the bus. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "rush",
+        "dash",
+        "haste"
+      ],
+      "antonyms": [
+        "dawdle",
+        "delay"
+      ],
+      "memory_tip": "Hurry = quick, quick, quick!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "hurry",
+        "hurried",
+        "hurrying"
+      ]
+    }
+  },
+  {
+    "word": "orbit",
+    "type": "noun,verb",
+    "definition": "The curved path of a planet or satellite; to travel around something in a curved path.",
+    "pronunciation": {
+      "uk": "/ˈɔːbɪt/"
+    },
+    "examples": [
+      "The Moon’s orbit takes 27 days. (noun)",
+      "Satellites orbit the Earth. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "path",
+        "circle",
+        "revolve"
+      ],
+      "antonyms": [
+        "crash",
+        "land"
+      ],
+      "memory_tip": "Orbit = cosmic roundabout.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "orbit",
+        "orbited",
+        "orbiting"
+      ]
+    }
+  },
+  {
+    "word": "pebble",
+    "type": "noun",
+    "definition": "A small, smooth stone found on beaches or riverbeds.",
+    "pronunciation": {
+      "uk": "/ˈpɛbəl/"
+    },
+    "examples": [
+      "She skipped a pebble across the pond.",
+      "Pebbles crunched under our boots."
+    ],
+    "extra": {
+      "synonyms": [
+        "stone",
+        "shingle"
+      ],
+      "antonyms": [
+        "boulder"
+      ],
+      "memory_tip": "Pebble = pocket-sized beach stone.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "reward",
+    "type": "noun,verb",
+    "definition": "Something given in recognition of service or effort; to give something in return for effort.",
+    "pronunciation": {
+      "uk": "/rɪˈwɔːd/"
+    },
+    "examples": [
+      "There is a reward for the lost dog. (noun)",
+      "Parents reward good behaviour. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "prize",
+        "award",
+        "repay"
+      ],
+      "antonyms": [
+        "punish",
+        "penalise"
+      ],
+      "memory_tip": "Reward = treat for a job well done.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "reward",
+        "rewarded",
+        "rewarding"
+      ]
+    }
+  },
+  {
+    "word": "signal",
+    "type": "noun,verb",
+    "definition": "A gesture, sound, or light that gives information; to make a gesture or send a message.",
+    "pronunciation": {
+      "uk": "/ˈsɪɡnəl/"
+    },
+    "examples": [
+      "The traffic lights gave a green signal. (noun)",
+      "She signalled for help. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "sign",
+        "indication",
+        "beckon"
+      ],
+      "antonyms": [
+        "silence",
+        "ignore"
+      ],
+      "memory_tip": "Signal = message without words.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "signal",
+        "signalled",
+        "signalling"
+      ]
+    }
+  },
+  {
+    "word": "tumble",
+    "type": "noun,verb",
+    "definition": "A sudden fall or roll; to fall or roll end over end.",
+    "pronunciation": {
+      "uk": "/ˈtʌmbəl/"
+    },
+    "examples": [
+      "He took a tumble on the ice. (noun)",
+      "Leaves tumbled along the pavement. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "fall",
+        "roll",
+        "somersault"
+      ],
+      "antonyms": [
+        "stand",
+        "rise"
+      ],
+      "memory_tip": "Tumble = tip-over tumble-dry!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "tumble",
+        "tumbled",
+        "tumbling"
+      ]
+    }
+  }
+]

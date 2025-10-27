@@ -1,0 +1,432 @@
+{
+  "title": "The Island Map",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Adventure",
+  "vocabulary": [
+    "map",
+    "island",
+    "boat",
+    "sand",
+    "cove",
+    "path",
+    "clue",
+    "arrow",
+    "north",
+    "share"
+  ],
+  "images": [
+    "/stem-hub/language/the-island-map.0.png",
+    "/stem-hub/language/the-island-map.1.png",
+    "/stem-hub/language/the-island-map.2.png",
+    "/stem-hub/language/the-island-map.3.png",
+    "/stem-hub/language/the-island-map.4.png"
+  ],
+  "passage": [
+    "",
+    "Leo and Nia find a torn map in the sand. It shows an island, a cove, and a big arrow with 'N' for north. |'Let’s follow it,' says Nia.",
+    "With Mum in the boat, they cross to the island. The map says, 'Find the path of shells.' They spot a line of shells like an arrow. |'This way!' says Leo.",
+    "The path bends to a small cove. A sign gives a clue: 'Look under the flat rock.' They lift the rock and pull out a tin box.",
+    "Inside is not gold but a note and bright shell badges: 'Share these with helpers.' They share the badges and pick up litter. |'The best treasure is to share,' says Mum."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What do Leo and Nia find in the sand?",
+      "answer": "A torn map",
+      "options": [
+        "A torn map",
+        "A shiny coin",
+        "A seashell",
+        "A rope"
+      ],
+      "keys": [
+        "map"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the letter 'N' on the map stand for?",
+      "answer": "North",
+      "options": [
+        "North",
+        "Near",
+        "Night",
+        "Next"
+      ],
+      "keys": [
+        "north",
+        "N"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Who goes with them in the boat?",
+      "answer": "Mum",
+      "options": [
+        "Mum",
+        "Dad",
+        "Gran",
+        "Coach"
+      ],
+      "keys": [
+        "Mum",
+        "boat"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Where do they go after crossing the water?",
+      "answer": "To the island",
+      "options": [
+        "To the island",
+        "To the forest",
+        "To the mountains",
+        "To the park"
+      ],
+      "keys": [
+        "island"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What points the way like an arrow?",
+      "answer": "A line of shells",
+      "options": [
+        "A line of shells",
+        "A trail of leaves",
+        "A rope",
+        "A signpost"
+      ],
+      "keys": [
+        "arrow"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Where does the path bend to?",
+      "answer": "A small cove",
+      "options": [
+        "A small cove",
+        "A big city",
+        "A lighthouse",
+        "A farm"
+      ],
+      "keys": [
+        "path",
+        "cove"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What clue do they read on the sign?",
+      "answer": "Look under the flat rock",
+      "options": [
+        "Look under the flat rock",
+        "Dig near the tree",
+        "Swim to the boat",
+        "Climb the hill"
+      ],
+      "keys": [
+        "clue",
+        "sign"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What do they pull out from under the rock?",
+      "answer": "A tin box",
+      "options": [
+        "A tin box",
+        "A bag of coins",
+        "A bottle",
+        "A book"
+      ],
+      "keys": [
+        "box"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is inside the tin box?",
+      "answer": "A note and bright shell badges",
+      "options": [
+        "A note and bright shell badges",
+        "Gold and jewels",
+        "A map and compass",
+        "Marbles and string"
+      ],
+      "keys": [
+        "note",
+        "badges"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What do they do at the end with the badges?",
+      "answer": "They share the badges and pick up litter",
+      "options": [
+        "They share the badges and pick up litter",
+        "They throw the badges into the sea",
+        "They hide the badges under a rock",
+        "They sell the badges at the shop"
+      ],
+      "keys": [
+        "share"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "map",
+      "type": "noun",
+      "definition": "A drawing that shows where places are and how to get there.",
+      "pronunciation": {
+        "us": "mæp",
+        "uk": "mæp"
+      },
+      "examples": [
+        "The map shows an island and a cove.",
+        "They follow the map to the beach."
+      ],
+      "extra": {
+        "synonyms": [
+          "plan",
+          "chart"
+        ],
+        "antonyms": [
+          "guesswork"
+        ],
+        "memory_tip": "Map = picture of places.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "island",
+      "type": "noun",
+      "definition": "Land with water all around it.",
+      "pronunciation": {
+        "us": "ˈaɪ.lənd",
+        "uk": "ˈaɪ.lənd"
+      },
+      "examples": [
+        "They sail to the island.",
+        "The island has a small cove."
+      ],
+      "extra": {
+        "synonyms": [
+          "isle"
+        ],
+        "antonyms": [
+          "mainland"
+        ],
+        "memory_tip": "Island = land in the sea.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "boat",
+      "type": "noun",
+      "definition": "A small vehicle that floats on water.",
+      "pronunciation": {
+        "us": "boʊt",
+        "uk": "bəʊt"
+      },
+      "examples": [
+        "They cross in a boat with Mum.",
+        "The boat bobs on the waves."
+      ],
+      "extra": {
+        "synonyms": [
+          "craft"
+        ],
+        "antonyms": [
+          "car (contrast)"
+        ],
+        "memory_tip": "Boat = water ride.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "sand",
+      "type": "noun",
+      "definition": "Tiny grains that cover beaches and some river banks.",
+      "pronunciation": {
+        "us": "sænd",
+        "uk": "sænd"
+      },
+      "examples": [
+        "They find the map in the sand.",
+        "Sand is soft under bare feet."
+      ],
+      "extra": {
+        "synonyms": [
+          "grit"
+        ],
+        "antonyms": [
+          "rock (contrast)"
+        ],
+        "memory_tip": "Sand = tiny bits of stone.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "cove",
+      "type": "noun",
+      "definition": "A small, curved part of a coast that is sheltered.",
+      "pronunciation": {
+        "us": "koʊv",
+        "uk": "kəʊv"
+      },
+      "examples": [
+        "The path bends to a small cove.",
+        "Boats rest in the cove."
+      ],
+      "extra": {
+        "synonyms": [
+          "bay",
+          "inlet"
+        ],
+        "antonyms": [
+          "open sea"
+        ],
+        "memory_tip": "Cove = cosy corner of the sea.",
+        "tier": 2,
+        "eslLevel": "medium"
+      }
+    },
+    {
+      "word": "path",
+      "type": "noun",
+      "definition": "A small track for walking.",
+      "pronunciation": {
+        "us": "pæθ",
+        "uk": "pɑːθ"
+      },
+      "examples": [
+        "Follow the path of shells.",
+        "The path leads to the beach."
+      ],
+      "extra": {
+        "synonyms": [
+          "track",
+          "trail"
+        ],
+        "antonyms": [
+          "road (contrast)"
+        ],
+        "memory_tip": "Path = little way to walk.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "clue",
+      "type": "noun",
+      "definition": "Something that helps you solve a problem or find something.",
+      "pronunciation": {
+        "us": "kluː",
+        "uk": "kluː"
+      },
+      "examples": [
+        "A sign gives a clue.",
+        "The clue says to look under the rock."
+      ],
+      "extra": {
+        "synonyms": [
+          "hint"
+        ],
+        "antonyms": [
+          "mystery"
+        ],
+        "memory_tip": "Clue = little help to solve it.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "arrow",
+      "type": "noun",
+      "definition": "A sign or mark that points the way.",
+      "pronunciation": {
+        "us": "ˈæ.roʊ",
+        "uk": "ˈær.əʊ"
+      },
+      "examples": [
+        "A big arrow points north.",
+        "Shells make an arrow in the sand."
+      ],
+      "extra": {
+        "synonyms": [
+          "pointer"
+        ],
+        "antonyms": [
+          "circle (contrast)"
+        ],
+        "memory_tip": "Arrow = looks like a pointy triangle.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "north",
+      "type": "noun",
+      "definition": "One of the four main directions on a map or a compass.",
+      "pronunciation": {
+        "us": "nɔːrθ",
+        "uk": "nɔːθ"
+      },
+      "examples": [
+        "The arrow points north.",
+        "They walk north along the beach."
+      ],
+      "extra": {
+        "synonyms": [
+          "N (direction)"
+        ],
+        "antonyms": [
+          "south"
+        ],
+        "memory_tip": "North = up on most maps.",
+        "tier": 2,
+        "eslLevel": "medium"
+      }
+    },
+    {
+      "word": "share",
+      "type": "verb",
+      "definition": "To let someone else have a part of what you have.",
+      "pronunciation": {
+        "us": "ʃer",
+        "uk": "ʃeə"
+      },
+      "examples": [
+        "They share the badges.",
+        "Please share the crayons."
+      ],
+      "extra": {
+        "synonyms": [
+          "divide",
+          "give"
+        ],
+        "antonyms": [
+          "keep",
+          "take all"
+        ],
+        "memory_tip": "Share = fair for everyone.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "share",
+          "shared",
+          "sharing"
+        ]
+      }
+    }
+  ]
+}

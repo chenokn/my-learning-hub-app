@@ -1,0 +1,177 @@
+[
+  {
+    "word": "cylinder",
+    "type": "noun",
+    "definition": "A solid or hollow shape with straight sides and circular ends of equal size.",
+    "pronunciation": { "us": "SIL-in-der", "uk": "SIL-in-duh" },
+    "examples": [
+      "The candle was shaped like a cylinder.",
+      "Engine cylinders help power the car."
+    ],
+    "extra": {
+      "synonyms": ["tube", "drum", "barrel"],
+      "antonyms": ["cube (contrast)", "sphere (contrast)"],
+      "memory_tip": "Cylinder = circle at both ends with long sides.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "examine",
+    "type": "verb",
+    "definition": "To look at something carefully in order to learn more about it.",
+    "pronunciation": { "us": "ig-ZAM-in", "uk": "ig-ZAM-in" },
+    "examples": [
+      "The doctor examined the patient’s knee.",
+      "Please examine the chart before answering."
+    ],
+    "extra": {
+      "synonyms": ["inspect", "study", "check"],
+      "antonyms": ["ignore", "overlook"],
+      "memory_tip": "Examine = look closely for details.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["examine", "examined", "examining"]
+    }
+  },
+  {
+    "word": "fatal",
+    "type": "adjective",
+    "definition": "Causing death; very serious and causing disaster.",
+    "pronunciation": { "us": "FAY-tl", "uk": "FAY-tl" },
+    "examples": [
+      "The bite of that snake can be fatal.",
+      "A fatal error crashed the programme."
+    ],
+    "extra": {
+      "synonyms": ["deadly", "lethal", "catastrophic"],
+      "antonyms": ["harmless", "minor"],
+      "memory_tip": "Fatal = fate ends a life.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "feature",
+    "type": "noun,verb",
+    "definition": "An important or special part of something; to include as a special part.",
+    "pronunciation": { "us": "FEE-cher", "uk": "FEE-chuh" },
+    "examples": [
+      "Water resistance is a key feature of this watch. (noun)",
+      "Next week’s show will feature young inventors. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["trait", "aspect", "present (verb)"],
+      "antonyms": ["fault (contrast)", "exclude (verb)"],
+      "memory_tip": "Feature = the part you focus on.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["feature", "featured", "featuring"]
+    }
+  },
+  {
+    "word": "grasp",
+    "type": "verb,noun",
+    "definition": "To take hold of firmly; to understand; a firm hold or understanding.",
+    "pronunciation": { "us": "grasp", "uk": "grahsp" },
+    "examples": [
+      "She grasped the rail to keep her balance. (verb)",
+      "He has a good grasp of fractions. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["grab", "clutch", "comprehend"],
+      "antonyms": ["release", "drop", "misunderstand"],
+      "memory_tip": "Grasp = hold it in your hand or in your mind.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["grasp", "grasped", "grasping"]
+    }
+  },
+  {
+    "word": "jet",
+    "type": "noun,verb",
+    "definition": "A fast aeroplane; a stream of liquid or gas under pressure; to travel by jet or spurt out.",
+    "pronunciation": { "us": "jet", "uk": "jet" },
+    "examples": [
+      "The jet took off at dawn. (noun)",
+      "Water jetted from the broken pipe. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["airliner", "spurt", "spray"],
+      "antonyms": ["trickle", "drip"],
+      "memory_tip": "Jet = a fast plane or a fast stream.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["jet", "jetted", "jetting"]
+    }
+  },
+  {
+    "word": "marine",
+    "type": "adjective,noun",
+    "definition": "Related to the sea; a member of a naval infantry force.",
+    "pronunciation": { "us": "muh-REEN", "uk": "muh-REEN" },
+    "examples": [
+      "Coral reefs are rich marine habitats. (adjective)",
+      "A marine guided the visitors on base. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["oceanic", "sea", "soldier (noun)"],
+      "antonyms": ["terrestrial", "land"],
+      "memory_tip": "Marine = think ‘marine life’ in the sea.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "scar",
+    "type": "noun,verb",
+    "definition": "A mark left on skin or land after a cut or injury; to leave a mark or lasting hurt.",
+    "pronunciation": { "us": "skar", "uk": "skah" },
+    "examples": [
+      "He has a small scar on his chin. (noun)",
+      "The fire scarred the hillside. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["mark", "cicatrix", "mar (verb)"],
+      "antonyms": ["heal without mark", "smooth"],
+      "memory_tip": "Scar = a story your skin remembers.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["scar", "scarred", "scarring"]
+    }
+  },
+  {
+    "word": "tentacle",
+    "type": "noun",
+    "definition": "A long, flexible arm used by some sea animals to hold or feel things.",
+    "pronunciation": { "us": "TEN-tuh-kl", "uk": "TEN-tuh-kl" },
+    "examples": [
+      "The octopus wrapped a tentacle around the jar.",
+      "Jellyfish tentacles can sting."
+    ],
+    "extra": {
+      "synonyms": ["arm", "feeler"],
+      "antonyms": ["trunk (contrast)", "limb (contrast)"],
+      "memory_tip": "Tentacle = ‘tentative feeler’ to touch and grab.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "vessel",
+    "type": "noun",
+    "definition": "A ship or large boat; a container; a tube that carries blood or other fluids.",
+    "pronunciation": { "us": "VES-uhl", "uk": "VES-uhl" },
+    "examples": [
+      "The research vessel sailed at midnight.",
+      "Blood vessels carry oxygen around the body."
+    ],
+    "extra": {
+      "synonyms": ["ship", "container", "tube"],
+      "antonyms": ["raft (contrast)", "solid (contrast)"],
+      "memory_tip": "Vessel = something that ‘holds’—people, goods, or fluids.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

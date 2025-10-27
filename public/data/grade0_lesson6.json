@@ -1,0 +1,301 @@
+[
+  {
+    "word": "surprise",
+    "type": "noun,verb",
+    "definition": "Something unexpected; to make someone feel amazed or caught off guard.",
+    "pronunciation": {
+      "us": "/sərˈpraɪz/",
+      "uk": "/səˈpraɪz/"
+    },
+    "examples": [
+      "The party was a big surprise! (noun)",
+      "She surprised me with a gift. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "shock",
+        "amaze",
+        "wonder"
+      ],
+      "antonyms": [
+        "expectation",
+        "predict"
+      ],
+      "memory_tip": "Surprise = when something catches you off guard!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "surprise",
+        "surprised",
+        "surprising"
+      ]
+    }
+  },
+  {
+    "word": "whisper",
+    "type": "verb,noun",
+    "definition": "To speak very softly; a quiet voice.",
+    "pronunciation": {
+      "us": "/ˈwɪspər/",
+      "uk": "/ˈwɪspə/"
+    },
+    "examples": [
+      "He whispered a secret. (verb)",
+      "I heard a soft whisper. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "murmur",
+        "hiss",
+        "soft talk"
+      ],
+      "antonyms": [
+        "shout",
+        "yell"
+      ],
+      "memory_tip": "Whisper = tiny voice for secrets.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "whisper",
+        "whispered",
+        "whispering"
+      ]
+    }
+  },
+  {
+    "word": "present",
+    "type": "noun",
+    "definition": "A gift given to someone.",
+    "pronunciation": {
+      "us": "/ˈprɛzənt/",
+      "uk": "/ˈprɛzənt/"
+    },
+    "examples": [
+      "She opened her birthday present.",
+      "We gave him a present for helping."
+    ],
+    "extra": {
+      "synonyms": [
+        "gift",
+        "package",
+        "surprise"
+      ],
+      "antonyms": [
+        "none"
+      ],
+      "memory_tip": "Present = something wrapped with love.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "decorate",
+    "type": "verb",
+    "definition": "To make something look nice or pretty.",
+    "pronunciation": {
+      "us": "/ˈdɛkəˌreɪt/",
+      "uk": "/ˈdɛkəreɪt/"
+    },
+    "examples": [
+      "We decorated the room with balloons.",
+      "She decorated the cake with stars."
+    ],
+    "extra": {
+      "synonyms": [
+        "adorn",
+        "design",
+        "beautify"
+      ],
+      "antonyms": [
+        "ruin",
+        "spoil"
+      ],
+      "memory_tip": "Decorate = add color or sparkle!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "decorate",
+        "decorated",
+        "decorating"
+      ]
+    }
+  },
+  {
+    "word": "lump",
+    "type": "noun",
+    "definition": "A small solid piece or bump.",
+    "pronunciation": {
+      "us": "/lʌmp/",
+      "uk": "/lʌmp/"
+    },
+    "examples": [
+      "There’s a lump in the mashed potatoes.",
+      "He felt a lump in his pillow."
+    ],
+    "extra": {
+      "synonyms": [
+        "bump",
+        "clump",
+        "chunk"
+      ],
+      "antonyms": [
+        "smooth",
+        "flat"
+      ],
+      "memory_tip": "Lump = a little bump!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "giggle",
+    "type": "verb,noun",
+    "definition": "To laugh in a silly or quiet way; a little laugh.",
+    "pronunciation": {
+      "us": "/ˈɡɪɡəl/",
+      "uk": "/ˈɡɪɡl/"
+    },
+    "examples": [
+      "They giggled at the joke. (verb)",
+      "I heard a soft giggle. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "chuckle",
+        "laugh",
+        "snicker"
+      ],
+      "antonyms": [
+        "cry",
+        "frown"
+      ],
+      "memory_tip": "Giggle = happy ticklish laugh!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "giggle",
+        "giggled",
+        "giggling"
+      ]
+    }
+  },
+  {
+    "word": "frown",
+    "type": "verb,noun",
+    "definition": "To make a sad or angry face by wrinkling your forehead.",
+    "pronunciation": {
+      "us": "/fraʊn/",
+      "uk": "/fraʊn/"
+    },
+    "examples": [
+      "She frowned when she was upset. (verb)",
+      "He had a big frown on his face. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "scowl",
+        "glare"
+      ],
+      "antonyms": [
+        "smile",
+        "grin"
+      ],
+      "memory_tip": "Frown = upside-down smile.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "frown",
+        "frowned",
+        "frowning"
+      ]
+    }
+  },
+  {
+    "word": "plenty",
+    "type": "noun,adjective",
+    "definition": "A large enough amount; more than needed.",
+    "pronunciation": {
+      "us": "/ˈplɛnti/",
+      "uk": "/ˈplɛnti/"
+    },
+    "examples": [
+      "We have plenty of snacks. (noun)",
+      "There was plenty water for all. (adj)"
+    ],
+    "extra": {
+      "synonyms": [
+        "lots",
+        "many",
+        "enough"
+      ],
+      "antonyms": [
+        "few",
+        "scarce"
+      ],
+      "memory_tip": "Plenty = more than enough!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "straight",
+    "type": "adjective",
+    "definition": "Without bending or curving.",
+    "pronunciation": {
+      "us": "/streɪt/",
+      "uk": "/streɪt/"
+    },
+    "examples": [
+      "Draw a straight line.",
+      "He walked straight ahead."
+    ],
+    "extra": {
+      "synonyms": [
+        "direct",
+        "even",
+        "flat"
+      ],
+      "antonyms": [
+        "curved",
+        "crooked"
+      ],
+      "memory_tip": "Straight = no wiggles or bends.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "relax",
+    "type": "verb",
+    "definition": "To rest and feel calm.",
+    "pronunciation": {
+      "us": "/rɪˈlæks/",
+      "uk": "/rɪˈlæks/"
+    },
+    "examples": [
+      "She relaxed on the sofa.",
+      "Take a break and relax."
+    ],
+    "extra": {
+      "synonyms": [
+        "rest",
+        "calm down",
+        "chill"
+      ],
+      "antonyms": [
+        "stress",
+        "worry",
+        "hurry"
+      ],
+      "memory_tip": "Relax = let your body be soft.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "relax",
+        "relaxed",
+        "relaxing"
+      ]
+    }
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "word": "desert",
+    "type": "noun",
+    "definition": "A dry, sandy place with very little rain or plants.",
+    "pronunciation": {
+      "us": "/ˈdɛzərt/",
+      "uk": "/ˈdezət/"
+    },
+    "examples": [
+      "Camels live in the desert.",
+      "The desert is hot and dry."
+    ],
+    "extra": {
+      "synonyms": [
+        "wasteland",
+        "dry land",
+        "sand"
+      ],
+      "antonyms": [
+        "forest",
+        "oasis"
+      ],
+      "memory_tip": "Desert = hot and sandy place!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "bend",
+    "type": "verb,noun",
+    "definition": "To curve or change direction; a curved shape or part.",
+    "pronunciation": {
+      "us": "/bɛnd/",
+      "uk": "/bend/"
+    },
+    "examples": [
+      "She bent the wire. (verb)",
+      "There was a bend in the road. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "curve",
+        "twist",
+        "loop"
+      ],
+      "antonyms": [
+        "straighten",
+        "flatten"
+      ],
+      "memory_tip": "Bend = not straight!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "bend",
+        "bent",
+        "bending"
+      ]
+    }
+  },
+  {
+    "word": "stump",
+    "type": "noun",
+    "definition": "The bottom part of a tree left after the top has been cut down.",
+    "pronunciation": {
+      "us": "/stʌmp/",
+      "uk": "/stʌmp/"
+    },
+    "examples": [
+      "The kids sat on the tree stump.",
+      "Only a stump was left after cutting the tree."
+    ],
+    "extra": {
+      "synonyms": [
+        "base",
+        "trunk",
+        "remains"
+      ],
+      "antonyms": [
+        "tree",
+        "branch"
+      ],
+      "memory_tip": "Stump = what's left of the tree!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "temperature",
+    "type": "noun",
+    "definition": "How hot or cold something is.",
+    "pronunciation": {
+      "us": "/ˈtɛmpərətʃər/",
+      "uk": "/ˈtɛmp(ə)rətʃə/"
+    },
+    "examples": [
+      "The temperature is very high today.",
+      "We checked the temperature outside."
+    ],
+    "extra": {
+      "synonyms": [
+        "heat",
+        "cold",
+        "climate"
+      ],
+      "antonyms": [
+        "unknown",
+        "steady"
+      ],
+      "memory_tip": "Temperature = hot or cold?",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "dusk",
+    "type": "noun",
+    "definition": "The time when the sun goes down and it starts to get dark.",
+    "pronunciation": {
+      "us": "/dʌsk/",
+      "uk": "/dʌsk/"
+    },
+    "examples": [
+      "We walked home at dusk.",
+      "Bats come out at dusk."
+    ],
+    "extra": {
+      "synonyms": [
+        "sunset",
+        "twilight",
+        "evening"
+      ],
+      "antonyms": [
+        "dawn",
+        "sunrise"
+      ],
+      "memory_tip": "Dusk = the day’s end!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "enormous",
+    "type": "adjective",
+    "definition": "Very, very big.",
+    "pronunciation": {
+      "us": "/ɪˈnɔrməs/",
+      "uk": "/ɪˈnɔːməs/"
+    },
+    "examples": [
+      "That dog is enormous!",
+      "She carried an enormous backpack."
+    ],
+    "extra": {
+      "synonyms": [
+        "huge",
+        "giant",
+        "massive"
+      ],
+      "antonyms": [
+        "tiny",
+        "small"
+      ],
+      "memory_tip": "Enormous = super big!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "decay",
+    "type": "verb,noun",
+    "definition": "To slowly rot or break down over time; the process of rotting.",
+    "pronunciation": {
+      "us": "/dɪˈkeɪ/",
+      "uk": "/dɪˈkeɪ/"
+    },
+    "examples": [
+      "The fruit started to decay. (verb)",
+      "Tooth decay is bad for kids. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "rot",
+        "spoil",
+        "break down"
+      ],
+      "antonyms": [
+        "grow",
+        "preserve"
+      ],
+      "memory_tip": "Decay = fall apart over time!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "decay",
+        "decayed",
+        "decaying"
+      ]
+    }
+  },
+  {
+    "word": "volcano",
+    "type": "noun",
+    "definition": "A mountain that can erupt with hot lava, gas, and ash.",
+    "pronunciation": {
+      "us": "/vɑlˈkeɪnoʊ/",
+      "uk": "/vɒlˈkeɪnəʊ/"
+    },
+    "examples": [
+      "The volcano erupted with lava.",
+      "We learned about volcanoes in science."
+    ],
+    "extra": {
+      "synonyms": [
+        "mountain",
+        "crater",
+        "eruption site"
+      ],
+      "antonyms": [
+        "valley",
+        "plain"
+      ],
+      "memory_tip": "Volcano = mountain that bursts with lava!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "skeleton",
+    "type": "noun",
+    "definition": "The bones that make up the body of a person or animal.",
+    "pronunciation": {
+      "us": "/ˈskɛlɪtən/",
+      "uk": "/ˈskɛlɪt(ə)n/"
+    },
+    "examples": [
+      "We saw a dinosaur skeleton at the museum.",
+      "Our skeleton helps us stand and move."
+    ],
+    "extra": {
+      "synonyms": [
+        "bones",
+        "framework",
+        "structure"
+      ],
+      "antonyms": [
+        "muscle",
+        "flesh"
+      ],
+      "memory_tip": "Skeleton = all your bones together!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "prehistoric",
+    "type": "adjective",
+    "definition": "From a time before people wrote down history.",
+    "pronunciation": {
+      "us": "/ˌpriːhɪˈstɔrɪk/",
+      "uk": "/ˌpriːhɪˈstɒrɪk/"
+    },
+    "examples": [
+      "Dinosaurs lived in prehistoric times.",
+      "We saw prehistoric bones in the museum."
+    ],
+    "extra": {
+      "synonyms": [
+        "ancient",
+        "old",
+        "early"
+      ],
+      "antonyms": [
+        "modern",
+        "new"
+      ],
+      "memory_tip": "Prehistoric = way before books!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

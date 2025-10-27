@@ -1,0 +1,175 @@
+[
+  {
+    "word": "bold",
+    "type": "adjective,noun",
+    "definition": "Brave and confident; in writing or printing, darker and heavier; a bold person or style.",
+    "pronunciation": { "us": "bohld", "uk": "bohld" },
+    "examples": [
+      "She made a bold decision to start a club.",
+      "Please use bold letters for the title."
+    ],
+    "extra": {
+      "synonyms": ["brave", "daring", "confident"],
+      "antonyms": ["timid", "cautious"],
+      "memory_tip": "Bold = big, brave, and easy to see.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "cunning",
+    "type": "adjective,noun",
+    "definition": "Clever at getting what you want, sometimes by tricking; skill in achieving something by deceit or cleverness.",
+    "pronunciation": { "us": "KUN-ing", "uk": "KUN-ing" },
+    "examples": [
+      "The cunning fox escaped the trap.",
+      "With patience and cunning, she solved the puzzle."
+    ],
+    "extra": {
+      "synonyms": ["sly", "crafty", "clever"],
+      "antonyms": ["honest", "naive", "straightforward"],
+      "memory_tip": "Cunning = clever with a curve.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "deed",
+    "type": "noun",
+    "definition": "An action or something that someone does; also a legal document that shows ownership.",
+    "pronunciation": { "us": "deed", "uk": "deed" },
+    "examples": [
+      "Helping a neighbour is a kind deed.",
+      "They signed the deed to the house."
+    ],
+    "extra": {
+      "synonyms": ["act", "action", "document (legal)"],
+      "antonyms": ["inaction", "neglect"],
+      "memory_tip": "Deed = the ‘doing’ that is done.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "doze",
+    "type": "verb,noun",
+    "definition": "To sleep lightly; a short, light sleep.",
+    "pronunciation": { "us": "dohz", "uk": "dohz" },
+    "examples": [
+      "He dozed on the sofa after lunch. (verb)",
+      "A quick doze helped her feel better. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["nap", "snooze", "drift off"],
+      "antonyms": ["wake", "rouse"],
+      "memory_tip": "Doze = a dose of quick sleep.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["doze", "dozed", "dozing"]
+    }
+  },
+  {
+    "word": "jagged",
+    "type": "adjective",
+    "definition": "Having sharp points or edges that are not even.",
+    "pronunciation": { "us": "JAG-id", "uk": "JAG-id" },
+    "examples": [
+      "We climbed over the jagged rocks.",
+      "Be careful of the jagged metal."
+    ],
+    "extra": {
+      "synonyms": ["rough", "irregular", "serrated"],
+      "antonyms": ["smooth", "even"],
+      "memory_tip": "Jagged = jags and juts everywhere.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "positive",
+    "type": "adjective,noun",
+    "definition": "Confident and hopeful; showing the presence of something; in maths, greater than zero; a confident statement.",
+    "pronunciation": { "us": "POZ-uh-tiv", "uk": "POZ-ih-tiv" },
+    "examples": [
+      "She has a positive attitude about learning.",
+      "The test was positive for bacteria."
+    ],
+    "extra": {
+      "synonyms": ["optimistic", "certain", "affirmative"],
+      "antonyms": ["negative", "doubtful"],
+      "memory_tip": "Positive = plus signs in mood and maths.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "respect",
+    "type": "noun,verb",
+    "definition": "A feeling of admiration; polite behaviour toward others; to admire and treat well.",
+    "pronunciation": { "us": "ri-SPEKT", "uk": "ri-SPEKT" },
+    "examples": [
+      "Show respect by listening quietly. (noun)",
+      "We respect our coaches and classmates. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["admiration", "regard", "honour"],
+      "antonyms": ["disrespect", "contempt"],
+      "memory_tip": "Respect = look again and value.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["respect", "respected", "respecting"]
+    }
+  },
+  {
+    "word": "responsible",
+    "type": "adjective",
+    "definition": "Having a duty to look after something or someone; able to be trusted to do what is right.",
+    "pronunciation": { "us": "ri-SPON-suh-bul", "uk": "ri-SPON-suh-bul" },
+    "examples": [
+      "You are responsible for feeding the class pet today.",
+      "She is a very responsible leader."
+    ],
+    "extra": {
+      "synonyms": ["reliable", "accountable", "trustworthy"],
+      "antonyms": ["irresponsible", "careless"],
+      "memory_tip": "Responsible = response-able: ready to answer for actions.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "smuggle",
+    "type": "verb",
+    "definition": "To take things or people secretly and illegally from one place to another.",
+    "pronunciation": { "us": "SMUG-uhl", "uk": "SMUG-uhl" },
+    "examples": [
+      "They tried to smuggle rare birds across the border.",
+      "Stories warn against smuggling stolen goods."
+    ],
+    "extra": {
+      "synonyms": ["traffic", "sneak", "bootleg"],
+      "antonyms": ["declare", "surrender", "legalise"],
+      "memory_tip": "Smuggle = sneak and juggle past checks.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["smuggle", "smuggled", "smuggling"]
+    }
+  },
+  {
+    "word": "version",
+    "type": "noun",
+    "definition": "A particular form of something that differs from others; a telling of events from one point of view.",
+    "pronunciation": { "us": "VER-zhun", "uk": "VUH-zhun" },
+    "examples": [
+      "We downloaded the latest version of the app.",
+      "Each witness gave a different version of the story."
+    ],
+    "extra": {
+      "synonyms": ["form", "edition", "variant"],
+      "antonyms": ["original (contrast)", "copy (contrast in some contexts)"],
+      "memory_tip": "Version = a ‘variation’ of the original.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

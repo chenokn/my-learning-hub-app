@@ -1,0 +1,440 @@
+{
+  "title": "Moon Mail",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Science Fiction",
+  "vocabulary": [
+    "moon",
+    "rocket",
+    "astronaut",
+    "helmet",
+    "crater",
+    "dust",
+    "robot",
+    "letter",
+    "stamp",
+    "deliver"
+  ],
+  "images": [
+    "/stem-hub/language/moonmail.1.png",
+    "/stem-hub/language/moonmail.2.png",
+    "/stem-hub/language/moonmail.3.png",
+    "/stem-hub/language/moonmail.4.png"
+  ],
+  "passage": [
+    "Zed rides a small rocket-scooter on the moon. A friendly robot named Dot beeps and follows. They wear shiny helmets and carry a bag of letters. |“Moon Mail—let’s deliver!” says Zed.",
+    "The path is bumpy with craters. Grey dust puffs up with each hop. Dot shines a light to show the way. |“Careful over the big crater,” beeps Dot.",
+    "They stop at Base A. Zed stamps each letter with a star stamp. |“Post from Earth!” he says. The astronauts cheer and wave.",
+    "One last letter slides out of the bag. It fell under a rock. Zed picks it up and smiles. |“Delivery complete,” he says. Dot spins and beeps with joy."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Where does the story take place?",
+      "answer": "On the moon",
+      "options": [
+        "On the moon",
+        "In a jungle",
+        "Under the sea",
+        "On a farm"
+      ],
+      "keys": [
+        "moon"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Who goes with Zed on the delivery?",
+      "answer": "A robot named Dot",
+      "options": [
+        "A robot named Dot",
+        "A puppy named Pip",
+        "A fairy named Lux",
+        "A teacher named Lee"
+      ],
+      "keys": [
+        "robot",
+        "Dot"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What do they wear for safety?",
+      "answer": "Helmets",
+      "options": [
+        "Helmets",
+        "Crowns",
+        "Umbrellas",
+        "Backpacks only"
+      ],
+      "keys": [
+        "helmet",
+        "safety"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What makes the path bumpy?",
+      "answer": "Craters",
+      "options": [
+        "Craters",
+        "Puddles",
+        "Stairs",
+        "Bricks"
+      ],
+      "keys": [
+        "crater"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What puffs up when they hop?",
+      "answer": "Grey dust",
+      "options": [
+        "Grey dust",
+        "Blue bubbles",
+        "Leaves",
+        "Snow"
+      ],
+      "keys": [
+        "dust"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does Dot do to help?",
+      "answer": "Shines a light to show the way",
+      "options": [
+        "Shines a light to show the way",
+        "Sings a song loudly",
+        "Takes a nap",
+        "Eats the letters"
+      ],
+      "keys": [
+        "robot",
+        "light"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does Zed put on each letter at Base A?",
+      "answer": "A star stamp",
+      "options": [
+        "A star stamp",
+        "A gold coin",
+        "A sticker of a cat",
+        "A ribbon"
+      ],
+      "keys": [
+        "stamp",
+        "letter"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Who cheers and waves when the post arrives?",
+      "answer": "The astronauts",
+      "options": [
+        "The astronauts",
+        "The farmers",
+        "The pirates",
+        "The teachers"
+      ],
+      "keys": [
+        "astronaut"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Where is the last letter found?",
+      "answer": "Under a rock",
+      "options": [
+        "Under a rock",
+        "In a tree",
+        "In the rocket’s engine",
+        "Inside Dot"
+      ],
+      "keys": [
+        "letter"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does Zed say at the end?",
+      "answer": "“Delivery complete.”",
+      "options": [
+        "“Delivery complete.”",
+        "“We are lost!”",
+        "“No more mail ever!”",
+        "“Time to sleep.”"
+      ],
+      "keys": [
+        "deliver"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "moon",
+      "type": "noun",
+      "definition": "The round object that orbits Earth and shines at night.",
+      "pronunciation": {
+        "us": "muːn",
+        "uk": "muːn"
+      },
+      "examples": [
+        "Zed rides on the moon.",
+        "The moon looks bright tonight."
+      ],
+      "extra": {
+        "synonyms": [
+          "luna"
+        ],
+        "antonyms": [
+          "sun (contrast)"
+        ],
+        "memory_tip": "Moon = Earth’s night light.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "rocket",
+      "type": "noun",
+      "definition": "A vehicle that flies by pushing gas out fast.",
+      "pronunciation": {
+        "us": "ˈrɑː.kɪt",
+        "uk": "ˈrɒk.ɪt"
+      },
+      "examples": [
+        "The rocket-scooter hops over craters.",
+        "The rocket lifts off into space."
+      ],
+      "extra": {
+        "synonyms": [
+          "spacecraft"
+        ],
+        "antonyms": [
+          "car (contrast)"
+        ],
+        "memory_tip": "Rocket = zoom to space!",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "astronaut",
+      "type": "noun",
+      "definition": "A person trained to travel and work in space.",
+      "pronunciation": {
+        "us": "ˈæs.trə.nɔːt",
+        "uk": "ˈæs.trə.nɔːt"
+      },
+      "examples": [
+        "The astronauts cheer and wave.",
+        "An astronaut wears a suit and helmet."
+      ],
+      "extra": {
+        "synonyms": [
+          "spacefarer"
+        ],
+        "antonyms": [
+          "earthbound person (contrast)"
+        ],
+        "memory_tip": "Astronaut = space helper.",
+        "tier": 2,
+        "eslLevel": "medium"
+      }
+    },
+    {
+      "word": "helmet",
+      "type": "noun",
+      "definition": "A hard hat that protects your head.",
+      "pronunciation": {
+        "us": "ˈhɛl.mɪt",
+        "uk": "ˈhel.mɪt"
+      },
+      "examples": [
+        "They wear shiny helmets.",
+        "Wear a helmet to stay safe."
+      ],
+      "extra": {
+        "synonyms": [
+          "hard hat"
+        ],
+        "antonyms": [
+          "bare head (contrast)"
+        ],
+        "memory_tip": "Helmet = head shield.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "crater",
+      "type": "noun",
+      "definition": "A big bowl-shaped hole in the ground, often made by a rock from space.",
+      "pronunciation": {
+        "us": "ˈkreɪ.tɚ",
+        "uk": "ˈkreɪ.tə"
+      },
+      "examples": [
+        "The path is bumpy with craters.",
+        "They jump over a wide crater."
+      ],
+      "extra": {
+        "synonyms": [
+          "hollow",
+          "pit"
+        ],
+        "antonyms": [
+          "hill (contrast)"
+        ],
+        "memory_tip": "Crater = moon bowl.",
+        "tier": 2,
+        "eslLevel": "medium"
+      }
+    },
+    {
+      "word": "dust",
+      "type": "noun,verb",
+      "definition": "Very tiny bits of dry matter; to wipe off tiny bits.",
+      "pronunciation": {
+        "us": "dʌst",
+        "uk": "dʌst"
+      },
+      "examples": [
+        "Grey dust puffs up.",
+        "Please dust the shelf."
+      ],
+      "extra": {
+        "synonyms": [
+          "powder"
+        ],
+        "antonyms": [
+          "mud (contrast)"
+        ],
+        "memory_tip": "Dust = tiny dry specks.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "dust",
+          "dusted",
+          "dusting"
+        ]
+      }
+    },
+    {
+      "word": "robot",
+      "type": "noun",
+      "definition": "A machine that can do tasks by itself or when programmed.",
+      "pronunciation": {
+        "us": "ˈroʊ.bɑːt",
+        "uk": "ˈrəʊ.bɒt"
+      },
+      "examples": [
+        "A robot named Dot helps Zed.",
+        "The robot shines a light."
+      ],
+      "extra": {
+        "synonyms": [
+          "bot",
+          "android"
+        ],
+        "antonyms": [
+          "human (contrast)"
+        ],
+        "memory_tip": "Robot = helper machine.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "letter",
+      "type": "noun",
+      "definition": "A written message on paper put in an envelope.",
+      "pronunciation": {
+        "us": "ˈlɛ.tɚ",
+        "uk": "ˈlet.ə"
+      },
+      "examples": [
+        "They carry a bag of letters.",
+        "He reads a letter from home."
+      ],
+      "extra": {
+        "synonyms": [
+          "note",
+          "mail"
+        ],
+        "antonyms": [
+          "call (contrast)"
+        ],
+        "memory_tip": "Letter = paper message.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "stamp",
+      "type": "noun,verb",
+      "definition": "A small sticky label that pays for post; to press a mark on something.",
+      "pronunciation": {
+        "us": "stæmp",
+        "uk": "stæmp"
+      },
+      "examples": [
+        "Zed adds a star stamp. (noun)",
+        "Stamp each letter, please. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "postage",
+          "mark"
+        ],
+        "antonyms": [
+          "erase (contrast)"
+        ],
+        "memory_tip": "Stamp = small square for mail.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "stamp",
+          "stamped",
+          "stamping"
+        ]
+      }
+    },
+    {
+      "word": "deliver",
+      "type": "verb",
+      "definition": "To take something to the person or place it is meant for.",
+      "pronunciation": {
+        "us": "dɪˈlɪ.vɚ",
+        "uk": "dɪˈlɪ.və"
+      },
+      "examples": [
+        "Let’s deliver the moon mail.",
+        "He delivers the last letter."
+      ],
+      "extra": {
+        "synonyms": [
+          "bring",
+          "carry"
+        ],
+        "antonyms": [
+          "keep",
+          "hold back"
+        ],
+        "memory_tip": "Deliver = bring it to them.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "deliver",
+          "delivered",
+          "delivering"
+        ]
+      }
+    }
+  ]
+}

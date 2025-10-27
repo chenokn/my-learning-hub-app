@@ -1,0 +1,283 @@
+[
+  {
+    "word": "affectionate",
+    "type": "adjective",
+    "definition": "Showing love or warm feelings in a gentle way.",
+    "pronunciation": { "us": "uh-FEK-shuh-nit", "uk": "uh-FEK-shuh-nit" },
+    "examples": [
+      "The puppy is very affectionate with children.",
+      "He gave his gran an affectionate hug."
+    ],
+    "extra": {
+      "synonyms": ["loving", "warm", "fond"],
+      "antonyms": ["cold", "distant", "unfriendly"],
+      "memory_tip": "Affectionate = full of affection to share.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "appeal",
+    "type": "verb,noun",
+    "definition": "To ask strongly for help or a decision; to be attractive or interesting; a serious request or legal challenge.",
+    "pronunciation": { "us": "uh-PEEL", "uk": "uh-PEEL" },
+    "examples": [
+      "They appealed for donations after the storm. (verb)",
+      "The park’s appeal is its quiet paths. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["plead", "attract", "request"],
+      "antonyms": ["repel", "reject", "refuse"],
+      "memory_tip": "Appeal = a pull toward help or interest.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["appeal", "appealed", "appealing"]
+    }
+  },
+  {
+    "word": "clasp",
+    "type": "verb,noun",
+    "definition": "To hold tightly; a device for fastening.",
+    "pronunciation": { "us": "klasp", "uk": "klasp" },
+    "examples": [
+      "She clasped his hand as they crossed the road. (verb)",
+      "The necklace has a tiny clasp. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["grip", "clutch", "fastener"],
+      "antonyms": ["release", "let go", "unfasten"],
+      "memory_tip": "Clasp = close your grasp.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["clasp", "clasped", "clasping"]
+    }
+  },
+  {
+    "word": "conspicuous",
+    "type": "adjective",
+    "definition": "Easy to notice; standing out clearly.",
+    "pronunciation": { "us": "kun-SPIK-yoo-us", "uk": "kun-SPIK-yoo-us" },
+    "examples": [
+      "Her red coat was conspicuous in the crowd.",
+      "There was a conspicuous error on the sign."
+    ],
+    "extra": {
+      "synonyms": ["obvious", "noticeable", "prominent"],
+      "antonyms": ["hidden", "subtle", "inconspicuous"],
+      "memory_tip": "Conspicuous = you can ‘spot’ it quick.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "contribute",
+    "type": "verb",
+    "definition": "To give (time, money, effort) or to help cause something.",
+    "pronunciation": { "us": "kun-TRIB-yoot", "uk": "kun-TRIB-yoot" },
+    "examples": [
+      "Everyone contributed ideas to the project.",
+      "Good sleep contributes to better learning."
+    ],
+    "extra": {
+      "synonyms": ["donate", "give", "add"],
+      "antonyms": ["withhold", "remove", "detract"],
+      "memory_tip": "Contribute = add your bit to the group.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["contribute", "contributed", "contributing"]
+    }
+  },
+  {
+    "word": "declare",
+    "type": "verb",
+    "definition": "To announce clearly and formally; to state openly.",
+    "pronunciation": { "us": "di-KLAIR", "uk": "di-KLAIR" },
+    "examples": [
+      "They declared the results after counting.",
+      "You must declare items at customs."
+    ],
+    "extra": {
+      "synonyms": ["announce", "proclaim", "state"],
+      "antonyms": ["deny", "hide", "withhold"],
+      "memory_tip": "Declare = make it clear to all.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["declare", "declared", "declaring"]
+    }
+  },
+  {
+    "word": "eloquent",
+    "type": "adjective",
+    "definition": "Expressing ideas clearly and beautifully, especially in speech.",
+    "pronunciation": { "us": "EL-uh-kwunt", "uk": "EL-uh-kwunt" },
+    "examples": [
+      "Her eloquent speech moved the audience.",
+      "An eloquent look passed between them."
+    ],
+    "extra": {
+      "synonyms": ["expressive", "persuasive", "articulate"],
+      "antonyms": ["inarticulate", "awkward", "clumsy"],
+      "memory_tip": "Eloquent = elegant words.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "exhibit",
+    "type": "verb,noun",
+    "definition": "To show publicly; a public display or object on show.",
+    "pronunciation": { "us": "eg-ZIB-it", "uk": "eg-ZIB-it" },
+    "examples": [
+      "Students will exhibit their artwork on Friday. (verb)",
+      "The museum’s new dinosaur exhibit is popular. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["display", "showcase", "presentation"],
+      "antonyms": ["conceal", "hide", "secrete"],
+      "memory_tip": "Exhibit = ‘exit’ hidden, bring into view.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["exhibit", "exhibited", "exhibiting"]
+    }
+  },
+  {
+    "word": "ferry",
+    "type": "noun,verb",
+    "definition": "A boat that carries people or goods across water; to carry people or goods by boat or vehicle.",
+    "pronunciation": { "us": "FEH-ree", "uk": "FEH-ree" },
+    "examples": [
+      "We took the ferry to the island. (noun)",
+      "Buses ferried fans to the stadium. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["boat", "transport", "shuttle"],
+      "antonyms": ["strand", "maroon (verb)"],
+      "memory_tip": "Ferry = ‘carry’ across water.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["ferry", "carried/ferried", "ferrying"]
+    }
+  },
+  {
+    "word": "immigrant",
+    "type": "noun",
+    "definition": "A person who moves to a new country to live there.",
+    "pronunciation": { "us": "IM-uh-grunt", "uk": "IM-uh-grunt" },
+    "examples": [
+      "Immigrants bring skills and stories with them.",
+      "Her grandparents were immigrants from Italy."
+    ],
+    "extra": {
+      "synonyms": ["newcomer", "settler", "migrant"],
+      "antonyms": ["native-born (contrast)", "emigrant (leaving)"],
+      "memory_tip": "Immigrant = moves ‘in’ to a country.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "lofty",
+    "type": "adjective",
+    "definition": "Very tall or high; noble or proud in manner or ideas.",
+    "pronunciation": { "us": "LOF-tee", "uk": "LOF-tee" },
+    "examples": [
+      "Lofty mountains ringed the valley.",
+      "She set herself lofty goals."
+    ],
+    "extra": {
+      "synonyms": ["tall", "elevated", "noble"],
+      "antonyms": ["low", "modest", "humble"],
+      "memory_tip": "Lofty = up in the loft, high above.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "pedestal",
+    "type": "noun",
+    "definition": "A base or support that a statue or object stands on; a high position of respect.",
+    "pronunciation": { "us": "PED-uh-stuhl", "uk": "PED-uh-stuhl" },
+    "examples": [
+      "The statue stood on a marble pedestal.",
+      "Don’t put anyone on a pedestal."
+    ],
+    "extra": {
+      "synonyms": ["base", "stand", "plinth"],
+      "antonyms": ["ground", "floor (contrast)"],
+      "memory_tip": "Pedestal = pedestal supports the ‘pedal’ feet of a statue.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "persecute",
+    "type": "verb",
+    "definition": "To treat someone cruelly or unfairly, especially because of their beliefs or identity.",
+    "pronunciation": { "us": "PUR-suh-kyoot", "uk": "PUR-suh-kyoot" },
+    "examples": [
+      "They were persecuted for their religion.",
+      "Laws were passed to protect groups from persecution."
+    ],
+    "extra": {
+      "synonyms": ["oppress", "harass", "victimise"],
+      "antonyms": ["protect", "defend", "safeguard"],
+      "memory_tip": "Persecute = pursue to be cruel.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["persecute", "persecuted", "persecuting"]
+    }
+  },  
+  {
+    "word": "prosecute",
+    "type": "verb",
+    "definition": "To bring legal action against someone for a crime; to carry out an activity with determination.",
+    "pronunciation": { "us": "PRAH-si-kyoot", "uk": "PROS-i-kyoot" },
+    "examples": [
+      "The state decided to prosecute the suspect for fraud.",
+      "Despite setbacks, the team prosecuted the research to completion."
+    ],
+    "extra": {
+      "synonyms": ["try (in court)", "charge", "pursue"],
+      "antonyms": ["drop (a case)", "defend", "abandon"],
+      "memory_tip": "PROSecute = take someone to court to PROve a case.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["prosecute", "prosecuted", "prosecuting"]
+    }
+  },
+  {
+    "word": "poverty",
+    "type": "noun",
+    "definition": "The state of being very poor; not having enough for basic needs.",
+    "pronunciation": { "us": "POV-er-tee", "uk": "POV-er-tee" },
+    "examples": [
+      "The charity works to reduce poverty.",
+      "Poverty affects access to education."
+    ],
+    "extra": {
+      "synonyms": ["need", "deprivation", "hardship"],
+      "antonyms": ["wealth", "prosperity", "affluence"],
+      "memory_tip": "Poverty = pockets nearly empty.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "unveil",
+    "type": "verb",
+    "definition": "To remove a covering and show something; to make known for the first time.",
+    "pronunciation": { "us": "un-VAYL", "uk": "un-VAYL" },
+    "examples": [
+      "They unveiled the new statue in the square.",
+      "The company will unveil its latest device tomorrow."
+    ],
+    "extra": {
+      "synonyms": ["reveal", "present", "disclose"],
+      "antonyms": ["conceal", "cover", "hide"],
+      "memory_tip": "Unveil = take off the veil so all can see.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["unveil", "unveiled", "unveiling"]
+    }
+  }
+]

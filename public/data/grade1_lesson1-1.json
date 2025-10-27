@@ -1,0 +1,261 @@
+[
+  {
+    "word": "apple",
+    "type": "noun",
+    "definition": "A round fruit with red, green, or yellow skin.",
+    "pronunciation": {
+      "us": "/ˈæpəl/",
+      "uk": "/ˈæpəl/"
+    },
+    "examples": [
+      "I ate an apple for lunch.",
+      "She put an apple in her bag."
+    ],
+    "extra": {
+      "synonyms": [
+        "fruit",
+        "snack"
+      ],
+      "antonyms": [
+        "vegetable",
+        "meat"
+      ],
+      "memory_tip": "Apples are round, crunchy, and sweet.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "ball",
+    "type": "noun",
+    "definition": "A round object used in games and sports.",
+    "pronunciation": {
+      "us": "/bɔl/",
+      "uk": "/bɔːl/"
+    },
+    "examples": [
+      "He threw the ball to his friend.",
+      "They played with a red ball."
+    ],
+    "extra": {
+      "synonyms": [
+        "toy",
+        "sphere"
+      ],
+      "antonyms": [
+        "cube",
+        "box"
+      ],
+      "memory_tip": "Balls bounce and roll!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "cat",
+    "type": "noun",
+    "definition": "A small animal with fur that says 'meow'.",
+    "pronunciation": {
+      "us": "/kæt/",
+      "uk": "/kæt/"
+    },
+    "examples": [
+      "The cat is sleeping on the couch.",
+      "She has a black and white cat."
+    ],
+    "extra": {
+      "synonyms": [
+        "kitten",
+        "pet"
+      ],
+      "antonyms": [
+        "dog",
+        "mouse"
+      ],
+      "memory_tip": "Cats like to nap and purr.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "dog",
+    "type": "noun",
+    "definition": "A furry animal that barks and can be a pet.",
+    "pronunciation": {
+      "us": "/dɔg/",
+      "uk": "/dɒg/"
+    },
+    "examples": [
+      "The dog wagged its tail.",
+      "He took his dog for a walk."
+    ],
+    "extra": {
+      "synonyms": [
+        "puppy",
+        "pet"
+      ],
+      "antonyms": [
+        "cat",
+        "fish"
+      ],
+      "memory_tip": "Dogs bark and like to play fetch.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "egg",
+    "type": "noun",
+    "definition": "A small round object laid by a bird, often eaten as food.",
+    "pronunciation": {
+      "us": "/ɛg/",
+      "uk": "/ɛg/"
+    },
+    "examples": [
+      "I had an egg for breakfast.",
+      "The hen laid a brown egg."
+    ],
+    "extra": {
+      "synonyms": [
+        "food",
+        "shell"
+      ],
+      "antonyms": [
+        "meat",
+        "fruit"
+      ],
+      "memory_tip": "Eggs are oval and crack when you tap them.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fish",
+    "type": "noun",
+    "definition": "An animal that lives in water and has fins.",
+    "pronunciation": {
+      "us": "/fɪʃ/",
+      "uk": "/fɪʃ/"
+    },
+    "examples": [
+      "We saw a big fish in the pond.",
+      "She has a goldfish in a bowl."
+    ],
+    "extra": {
+      "synonyms": [
+        "sea animal",
+        "swimmer"
+      ],
+      "antonyms": [
+        "bird",
+        "cat"
+      ],
+      "memory_tip": "Fish swim and have scales.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "go",
+    "type": "verb",
+    "definition": "To move from one place to another.",
+    "pronunciation": {
+      "us": "/goʊ/",
+      "uk": "/ɡəʊ/"
+    },
+    "examples": [
+      "Let’s go to the park!",
+      "He will go home after school."
+    ],
+    "extra": {
+      "synonyms": [
+        "move",
+        "travel"
+      ],
+      "antonyms": [
+        "stay",
+        "stop"
+      ],
+      "memory_tip": "Go = time to move!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "hat",
+    "type": "noun",
+    "definition": "Something you wear on your head.",
+    "pronunciation": {
+      "us": "/hæt/",
+      "uk": "/hæt/"
+    },
+    "examples": [
+      "She wore a red hat.",
+      "Put on your hat before going outside."
+    ],
+    "extra": {
+      "synonyms": [
+        "cap",
+        "helmet"
+      ],
+      "antonyms": [
+        "bare head"
+      ],
+      "memory_tip": "Hats keep heads warm or cool.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "ice",
+    "type": "noun",
+    "definition": "Frozen water that is cold and hard.",
+    "pronunciation": {
+      "us": "/aɪs/",
+      "uk": "/aɪs/"
+    },
+    "examples": [
+      "I put ice in my drink.",
+      "The lake was covered in ice."
+    ],
+    "extra": {
+      "synonyms": [
+        "frost",
+        "snow"
+      ],
+      "antonyms": [
+        "water",
+        "steam"
+      ],
+      "memory_tip": "Ice is cold and slippery!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "jump",
+    "type": "verb",
+    "definition": "To push off the ground with your legs.",
+    "pronunciation": {
+      "us": "/dʒʌmp/",
+      "uk": "/dʒʌmp/"
+    },
+    "examples": [
+      "The frog can jump very high.",
+      "We jump over the rope in PE class."
+    ],
+    "extra": {
+      "synonyms": [
+        "hop",
+        "leap"
+      ],
+      "antonyms": [
+        "stand",
+        "sit"
+      ],
+      "memory_tip": "Jump = legs go up fast!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

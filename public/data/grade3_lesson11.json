@@ -1,0 +1,179 @@
+[
+  {
+    "word": "diagram",
+    "type": "noun,verb",
+    "definition": "A simple drawing that explains how something works or shows parts; to show or explain with a diagram.",
+    "pronunciation": { "us": "DYE-uh-gram", "uk": "DYE-uh-gram" },
+    "examples": [
+      "We drew a diagram of the water cycle. (noun)",
+      "The teacher diagrammed the sentence on the board. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["chart", "sketch", "plan"],
+      "antonyms": ["text-only (contrast)", "confuse (verb)"],
+      "memory_tip": "Diagram = draw to make ideas clear.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["diagram", "diagrammed", "diagramming"]
+    }
+  },
+  {
+    "word": "frustrate",
+    "type": "verb",
+    "definition": "To block success or make someone feel annoyed by stopping their plans.",
+    "pronunciation": { "us": "frus-TRAYT", "uk": "frus-TRAYT" },
+    "examples": [
+      "Cancelled trains frustrated commuters.",
+      "Complicated rules can frustrate learners."
+    ],
+    "extra": {
+      "synonyms": ["thwart", "hinder", "annoy"],
+      "antonyms": ["encourage", "assist"],
+      "memory_tip": "Frustrate = ‘freeze’ progress.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["frustrate", "frustrated", "frustrating"]
+    }
+  },
+  {
+    "word": "graduate",
+    "type": "verb,noun,adjective",
+    "definition": "To finish a course of study; a person who has finished a course; relating to someone who has completed a degree.",
+    "pronunciation": { "us": "GRAJ-oo-ayt (verb), GRAJ-oo-it (noun/adj)", "uk": "GRAJ-oo-ayt (verb), GRAJ-oo-it (noun/adj)" },
+    "examples": [
+      "She will graduate in June. (verb)",
+      "He is a science graduate. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["qualify", "complete", "alumnus/alumna (noun)"],
+      "antonyms": ["drop out", "fail"],
+      "memory_tip": "Graduate = ‘grade you ate’—you finished that level.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["graduate", "graduated", "graduating"]
+    }
+  },
+  {
+    "word": "prank",
+    "type": "noun,verb",
+    "definition": "A playful trick; to play a trick on someone.",
+    "pronunciation": { "us": "prank", "uk": "prank" },
+    "examples": [
+      "The April Fools’ prank made everyone laugh. (noun)",
+      "Please don’t prank the new students. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["trick", "jape", "practical joke"],
+      "antonyms": ["serious act", "formality"],
+      "memory_tip": "Prank = playful, not mean.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["prank", "pranked", "pranking"]
+    }
+  },
+  {
+    "word": "primary",
+    "type": "adjective,noun",
+    "definition": "First or most important; relating to early years of schooling; in some countries, an election to choose a party’s candidate.",
+    "pronunciation": { "us": "PRY-muh-ree", "uk": "PRY-muh-ree" },
+    "examples": [
+      "Safety is our primary concern. (adjective)",
+      "She teaches primary pupils. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["main", "principal", "chief"],
+      "antonyms": ["secondary", "minor"],
+      "memory_tip": "Primary = prime/first in line.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "risk",
+    "type": "noun,verb",
+    "definition": "The chance of loss or danger; to expose to the chance of loss or danger.",
+    "pronunciation": { "us": "risk", "uk": "risk" },
+    "examples": [
+      "There is a risk of rain today. (noun)",
+      "Don’t risk your health by skipping sleep. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["hazard", "danger", "chance"],
+      "antonyms": ["safety", "certainty"],
+      "memory_tip": "Risk = could go wrong.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["risk", "risked", "risking"]
+    }
+  },
+  {
+    "word": "stress",
+    "type": "noun,verb",
+    "definition": "Pressure or worry; in speech, extra emphasis on a syllable; to give special importance or pressure.",
+    "pronunciation": { "us": "stres", "uk": "stres" },
+    "examples": [
+      "Exams can cause stress. (noun)",
+      "Teachers stress the need for practice. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["strain", "pressure", "emphasise (verb)"],
+      "antonyms": ["calm", "relief", "downplay (verb)"],
+      "memory_tip": "Stress = press down on mind or meaning.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["stress", "stressed", "stressing"]
+    }
+  },
+  {
+    "word": "urge",
+    "type": "verb,noun",
+    "definition": "To strongly advise or try to persuade; a strong desire to do something.",
+    "pronunciation": { "us": "urj", "uk": "urj" },
+    "examples": [
+      "Doctors urge people to drink water in hot weather. (verb)",
+      "He had an urge to call his friend. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["encourage", "press", "desire (noun)"],
+      "antonyms": ["deter", "discourage"],
+      "memory_tip": "Urge = push gently but firmly.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["urge", "urged", "urging"]
+    }
+  },
+  {
+    "word": "vacant",
+    "type": "adjective",
+    "definition": "Empty or not being used; showing no expression.",
+    "pronunciation": { "us": "VAY-kunt", "uk": "VAY-kunt" },
+    "examples": [
+      "There is a vacant seat by the window.",
+      "He stared with a vacant look."
+    ],
+    "extra": {
+      "synonyms": ["empty", "unoccupied", "blank"],
+      "antonyms": ["occupied", "full"],
+      "memory_tip": "Vacant = a ‘vacuum’ of people or expression.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "vigorous",
+    "type": "adjective",
+    "definition": "Strong and full of energy; done with force or enthusiasm.",
+    "pronunciation": { "us": "VIG-uh-rus", "uk": "VIG-uh-rus" },
+    "examples": [
+      "She gave the carpet a vigorous shake.",
+      "A vigorous debate lasted an hour."
+    ],
+    "extra": {
+      "synonyms": ["energetic", "robust", "forceful"],
+      "antonyms": ["weak", "feeble", "sluggish"],
+      "memory_tip": "Vigorous = powered by real ‘vigor’.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

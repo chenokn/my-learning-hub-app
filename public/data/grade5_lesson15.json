@@ -1,0 +1,264 @@
+[
+  {
+    "word": "disaster",
+    "type": "noun",
+    "definition": "A sudden event that causes great damage or suffering.",
+    "pronunciation": { "us": "dih-ZAS-ter", "uk": "dih-ZAS-tuh" },
+    "examples": [
+      "The flood was a major disaster for the town.",
+      "Good planning can reduce the impact of a disaster."
+    ],
+    "extra": {
+      "synonyms": ["catastrophe", "calamity", "tragedy"],
+      "antonyms": ["success", "triumph"],
+      "memory_tip": "Disaster = a day that ‘disastrously’ falls apart.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "flee",
+    "type": "verb",
+    "definition": "To run away from danger or from a place.",
+    "pronunciation": { "us": "flee", "uk": "flee" },
+    "examples": [
+      "People fled the building when the alarm rang.",
+      "Birds flee to warmer places in winter."
+    ],
+    "extra": {
+      "synonyms": ["run away", "escape", "bolt"],
+      "antonyms": ["stay", "face"],
+      "memory_tip": "Flee = fly from fear.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["flee", "fled", "fleeing"]
+    }
+  },
+  {
+    "word": "fracture",
+    "type": "noun,verb",
+    "definition": "A break or crack in something, especially a bone; to break or crack.",
+    "pronunciation": { "us": "FRAK-cher", "uk": "FRAK-chuh" },
+    "examples": [
+      "The X-ray showed a small fracture. (noun)",
+      "He fractured his wrist while skating. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["break", "crack", "split"],
+      "antonyms": ["mend", "heal"],
+      "memory_tip": "Fracture = a fragmenting break.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["fracture", "fractured", "fracturing"]
+    }
+  },
+  {
+    "word": "immense",
+    "type": "adjective",
+    "definition": "Extremely large or great.",
+    "pronunciation": { "us": "ih-MENTS", "uk": "ih-MENTS" },
+    "examples": [
+      "They felt immense pride in their work.",
+      "The whale is an immense creature."
+    ],
+    "extra": {
+      "synonyms": ["huge", "vast", "enormous"],
+      "antonyms": ["tiny", "small"],
+      "memory_tip": "Immense = ‘in-mass’—massively big.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "intense",
+    "type": "adjective",
+    "definition": "Very strong in degree; deep or extreme.",
+    "pronunciation": { "us": "in-TENTS", "uk": "in-TENTS" },
+    "examples": [
+      "The heat was intense at midday.",
+      "She has an intense focus when she studies."
+    ],
+    "extra": {
+      "synonyms": ["strong", "extreme", "powerful"],
+      "antonyms": ["mild", "weak"],
+      "memory_tip": "Intense = turned up to ten.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "investigate",
+    "type": "verb",
+    "definition": "To look into something carefully to find facts or the truth.",
+    "pronunciation": { "us": "in-VES-tih-gayt", "uk": "in-VES-tih-gayt" },
+    "examples": [
+      "The police are investigating the theft.",
+      "Scientists investigate how plants grow."
+    ],
+    "extra": {
+      "synonyms": ["examine", "probe", "look into"],
+      "antonyms": ["ignore", "overlook"],
+      "memory_tip": "Investigate = in + vestiga (trace): trace the facts.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["investigate", "investigated", "investigating"]
+    }
+  },
+  {
+    "word": "lurch",
+    "type": "verb,noun",
+    "definition": "To make a sudden, unsteady movement.",
+    "pronunciation": { "us": "lurch", "uk": "lurch" },
+    "examples": [
+      "The bus lurched to a stop. (verb)",
+      "With a lurch, the boat swung left. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["pitch", "stagger", "jerk"],
+      "antonyms": ["glide", "steady"],
+      "memory_tip": "Lurch = lumpy jerk.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["lurch", "lurched", "lurching"]
+    }
+  },
+  {
+    "word": "major",
+    "type": "adjective,noun",
+    "definition": "Very important or large; a person with a higher military rank or a main subject of study.",
+    "pronunciation": { "us": "MAY-jer", "uk": "MAY-juh" },
+    "examples": [
+      "The team made a major change. (adjective)",
+      "She is a major. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["important", "significant", "key"],
+      "antonyms": ["minor", "small"],
+      "memory_tip": "Major = the big, main thing.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "minor",
+    "type": "adjective,noun",
+    "definition": "Less important or smaller; a person under the legal age of adulthood.",
+    "pronunciation": { "us": "MY-nur", "uk": "MY-nuh" },
+    "examples": [
+      "It was a minor error. (adjective)",
+      "Minors must be with an adult. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["small", "lesser", "slight"],
+      "antonyms": ["major", "significant"],
+      "memory_tip": "Minor = mini in importance.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "petrify",
+    "type": "verb",
+    "definition": "To make someone very afraid; to turn organic matter into stone over time.",
+    "pronunciation": { "us": "PET-ruh-fy", "uk": "PET-ri-fy" },
+    "examples": [
+      "The loud bang petrified the cat.",
+      "Wood can petrify and become stone over ages."
+    ],
+    "extra": {
+      "synonyms": ["terrify", "paralyse with fear", "stone (turn to)"],
+      "antonyms": ["calm", "comfort"],
+      "memory_tip": "Petrify = ‘petra’ (rock) + -fy: make like rock—or freeze with fear.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["petrify", "petrified", "petrifying"]
+    }
+  },
+  {
+    "word": "predict",
+    "type": "verb",
+    "definition": "To say what you think will happen in the future.",
+    "pronunciation": { "us": "pri-DIKT", "uk": "pri-DIKT" },
+    "examples": [
+      "Can you predict tomorrow’s weather?",
+      "The model predicts faster growth next year."
+    ],
+    "extra": {
+      "synonyms": ["forecast", "foretell", "anticipate"],
+      "antonyms": ["doubt", "misread"],
+      "memory_tip": "Pre- (before) + dict (say) = say before it happens.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["predict", "predicted", "predicting"]
+    }
+  },
+  {
+    "word": "prone",
+    "type": "adjective",
+    "definition": "Likely to do or suffer from something; lying flat, face down.",
+    "pronunciation": { "us": "PROHN", "uk": "PROHN" },
+    "examples": [
+      "He is prone to headaches.",
+      "The injured player lay prone on the field."
+    ],
+    "extra": {
+      "synonyms": ["likely", "disposed", "susceptible"],
+      "antonyms": ["resistant", "unlikely"],
+      "memory_tip": "Prone = more prone to happen to you.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "sparse",
+    "type": "adjective",
+    "definition": "Thinly spread or not dense; few and far between.",
+    "pronunciation": { "us": "sparss", "uk": "sparss" },
+    "examples": [
+      "Trees were sparse on the dry plain.",
+      "Attendance was sparse after the storm."
+    ],
+    "extra": {
+      "synonyms": ["scant", "thin", "meagre"],
+      "antonyms": ["dense", "abundant"],
+      "memory_tip": "Sparse = spaced apart.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "topple",
+    "type": "verb",
+    "definition": "To fall or cause to fall over; to remove from power.",
+    "pronunciation": { "us": "TOP-uhl", "uk": "TOP-uhl" },
+    "examples": [
+      "The stack of books toppled over.",
+      "Protesters aimed to topple the corrupt leader."
+    ],
+    "extra": {
+      "synonyms": ["tip over", "overturn", "unseat"],
+      "antonyms": ["stabilise", "support"],
+      "memory_tip": "Topple = tip + tumble.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["topple", "toppled", "toppling"]
+    }
+  },
+  {
+    "word": "urban",
+    "type": "adjective",
+    "definition": "Relating to a town or city.",
+    "pronunciation": { "us": "UR-bun", "uk": "UR-bun" },
+    "examples": [
+      "Urban areas have many tall buildings.",
+      "Urban transport includes buses and trains."
+    ],
+    "extra": {
+      "synonyms": ["city", "metropolitan"],
+      "antonyms": ["rural", "country"],
+      "memory_tip": "Urban = ‘urb’ like suburbs and city.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

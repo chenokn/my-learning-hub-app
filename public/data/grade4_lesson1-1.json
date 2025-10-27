@@ -1,0 +1,313 @@
+[
+  {
+    "word": "analyze",
+    "type": "verb",
+    "definition": "To study something carefully to understand it.",
+    "pronunciation": {
+      "us": "/ˈænəlaɪz/",
+      "uk": "/ˈænəlaɪz/"
+    },
+    "examples": [
+      "We will analyze the data from our science experiment.",
+      "She analyzed the story to find its theme."
+    ],
+    "extra": {
+      "synonyms": [
+        "examine",
+        "study",
+        "inspect"
+      ],
+      "antonyms": [
+        "ignore",
+        "guess"
+      ],
+      "memory_tip": "Analyze = look closely like a detective!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "analyze",
+        "past": "analyzed",
+        "participle": "analyzed"
+      }
+    }
+  },
+  {
+    "word": "approach",
+    "type": "verb,noun",
+    "definition": "To move closer to something; a way of doing something.",
+    "pronunciation": {
+      "us": "/əˈproʊtʃ/",
+      "uk": "/əˈprəʊtʃ/"
+    },
+    "examples": [
+      "The dog approached us slowly. (verb)",
+      "We need a new approach to solve this problem. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "move toward",
+        "method",
+        "strategy"
+      ],
+      "antonyms": [
+        "leave",
+        "retreat"
+      ],
+      "memory_tip": "Approach = move near or find a way in.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "approach",
+        "past": "approached",
+        "participle": "approached"
+      }
+    }
+  },
+  {
+    "word": "brief",
+    "type": "adj.,noun,verb",
+    "definition": "Short in time or words; a short summary; to give information quickly.",
+    "pronunciation": {
+      "us": "/briːf/",
+      "uk": "/briːf/"
+    },
+    "examples": [
+      "He gave a brief answer to the question. (adjective)",
+      "The teacher gave a brief before the trip. (noun)",
+      "The coach briefed us on the game rules. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "short",
+        "quick",
+        "summary"
+      ],
+      "antonyms": [
+        "long",
+        "detailed"
+      ],
+      "memory_tip": "Brief = short and simple!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "brief",
+        "past": "briefed",
+        "participle": "briefed"
+      }
+    }
+  },
+  {
+    "word": "create",
+    "type": "verb",
+    "definition": "To make something new.",
+    "pronunciation": {
+      "us": "/kriˈeɪt/",
+      "uk": "/kriˈeɪt/"
+    },
+    "examples": [
+      "We will create posters for the assembly.",
+      "She created a fun story using her imagination."
+    ],
+    "extra": {
+      "synonyms": [
+        "make",
+        "build",
+        "invent"
+      ],
+      "antonyms": [
+        "destroy",
+        "ruin"
+      ],
+      "memory_tip": "Create = bring something to life!",
+      "tier": 2,
+      "eslLevel": "easy",
+      "tenses": {
+        "present": "create",
+        "past": "created",
+        "participle": "created"
+      }
+    }
+  },
+  {
+    "word": "demonstrate",
+    "type": "verb",
+    "definition": "To show or explain how something works.",
+    "pronunciation": {
+      "us": "/ˈdemənstreɪt/",
+      "uk": "/ˈdɛmənstreɪt/"
+    },
+    "examples": [
+      "He demonstrated how to fold the paper.",
+      "Can you demonstrate your science experiment?"
+    ],
+    "extra": {
+      "synonyms": [
+        "show",
+        "explain",
+        "present"
+      ],
+      "antonyms": [
+        "hide",
+        "confuse"
+      ],
+      "memory_tip": "Demonstrate = show and teach!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "demonstrate",
+        "past": "demonstrated",
+        "participle": "demonstrated"
+      }
+    }
+  },
+  {
+    "word": "essential",
+    "type": "adjective",
+    "definition": "Very important or necessary.",
+    "pronunciation": {
+      "us": "/ɪˈsɛnʃəl/",
+      "uk": "/ɪˈsɛnʃl/"
+    },
+    "examples": [
+      "Water is essential for life.",
+      "It’s essential to study before a test."
+    ],
+    "extra": {
+      "synonyms": [
+        "important",
+        "needed",
+        "vital"
+      ],
+      "antonyms": [
+        "unimportant",
+        "optional"
+      ],
+      "memory_tip": "Essential = you can’t do without it!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "frequent",
+    "type": "adjective",
+    "definition": "Happening often.",
+    "pronunciation": {
+      "us": "/ˈfriːkwənt/",
+      "uk": "/ˈfriːkwənt/"
+    },
+    "examples": [
+      "She makes frequent trips to the library.",
+      "Rain is frequent in spring."
+    ],
+    "extra": {
+      "synonyms": [
+        "often",
+        "regular",
+        "repeated"
+      ],
+      "antonyms": [
+        "rare",
+        "occasional"
+      ],
+      "memory_tip": "Frequent = happens again and again.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "identify",
+    "type": "verb",
+    "definition": "To know or name what something is.",
+    "pronunciation": {
+      "us": "/aɪˈdɛntɪˌfaɪ/",
+      "uk": "/aɪˈdɛntɪfaɪ/"
+    },
+    "examples": [
+      "Can you identify which animal makes that sound?",
+      "He identified the shapes correctly."
+    ],
+    "extra": {
+      "synonyms": [
+        "recognize",
+        "name",
+        "spot"
+      ],
+      "antonyms": [
+        "misidentify",
+        "confuse"
+      ],
+      "memory_tip": "Identify = point out what it is!",
+      "tier": 2,
+      "eslLevel": "challenging",
+      "tenses": {
+        "present": "identify",
+        "past": "identified",
+        "participle": "identified"
+      }
+    }
+  },
+  {
+    "word": "observe",
+    "type": "verb",
+    "definition": "To watch something carefully.",
+    "pronunciation": {
+      "us": "/əbˈzɜrv/",
+      "uk": "/əbˈzɜːv/"
+    },
+    "examples": [
+      "We observed the stars with a telescope.",
+      "Please observe how the animals move."
+    ],
+    "extra": {
+      "synonyms": [
+        "watch",
+        "notice",
+        "see"
+      ],
+      "antonyms": [
+        "ignore",
+        "overlook"
+      ],
+      "memory_tip": "Observe = look like a scientist!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "observe",
+        "past": "observed",
+        "participle": "observed"
+      }
+    }
+  },
+  {
+    "word": "predict",
+    "type": "verb",
+    "definition": "To say what you think will happen in the future.",
+    "pronunciation": {
+      "us": "/prɪˈdɪkt/",
+      "uk": "/prɪˈdɪkt/"
+    },
+    "examples": [
+      "Can you predict what happens next in the story?",
+      "She predicted it would rain today."
+    ],
+    "extra": {
+      "synonyms": [
+        "guess",
+        "forecast",
+        "expect"
+      ],
+      "antonyms": [
+        "doubt",
+        "ignore"
+      ],
+      "memory_tip": "Predict = pre + say = say before!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "predict",
+        "past": "predicted",
+        "participle": "predicted"
+      }
+    }
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "word": "antic",
+    "type": "noun,adjective",
+    "definition": "A playful or silly act (usually in the plural ‘antics’); bizarre or comic in appearance or behaviour.",
+    "pronunciation": { "us": "AN-tik", "uk": "AN-tik" },
+    "examples": [
+      "The puppy’s antics made everyone laugh. (noun, usually plural)",
+      "He wore an antic hat to the party. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["prank", "frolic", "caper"],
+      "antonyms": ["seriousness", "sobriety"],
+      "memory_tip": "Think ‘antics’ = funny actions; ‘antic’ = odd or comic.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "attire",
+    "type": "noun,verb",
+    "definition": "Clothing; to dress someone in particular clothes (formal).",
+    "pronunciation": { "us": "uh-TY-er", "uk": "uh-TY-uh" },
+    "examples": [
+      "Formal attire is required for the ceremony. (noun)",
+      "They were attired in bright costumes. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["clothing", "garments", "dress"],
+      "antonyms": ["undress (verb)", "rags (contrast)"],
+      "memory_tip": "Attire = the entire outfit.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["attire", "attired", "attiring"]
+    }
+  },
+  {
+    "word": "captivate",
+    "type": "verb",
+    "definition": "To charm and hold someone’s attention completely.",
+    "pronunciation": { "us": "KAP-tuh-vayt", "uk": "KAP-tuh-vayt" },
+    "examples": [
+      "The storyteller captivated the audience.",
+      "Bright colours captivate young children."
+    ],
+    "extra": {
+      "synonyms": ["charm", "fascinate", "enchant"],
+      "antonyms": ["bore", "repel"],
+      "memory_tip": "CaptiVATE = make them a captive with interest.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["captivate", "captivated", "captivating"]
+    }
+  },
+  {
+    "word": "deft",
+    "type": "adjective",
+    "definition": "Skilful and quick in movement or action.",
+    "pronunciation": { "us": "deft", "uk": "deft" },
+    "examples": [
+      "With deft hands, she folded the paper crane.",
+      "The chef made a deft slice."
+    ],
+    "extra": {
+      "synonyms": ["skilful", "nimble", "adept"],
+      "antonyms": ["clumsy", "awkward"],
+      "memory_tip": "Deft = deftly done, no effort seen.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "diligent",
+    "type": "adjective",
+    "definition": "Working hard and carefully; showing steady effort.",
+    "pronunciation": { "us": "DIL-i-junt", "uk": "DIL-i-junt" },
+    "examples": [
+      "Her diligent study led to top marks.",
+      "He is diligent about practising daily."
+    ],
+    "extra": {
+      "synonyms": ["hardworking", "conscientious", "persistent"],
+      "antonyms": ["lazy", "careless"],
+      "memory_tip": "Diligent = do it again and again, well.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "eclipse",
+    "type": "noun,verb",
+    "definition": "When one body blocks the light of another; to make something seem less important or bright by comparison.",
+    "pronunciation": { "us": "ih-KLIPS", "uk": "ih-KLIPS" },
+    "examples": [
+      "We watched the lunar eclipse. (noun)",
+      "Her performance eclipsed all others. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["obscuration", "shadow", "outshine (verb)"],
+      "antonyms": ["reveal", "highlight"],
+      "memory_tip": "Eclipse = light clipped.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["eclipse", "eclipsed", "eclipsing"]
+    }
+  },
+  {
+    "word": "evolve",
+    "type": "verb",
+    "definition": "To develop gradually; to change over time.",
+    "pronunciation": { "us": "ee-VOLV", "uk": "ee-VOLV" },
+    "examples": [
+      "Languages evolve as people use them.",
+      "The plan evolved after feedback."
+    ],
+    "extra": {
+      "synonyms": ["develop", "progress", "transform"],
+      "antonyms": ["regress", "stagnate"],
+      "memory_tip": "Evolve = involve time to improve.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["evolve", "evolved", "evolving"]
+    }
+  },
+  {
+    "word": "innate",
+    "type": "adjective",
+    "definition": "Existing from birth; natural, not learned.",
+    "pronunciation": { "us": "ih-NAYT", "uk": "ih-NAYT" },
+    "examples": [
+      "She has an innate sense of rhythm.",
+      "Curiosity is often innate in children."
+    ],
+    "extra": {
+      "synonyms": ["inborn", "natural", "intrinsic"],
+      "antonyms": ["acquired", "learned"],
+      "memory_tip": "Innate = ‘in’ you from the start.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "inscribe",
+    "type": "verb",
+    "definition": "To write or carve words or symbols on something.",
+    "pronunciation": { "us": "in-SCRYB", "uk": "in-SCRYB" },
+    "examples": [
+      "They inscribed her name on the trophy.",
+      "A date was inscribed on the stone."
+    ],
+    "extra": {
+      "synonyms": ["engrave", "etch", "write"],
+      "antonyms": ["erase", "rub out"],
+      "memory_tip": "In-scribe = write ‘in’ the surface.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["inscribe", "inscribed", "inscribing"]
+    }
+  },
+  {
+    "word": "posture",
+    "type": "noun,verb",
+    "definition": "The position in which someone holds their body; to adopt a particular position or attitude.",
+    "pronunciation": { "us": "POS-chur", "uk": "POS-chuh" },
+    "examples": [
+      "Good posture helps your back. (noun)",
+      "He postured as a neutral observer. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["stance", "bearing", "pose (verb)"],
+      "antonyms": ["slouch", "sprawl"],
+      "memory_tip": "Posture = how you ‘post’ your body.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["posture (verb)", "postured", "posturing"]
+    }
+  },
+  {
+    "word": "shroud",
+    "type": "noun,verb",
+    "definition": "A covering, often for a body; to cover or hide from view.",
+    "pronunciation": { "us": "shrowd", "uk": "shrowd" },
+    "examples": [
+      "Fog was a shroud over the harbour. (noun)",
+      "Mist shrouded the hills. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["cover", "veil", "cloak"],
+      "antonyms": ["reveal", "expose"],
+      "memory_tip": "Shroud = shrouds show nothing.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["shroud", "shrouded", "shrouding"]
+    }
+  },
+  {
+    "word": "stifle",
+    "type": "verb",
+    "definition": "To hold back or stop something; to make it hard to breathe.",
+    "pronunciation": { "us": "STY-ful", "uk": "STY-ful" },
+    "examples": [
+      "Please don’t stifle questions in class.",
+      "The heat was stifling in the tent."
+    ],
+    "extra": {
+      "synonyms": ["suppress", "smother", "restrain"],
+      "antonyms": ["encourage", "release", "foster"],
+      "memory_tip": "Stifle = stifle a sniffle or a spark.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["stifle", "stifled", "stifling"]
+    }
+  },
+  {
+    "word": "tentative",
+       "type": "adjective",
+    "definition": "Not certain or fixed; done carefully and without confidence.",
+    "pronunciation": { "us": "TEN-tuh-tiv", "uk": "TEN-tuh-tiv" },
+    "examples": [
+      "We made a tentative plan for Friday.",
+      "She gave a tentative smile."
+    ],
+    "extra": {
+      "synonyms": ["uncertain", "provisional", "hesitant"],
+      "antonyms": ["definite", "confident", "firm"],
+      "memory_tip": "Tentative = like a tent—temporary and adjustable.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "tranquil",
+    "type": "adjective",
+    "definition": "Calm and peaceful; free from noise or worry.",
+    "pronunciation": { "us": "TRANG-kwil", "uk": "TRANG-kwil" },
+    "examples": [
+      "We paddled across a tranquil lake.",
+      "The garden felt tranquil at dusk."
+    ],
+    "extra": {
+      "synonyms": ["calm", "serene", "peaceful"],
+      "antonyms": ["noisy", "agitated", "turbulent"],
+      "memory_tip": "Tranquil = quiet like a still ‘pool’.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "versatile",
+    "type": "adjective",
+    "definition": "Able to do many different things well; having many uses.",
+    "pronunciation": { "us": "VUR-suh-til", "uk": "VUR-suh-tl" },
+    "examples": [
+      "It’s a versatile tool for camping.",
+      "She is a versatile actor who plays comic and serious roles."
+    ],
+    "extra": {
+      "synonyms": ["adaptable", "multi-skilled", "flexible"],
+      "antonyms": ["limited", "narrow", "restricted"],
+      "memory_tip": "Versatile = various + style.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

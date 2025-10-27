@@ -1,0 +1,301 @@
+[
+  {
+    "word": "adapt",
+    "type": "verb",
+    "definition": "To change in order to fit new conditions or surroundings.",
+    "pronunciation": {
+      "us": "/əˈdæpt/",
+      "uk": "/əˈdæpt/"
+    },
+    "examples": [
+      "Animals adapt to survive in their environments.",
+      "She adapted quickly to her new school."
+    ],
+    "extra": {
+      "synonyms": [
+        "adjust",
+        "modify",
+        "change"
+      ],
+      "antonyms": [
+        "resist",
+        "reject"
+      ],
+      "memory_tip": "Adapt = adjust to a new situation.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "adapt",
+        "past": "adapted",
+        "participle": "adapted"
+      }
+    }
+  },
+  {
+    "word": "anticipate",
+    "type": "verb",
+    "definition": "To expect something and prepare for it.",
+    "pronunciation": {
+      "us": "/ænˈtɪsɪˌpeɪt/",
+      "uk": "/ænˈtɪsɪpeɪt/"
+    },
+    "examples": [
+      "We anticipate a lot of guests at the event.",
+      "She anticipated the question and had an answer ready."
+    ],
+    "extra": {
+      "synonyms": [
+        "expect",
+        "predict",
+        "prepare for"
+      ],
+      "antonyms": [
+        "ignore",
+        "doubt"
+      ],
+      "memory_tip": "Anticipate = act before it happens.",
+      "tier": 2,
+      "eslLevel": "challenging",
+      "tenses": {
+        "present": "anticipate",
+        "past": "anticipated",
+        "participle": "anticipated"
+      }
+    }
+  },
+  {
+    "word": "capable",
+    "type": "adjective",
+    "definition": "Having the ability or power to do something.",
+    "pronunciation": {
+      "us": "/ˈkeɪpəbl/",
+      "uk": "/ˈkeɪpəbl/"
+    },
+    "examples": [
+      "She is capable of solving complex problems.",
+      "Are you capable of lifting that box?"
+    ],
+    "extra": {
+      "synonyms": [
+        "able",
+        "competent",
+        "skilled"
+      ],
+      "antonyms": [
+        "unable",
+        "incapable"
+      ],
+      "memory_tip": "Capable = able and ready.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "contrast",
+    "type": "verb,noun",
+    "definition": "To compare differences between two things; a difference between things.",
+    "pronunciation": {
+      "us": "/ˈkɑnˌtræst/ (n), /kənˈtræst/ (v)",
+      "uk": "/ˈkɒntrɑːst/ (n), /kənˈtrɑːst/ (v)"
+    },
+    "examples": [
+      "The book contrasts city and country life. (verb)",
+      "There is a strong contrast between the two colors. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "difference",
+        "distinction"
+      ],
+      "antonyms": [
+        "similarity",
+        "likeness"
+      ],
+      "memory_tip": "Contrast = see how two things are NOT alike.",
+      "tier": 2,
+      "eslLevel": "challenging",
+      "tenses": {
+        "present": "contrast",
+        "past": "contrasted",
+        "participle": "contrasted"
+      }
+    }
+  },
+  {
+    "word": "determine",
+    "type": "verb",
+    "definition": "To figure something out or to decide something officially.",
+    "pronunciation": {
+      "us": "/dɪˈtɜrmɪn/",
+      "uk": "/dɪˈtɜːmɪn/"
+    },
+    "examples": [
+      "We need to determine the cause of the problem.",
+      "She determined that the answer was correct."
+    ],
+    "extra": {
+      "synonyms": [
+        "decide",
+        "conclude",
+        "establish"
+      ],
+      "antonyms": [
+        "hesitate",
+        "guess"
+      ],
+      "memory_tip": "Determine = find out the truth or make a decision.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "determine",
+        "past": "determined",
+        "participle": "determined"
+      }
+    }
+  },
+  {
+    "word": "expand",
+    "type": "verb",
+    "definition": "To make something larger or wider.",
+    "pronunciation": {
+      "us": "/ɪkˈspænd/",
+      "uk": "/ɪkˈspænd/"
+    },
+    "examples": [
+      "Heat causes metal to expand.",
+      "The company plans to expand to other cities."
+    ],
+    "extra": {
+      "synonyms": [
+        "grow",
+        "enlarge",
+        "increase"
+      ],
+      "antonyms": [
+        "shrink",
+        "reduce"
+      ],
+      "memory_tip": "Expand = make bigger!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": {
+        "present": "expand",
+        "past": "expanded",
+        "participle": "expanded"
+      }
+    }
+  },
+  {
+    "word": "indicate",
+    "type": "verb",
+    "definition": "To point out or show something.",
+    "pronunciation": {
+      "us": "/ˈɪndɪˌkeɪt/",
+      "uk": "/ˈɪndɪkeɪt/"
+    },
+    "examples": [
+      "He indicated the correct answer on the screen.",
+      "The map indicates where the treasure is."
+    ],
+    "extra": {
+      "synonyms": [
+        "show",
+        "point out",
+        "signal"
+      ],
+      "antonyms": [
+        "hide",
+        "conceal"
+      ],
+      "memory_tip": "Indicate = point or give a sign.",
+      "tier": 2,
+      "eslLevel": "challenging",
+      "tenses": {
+        "present": "indicate",
+        "past": "indicated",
+        "participle": "indicated"
+      }
+    }
+  },
+  {
+    "word": "logical",
+    "type": "adjective",
+    "definition": "Making sense or based on clear thinking.",
+    "pronunciation": {
+      "us": "/ˈlɑːdʒɪkəl/",
+      "uk": "/ˈlɒdʒɪkəl/"
+    },
+    "examples": [
+      "That’s a logical explanation for the mystery.",
+      "She used logical steps to solve the puzzle."
+    ],
+    "extra": {
+      "synonyms": [
+        "reasonable",
+        "rational",
+        "sensible"
+      ],
+      "antonyms": [
+        "illogical",
+        "unreasonable"
+      ],
+      "memory_tip": "Logical = like a math problem — step by step!",
+      "tier": 2,
+      "eslLevel": "challenging"
+    }
+  },
+  {
+    "word": "precise",
+    "type": "adjective",
+    "definition": "Exact and accurate.",
+    "pronunciation": {
+      "us": "/prɪˈsaɪs/",
+      "uk": "/prɪˈsaɪs/"
+    },
+    "examples": [
+      "She gave precise directions to the school.",
+      "You must measure the ingredients with precise amounts."
+    ],
+    "extra": {
+      "synonyms": [
+        "exact",
+        "accurate",
+        "specific"
+      ],
+      "antonyms": [
+        "vague",
+        "approximate"
+      ],
+      "memory_tip": "Precise = perfectly correct.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "significant",
+    "type": "adjective",
+    "definition": "Important or meaningful.",
+    "pronunciation": {
+      "us": "/sɪɡˈnɪfɪkənt/",
+      "uk": "/sɪɡˈnɪfɪkənt/"
+    },
+    "examples": [
+      "The invention of electricity was a significant event.",
+      "Her help made a significant difference."
+    ],
+    "extra": {
+      "synonyms": [
+        "important",
+        "notable",
+        "major"
+      ],
+      "antonyms": [
+        "minor",
+        "unimportant"
+      ],
+      "memory_tip": "Significant = makes a big impact.",
+      "tier": 2,
+      "eslLevel": "challenging"
+    }
+  }
+]

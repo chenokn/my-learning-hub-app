@@ -1,0 +1,265 @@
+[
+  {
+    "word": "abandon",
+    "type": "verb,noun",
+    "definition": "To leave someone or something behind; to give up completely; wild freedom of behaviour (noun).",
+    "pronunciation": { "us": "uh-BAN-dun", "uk": "uh-BAN-dun" },
+    "examples": [
+      "They had to abandon the car in the flood. (verb)",
+      "She danced with abandon. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["leave", "desert", "quit"],
+      "antonyms": ["keep", "maintain", "continue"],
+      "memory_tip": "Abandon = a band on? No—take it off and leave it.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["abandon", "abandoned", "abandoning"]
+    }
+  },
+  {
+    "word": "adversary",
+    "type": "noun",
+    "definition": "An opponent or enemy in a contest or dispute.",
+    "pronunciation": { "us": "AD-ver-ser-ee", "uk": "AD-vuh-suh-ree" },
+    "examples": [
+      "Our team faced a strong adversary in the final.",
+      "He respected his adversary’s skill."
+    ],
+    "extra": {
+      "synonyms": ["opponent", "rival", "foe"],
+      "antonyms": ["ally", "friend", "partner"],
+      "memory_tip": "Adversary = the one on the opposite side of the advert.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "baffle",
+    "type": "verb",
+    "definition": "To confuse or puzzle completely.",
+    "pronunciation": { "us": "BAF-ul", "uk": "BAF-uhl" },
+    "examples": [
+      "The riddle baffled the class.",
+      "Strange tracks baffled the rangers."
+    ],
+    "extra": {
+      "synonyms": ["confuse", "perplex", "puzzle"],
+      "antonyms": ["clarify", "explain", "enlighten"],
+      "memory_tip": "Baffle = brain feels baffled.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["baffle", "baffled", "baffling"]
+    }
+  },
+  {
+    "word": "blunder",
+    "type": "noun,verb",
+    "definition": "A careless mistake; to make a serious mistake.",
+    "pronunciation": { "us": "BLUN-der", "uk": "BLUN-duh" },
+    "examples": [
+      "Calling the wrong number was a small blunder. (noun)",
+      "He blundered into the wrong room. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["error", "mistake", "misstep"],
+      "antonyms": ["correction", "success"],
+      "memory_tip": "Blunder = blun(der) spells blunder—oops!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["blunder", "blundered", "blundering"]
+    }
+  },
+  {
+    "word": "colossal",
+    "type": "adjective",
+    "definition": "Extremely large; gigantic.",
+    "pronunciation": { "us": "kuh-LOS-ul", "uk": "kuh-LOS-ul" },
+    "examples": [
+      "The bridge was a colossal project.",
+      "They made a colossal effort to finish."
+    ],
+    "extra": {
+      "synonyms": ["huge", "enormous", "immense"],
+      "antonyms": ["tiny", "small", "minute"],
+      "memory_tip": "Colossal = like a colossal colossus.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "detect",
+    "type": "verb",
+    "definition": "To discover or notice something, especially something not easily seen.",
+    "pronunciation": { "us": "dee-TEKT", "uk": "dee-TEKT" },
+    "examples": [
+      "Sensors detected smoke in the lab.",
+      "Doctors detected a slight change."
+    ],
+    "extra": {
+      "synonyms": ["discover", "notice", "spot"],
+      "antonyms": ["miss", "overlook", "ignore"],
+      "memory_tip": "Detect = ‘de-tech’—use skills or tech to find it.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["detect", "detected", "detecting"]
+    }
+  },
+  {
+    "word": "haul",
+    "type": "verb,noun",
+    "definition": "To pull or carry something heavy; the amount taken in one effort.",
+    "pronunciation": { "us": "hawl", "uk": "hawl" },
+    "examples": [
+      "They hauled the nets onto the boat. (verb)",
+      "The police showed the haul of stolen goods. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["drag", "pull", "cart"],
+      "antonyms": ["push (contrast)", "drop (contrast)"],
+      "memory_tip": "Haul = haul it hard.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["haul", "hauled", "hauling"]
+    }
+  },
+  {
+    "word": "overpower",
+    "type": "verb",
+    "definition": "To defeat or control completely; to be too strong for.",
+    "pronunciation": { "us": "oh-ver-POW-er", "uk": "oh-vuh-POW-uh" },
+    "examples": [
+      "Firefighters overpowered the blaze.",
+      "Fatigue overpowered him by midnight."
+    ],
+    "extra": {
+      "synonyms": ["subdue", "overcome", "conquer"],
+      "antonyms": ["yield", "surrender", "lose"],
+      "memory_tip": "Overpower = power over the rest.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["overpower", "overpowered", "overpowering"]
+    }
+  },
+  {
+    "word": "rejoice",
+    "type": "verb",
+    "definition": "To feel or show great joy.",
+    "pronunciation": { "us": "ri-JOYS", "uk": "ri-JOYS" },
+    "examples": [
+      "Fans rejoiced at the victory.",
+      "We rejoiced when the lost dog returned."
+    ],
+    "extra": {
+      "synonyms": ["celebrate", "exult", "delight"],
+      "antonyms": ["mourn", "lament", "grieve"],
+      "memory_tip": "Rejoice = re-joy—joy again!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["rejoice", "rejoiced", "rejoicing"]
+    }
+  },
+  {
+    "word": "scoff",
+    "type": "verb,noun",
+    "definition": "To speak to someone with mockery or doubt; an expression of scorn.",
+    "pronunciation": { "us": "skawf", "uk": "skof" },
+    "examples": [
+      "Some scoffed at the bold idea. (verb)",
+      "His answer drew a scoff from the crowd. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["mock", "jeer", "sneer"],
+      "antonyms": ["praise", "applaud", "respect"],
+      "memory_tip": "Scoff sounds like ‘scoff-at’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["scoff", "scoffed", "scoffing"]
+    }
+  },
+  {
+    "word": "sentinel",
+    "type": "noun",
+    "definition": "A guard or lookout who watches for danger.",
+    "pronunciation": { "us": "SEN-tuh-nel", "uk": "SEN-tin-uhl" },
+    "examples": [
+      "A lone sentinel stood at the gate.",
+      "Pines acted as sentinels along the ridge."
+    ],
+    "extra": {
+      "synonyms": ["guard", "watchman", "lookout"],
+      "antonyms": ["intruder (contrast)", "attacker (contrast)"],
+      "memory_tip": "Sentinel = ‘sent’ to watch.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "siege",
+    "type": "noun",
+    "definition": "A military operation where a place is surrounded to force it to surrender.",
+    "pronunciation": { "us": "seej", "uk": "seej" },
+    "examples": [
+      "The castle fell after a long siege.",
+      "The city was under siege for months."
+    ],
+    "extra": {
+      "synonyms": ["blockade", "encirclement", "investment"],
+      "antonyms": ["relief", "withdrawal", "truce"],
+      "memory_tip": "Siege = sit and surround.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "sinister",
+    "type": "adjective",
+    "definition": "Giving the impression that something harmful or evil is happening or will happen.",
+    "pronunciation": { "us": "SIN-uh-ster", "uk": "SIN-iss-tuh" },
+    "examples": [
+      "A sinister shadow moved behind the curtain.",
+      "The warning had a sinister tone."
+    ],
+    "extra": {
+      "synonyms": ["menacing", "threatening", "ominous"],
+      "antonyms": ["harmless", "benign", "friendly"],
+      "memory_tip": "Sinister = hints of ‘sin’.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "victor",
+    "type": "noun",
+    "definition": "The winner in a battle, game, or competition.",
+    "pronunciation": { "us": "VIK-ter", "uk": "VIK-tuh" },
+    "examples": [
+      "She was the clear victor in the race.",
+      "History is often written by the victors."
+    ],
+    "extra": {
+      "synonyms": ["winner", "champion", "conqueror"],
+      "antonyms": ["loser", "defeated"],
+      "memory_tip": "Victor = victory’s owner.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "woe",
+    "type": "noun",
+    "definition": "Great sorrow or trouble; problems (often used in the plural ‘woes’).",
+    "pronunciation": { "us": "woh", "uk": "woh" },
+    "examples": [
+      "He told a tale of woe after the storm.",
+      "The club’s financial woes continued."
+    ],
+    "extra": {
+      "synonyms": ["sorrow", "misery", "affliction"],
+      "antonyms": ["joy", "delight", "relief"],
+      "memory_tip": "Woe = ‘whoa’ that’s sad news.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "word": "cone",
+    "type": "noun",
+    "definition": "A three-dimensional shape that narrows smoothly from a flat circular base to a point; also the seed-bearing fruit of a pine or fir.",
+    "pronunciation": {
+      "uk": "/kəʊn/"
+    },
+    "examples": [
+      "The ice-cream melted down the cone.",
+      "A traffic cone marked the hole in the road."
+    ],
+    "extra": {
+      "synonyms": [
+        "conifer cone",
+        "pyramid (shape)"
+      ],
+      "antonyms": [
+        "cylinder (contrast)"
+      ],
+      "memory_tip": "Cone = round base, pointy top.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "cube",
+    "type": "noun,verb",
+    "definition": "A solid with six equal square faces; to cut food into small square pieces.",
+    "pronunciation": {
+      "uk": "/kjuːb/"
+    },
+    "examples": [
+      "A dice is a perfect cube. (noun)",
+      "Cube the cheese for the salad. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "block",
+        "square",
+        "dice"
+      ],
+      "antonyms": [
+        "sphere",
+        "slice"
+      ],
+      "memory_tip": "Cube = box-shaped or chopping into boxes.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "cube",
+        "cubed",
+        "cubing"
+      ]
+    }
+  },
+  {
+    "word": "earth",
+    "type": "noun,verb",
+    "definition": "The planet we live on; soil or ground; to connect electrical equipment to the ground for safety.",
+    "pronunciation": {
+      "uk": "/ɜːθ/"
+    },
+    "examples": [
+      "The Earth orbits the Sun. (noun)",
+      "Plant the seeds 2 cm below the earth. (noun)",
+      "An electrician will earth the circuit. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "world",
+        "soil",
+        "ground"
+      ],
+      "antonyms": [
+        "sky",
+        "insulate"
+      ],
+      "memory_tip": "Earth = planet, soil, or safe wiring.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "earth",
+        "earthed",
+        "earthing"
+      ]
+    }
+  },
+  {
+    "word": "fern",
+    "type": "noun",
+    "definition": "A green plant with feathery leaves and no flowers or seeds, reproducing with spores.",
+    "pronunciation": {
+      "uk": "/fɜːn/"
+    },
+    "examples": [
+      "Ferns grow well in shady forests.",
+      "A fern’s fronds unfurl as they grow."
+    ],
+    "extra": {
+      "synonyms": [
+        "bracken",
+        "frond plant"
+      ],
+      "antonyms": [
+        "flowering plant"
+      ],
+      "memory_tip": "Fern = leafy plant without flowers.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fuel",
+    "type": "noun,verb",
+    "definition": "Material such as coal, petrol or wood that is burned for heat or power; to supply or power something.",
+    "pronunciation": {
+      "uk": "/ˈfjuːəl/"
+    },
+    "examples": [
+      "The car runs on diesel fuel. (noun)",
+      "Sunlight fuels the plant’s growth. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "energy source",
+        "power",
+        "refuel"
+      ],
+      "antonyms": [
+        "exhaust",
+        "drain"
+      ],
+      "memory_tip": "Fuel = energy to make things go.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "fuel",
+        "fuelled",
+        "fuelling"
+      ]
+    }
+  },
+  {
+    "word": "grain",
+    "type": "noun",
+    "definition": "The small hard seed of cereals like wheat or rice; a tiny piece of something.",
+    "pronunciation": {
+      "uk": "/ɡreɪn/"
+    },
+    "examples": [
+      "Bread is made from grain.",
+      "There was not a grain of truth in the story."
+    ],
+    "extra": {
+      "synonyms": [
+        "kernel",
+        "seed",
+        "particle"
+      ],
+      "antonyms": [
+        "chunk",
+        "lump"
+      ],
+      "memory_tip": "Grain = teeny seed of food plants.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "lizard",
+    "type": "noun",
+    "definition": "A cold-blooded reptile with scaly skin, four legs and a long tail.",
+    "pronunciation": {
+      "uk": "/ˈlɪzəd/"
+    },
+    "examples": [
+      "A lizard basked on the warm rock.",
+      "Geckos are a type of lizard."
+    ],
+    "extra": {
+      "synonyms": [
+        "reptile",
+        "gecko"
+      ],
+      "antonyms": [
+        "mammal"
+      ],
+      "memory_tip": "Lizard = scaly reptile on four legs.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "miner",
+    "type": "noun",
+    "definition": "A person who works underground digging out coal, metal ore or other minerals.",
+    "pronunciation": {
+      "uk": "/ˈmaɪnə/"
+    },
+    "examples": [
+      "The miner wore a helmet with a lamp.",
+      "Gold miners moved to the region in the 1800s."
+    ],
+    "extra": {
+      "synonyms": [
+        "digging worker",
+        "collier"
+      ],
+      "antonyms": [
+        "office worker"
+      ],
+      "memory_tip": "Miner = underground treasure digger.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "present",
+    "type": "noun,verb,adjective",
+    "definition": "A gift given to someone; to give or show something; existing or happening now.",
+    "pronunciation": {
+      "uk": "/ˈprezənt/ (noun,adjective), /prɪˈzɛnt/ (verb)"
+    },
+    "examples": [
+      "She unwrapped her birthday present. (noun)",
+      "The pupils will present their projects. (verb)",
+      "All members are present today. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "gift",
+        "give",
+        "current"
+      ],
+      "antonyms": [
+        "absence",
+        "past"
+      ],
+      "memory_tip": "Present = gift, show, or here and now.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "present",
+        "presented",
+        "presenting"
+      ]
+    }
+  },
+  {
+    "word": "seam",
+    "type": "noun,verb",
+    "definition": "A line where two pieces of fabric or material are joined; a layer of rock or ore; to join with stitches.",
+    "pronunciation": {
+      "uk": "/siːm/"
+    },
+    "examples": [
+      "The trouser seam has split. (noun)",
+      "Miners followed a coal seam underground. (noun)",
+      "She seamed the edges neatly. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "stitch line",
+        "join",
+        "layer"
+      ],
+      "antonyms": [
+        "tear",
+        "gap"
+      ],
+      "memory_tip": "Seam = line of joining or hidden layer.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "seam",
+        "seamed",
+        "seaming"
+      ]
+    }
+  }
+]

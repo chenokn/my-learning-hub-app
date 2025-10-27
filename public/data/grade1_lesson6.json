@@ -1,0 +1,307 @@
+[
+  {
+    "word": "meet",
+    "type": "verb",
+    "definition": "To see and talk to someone for the first time or at a planned time.",
+    "pronunciation": {
+      "us": "/miːt/",
+      "uk": "/miːt/"
+    },
+    "examples": [
+      "I will meet my friend after school.",
+      "They met for lunch yesterday."
+    ],
+    "extra": {
+      "synonyms": [
+        "see",
+        "greet",
+        "connect"
+      ],
+      "antonyms": [
+        "avoid",
+        "miss"
+      ],
+      "memory_tip": "Meet = come face-to-face!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "meet",
+        "met",
+        "meeting"
+      ]
+    }
+  },
+  {
+    "word": "cranky",
+    "type": "adjective",
+    "definition": "Easily annoyed or in a bad mood.",
+    "pronunciation": {
+      "us": "/ˈkræŋki/",
+      "uk": "/ˈkræŋki/"
+    },
+    "examples": [
+      "The baby is cranky because she’s tired.",
+      "I get cranky when I don’t eat."
+    ],
+    "extra": {
+      "synonyms": [
+        "grumpy",
+        "irritable",
+        "moody"
+      ],
+      "antonyms": [
+        "happy",
+        "cheerful"
+      ],
+      "memory_tip": "Cranky = grumpy like a cranky engine!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "train",
+    "type": "noun,verb",
+    "definition": "A vehicle that runs on tracks; to practice or prepare for something.",
+    "pronunciation": {
+      "us": "/treɪn/",
+      "uk": "/treɪn/"
+    },
+    "examples": [
+      "The train left the station. (noun)",
+      "She trains for the swimming competition. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "locomotive",
+        "practice",
+        "coach"
+      ],
+      "antonyms": [
+        "rest",
+        "unprepare"
+      ],
+      "memory_tip": "Train = choo-choo or practice!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "train",
+        "trained",
+        "training"
+      ]
+    }
+  },
+  {
+    "word": "injure",
+    "type": "adj.,verb",
+    "definition": "Hurt or damaged in the body.",
+    "pronunciation": {
+      "us": "/ˈɪndʒər/",
+      "uk": "/ˈɪndʒə/"
+    },
+    "examples": [
+      "He is injured and can’t play football.",
+      "She injured her arm yesterday."
+    ],
+    "extra": {
+      "synonyms": [
+        "hurt",
+        "wounded",
+        "damaged"
+      ],
+      "antonyms": [
+        "healthy",
+        "healed"
+      ],
+      "memory_tip": "Injured = body feels pain!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "injure",
+        "injured",
+        "injuring"
+      ]
+    }
+  },
+  {
+    "word": "hatch",
+    "type": "verb,noun",
+    "definition": "To come out of an egg; a door or opening.",
+    "pronunciation": {
+      "us": "/hætʃ/",
+      "uk": "/hætʃ/"
+    },
+    "examples": [
+      "The chicks hatched from their eggs. (verb)",
+      "The ship’s hatch was open. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "emerge",
+        "break out",
+        "door"
+      ],
+      "antonyms": [
+        "seal",
+        "close"
+      ],
+      "memory_tip": "Hatch = baby bird coming out!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "hatch",
+        "hatched",
+        "hatching"
+      ]
+    }
+  },
+  {
+    "word": "reverse",
+    "type": "verb,noun,adjective",
+    "definition": "To move backwards; the opposite of something.",
+    "pronunciation": {
+      "us": "/rɪˈvɜrs/",
+      "uk": "/rɪˈvɜːs/"
+    },
+    "examples": [
+      "Please reverse the car. (verb)",
+      "The reverse side of the coin is shiny. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "back up",
+        "opposite",
+        "undo"
+      ],
+      "antonyms": [
+        "forward",
+        "same"
+      ],
+      "memory_tip": "Reverse = go backwards!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "reverse",
+        "reversed",
+        "reversing"
+      ]
+    }
+  },
+  {
+    "word": "exhibit",
+    "type": "noun,verb",
+    "definition": "Something shown in a museum; to show something to others.",
+    "pronunciation": {
+      "us": "/ɪɡˈzɪbɪt/",
+      "uk": "/ɪɡˈzɪbɪt/"
+    },
+    "examples": [
+      "We saw a dinosaur exhibit. (noun)",
+      "They will exhibit new art at the gallery. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "display",
+        "showcase",
+        "presentation"
+      ],
+      "antonyms": [
+        "hide",
+        "cover"
+      ],
+      "memory_tip": "Exhibit = put on display!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "exhibit",
+        "exhibited",
+        "exhibiting"
+      ]
+    }
+  },
+  {
+    "word": "misty",
+    "type": "adjective",
+    "definition": "Slightly foggy or filled with a thin layer of water in the air.",
+    "pronunciation": {
+      "us": "/ˈmɪsti/",
+      "uk": "/ˈmɪsti/"
+    },
+    "examples": [
+      "The mountain was misty in the morning.",
+      "A misty rain fell all day."
+    ],
+    "extra": {
+      "synonyms": [
+        "foggy",
+        "hazy",
+        "cloudy"
+      ],
+      "antonyms": [
+        "clear",
+        "bright"
+      ],
+      "memory_tip": "Misty = light fog around!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "tropical",
+    "type": "adjective",
+    "definition": "Hot, humid, and from places near the equator.",
+    "pronunciation": {
+      "us": "/ˈtrɑpɪkəl/",
+      "uk": "/ˈtrɒpɪkəl/"
+    },
+    "examples": [
+      "We love tropical beaches.",
+      "Bananas grow in tropical climates."
+    ],
+    "extra": {
+      "synonyms": [
+        "hot",
+        "equatorial",
+        "humid"
+      ],
+      "antonyms": [
+        "cold",
+        "polar"
+      ],
+      "memory_tip": "Tropical = warm and sunny!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "surface",
+    "type": "noun,verb",
+    "definition": "The outside or top layer of something; to come up to the top of water.",
+    "pronunciation": {
+      "us": "/ˈsɜrfɪs/",
+      "uk": "/ˈsɜːfɪs/"
+    },
+    "examples": [
+      "The table surface is smooth. (noun)",
+      "The whale surfaced to breathe. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "top",
+        "layer",
+        "covering"
+      ],
+      "antonyms": [
+        "inside",
+        "bottom"
+      ],
+      "memory_tip": "Surface = top side of anything!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "surface",
+        "surfaced",
+        "surfacing"
+      ]
+    }
+  }
+]

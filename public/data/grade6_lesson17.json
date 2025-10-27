@@ -1,0 +1,264 @@
+[
+  {
+    "word": "corrode",
+    "type": "verb",
+    "definition": "To slowly destroy or wear away by chemical action; to eat into.",
+    "pronunciation": { "us": "kuh-ROHD", "uk": "kuh-ROHD" },
+    "examples": [
+      "Salt air can corrode metal railings.",
+      "Acids corroded the old pipes."
+    ],
+    "extra": {
+      "synonyms": ["erode", "eat away", "oxidise"],
+      "antonyms": ["preserve", "protect", "coat"],
+      "memory_tip": "Corrode = ‘corrodes’ like rust on roads.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["corrode", "corroded", "corroding"]
+    }
+  },
+  {
+    "word": "debris",
+    "type": "noun",
+    "definition": "Scattered pieces of waste or remains.",
+    "pronunciation": { "us": "duh-BREE", "uk": "DEB-ree" },
+    "examples": [
+      "After the storm, debris covered the path.",
+      "Workers cleared building debris from the site."
+    ],
+    "extra": {
+      "synonyms": ["rubble", "litter", "fragments"],
+      "antonyms": ["order", "neatness", "cleanliness"],
+      "memory_tip": "Debris = broken bits and pieces.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "elated",
+    "type": "adjective",
+    "definition": "Extremely happy and excited.",
+    "pronunciation": { "us": "ee-LAY-tid", "uk": "ee-LAY-tid" },
+    "examples": [
+      "She was elated to hear the good news.",
+      "The team felt elated after the win."
+    ],
+    "extra": {
+      "synonyms": ["overjoyed", "thrilled", "ecstatic"],
+      "antonyms": ["dejected", "downcast", "miserable"],
+      "memory_tip": "Elated = elevated mood.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "exploit",
+    "type": "verb,noun",
+    "definition": "To use something or someone unfairly or to the best advantage; a brave or daring deed (noun).",
+    "pronunciation": { "us": "ik-SPLOIT (verb), EX-ploit (noun)", "uk": "ik-SPLOIT (verb), EK-sploit (noun)" },
+    "examples": [
+      "The company was fined for exploiting workers. (verb)",
+      "Ancient myths tell of heroic exploits. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["utilise", "take advantage of", "feat (noun)"],
+      "antonyms": ["neglect", "support", "failure (noun)"],
+      "memory_tip": "Exploit = use to the limit; exploits = notable deeds.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["exploit", "exploited", "exploiting"]
+    }
+  },
+  {
+    "word": "leeway",
+    "type": "noun",
+    "definition": "Freedom to act within limits; extra time or space to allow for error.",
+    "pronunciation": { "us": "LEE-way", "uk": "LEE-way" },
+    "examples": [
+      "We have some leeway on the deadline.",
+      "Give yourself leeway when parking a trailer."
+    ],
+    "extra": {
+      "synonyms": ["latitude", "margin", "flexibility"],
+      "antonyms": ["restriction", "constraint", "tightness"],
+      "memory_tip": "Leeway = a little ‘lee’ (room) to sway.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "miniature",
+    "type": "adjective,noun",
+    "definition": "Much smaller than usual; a small-scale copy.",
+    "pronunciation": { "us": "MIN-uh-cher", "uk": "MIN-ee-uh-chuh" },
+    "examples": [
+      "He built a miniature railway in the shed. (adjective)",
+      "The museum displayed a miniature of the castle. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["tiny", "small-scale", "model"],
+      "antonyms": ["full-size", "giant", "enormous"],
+      "memory_tip": "Miniature = mini version of the real thing.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "mobile",
+    "type": "adjective,noun",
+    "definition": "Able to move or be moved easily; a phone (UK) or a hanging art piece that moves.",
+    "pronunciation": { "us": "MOH-buhl", "uk": "MOH-byle" },
+    "examples": [
+      "The patient is mobile after surgery. (adjective)",
+      "Please switch off your mobile during the show. (noun, UK)"
+    ],
+    "extra": {
+      "synonyms": ["portable", "moving", "cell phone (US)"],
+      "antonyms": ["stationary", "fixed", "immobile"],
+      "memory_tip": "Mobile = move-able.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "onset",
+    "type": "noun",
+    "definition": "The beginning or start of something, often something unpleasant.",
+    "pronunciation": { "us": "ON-set", "uk": "ON-set" },
+    "examples": [
+      "Warm clothes help at the onset of winter.",
+      "The onset of rain cleared the park."
+    ],
+    "extra": {
+      "synonyms": ["start", "beginning", "outset"],
+      "antonyms": ["end", "finish", "conclusion"],
+      "memory_tip": "Onset = ‘on’ it sets in.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "ooze",
+    "type": "verb,noun",
+    "definition": "To flow or leak out slowly; a soft, wet mud or slime (noun).",
+    "pronunciation": { "us": "ooz", "uk": "ooz" },
+    "examples": [
+      "Sap oozed from the cut branch. (verb)",
+      "Their boots sank into the river ooze. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["seep", "trickle", "slime (noun)"],
+      "antonyms": ["spurt", "gush", "dry up"],
+      "memory_tip": "Ooze = slow and smooth like honey.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["ooze", "oozed", "oozing"]
+    }
+  },
+  {
+    "word": "pathetic",
+    "type": "adjective",
+    "definition": "Causing feelings of pity, especially because something is weak or poor.",
+    "pronunciation": { "us": "puh-THET-ik", "uk": "puh-THET-ik" },
+    "examples": [
+      "The abandoned shed looked pathetic in the rain.",
+      "It was a pathetic attempt to hide the mess."
+    ],
+    "extra": {
+      "synonyms": ["pitiful", "sad", "feeble"],
+      "antonyms": ["impressive", "powerful", "admirable"],
+      "memory_tip": "Pathetic = pathos (pity) provoking.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "preliminary",
+    "type": "adjective,noun",
+    "definition": "Done in preparation for something more important; an event that comes before the main event.",
+    "pronunciation": { "us": "pri-LIM-uh-ner-ee", "uk": "prih-LIM-uh-nuh-ree" },
+    "examples": [
+      "We did preliminary tests on the samples. (adjective)",
+      "She won her preliminary and reached the final. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["initial", "preparatory", "introductory"],
+      "antonyms": ["final", "concluding", "definitive"],
+      "memory_tip": "Preliminary = pre- (before) + liminary (the main thing).",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "quest",
+    "type": "noun,verb",
+    "definition": "A long search for something; to search for something.",
+    "pronunciation": { "us": "kwest", "uk": "kwest" },
+    "examples": [
+      "They set out on a quest for the lost city. (noun)",
+      "Scientists quest for clean energy solutions. (verb, formal/literary)"
+    ],
+    "extra": {
+      "synonyms": ["search", "pursuit", "seek (verb)"],
+      "antonyms": ["find (contrast)", "abandon (verb)"],
+      "memory_tip": "Quest = question + test: a searching journey.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["quest (verb)", "quested", "questing"]
+    }
+  },
+  {
+    "word": "restrain",
+    "type": "verb",
+    "definition": "To hold back from action; to keep under control.",
+    "pronunciation": { "us": "ri-STRAYN", "uk": "ri-STRAYN" },
+    "examples": [
+      "He restrained himself from shouting.",
+      "Barriers restrained the crowd."
+    ],
+    "extra": {
+      "synonyms": ["control", "curb", "hold back"],
+      "antonyms": ["release", "encourage", "unleash"],
+      "memory_tip": "Restrain = put the ‘reins’ on.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["restrain", "restrained", "restraining"]
+    }
+  },
+  {
+    "word": "salvage",
+    "type": "verb,noun",
+    "definition": "To save something from being lost or destroyed; the items saved.",
+    "pronunciation": { "us": "SAL-vij", "uk": "SAL-vij" },
+    "examples": [
+      "They salvaged books from the flooded room. (verb)",
+      "The salvage from the wreck was auctioned. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["rescue", "recover", "save"],
+      "antonyms": ["abandon", "discard", "lose"],
+      "memory_tip": "Salvage = save value.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["salvage", "salvaged", "salvaging"]
+    }
+  },
+  {
+    "word": "scour",
+    "type": "verb,noun",
+    "definition": "To clean by rubbing hard; to search a place thoroughly; the act of scouring.",
+    "pronunciation": { "us": "SKOW-er", "uk": "SKOW-uh" },
+    "examples": [
+      "Use a brush to scour the pan. (verb)",
+      "Volunteers scoured the beach for litter. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["scrub", "search", "rummage"],
+      "antonyms": ["smear", "ignore", "overlook"],
+      "memory_tip": "Scour = scrub or scour the area for clues.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["scour", "scoured", "scouring"]
+    }
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "word": "affect",
+    "type": "verb,noun",
+    "definition": "To produce a change in something; in psychology, a person's observable emotion.",
+    "pronunciation": { "us": "uh-FEKT", "uk": "uh-FEKT" },
+    "examples": [
+      "Lack of sleep can affect your mood.",
+      "The medicine did not affect the results."
+    ],
+    "extra": {
+      "synonyms": ["influence", "impact", "touch"],
+      "antonyms": ["ignore", "leave alone"],
+      "memory_tip": "Affect = A for Action (a verb) that changes things.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["affect", "affected", "affecting"]
+    }
+  },
+  {
+    "word": "calculate",
+    "type": "verb",
+    "definition": "To work out an answer using numbers or careful thinking.",
+    "pronunciation": { "us": "KAL-kyoo-layt", "uk": "KAL-kyoo-layt" },
+    "examples": [
+      "Calculate the area of the rectangle.",
+      "She calculated how long the trip would take."
+    ],
+    "extra": {
+      "synonyms": ["compute", "figure out", "work out"],
+      "antonyms": ["guess", "estimate (roughly)"],
+      "memory_tip": "Calculate = count it carefully.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["calculate", "calculated", "calculating"]
+    }
+  },
+  {
+    "word": "climate",
+    "type": "noun",
+    "definition": "The usual weather of a place over a long time; the general mood or situation.",
+    "pronunciation": { "us": "KLY-mit", "uk": "KLY-mit" },
+    "examples": [
+      "The desert has a hot, dry climate.",
+      "The school has a friendly climate for learning."
+    ],
+    "extra": {
+      "synonyms": ["weather pattern", "atmosphere", "environment"],
+      "antonyms": ["microclimate (contrast)", "weather (short-term contrast)"],
+      "memory_tip": "Climate = long-time weather ‘climb’ of a place.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "column",
+    "type": "noun",
+    "definition": "A tall post that supports a building; a vertical list of numbers or words.",
+    "pronunciation": { "us": "KOL-um", "uk": "KOL-um" },
+    "examples": [
+      "Stone columns held up the roof.",
+      "Add the numbers in the second column."
+    ],
+    "extra": {
+      "synonyms": ["pillar", "post", "list"],
+      "antonyms": ["beam (contrast)", "row (horizontal)"],
+      "memory_tip": "Column = stands up tall like a pillar or a vertical list.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "decay",
+    "type": "noun,verb",
+    "definition": "The slow rotting or breaking down of something; to rot or break down over time.",
+    "pronunciation": { "us": "di-KAY", "uk": "di-KAY" },
+    "examples": [
+      "Tooth decay can be prevented by brushing. (noun)",
+      "Leaves decay and become soil. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["rot", "decompose", "spoil"],
+      "antonyms": ["grow", "develop"],
+      "memory_tip": "Decay = things ‘go away’ bit by bit.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["decay", "decayed", "decaying"]
+    }
+  },
+  {
+    "word": "exceed",
+    "type": "verb",
+    "definition": "To be more than a number, limit, or expectation.",
+    "pronunciation": { "us": "ek-SEED", "uk": "ek-SEED" },
+    "examples": [
+      "Do not exceed the speed limit.",
+      "Her results exceeded expectations."
+    ],
+    "extra": {
+      "synonyms": ["surpass", "outstrip", "go beyond"],
+      "antonyms": ["fall short", "underperform"],
+      "memory_tip": "Exceed = go past the set ‘ceiling’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["exceed", "exceeded", "exceeding"]
+    }
+  },
+  {
+    "word": "forbid",
+    "type": "verb",
+    "definition": "To order someone not to do something; to make something not allowed.",
+    "pronunciation": { "us": "for-BID", "uk": "fuh-BID" },
+    "examples": [
+      "The sign forbids swimming here.",
+      "Parents forbid screens after bedtime."
+    ],
+    "extra": {
+      "synonyms": ["ban", "prohibit", "bar"],
+      "antonyms": ["allow", "permit"],
+      "memory_tip": "Forbid = before it’s done, you bid ‘no’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["forbid", "forbade/forbid", "forbidden", "forbidding"]
+    }
+  },
+  {
+    "word": "grove",
+    "type": "noun",
+    "definition": "A small group of trees.",
+    "pronunciation": { "us": "grohv", "uk": "grohv" },
+    "examples": [
+      "We ate lunch in a shady grove.",
+      "An orange grove stretched across the valley."
+    ],
+    "extra": {
+      "synonyms": ["copse", "thicket", "woodlet"],
+      "antonyms": ["clearing", "plain"],
+      "memory_tip": "Grove = a ‘group’ of trees.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "limb",
+    "type": "noun",
+    "definition": "An arm or leg of a person or animal; a large branch of a tree.",
+    "pronunciation": { "us": "lim", "uk": "lim" },
+    "examples": [
+      "The bird tucked its injured limb.",
+      "A heavy limb fell during the storm."
+    ],
+    "extra": {
+      "synonyms": ["arm", "leg", "branch"],
+      "antonyms": ["trunk (contrast)", "torso (contrast)"],
+      "memory_tip": "Limb = living branch—on bodies or trees.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "mammoth",
+    "type": "noun,adjective",
+    "definition": "A large, hairy, extinct elephant-like animal; very large.",
+    "pronunciation": { "us": "MAM-uth", "uk": "MAM-uth" },
+    "examples": [
+      "Scientists found a frozen mammoth. (noun)",
+      "They faced a mammoth task. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["giant", "huge", "enormous"],
+      "antonyms": ["tiny", "miniature"],
+      "memory_tip": "Mammoth = massive like the ancient beast.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "mature",
+    "type": "adjective,verb",
+    "definition": "Fully grown or developed; to become fully grown or developed.",
+    "pronunciation": { "us": "muh-CHUR", "uk": "muh-TYUR" },
+    "examples": [
+      "A mature tree gives deep shade. (adjective)",
+      "Cheese matures for months before sale. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["adult", "ripe", "develop"],
+      "antonyms": ["immature", "unripe"],
+      "memory_tip": "Mature = ‘made sure’ and fully ready.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["mature", "matured", "maturing"]
+    }
+  },
+  {
+    "word": "permit",
+    "type": "verb,noun",
+    "definition": "To allow something; an official paper that says you may do something.",
+    "pronunciation": { "us": "per-MIT (verb), PER-mit (noun)", "uk": "per-MIT (verb), PER-mit (noun)" },
+    "examples": [
+      "The park permits dogs on leads. (verb)",
+      "We applied for a parking permit. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["allow", "authorise", "licence (noun)"],
+      "antonyms": ["forbid", "ban"],
+      "memory_tip": "Permit = permission in action or on paper.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["permit", "permitted", "permitting"]
+    }
+  },
+  {
+    "word": "resist",
+    "type": "verb",
+    "definition": "To fight against something or try not to be affected by it.",
+    "pronunciation": { "us": "ri-ZIST", "uk": "ri-ZIST" },
+    "examples": [
+      "It’s hard to resist fresh cookies.",
+      "Plants resist disease with strong defences."
+    ],
+    "extra": {
+      "synonyms": ["withstand", "oppose", "defy"],
+      "antonyms": ["yield", "surrender"],
+      "memory_tip": "Resist = stand firm and ‘resist the twist’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["resist", "resisted", "resisting"]
+    }
+  },
+  {
+    "word": "scorch",
+       "type": "verb,noun",
+    "definition": "To burn the surface of something; a mark caused by burning or intense heat.",
+    "pronunciation": { "us": "skorch", "uk": "skorch" },
+    "examples": [
+      "The sun scorched the grass in summer. (verb)",
+      "The pan had a brown scorch on the bottom. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["sear", "sing(e)", "char"],
+      "antonyms": ["soak", "cool"],
+      "memory_tip": "Scorch = scorch marks from strong heat.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["scorch", "scorched", "scorching"]
+    }
+  },
+  {
+    "word": "tower",
+    "type": "noun,verb",
+    "definition": "A tall, narrow building; to rise very high above something.",
+    "pronunciation": { "us": "TOW-ur", "uk": "TOW-uh" },
+    "examples": [
+      "The castle had a watch tower. (noun)",
+      "Snowy peaks tower over the village. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["spire", "turret", "rise (verb)"],
+      "antonyms": ["crouch (verb)", "basement (contrast)"],
+      "memory_tip": "Tower = tall and towering above all.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["tower", "towered", "towering"]
+    }
+  }
+]

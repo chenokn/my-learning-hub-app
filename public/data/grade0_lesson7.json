@@ -1,0 +1,292 @@
+[
+  {
+    "word": "dangle",
+    "type": "verb",
+    "definition": "To hang or swing loosely.",
+    "pronunciation": {
+      "us": "/ˈdæŋɡəl/",
+      "uk": "/ˈdæŋɡl/"
+    },
+    "examples": [
+      "The keys dangled from his hand.",
+      "Her feet dangled above the floor."
+    ],
+    "extra": {
+      "synonyms": [
+        "hang",
+        "swing",
+        "droop"
+      ],
+      "antonyms": [
+        "lift",
+        "hold"
+      ],
+      "memory_tip": "Dangle = hanging like a swing!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "dangle",
+        "dangled",
+        "dangling"
+      ]
+    }
+  },
+  {
+    "word": "chilly",
+    "type": "adjective",
+    "definition": "A little cold; cool in temperature.",
+    "pronunciation": {
+      "us": "/ˈtʃɪli/",
+      "uk": "/ˈtʃɪli/"
+    },
+    "examples": [
+      "It’s chilly outside today.",
+      "She wore a jacket because it was chilly."
+    ],
+    "extra": {
+      "synonyms": [
+        "cool",
+        "cold",
+        "crisp"
+      ],
+      "antonyms": [
+        "warm",
+        "hot"
+      ],
+      "memory_tip": "Chilly = not freezing but cold enough!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "straw",
+    "type": "noun",
+    "definition": "A thin tube for drinking; dry stalks from plants.",
+    "pronunciation": {
+      "us": "/strɔ/",
+      "uk": "/strɔː/"
+    },
+    "examples": [
+      "He drank juice through a straw.",
+      "The horse slept on straw in the barn."
+    ],
+    "extra": {
+      "synonyms": [
+        "tube",
+        "hay",
+        "reed"
+      ],
+      "antonyms": [],
+      "memory_tip": "Straw = drink tool or hay!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "instrument",
+    "type": "noun",
+    "definition": "Things used to make music.",
+    "pronunciation": {
+      "us": "/ˈɪnstrəmənt/",
+      "uk": "/ˈɪnstrʊmənt/"
+    },
+    "examples": [
+      "The band played many instruments.",
+      "Drums and guitars are instruments."
+    ],
+    "extra": {
+      "synonyms": [
+        "tools",
+        "musical devices",
+        "equipment"
+      ],
+      "antonyms": [],
+      "memory_tip": "Instruments = things that play sound!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "whistle",
+    "type": "verb,noun",
+    "definition": "To make a high sound by blowing air; the sound itself.",
+    "pronunciation": {
+      "us": "/ˈwɪsəl/",
+      "uk": "/ˈwɪsəl/"
+    },
+    "examples": [
+      "He whistled a tune. (verb)",
+      "I heard a loud whistle. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "blow",
+        "tweet",
+        "chirp"
+      ],
+      "antonyms": [
+        "mute",
+        "silence"
+      ],
+      "memory_tip": "Whistle = blow air to make music!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "whistle",
+        "whistled",
+        "whistling"
+      ]
+    }
+  },
+  {
+    "word": "fresh",
+    "type": "adjective",
+    "definition": "New, clean, or just made.",
+    "pronunciation": {
+      "us": "/frɛʃ/",
+      "uk": "/frɛʃ/"
+    },
+    "examples": [
+      "We picked fresh fruit.",
+      "Open the window for fresh air."
+    ],
+    "extra": {
+      "synonyms": [
+        "new",
+        "clean",
+        "crisp"
+      ],
+      "antonyms": [
+        "stale",
+        "old",
+        "rotten"
+      ],
+      "memory_tip": "Fresh = just made and nice!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "poke",
+    "type": "verb",
+    "definition": "To push with a finger or object.",
+    "pronunciation": {
+      "us": "/poʊk/",
+      "uk": "/pəʊk/"
+    },
+    "examples": [
+      "He poked the jelly.",
+      "Don’t poke your friend!"
+    ],
+    "extra": {
+      "synonyms": [
+        "jab",
+        "prod",
+        "nudge"
+      ],
+      "antonyms": [
+        "pat",
+        "stroke"
+      ],
+      "memory_tip": "Poke = a little push!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "poke",
+        "poked",
+        "poking"
+      ]
+    }
+  },
+  {
+    "word": "sniff",
+    "type": "verb",
+    "definition": "To smell by taking in air through your nose.",
+    "pronunciation": {
+      "us": "/snɪf/",
+      "uk": "/snɪf/"
+    },
+    "examples": [
+      "The dog sniffed the shoe.",
+      "I sniffed the flowers."
+    ],
+    "extra": {
+      "synonyms": [
+        "smell",
+        "inhale",
+        "snuff"
+      ],
+      "antonyms": [
+        "ignore",
+        "hold breath"
+      ],
+      "memory_tip": "Sniff = smell with your nose!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "sniff",
+        "sniffed",
+        "sniffing"
+      ]
+    }
+  },
+  {
+    "word": "practice",
+    "type": "verb,noun",
+    "definition": "To do something again and again to get better at it; the act of doing it.",
+    "pronunciation": {
+      "us": "/ˈpræktɪs/",
+      "uk": "/ˈpræktɪs/"
+    },
+    "examples": [
+      "I practice piano every day. (verb)",
+      "Soccer practice is after school. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "train",
+        "rehearse",
+        "repeat"
+      ],
+      "antonyms": [
+        "quit",
+        "ignore"
+      ],
+      "memory_tip": "Practice = do it again to get better!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "practice",
+        "practiced",
+        "practicing"
+      ]
+    }
+  },
+  {
+    "word": "den",
+    "type": "noun",
+    "definition": "A quiet place where animals or people rest or hide.",
+    "pronunciation": {
+      "us": "/dɛn/",
+      "uk": "/dɛn/"
+    },
+    "examples": [
+      "The bear sleeps in a den.",
+      "We built a den under the table."
+    ],
+    "extra": {
+      "synonyms": [
+        "nest",
+        "hideout",
+        "cave"
+      ],
+      "antonyms": [
+        "open space",
+        "field"
+      ],
+      "memory_tip": "Den = a cozy little home!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

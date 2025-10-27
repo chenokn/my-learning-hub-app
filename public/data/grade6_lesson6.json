@@ -1,0 +1,269 @@
+[
+  {
+    "word": "apparel",
+    "type": "noun,verb",
+    "definition": "Clothing; to dress or clothe (formal/old-fashioned as a verb).",
+    "pronunciation": { "us": "uh-PAIR-uhl", "uk": "uh-PAR-uhl" },
+    "examples": [
+      "The shop sells sports apparel. (noun)",
+      "The actors were appareled in bright costumes. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["clothing", "garments", "attire"],
+      "antonyms": ["undress (verb)", "rags (contrast)"],
+      "memory_tip": "Apparel = a pair of sleeves and more—clothes!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["apparel (verb)", "appareled/apparelled", "appareling/apparelling"]
+    }
+  },
+  {
+    "word": "appreciate",
+    "type": "verb",
+    "definition": "To recognise the value of something; to be grateful for; to increase in value.",
+    "pronunciation": { "us": "uh-PREE-shee-ate", "uk": "uh-PREE-shee-ate" },
+    "examples": [
+      "I appreciate your help with the project.",
+      "Property can appreciate over time."
+    ],
+    "extra": {
+      "synonyms": ["value", "admire", "be grateful for"],
+      "antonyms": ["disregard", "undervalue"],
+      "memory_tip": "Appreciate = add appreciation (value or thanks).",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["appreciate", "appreciated", "appreciating"]
+    }
+  },
+  {
+    "word": "continuous",
+    "type": "adjective",
+    "definition": "Happening without stopping or breaks.",
+    "pronunciation": { "us": "kun-TIN-yoo-uss", "uk": "kun-TIN-yoo-uss" },
+    "examples": [
+      "The machine runs in a continuous cycle.",
+      "We heard continuous rain through the night."
+    ],
+    "extra": {
+      "synonyms": ["unbroken", "constant", "steady"],
+      "antonyms": ["intermittent", "occasional"],
+      "memory_tip": "Continuous = continues with no gaps.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "dissolve",
+    "type": "verb,noun",
+    "definition": "To mix with a liquid and become part of it; to end or break up; a gradual transition in film.",
+    "pronunciation": { "us": "dih-ZOLV", "uk": "dih-ZOLV" },
+    "examples": [
+      "Sugar dissolves quickly in hot tea. (verb)",
+      "The club voted to dissolve the committee. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["melt", "disband", "disperse"],
+      "antonyms": ["coagulate", "form", "unite"],
+      "memory_tip": "Dissolve = dis + solve — break the solid’s ‘solve’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["dissolve", "dissolved", "dissolving"]
+    }
+  },
+  {
+    "word": "domesticate",
+    "type": "verb",
+    "definition": "To tame an animal or adapt a plant for human use; to train for life at home.",
+    "pronunciation": { "us": "duh-MES-ti-kayt", "uk": "duh-MES-ti-kayt" },
+    "examples": [
+      "Humans domesticated dogs thousands of years ago.",
+      "It can be hard to domesticate wild cats."
+    ],
+    "extra": {
+      "synonyms": ["tame", "cultivate", "train"],
+      "antonyms": ["wild", "feral", "untame"],
+      "memory_tip": "Domesticate = make ready for the ‘domestic’ home.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["domesticate", "domesticated", "domesticating"]
+    }
+  },
+  {
+    "word": "emerge",
+    "type": "verb",
+    "definition": "To come out into view; to become known.",
+    "pronunciation": { "us": "ee-MURJ", "uk": "ee-MURJ" },
+    "examples": [
+      "Butterflies emerge from their chrysalises.",
+      "New details emerged after the meeting."
+    ],
+    "extra": {
+      "synonyms": ["appear", "arise", "surface"],
+      "antonyms": ["disappear", "vanish", "sink"],
+      "memory_tip": "Emerge = e-merge from hiding.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["emerge", "emerged", "emerging"]
+    }
+  },
+  {
+    "word": "fibre",
+    "type": "noun",
+    "definition": "A thread-like part of a material or plant; parts of food that help digestion (UK spelling of ‘fiber’).",
+    "pronunciation": { "us": "FYE-ber", "uk": "FYE-buh" },
+    "examples": [
+      "Cotton fibres are spun into thread.",
+      "Whole grains are high in dietary fibre."
+    ],
+    "extra": {
+      "synonyms": ["strand", "filament", "roughage"],
+      "antonyms": ["bulk (contrast)", "refined (contrast)"],
+      "memory_tip": "Fibre = fine threads in fabric and food.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "function",
+    "type": "noun,verb",
+    "definition": "The purpose or job of something; to work or operate.",
+    "pronunciation": { "us": "FUNK-shun", "uk": "FUNK-shun" },
+    "examples": [
+      "The heart’s function is to pump blood. (noun)",
+      "The printer isn’t functioning properly. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["purpose", "role", "operate (verb)"],
+      "antonyms": ["malfunction (contrast)", "fail (verb)"],
+      "memory_tip": "Function = how a thing ‘functions’.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["function (verb)", "functioned", "functioning"]
+    }
+  },
+  {
+    "word": "hatch",
+    "type": "verb,noun",
+    "definition": "To come out of an egg; to think up a plan; a door or opening in a ship, plane, or floor.",
+    "pronunciation": { "us": "hatch", "uk": "hatch" },
+    "examples": [
+      "The chicks hatched this morning. (verb)",
+      "He climbed through the roof hatch. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["emerge", "formulate", "opening"],
+      "antonyms": ["bury (contrast)", "close (contrast)"],
+      "memory_tip": "Hatch a chick or hatch a plan.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["hatch", "hatched", "hatching"]
+    }
+  },
+  {
+    "word": "inhibit",
+    "type": "verb",
+    "definition": "To hold back, slow down, or prevent an action or process.",
+    "pronunciation": { "us": "in-HIB-it", "uk": "in-HIB-it" },
+    "examples": [
+      "Cold temperatures inhibit plant growth.",
+      "Shyness can inhibit speaking in class."
+    ],
+    "extra": {
+      "synonyms": ["restrain", "hinder", "suppress"],
+      "antonyms": ["encourage", "promote", "stimulate"],
+      "memory_tip": "Inhibit = put a habit ‘in’ hold.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["inhibit", "inhibited", "inhibiting"]
+    }
+  },
+  {
+    "word": "minute",
+    "type": "noun,adjective",
+    "definition": "A unit of time equal to sixty seconds; very small or detailed.",
+    "pronunciation": { "us": "MIN-it (noun), my-NOOT (adj)", "uk": "MIN-it (noun), my-NYOOT (adj)" },
+    "examples": [
+      "The lesson starts in five minutes. (noun)",
+      "They found minute traces of salt. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["moment (noun)", "tiny (adj)", "microscopic (adj)"],
+      "antonyms": ["hour (contrast)", "huge (adj)", "coarse (adj)"],
+      "memory_tip": "Same spelling, two sounds: MIN-it (time), my-NOOT (tiny).",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "motion",
+    "type": "noun,verb",
+    "definition": "Movement; a formal proposal; to signal by moving your hand or head.",
+    "pronunciation": { "us": "MOH-shun", "uk": "MOH-shun" },
+    "examples": [
+      "The camera detects motion. (noun)",
+      "She motioned for us to sit. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["movement", "proposal", "gesture (verb)"],
+      "antonyms": ["stillness", "rest", "silence (contrast)"],
+      "memory_tip": "Motion = move; emotion = energy in motion.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["motion (verb)", "motioned", "motioning"]
+    }
+  },
+  {
+    "word": "sheathe",
+    "type": "verb",
+    "definition": "To put a blade or tool into its cover; to cover something like a sheath.",
+    "pronunciation": { "us": "sheeth", "uk": "sheeth" },
+    "examples": [
+      "The knight sheathed his sword.",
+      "Cables are sheathed in plastic for safety."
+    ],
+    "extra": {
+      "synonyms": ["encase", "cover", "sleeve"],
+      "antonyms": ["unsheathe", "expose"],
+      "memory_tip": "Sheathe = sheath + e; put it in the sheath.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["sheathe", "sheathed", "sheathing"]
+    }
+  },
+  {
+    "word": "shed",
+    "type": "verb,noun",
+    "definition": "To let something fall or drop; to get rid of; a small simple building for storage.",
+    "pronunciation": { "us": "shed", "uk": "shed" },
+    "examples": [
+      "Snakes shed their skin each year. (verb)",
+      "The tools are in the garden shed. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["discard", "lose", "hut (noun)"],
+      "antonyms": ["keep", "retain", "store (verb)"],
+      "memory_tip": "Shed tears, shed leaves, or build a shed.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["shed", "shed", "shedding"]
+    }
+  },
+  {
+    "word": "transfer",
+    "type": "verb,noun",
+    "definition": "To move from one place, person, or thing to another; the act of moving.",
+    "pronunciation": { "us": "trans-FER (verb), TRAN-sfer (noun)", "uk": "trans-FUR (verb), TRAN-sfuh (noun)" },
+    "examples": [
+      "Please transfer the files to the new folder. (verb)",
+      "We made a bank transfer yesterday. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["move", "shift", "relocate"],
+      "antonyms": ["keep", "hold", "retain"],
+      "memory_tip": "Transfer = carry ‘across’.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["transfer", "transferred", "transferring"]
+    }
+  }
+]

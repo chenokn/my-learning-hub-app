@@ -1,0 +1,264 @@
+[
+  {
+    "word": "accumulate",
+    "type": "verb",
+    "definition": "To gather or build up over time.",
+    "pronunciation": { "us": "uh-KYOO-myuh-layt", "uk": "uh-KYOO-myuh-layt" },
+    "examples": [
+      "Dust can accumulate under the bed.",
+      "She accumulated points through steady practice."
+    ],
+    "extra": {
+      "synonyms": ["gather", "amass", "collect"],
+      "antonyms": ["disperse", "dissipate", "spend"],
+      "memory_tip": "Accumulate = add a little at a time until it mounts up.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["accumulate", "accumulated", "accumulating"]
+    }
+  },
+  {
+    "word": "aggravate",
+    "type": "verb",
+    "definition": "To make a problem or situation worse; to annoy someone.",
+    "pronunciation": { "us": "AG-ruh-vayt", "uk": "AG-ruh-vayt" },
+    "examples": [
+      "Scratching will aggravate the rash.",
+      "Loud chatter aggravated the librarian."
+    ],
+    "extra": {
+      "synonyms": ["worsen", "intensify", "irritate"],
+      "antonyms": ["relieve", "alleviate", "soothe"],
+      "memory_tip": "Aggravate = add gravity to the problem.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["aggravate", "aggravated", "aggravating"]
+    }
+  },
+  {
+    "word": "conserve",
+    "type": "verb",
+    "definition": "To protect from loss or waste; to use carefully.",
+    "pronunciation": { "us": "kun-SERV", "uk": "kun-SERV" },
+    "examples": [
+      "Turn off lights to conserve energy.",
+      "We conserved water during the drought."
+    ],
+    "extra": {
+      "synonyms": ["save", "preserve", "protect"],
+      "antonyms": ["waste", "squander", "exhaust"],
+      "memory_tip": "Conserve = serve the future by saving now.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["conserve", "conserved", "conserving"]
+    }
+  },
+  {
+    "word": "contaminate",
+    "type": "verb",
+    "definition": "To make something dirty, unsafe, or impure by adding a harmful substance.",
+    "pronunciation": { "us": "kun-TAM-uh-nayt", "uk": "kun-TAM-uh-nayt" },
+    "examples": [
+      "Oil spills can contaminate beaches.",
+      "Do not contaminate samples with bare hands."
+    ],
+    "extra": {
+      "synonyms": ["pollute", "taint", "foul"],
+      "antonyms": ["purify", "cleanse", "decontaminate"],
+      "memory_tip": "Con-taminate = add ‘bad stuff’ and it’s not the same.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["contaminate", "contaminated", "contaminating"]
+    }
+  },
+  {
+    "word": "diminish",
+    "type": "verb",
+    "definition": "To make or become smaller, fewer, or less important.",
+    "pronunciation": { "us": "di-MIN-ish", "uk": "di-MIN-ish" },
+    "examples": [
+      "The noise diminished after midnight.",
+      "We must not diminish anyone’s effort."
+    ],
+    "extra": {
+      "synonyms": ["decrease", "reduce", "lessen"],
+      "antonyms": ["increase", "expand", "boost"],
+      "memory_tip": "Diminish = down to mini-size.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["diminish", "diminished", "diminishing"]
+    }
+  },
+  {
+    "word": "drastic",
+    "type": "adjective",
+    "definition": "Extreme or severe; likely to have a strong effect.",
+    "pronunciation": { "us": "DRAS-tik", "uk": "DRAS-tik" },
+    "examples": [
+      "They took drastic steps to cut costs.",
+      "A drastic change in weather surprised hikers."
+    ],
+    "extra": {
+      "synonyms": ["severe", "extreme", "radical"],
+      "antonyms": ["mild", "moderate", "gentle"],
+      "memory_tip": "Drastic = dramatic + drastic effect.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "extravagant",
+    "type": "adjective",
+    "definition": "Spending or using more than necessary; very fancy or excessive.",
+    "pronunciation": { "us": "ek-STRAV-uh-gunt", "uk": "ik-STRAV-uh-guhnt" },
+    "examples": [
+      "They threw an extravagant party.",
+      "Buying a new phone now would be extravagant."
+    ],
+    "extra": {
+      "synonyms": ["lavish", "excessive", "wasteful"],
+      "antonyms": ["frugal", "modest", "economical"],
+      "memory_tip": "Extravagant = extra + abundant spending.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "frugal",
+    "type": "adjective",
+    "definition": "Careful about spending; using money or resources wisely.",
+    "pronunciation": { "us": "FROO-gul", "uk": "FROO-gul" },
+    "examples": [
+      "A frugal shopper waits for sales.",
+      "They cooked a frugal but tasty meal."
+    ],
+    "extra": {
+      "synonyms": ["thrifty", "economical", "sparing"],
+      "antonyms": ["extravagant", "wasteful", "lavish"],
+      "memory_tip": "Frugal = fewer gulps of your budget.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "impurity",
+    "type": "noun",
+    "definition": "Something that makes another substance dirty or not pure.",
+    "pronunciation": { "us": "im-PYOOR-uh-tee", "uk": "im-PYOOR-uh-tee" },
+    "examples": [
+      "Filters remove impurities from water.",
+      "Gold is measured by how few impurities it has."
+    ],
+    "extra": {
+      "synonyms": ["contaminant", "pollutant", "defilement"],
+      "antonyms": ["purity", "cleanliness"],
+      "memory_tip": "Impurity = ‘in’ the pure stuff is something else.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "peril",
+    "type": "noun",
+    "definition": "Serious and immediate danger.",
+    "pronunciation": { "us": "PAIR-uhl", "uk": "PEH-ril" },
+    "examples": [
+      "The hikers were in peril during the blizzard.",
+      "Ignoring safety rules puts others in peril."
+    ],
+    "extra": {
+      "synonyms": ["danger", "risk", "hazard"],
+      "antonyms": ["safety", "security", "protection"],
+      "memory_tip": "Peril = perilous danger ahead.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "perpetual",
+    "type": "adjective",
+    "definition": "Continuing forever or for a very long time without stopping.",
+    "pronunciation": { "us": "per-PETCH-oo-uhl", "uk": "per-PETCH-oo-uhl" },
+    "examples": [
+      "They lived in perpetual daylight near midsummer.",
+      "His perpetual optimism lifted the team."
+    ],
+    "extra": {
+      "synonyms": ["endless", "constant", "everlasting"],
+      "antonyms": ["temporary", "brief", "intermittent"],
+      "memory_tip": "Perpetual = perma + actual continuity.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "resource",
+    "type": "noun",
+    "definition": "A supply of materials, money, or skills that can be used; something useful for a purpose.",
+    "pronunciation": { "us": "REE-sors", "uk": "ri-SAWRSS" },
+    "examples": [
+      "Clean water is a vital resource.",
+      "The library is a great learning resource."
+    ],
+    "extra": {
+      "synonyms": ["supply", "asset", "means"],
+      "antonyms": ["liability (contrast)", "lack"],
+      "memory_tip": "Resource = source you can rely on.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "substitute",
+    "type": "verb,noun",
+    "definition": "To use or put in place of something else; a person or thing used instead of another.",
+    "pronunciation": { "us": "SUB-sti-toot", "uk": "SUB-sti-tyoot" },
+    "examples": [
+      "You can substitute yoghurt for cream. (verb)",
+      "The substitute taught maths today. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["replace", "swap", "stand-in"],
+      "antonyms": ["keep", "retain", "original (contrast)"],
+      "memory_tip": "Substitute = sub in a stand-in.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["substitute", "substituted", "substituting"]
+    }
+  },
+  {
+    "word": "sustain",
+    "type": "verb",
+    "definition": "To keep something going; to support; to suffer (a loss or injury).",
+    "pronunciation": { "us": "suh-STAYN", "uk": "suh-STAYN" },
+    "examples": [
+      "Trees help sustain life on Earth.",
+      "The player sustained a minor injury."
+    ],
+    "extra": {
+      "synonyms": ["maintain", "support", "nourish"],
+      "antonyms": ["undermine", "weaken", "deprive"],
+      "memory_tip": "Sustain = stay strong and continue.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["sustain", "sustained", "sustaining"]
+    }
+  },
+  {
+    "word": "vital",
+    "type": "adjective",
+    "definition": "Extremely important; necessary for life.",
+    "pronunciation": { "us": "VY-tl", "uk": "VY-tl" },
+    "examples": [
+      "It’s vital to drink water on hot days.",
+      "Trust is a vital part of teamwork."
+    ],
+    "extra": {
+      "synonyms": ["essential", "crucial", "critical"],
+      "antonyms": ["trivial", "minor", "nonessential"],
+      "memory_tip": "Vital = tied to ‘vital signs’—life-important.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

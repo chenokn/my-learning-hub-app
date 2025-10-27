@@ -1,0 +1,447 @@
+{
+  "title": "Pocket Dragon",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Fantasy",
+  "vocabulary": [
+    "dragon",
+    "pocket",
+    "glow",
+    "spark",
+    "hatch",
+    "wing",
+    "tail",
+    "gentle",
+    "lantern",
+    "guide"
+  ],
+  "images": [
+    "/stem-hub/language/pocketdragon.1.png",
+    "/stem-hub/language/pocketdragon.2.png",
+    "/stem-hub/language/pocketdragon.3.png",
+    "/stem-hub/language/pocketdragon.4.png"
+  ],
+  "passage": [
+    "Tia feels a tap in her coat pocket. An egg cracks—tap, tap! A baby dragon hatches. Its wings are soft and its tail curls. |'Hello, Pocket Dragon,' says Tia.",
+    "The dragon gives a tiny spark—pop! A warm glow fills Tia’s hands. |'Only gentle sparks,' says Tia. 'We keep things safe.' The dragon nods.",
+    "That night the lights go out. Tia picks up a paper lantern. The dragon climbs into the pocket and glows to guide the way down the hall.",
+    "They help Gran find her keys under the chair. Neighbours smile. |'Thank you, little guide,' says Gran. Tia pats the gentle dragon’s tail."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who finds the egg?",
+      "answer": "Tia",
+      "options": [
+        "Tia",
+        "Gran",
+        "Leo",
+        "Asha"
+      ],
+      "keys": [
+        "Tia"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Where does the egg crack?",
+      "answer": "In Tia’s pocket",
+      "options": [
+        "In Tia’s pocket",
+        "On the table",
+        "Under the bed",
+        "In the garden"
+      ],
+      "keys": [
+        "pocket"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What hatches from the egg?",
+      "answer": "A baby dragon",
+      "options": [
+        "A baby dragon",
+        "A chick",
+        "A lizard",
+        "A kitten"
+      ],
+      "keys": [
+        "dragon",
+        "hatch"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which two parts of the dragon are mentioned?",
+      "answer": "Wings and tail",
+      "options": [
+        "Wings and tail",
+        "Ears and nose",
+        "Paws and whiskers",
+        "Horns and hooves"
+      ],
+      "keys": [
+        "wing",
+        "tail"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What tiny thing does the dragon make that goes 'pop'?",
+      "answer": "A spark",
+      "options": [
+        "A spark",
+        "A bubble",
+        "A raindrop",
+        "A whistle"
+      ],
+      "keys": [
+        "spark"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What fills Tia’s hands after the spark?",
+      "answer": "A warm glow",
+      "options": [
+        "A warm glow",
+        "Cold water",
+        "Sand",
+        "Paint"
+      ],
+      "keys": [
+        "glow"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What rule does Tia make about the dragon’s sparks?",
+      "answer": "Only gentle sparks to keep things safe",
+      "options": [
+        "Only gentle sparks to keep things safe",
+        "No sparks ever",
+        "Big sparks all the time",
+        "Sparks only outside in storms"
+      ],
+      "keys": [
+        "gentle",
+        "safe"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does Tia carry when the lights go out?",
+      "answer": "A paper lantern",
+      "options": [
+        "A paper lantern",
+        "A torch made of sticks",
+        "A kite",
+        "A book"
+      ],
+      "keys": [
+        "lantern"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How does the dragon help them move in the dark?",
+      "answer": "It glows to guide the way",
+      "options": [
+        "It glows to guide the way",
+        "It roars loudly",
+        "It flies them outside",
+        "It makes it rain"
+      ],
+      "keys": [
+        "glow",
+        "guide"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Who do they help at the end and what do they find?",
+      "answer": "They help Gran find her keys",
+      "options": [
+        "They help Gran find her keys",
+        "They help Leo find his map",
+        "They help Mum find her hat",
+        "They help a cat find a toy"
+      ],
+      "keys": [
+        "Gran",
+        "keys"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "dragon",
+      "type": "noun",
+      "definition": "A make-believe animal like a big lizard, often shown with wings and fire.",
+      "pronunciation": {
+        "us": "ˈdræ.gən",
+        "uk": "ˈdræɡ.ən"
+      },
+      "examples": [
+        "A baby dragon hatches.",
+        "The dragon curls its tail."
+      ],
+      "extra": {
+        "synonyms": [
+          "mythical creature"
+        ],
+        "antonyms": [
+          "real animal (contrast)"
+        ],
+        "memory_tip": "Dragon = story creature with wings.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "pocket",
+      "type": "noun",
+      "definition": "A small pouch in clothes used to carry things.",
+      "pronunciation": {
+        "us": "ˈpɑː.kɪt",
+        "uk": "ˈpɒ.kɪt"
+      },
+      "examples": [
+        "The egg cracks in her pocket.",
+        "The dragon rides in the pocket."
+      ],
+      "extra": {
+        "synonyms": [
+          "pouch"
+        ],
+        "antonyms": [
+          "bag (contrast)"
+        ],
+        "memory_tip": "Pocket = cloth pouch for small stuff.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "glow",
+      "type": "noun,verb",
+      "definition": "A soft, steady light; to shine softly.",
+      "pronunciation": {
+        "us": "ɡloʊ",
+        "uk": "ɡləʊ"
+      },
+      "examples": [
+        "A warm glow fills Tia’s hands. (noun)",
+        "The dragon glows to guide the way. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "shine",
+          "gleam"
+        ],
+        "antonyms": [
+          "dim",
+          "darken"
+        ],
+        "memory_tip": "Glow = gentle light, not bright glare.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "glow",
+          "glowed",
+          "glowing"
+        ]
+      }
+    },
+    {
+      "word": "spark",
+      "type": "noun,verb",
+      "definition": "A tiny, bright flash; to make a tiny flash of light.",
+      "pronunciation": {
+        "us": "spɑːrk",
+        "uk": "spɑːk"
+      },
+      "examples": [
+        "The dragon makes a tiny spark. (noun)",
+        "It sparks and then stops. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "flash"
+        ],
+        "antonyms": [
+          "darkness"
+        ],
+        "memory_tip": "Spark = little pop of light.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "spark",
+          "sparked",
+          "sparking"
+        ]
+      }
+    },
+    {
+      "word": "hatch",
+      "type": "verb",
+      "definition": "To break out of an egg.",
+      "pronunciation": {
+        "us": "hætʃ",
+        "uk": "hætʃ"
+      },
+      "examples": [
+        "A baby dragon hatches.",
+        "Chicks hatch from eggs."
+      ],
+      "extra": {
+        "synonyms": [
+          "emerge"
+        ],
+        "antonyms": [
+          "stay inside"
+        ],
+        "memory_tip": "Hatch = crack, crack—hello!",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "hatch",
+          "hatched",
+          "hatching"
+        ]
+      }
+    },
+    {
+      "word": "wing",
+      "type": "noun",
+      "definition": "The part of a bird or flying creature used to fly.",
+      "pronunciation": {
+        "us": "wɪŋ",
+        "uk": "wɪŋ"
+      },
+      "examples": [
+        "Its wings are soft.",
+        "A bird spreads its wings."
+      ],
+      "extra": {
+        "synonyms": [
+          "flapper"
+        ],
+        "antonyms": [
+          "leg (contrast)"
+        ],
+        "memory_tip": "Wing = flying arm.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "tail",
+      "type": "noun",
+      "definition": "The long part at the back of an animal’s body.",
+      "pronunciation": {
+        "us": "teɪl",
+        "uk": "teɪl"
+      },
+      "examples": [
+        "Its tail curls.",
+        "The cat flicks its tail."
+      ],
+      "extra": {
+        "synonyms": [
+          "rear"
+        ],
+        "antonyms": [
+          "head (contrast)"
+        ],
+        "memory_tip": "Tail = end part that swishes.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "gentle",
+      "type": "adjective",
+      "definition": "Soft and careful; not rough.",
+      "pronunciation": {
+        "us": "ˈdʒen.təl",
+        "uk": "ˈdʒen.təl"
+      },
+      "examples": [
+        "Only gentle sparks.",
+        "Use a gentle voice with pets."
+      ],
+      "extra": {
+        "synonyms": [
+          "soft",
+          "kind"
+        ],
+        "antonyms": [
+          "rough",
+          "harsh"
+        ],
+        "memory_tip": "Gentle = soft touch, safe choice.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "lantern",
+      "type": "noun",
+      "definition": "A light with sides that you can carry.",
+      "pronunciation": {
+        "us": "ˈlæn.tɚn",
+        "uk": "ˈlæn.tən"
+      },
+      "examples": [
+        "Tia picks up a paper lantern.",
+        "The lantern lights the hall."
+      ],
+      "extra": {
+        "synonyms": [
+          "lamp",
+          "light"
+        ],
+        "antonyms": [
+          "dark"
+        ],
+        "memory_tip": "Lantern = light in a little box.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "guide",
+      "type": "verb,noun",
+      "definition": "To show the way; a person or thing that shows the way.",
+      "pronunciation": {
+        "us": "ɡaɪd",
+        "uk": "ɡaɪd"
+      },
+      "examples": [
+        "The dragon glows to guide the way. (verb)",
+        "The little guide helps Gran. (noun)"
+      ],
+      "extra": {
+        "synonyms": [
+          "lead",
+          "show"
+        ],
+        "antonyms": [
+          "mislead",
+          "lose"
+        ],
+        "memory_tip": "Guide = help someone find the way.",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "guide",
+          "guided",
+          "guiding"
+        ]
+      }
+    }
+  ]
+}

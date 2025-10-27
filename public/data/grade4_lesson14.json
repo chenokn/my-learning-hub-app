@@ -1,0 +1,266 @@
+[
+  {
+    "word": "afford",
+    "type": "verb",
+    "definition": "To have enough money, time, or ability for something; to provide or supply.",
+    "pronunciation": { "us": "uh-FORD", "uk": "uh-FAWD" },
+    "examples": [
+      "We can’t afford a new laptop this term.",
+      "The window affords a view of the meadow."
+    ],
+    "extra": {
+      "synonyms": ["manage", "spare", "provide"],
+      "antonyms": ["lack", "deny"],
+      "memory_tip": "Afford = can ‘offer’ the cost or time.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["afford", "afforded", "affording"]
+    }
+  },
+  {
+    "word": "boast",
+    "type": "verb,noun",
+    "definition": "To talk with too much pride; a statement of pride.",
+    "pronunciation": { "us": "bohst", "uk": "bohst" },
+    "examples": [
+      "He boasted about his high score. (verb)",
+      "Her cooking is the village’s greatest boast. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["brag", "vaunt", "show off"],
+      "antonyms": ["downplay", "understate"],
+      "memory_tip": "Boast = blow your own trumpet.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["boast", "boasted", "boasting"]
+    }
+  },
+  {
+    "word": "chord",
+    "type": "noun",
+    "definition": "Three or more musical notes played together; a line segment joining two points on a curve.",
+    "pronunciation": { "us": "kord", "uk": "kawd" },
+    "examples": [
+      "She learned a new guitar chord.",
+      "A chord cuts across the circle."
+    ],
+    "extra": {
+      "synonyms": ["harmony", "triad", "segment"],
+      "antonyms": ["discord", "noise"],
+      "memory_tip": "Chord with an ‘h’ is for harmony (not a ‘cord’).",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "exceptional",
+    "type": "adjective",
+    "definition": "Unusually good; much better than average; rare.",
+    "pronunciation": { "us": "ek-SEP-shuh-nl", "uk": "ik-SEP-shuh-nl" },
+    "examples": [
+      "She has exceptional talent in maths.",
+      "It was an exceptional year for harvests."
+    ],
+    "extra": {
+      "synonyms": ["outstanding", "remarkable", "extraordinary"],
+      "antonyms": ["ordinary", "average", "common"],
+      "memory_tip": "Exceptional = the exception to the usual.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "fringe",
+    "type": "noun,adjective,verb",
+    "definition": "The outer edge of something; less central; to border or edge.",
+    "pronunciation": { "us": "frinj", "uk": "frinj" },
+    "examples": [
+      "Flowers grew on the fringe of the wood. (noun)",
+      "A lake fringed the town. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["edge", "border", "margin"],
+      "antonyms": ["centre", "core"],
+      "memory_tip": "Fringe = the fuzzy edge of things.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["fringe (verb)", "fringed", "fringing"]
+    }
+  },
+  {
+    "word": "humble",
+    "type": "adjective,verb",
+    "definition": "Modest; not proud; of low rank; to lower someone’s pride.",
+    "pronunciation": { "us": "HUM-bul", "uk": "HUM-buhl" },
+    "examples": [
+      "Despite winning, she stayed humble. (adjective)",
+      "The defeat humbled the champions. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["modest", "unassuming", "humiliate (verb)"],
+      "antonyms": ["proud", "arrogant", "exalt (verb)"],
+      "memory_tip": "Humble = keep your head low, not your heart.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["humble", "humbled", "humbling"]
+    }
+  },
+  {
+    "word": "meadow",
+    "type": "noun",
+    "definition": "A field of grass and wildflowers, often used for hay.",
+    "pronunciation": { "us": "MED-oh", "uk": "MED-oh" },
+    "examples": [
+      "Bees buzzed across the sunny meadow.",
+      "Cows grazed in the lower meadow."
+    ],
+    "extra": {
+      "synonyms": ["field", "pasture", "grassland"],
+      "antonyms": ["forest", "desert"],
+      "memory_tip": "Meadow = mellow field of flowers.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "melancholy",
+    "type": "noun,adjective",
+    "definition": "A gentle, lasting sadness; sadly thoughtful.",
+    "pronunciation": { "us": "MEL-un-kol-ee", "uk": "MEL-un-kol-ee" },
+    "examples": [
+      "A touch of melancholy filled the old song. (noun)",
+      "She wore a melancholy smile. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["sadness", "gloom", "wistfulness"],
+      "antonyms": ["joy", "cheerfulness"],
+      "memory_tip": "Melancholy = mellow + holy quiet sadness.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "obstinate",
+    "type": "adjective",
+    "definition": "Refusing to change your mind or behaviour; stubborn.",
+    "pronunciation": { "us": "OB-sti-nit", "uk": "OB-sti-nut" },
+    "examples": [
+      "He was obstinate about the rules.",
+      "An obstinate stain wouldn’t wash out."
+    ],
+    "extra": {
+      "synonyms": ["stubborn", "inflexible", "headstrong"],
+      "antonyms": ["flexible", "yielding", "open-minded"],
+      "memory_tip": "Obstinate = an ‘obstacle’ to changing.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "plead",
+    "type": "verb",
+    "definition": "To ask earnestly; to state in court whether one is guilty or not; to argue for.",
+    "pronunciation": { "us": "pleed", "uk": "pleed" },
+    "examples": [
+      "She pleaded for a second chance.",
+      "The defendant pleaded not guilty."
+    ],
+    "extra": {
+      "synonyms": ["beg", "implore", "appeal"],
+      "antonyms": ["demand", "insist", "refuse"],
+      "memory_tip": "Plead = pour feelings into your plea.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["plead", "pleaded", "pleading"]
+    }
+  },
+  {
+    "word": "plunge",
+    "type": "verb,noun",
+    "definition": "To move or fall suddenly and quickly; a sudden dive or fall.",
+    "pronunciation": { "us": "plunj", "uk": "plunj" },
+    "examples": [
+      "They plunged into the cold lake. (verb)",
+      "With a brave plunge, he jumped in. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["dive", "drop", "descend"],
+      "antonyms": ["rise", "ascend", "lift"],
+      "memory_tip": "Plunge = a bold drop or dive.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["plunge", "plunged", "plunging"]
+    }
+  },
+  {
+    "word": "relent",
+    "type": "verb",
+    "definition": "To become less severe or strict; to give in.",
+    "pronunciation": { "us": "ri-LENT", "uk": "ri-LENT" },
+    "examples": [
+      "At last the storm relented.",
+      "The teacher relented and granted extra time."
+    ],
+    "extra": {
+      "synonyms": ["soften", "ease", "yield"],
+      "antonyms": ["harden", "persist", "intensify"],
+      "memory_tip": "Relent = release the tension.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["relent", "relented", "relenting"]
+    }
+  },
+  {
+    "word": "submit",
+    "type": "verb",
+    "definition": "To hand in or present; to accept another’s authority.",
+    "pronunciation": { "us": "sub-MIT", "uk": "sub-MIT" },
+    "examples": [
+      "Please submit your assignment online.",
+      "They refused to submit to threats."
+    ],
+    "extra": {
+      "synonyms": ["hand in", "present", "yield"],
+      "antonyms": ["withhold", "resist", "defy"],
+      "memory_tip": "Submit = send under (sub) for review or control.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["submit", "submitted", "submitting"]
+    }
+  },
+  {
+    "word": "trudge",
+    "type": "verb,noun",
+    "definition": "To walk slowly and with heavy steps; a long, tiring walk.",
+    "pronunciation": { "us": "truj", "uk": "truj" },
+    "examples": [
+      "We trudged home through the snow. (verb)",
+      "After a long trudge, they reached the hut. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["plod", "tramp", "slog"],
+      "antonyms": ["skip", "dash", "glide"],
+      "memory_tip": "Trudge = tired tramping.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["trudge", "trudged", "trudging"]
+    }
+  },
+  {
+    "word": "fortunate",
+    "type": "adjective",
+    "definition": "Lucky; having good results by chance; favourable.",
+    "pronunciation": { "us": "FOR-chuh-nit", "uk": "FOR-chuh-nit" },
+    "examples": [
+      "We were fortunate with the weather.",
+      "She felt fortunate to have such friends."
+    ],
+    "extra": {
+      "synonyms": ["lucky", "blessed", "favourable"],
+      "antonyms": ["unlucky", "unfortunate"],
+      "memory_tip": "Fortunate = fortune on your side.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

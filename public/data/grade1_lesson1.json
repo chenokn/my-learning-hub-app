@@ -1,0 +1,280 @@
+[
+  {
+    "word": "leap",
+    "type": "verb,noun",
+    "definition": "To jump high or far; a big jump.",
+    "pronunciation": {
+      "us": "/liːp/",
+      "uk": "/liːp/"
+    },
+    "examples": [
+      "The frog leaped across the pond. (verb)",
+      "He made a big leap over the log. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "jump",
+        "bound",
+        "hop"
+      ],
+      "antonyms": [
+        "stand",
+        "crawl"
+      ],
+      "memory_tip": "Leap = big jump like a frog!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "leap",
+        "leaped",
+        "leaping"
+      ]
+    }
+  },
+  {
+    "word": "swamp",
+    "type": "noun",
+    "definition": "A wet, muddy area of land often filled with plants and trees.",
+    "pronunciation": {
+      "us": "/swɑːmp/",
+      "uk": "/swɒmp/"
+    },
+    "examples": [
+      "Alligators live in the swamp.",
+      "The swamp was full of frogs and bugs."
+    ],
+    "extra": {
+      "synonyms": [
+        "marsh",
+        "bog",
+        "wetland"
+      ],
+      "antonyms": [
+        "desert",
+        "hill"
+      ],
+      "memory_tip": "Swamp = wet and muddy land!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "trunk",
+    "type": "noun",
+    "definition": "The thick main part of a tree; also a large box or an elephant's nose.",
+    "pronunciation": {
+      "us": "/trʌŋk/",
+      "uk": "/trʌŋk/"
+    },
+    "examples": [
+      "The tree trunk was very wide.",
+      "The elephant raised its trunk."
+    ],
+    "extra": {
+      "synonyms": [
+        "stem",
+        "container",
+        "snout"
+      ],
+      "antonyms": [
+        "branch",
+        "leaf"
+      ],
+      "memory_tip": "Trunk = tree, box, or elephant nose!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "capital",
+    "type": "noun",
+    "definition": "The main city of a country or state.",
+    "pronunciation": {
+      "us": "/ˈkæpɪtl/",
+      "uk": "/ˈkæpɪtl/"
+    },
+    "examples": [
+      "Canberra is the capital of Australia.",
+      "Paris is the capital of France."
+    ],
+    "extra": {
+      "synonyms": [
+        "main city",
+        "center",
+        "metropolis"
+      ],
+      "antonyms": [
+        "village",
+        "town"
+      ],
+      "memory_tip": "Capital = most important city!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "monument",
+    "type": "noun",
+    "definition": "A building or statue that honors a person or event.",
+    "pronunciation": {
+      "us": "/ˈmɑːnjumənt/",
+      "uk": "/ˈmɒnjumənt/"
+    },
+    "examples": [
+      "We visited a famous monument.",
+      "The statue is a monument to the hero."
+    ],
+    "extra": {
+      "synonyms": [
+        "statue",
+        "memorial",
+        "landmark"
+      ],
+      "antonyms": [
+        "ruin",
+        "destruction"
+      ],
+      "memory_tip": "Monument = something built to remember!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "steep",
+    "type": "adjective",
+    "definition": "Having a sharp slope; going up or down very quickly.",
+    "pronunciation": {
+      "us": "/stiːp/",
+      "uk": "/stiːp/"
+    },
+    "examples": [
+      "The hill was very steep.",
+      "We climbed a steep staircase."
+    ],
+    "extra": {
+      "synonyms": [
+        "sharp",
+        "high",
+        "inclined"
+      ],
+      "antonyms": [
+        "flat",
+        "gentle"
+      ],
+      "memory_tip": "Steep = hard to climb or go down!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "load",
+    "type": "noun,verb",
+    "definition": "Something carried; to put something onto a vehicle or container.",
+    "pronunciation": {
+      "us": "/loʊd/",
+      "uk": "/ləʊd/"
+    },
+    "examples": [
+      "He carried a heavy load. (noun)",
+      "We loaded the truck with boxes. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "cargo",
+        "burden",
+        "pack"
+      ],
+      "antonyms": [
+        "unload",
+        "empty"
+      ],
+      "memory_tip": "Load = something you carry or add!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "load",
+        "loaded",
+        "loading"
+      ]
+    }
+  },
+  {
+    "word": "globe",
+    "type": "noun",
+    "definition": "A round model of the Earth.",
+    "pronunciation": {
+      "us": "/ɡloʊb/",
+      "uk": "/ɡləʊb/"
+    },
+    "examples": [
+      "She spun the globe to find Africa.",
+      "We have a globe in our classroom."
+    ],
+    "extra": {
+      "synonyms": [
+        "planet model",
+        "sphere",
+        "world"
+      ],
+      "antonyms": [
+        "flat map"
+      ],
+      "memory_tip": "Globe = small Earth you can spin!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "coast",
+    "type": "noun",
+    "definition": "The land next to the ocean or sea.",
+    "pronunciation": {
+      "us": "/koʊst/",
+      "uk": "/kəʊst/"
+    },
+    "examples": [
+      "We went for a walk along the coast.",
+      "Many people live near the coast."
+    ],
+    "extra": {
+      "synonyms": [
+        "shore",
+        "seaside",
+        "beach"
+      ],
+      "antonyms": [
+        "inland",
+        "mountain"
+      ],
+      "memory_tip": "Coast = where land meets the sea!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "nation",
+    "type": "noun",
+    "definition": "A country with its own people and rules.",
+    "pronunciation": {
+      "us": "/ˈneɪʃən/",
+      "uk": "/ˈneɪʃ(ə)n/"
+    },
+    "examples": [
+      "Australia is a big nation.",
+      "Every nation has its own flag."
+    ],
+    "extra": {
+      "synonyms": [
+        "country",
+        "state",
+        "land"
+      ],
+      "antonyms": [
+        "none (abstract concept)"
+      ],
+      "memory_tip": "Nation = a big group of people in one country!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

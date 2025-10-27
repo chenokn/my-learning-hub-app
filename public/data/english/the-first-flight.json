@@ -1,0 +1,443 @@
+{
+  "title": "The First Flight",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Historical",
+  "vocabulary": [
+    "plane",
+    "pilot",
+    "wing",
+    "engine",
+    "propeller",
+    "sand",
+    "run",
+    "lift",
+    "air",
+    "flight"
+  ],
+  "images": [
+    "/stem-hub/language/firstflight.1.png",
+    "/stem-hub/language/firstflight.2.png",
+    "/stem-hub/language/firstflight.3.png",
+    "/stem-hub/language/firstflight.4.png"
+  ],
+  "passage": [
+    "Wind whips over sandy dunes at a small airfield. Two brothers check their new plane—wooden frame, canvas wings, and a little engine. |“Ready?” one asks. “Ready,” says the other.",
+    "The propeller starts to spin. Put-put-put! The pilot lies on the plane and grips the lever. |Helpers steady the wing tips in the gusty wind.",
+    "“Run!” calls a brother. They push the plane over the sand. The engine hums, the wings catch the air, and the nose begins to lift. |The plane rises—up, up—for a short, first flight.",
+    "The plane lands safely on the sand. Cheers echo across the dunes. |“A small hop,” says a helper, “but a big change for the world.”"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Where does the story take place?",
+      "answer": "At a small airfield by sandy dunes",
+      "options": [
+        "At a small airfield by sandy dunes",
+        "In a forest at night",
+        "On a busy city street",
+        "Under the sea"
+      ],
+      "keys": [
+        "airfield",
+        "sand"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Who is checking the plane at the start?",
+      "answer": "Two brothers",
+      "options": [
+        "Two brothers",
+        "Two teachers",
+        "Two artists",
+        "Two pirates"
+      ],
+      "keys": [
+        "brothers",
+        "plane"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What parts does the plane have?",
+      "answer": "Wooden frame, canvas wings, and a little engine",
+      "options": [
+        "Wooden frame, canvas wings, and a little engine",
+        "Sails and oars",
+        "Skis and bells",
+        "Wheels only"
+      ],
+      "keys": [
+        "wing",
+        "engine"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What starts to spin before take-off?",
+      "answer": "The propeller",
+      "options": [
+        "The propeller",
+        "The umbrella",
+        "The compass",
+        "The clock"
+      ],
+      "keys": [
+        "propeller"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does the pilot do on the plane?",
+      "answer": "Lies on it and grips the lever",
+      "options": [
+        "Lies on it and grips the lever",
+        "Stands on the wing and dances",
+        "Sleeps in a bed",
+        "Sits in a boat seat"
+      ],
+      "keys": [
+        "pilot",
+        "wing"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What do the helpers hold in the wind?",
+      "answer": "The wing tips",
+      "options": [
+        "The wing tips",
+        "The kite string",
+        "The flag",
+        "The picnic basket"
+      ],
+      "keys": [
+        "wing",
+        "help"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What do they do to get the plane moving?",
+      "answer": "They run and push it over the sand",
+      "options": [
+        "They run and push it over the sand",
+        "They throw it like a ball",
+        "They carry it on their backs",
+        "They roll it down stairs"
+      ],
+      "keys": [
+        "run",
+        "sand"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What happens when the wings catch the air?",
+      "answer": "The nose begins to lift",
+      "options": [
+        "The nose begins to lift",
+        "The engine stops",
+        "The wings fall off",
+        "It turns into a kite"
+      ],
+      "keys": [
+        "air",
+        "lift"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How long is the first flight?",
+      "answer": "A short flight",
+      "options": [
+        "A short flight",
+        "A year-long flight",
+        "No flight at all",
+        "A flight around the world"
+      ],
+      "keys": [
+        "flight"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How do people feel after the landing?",
+      "answer": "They cheer and say it is a big change for the world",
+      "options": [
+        "They cheer and say it is a big change for the world",
+        "They cry and go home",
+        "They fall asleep",
+        "They hide in the dunes"
+      ],
+      "keys": [
+        "cheer",
+        "world"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "plane",
+      "type": "noun",
+      "definition": "A machine with wings that can fly in the air.",
+      "pronunciation": {
+        "us": "pleɪn",
+        "uk": "pleɪn"
+      },
+      "examples": [
+        "The plane rises for a short flight.",
+        "They build a small plane with canvas wings."
+      ],
+      "extra": {
+        "synonyms": [
+          "aeroplane"
+        ],
+        "antonyms": [
+          "car (contrast)"
+        ],
+        "memory_tip": "Plane = wings + engine to fly.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "pilot",
+      "type": "noun,verb",
+      "definition": "A person who controls a plane; to control a plane.",
+      "pronunciation": {
+        "us": "ˈpaɪ.lət",
+        "uk": "ˈpaɪ.lət"
+      },
+      "examples": [
+        "The pilot grips the lever. (noun)",
+        "She will pilot the glider. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "aviator",
+          "fly (verb)"
+        ],
+        "antonyms": [
+          "passenger (contrast)"
+        ],
+        "memory_tip": "Pilot = person who flies.",
+        "tier": 2,
+        "eslLevel": "medium",
+        "tenses": [
+          "pilot",
+          "piloted",
+          "piloting"
+        ]
+      }
+    },
+    {
+      "word": "wing",
+      "type": "noun",
+      "definition": "A flat part of a plane or a bird that gives lift.",
+      "pronunciation": {
+        "us": "wɪŋ",
+        "uk": "wɪŋ"
+      },
+      "examples": [
+        "Helpers hold the wing tips.",
+        "The wings catch the air."
+      ],
+      "extra": {
+        "synonyms": [
+          "airfoil"
+        ],
+        "antonyms": [
+          "fuselage (contrast)"
+        ],
+        "memory_tip": "Wing = wide arm for flying.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "engine",
+      "type": "noun",
+      "definition": "A machine that gives power to move something.",
+      "pronunciation": {
+        "us": "ˈɛn.dʒɪn",
+        "uk": "ˈen.dʒɪn"
+      },
+      "examples": [
+        "The little engine hums.",
+        "Engines make planes go."
+      ],
+      "extra": {
+        "synonyms": [
+          "motor"
+        ],
+        "antonyms": [
+          "brake (contrast)"
+        ],
+        "memory_tip": "Engine = heart of motion.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "propeller",
+      "type": "noun",
+      "definition": "A set of blades that spin to push air and move a plane.",
+      "pronunciation": {
+        "us": "prəˈpɛl.ɚ",
+        "uk": "prəˈpel.ə"
+      },
+      "examples": [
+        "The propeller starts to spin.",
+        "A propeller pulls the plane forward."
+      ],
+      "extra": {
+        "synonyms": [
+          "prop"
+        ],
+        "antonyms": [
+          "stillness (contrast)"
+        ],
+        "memory_tip": "Propeller = spinning fan for thrust.",
+        "tier": 2,
+        "eslLevel": "medium"
+      }
+    },
+    {
+      "word": "sand",
+      "type": "noun",
+      "definition": "Tiny grains that cover beaches and dunes.",
+      "pronunciation": {
+        "us": "sænd",
+        "uk": "sænd"
+      },
+      "examples": [
+        "They push the plane over the sand.",
+        "Sand blows across the airfield."
+      ],
+      "extra": {
+        "synonyms": [
+          "grit"
+        ],
+        "antonyms": [
+          "rock (contrast)"
+        ],
+        "memory_tip": "Sand = tiny bits of stone.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "run",
+      "type": "verb,noun",
+      "definition": "To move your legs quickly; a short period of running.",
+      "pronunciation": {
+        "us": "rʌn",
+        "uk": "rʌn"
+      },
+      "examples": [
+        "They run and push the plane. (verb)",
+        "The take-off needs a good run. (noun)"
+      ],
+      "extra": {
+        "synonyms": [
+          "dash",
+          "race"
+        ],
+        "antonyms": [
+          "walk",
+          "stop"
+        ],
+        "memory_tip": "Run = fast feet go-go!",
+        "tier": 1,
+        "eslLevel": "easy",
+        "tenses": [
+          "run",
+          "ran",
+          "running"
+        ]
+      }
+    },
+    {
+      "word": "lift",
+      "type": "noun,verb",
+      "definition": "An upward force that helps something rise; to raise something up.",
+      "pronunciation": {
+        "us": "lɪft",
+        "uk": "lɪft"
+      },
+      "examples": [
+        "Wings make lift. (noun)",
+        "The nose begins to lift. (verb)"
+      ],
+      "extra": {
+        "synonyms": [
+          "raise",
+          "upforce"
+        ],
+        "antonyms": [
+          "drop",
+          "weight (contrast)"
+        ],
+        "memory_tip": "Lift = the up that beats down.",
+        "tier": 2,
+        "eslLevel": "medium",
+        "tenses": [
+          "lift",
+          "lifted",
+          "lifting"
+        ]
+      }
+    },
+    {
+      "word": "air",
+      "type": "noun",
+      "definition": "The invisible gas around us that we breathe and planes fly through.",
+      "pronunciation": {
+        "us": "er",
+        "uk": "eə"
+      },
+      "examples": [
+        "The wings catch the air.",
+        "Birds glide through the air."
+      ],
+      "extra": {
+        "synonyms": [
+          "atmosphere"
+        ],
+        "antonyms": [
+          "vacuum (contrast)"
+        ],
+        "memory_tip": "Air = what fills the sky and lungs.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "flight",
+      "type": "noun",
+      "definition": "The act of flying through the air.",
+      "pronunciation": {
+        "us": "flaɪt",
+        "uk": "flaɪt"
+      },
+      "examples": [
+        "The first flight is short.",
+        "We read about a long flight over the sea."
+      ],
+      "extra": {
+        "synonyms": [
+          "journey (by air)"
+        ],
+        "antonyms": [
+          "landing (contrast)"
+        ],
+        "memory_tip": "Flight = time spent flying.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    }
+  ]
+}

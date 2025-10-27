@@ -1,0 +1,333 @@
+[
+  {
+    "word": "gulp",
+    "type": "verb",
+    "definition": "To swallow quickly or in large amounts.",
+    "pronunciation": {
+      "us": "/ɡʌlp/",
+      "uk": "/ɡʌlp/"
+    },
+    "examples": [
+      "He gulped down his water.",
+      "She gave a gulp before speaking."
+    ],
+    "extra": {
+      "synonyms": [
+        "swallow",
+        "chug",
+        "devour"
+      ],
+      "antonyms": [
+        "sip",
+        "nibble"
+      ],
+      "memory_tip": "Gulp sounds like ‘gulp gulp’ when drinking fast!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "gulp",
+        "gulped",
+        "gulping"
+      ]
+    }
+  },
+  {
+    "word": "glance",
+    "type": "verb",
+    "definition": "To look quickly at something.",
+    "pronunciation": {
+      "us": "/ɡlæns/",
+      "uk": "/ɡlɑːns/"
+    },
+    "examples": [
+      "She glanced at the clock.",
+      "He took a quick glance at the paper."
+    ],
+    "extra": {
+      "synonyms": [
+        "peek",
+        "glimpse",
+        "scan"
+      ],
+      "antonyms": [
+        "stare",
+        "observe"
+      ],
+      "memory_tip": "Glance = a look that is fast like a blink!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "glance",
+        "glanced",
+        "glancing"
+      ]
+    }
+  },
+  {
+    "word": "empty",
+    "type": "adjective",
+    "definition": "Having nothing inside.",
+    "pronunciation": {
+      "us": "/ˈɛmpti/",
+      "uk": "/ˈɛmpti/"
+    },
+    "examples": [
+      "The box is empty.",
+      "Her glass is empty now."
+    ],
+    "extra": {
+      "synonyms": [
+        "hollow",
+        "vacant",
+        "bare"
+      ],
+      "antonyms": [
+        "full",
+        "filled"
+      ],
+      "memory_tip": "Empty = no more inside!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "leak",
+    "type": "verb",
+    "definition": "To let liquid or gas escape.",
+    "pronunciation": {
+      "us": "/liːk/",
+      "uk": "/liːk/"
+    },
+    "examples": [
+      "The pipe is leaking.",
+      "My bottle has a leak."
+    ],
+    "extra": {
+      "synonyms": [
+        "drip",
+        "spill",
+        "escape"
+      ],
+      "antonyms": [
+        "seal",
+        "block"
+      ],
+      "memory_tip": "Leak = sneaky water escape.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "leak",
+        "leaked",
+        "leaking"
+      ]
+    }
+  },
+  {
+    "word": "split",
+    "type": "verb",
+    "definition": "To break or divide into parts.",
+    "pronunciation": {
+      "us": "/splɪt/",
+      "uk": "/splɪt/"
+    },
+    "examples": [
+      "She split the cookie.",
+      "The log split in half."
+    ],
+    "extra": {
+      "synonyms": [
+        "break",
+        "crack",
+        "divide"
+      ],
+      "antonyms": [
+        "join",
+        "connect"
+      ],
+      "memory_tip": "Split = snap into pieces.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "split",
+        "split",
+        "splitting"
+      ]
+    }
+  },
+  {
+    "word": "float",
+    "type": "verb",
+    "definition": "To rest or move on the surface of water.",
+    "pronunciation": {
+      "us": "/floʊt/",
+      "uk": "/fləʊt/"
+    },
+    "examples": [
+      "The duck floats on water.",
+      "The balloon floated away."
+    ],
+    "extra": {
+      "synonyms": [
+        "drift",
+        "bob",
+        "glide"
+      ],
+      "antonyms": [
+        "sink",
+        "dive"
+      ],
+      "memory_tip": "Float = stay up on top!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "float",
+        "floated",
+        "floating"
+      ]
+    }
+  },
+  {
+    "word": "collect",
+    "type": "verb",
+    "definition": "To gather things together.",
+    "pronunciation": {
+      "us": "/kəˈlɛkt/",
+      "uk": "/kəˈlɛkt/"
+    },
+    "examples": [
+      "She collects stamps.",
+      "We collect rocks at the beach."
+    ],
+    "extra": {
+      "synonyms": [
+        "gather",
+        "pick up",
+        "assemble"
+      ],
+      "antonyms": [
+        "scatter",
+        "lose"
+      ],
+      "memory_tip": "Collect = gather your treasures.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "collect",
+        "collected",
+        "collecting"
+      ]
+    }
+  },
+  {
+    "word": "cradle",
+    "type": "noun",
+    "definition": "A small bed for a baby.",
+    "pronunciation": {
+      "us": "/ˈkreɪ.dəl/",
+      "uk": "/ˈkreɪ.dəl/"
+    },
+    "examples": [
+      "The baby sleeps in the cradle.",
+      "She rocked the cradle gently."
+    ],
+    "extra": {
+      "synonyms": [
+        "crib",
+        "bassinet"
+      ],
+      "antonyms": [
+        "floor",
+        "chair"
+      ],
+      "memory_tip": "Cradle = baby’s gentle bed.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "burst",
+    "type": "verb",
+    "definition": "To break open suddenly.",
+    "pronunciation": {
+      "us": "/bɜːrst/",
+      "uk": "/bɜːst/"
+    },
+    "examples": [
+      "The balloon burst!",
+      "He burst into laughter."
+    ],
+    "extra": {
+      "synonyms": [
+        "explode",
+        "break",
+        "crack"
+      ],
+      "antonyms": [
+        "mend",
+        "seal"
+      ],
+      "memory_tip": "Burst = pop!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "burst",
+        "burst",
+        "bursting"
+      ]
+    }
+  },
+  {
+    "word": "flat",
+    "type": "adjective",
+    "definition": "Smooth and level without curves.",
+    "pronunciation": {
+      "us": "/flæt/",
+      "uk": "/flæt/"
+    },
+    "examples": [
+      "The road was flat.",
+      "He lay flat on the ground."
+    ],
+    "extra": {
+      "synonyms": [
+        "smooth",
+        "even",
+        "level"
+      ],
+      "antonyms": [
+        "bumpy",
+        "curved"
+      ],
+      "memory_tip": "Flat = like a pancake!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "patch",
+    "type": "noun",
+    "definition": "A small area that is different from the rest.",
+    "pronunciation": {
+      "us": "/pætʃ/",
+      "uk": "/pætʃ/"
+    },
+    "examples": [
+      "He wore a patch on his knee.",
+      "A patch of grass grew there."
+    ],
+    "extra": {
+      "synonyms": [
+        "spot",
+        "section",
+        "area"
+      ],
+      "antonyms": [
+        "whole",
+        "entire"
+      ],
+      "memory_tip": "Patch = piece that fixes or stands out.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

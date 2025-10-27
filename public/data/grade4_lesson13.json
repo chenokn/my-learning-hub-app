@@ -1,0 +1,266 @@
+[
+  {
+    "word": "appal / appall",
+    "type": "verb",
+    "definition": "To shock or horrify someone very much.",
+    "pronunciation": { "us": "uh-PALL", "uk": "uh-PAL" },
+    "examples": [
+      "The cruelty in the story appalled the class.",
+      "Litter on the beach appals local residents."
+    ],
+    "extra": {
+      "synonyms": ["horrify", "shock", "dismay"],
+      "antonyms": ["delight", "please", "reassure"],
+      "memory_tip": "Appal = makes your jaw fall.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["appal/appall", "appalled", "appalling"]
+    }
+  },
+  {
+    "word": "dejected",
+    "type": "adjective",
+    "definition": "Sad and disappointed; low in spirits.",
+    "pronunciation": { "us": "di-JEK-tid", "uk": "di-JEK-tid" },
+    "examples": [
+      "He looked dejected after the loss.",
+      "A kind note lifted her dejected mood."
+    ],
+    "extra": {
+      "synonyms": ["downcast", "disheartened", "gloomy"],
+      "antonyms": ["cheerful", "encouraged", "buoyant"],
+      "memory_tip": "Dejected = rejected energy.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "depend",
+    "type": "verb",
+    "definition": "To rely on someone or something; to be decided by something else.",
+    "pronunciation": { "us": "di-PEND", "uk": "di-PEND" },
+    "examples": [
+      "You can depend on her to be on time.",
+      "Our trip depends on the weather."
+    ],
+    "extra": {
+      "synonyms": ["rely", "count on", "hinge on"],
+      "antonyms": ["distrust", "ignore", "be independent of"],
+      "memory_tip": "Depend = hang from (it ‘depends’).",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["depend", "depended", "depending"]
+    }
+  },
+  {
+    "word": "dreary",
+    "type": "adjective",
+    "definition": "Dull, gloomy, and lifeless; depressing.",
+    "pronunciation": { "us": "DREER-ee", "uk": "DREER-ee" },
+    "examples": [
+      "It was a cold, dreary afternoon.",
+      "The room felt dreary without music."
+    ],
+    "extra": {
+      "synonyms": ["dismal", "bleak", "drab"],
+      "antonyms": ["cheerful", "bright", "lively"],
+      "memory_tip": "Dreary = drear + weary.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "fanatic",
+    "type": "noun,adjective",
+    "definition": "A person with extreme enthusiasm or beliefs; extremely enthusiastic.",
+    "pronunciation": { "us": "fuh-NAT-ik", "uk": "fuh-NAT-ik" },
+    "examples": [
+      "He’s a history fanatic. (noun)",
+      "Their fanatic support filled the stadium. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["zealot", "devotee", "die-hard"],
+      "antonyms": ["moderate", "casual fan"],
+      "memory_tip": "Fanatic = beyond a fan.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "impact",
+    "type": "noun,verb",
+    "definition": "A strong effect or influence; to have a strong effect on.",
+    "pronunciation": { "us": "IM-pakt (noun), im-PAKT (verb)", "uk": "IM-pakt (noun), im-PAKT (verb)" },
+    "examples": [
+      "The policy had a positive impact on learning. (noun)",
+      "Lack of sleep can impact memory. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["effect", "influence", "affect (verb)"],
+      "antonyms": ["insignificance", "minimise (verb)"],
+      "memory_tip": "Impact = when change hits hard.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["impact", "impacted", "impacting"]
+    }
+  },
+  {
+    "word": "invade",
+    "type": "verb",
+    "definition": "To enter by force or without permission; to spread into and harm.",
+    "pronunciation": { "us": "in-VAYD", "uk": "in-VAYD" },
+    "examples": [
+      "The army invaded the border town.",
+      "Weeds invaded the garden beds."
+    ],
+    "extra": {
+      "synonyms": ["attack", "encroach", "overrun"],
+      "antonyms": ["withdraw", "retreat", "respect"],
+      "memory_tip": "Invade = move ‘in’ and take over.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["invade", "invaded", "invading"]
+    }
+  },
+  {
+    "word": "isolate",
+    "type": "verb,adjective",
+    "definition": "To set apart from others; kept apart.",
+    "pronunciation": { "us": "EYE-soh-layt (verb), EYE-suh-lit (adj)", "uk": "EYE-soh-layt (verb), EYE-suh-lit (adj)" },
+    "examples": [
+      "Doctors isolated the patient to stop infection. (verb)",
+      "An isolate group lived high in the mountains. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["separate", "seclude", "segregate"],
+      "antonyms": ["unite", "include", "connect"],
+      "memory_tip": "Isolate = make it ‘solo’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["isolate", "isolated", "isolating"]
+    }
+  },
+  {
+    "word": "occupy",
+    "type": "verb",
+    "definition": "To live in or use a place; to take up space or time; to take control of.",
+    "pronunciation": { "us": "OK-yoo-py", "uk": "OK-yoo-py" },
+    "examples": [
+      "They occupy a flat near the park.",
+      "Homework occupied my evening."
+    ],
+    "extra": {
+      "synonyms": ["inhabit", "engage", "take over"],
+      "antonyms": ["vacate", "free", "abandon"],
+      "memory_tip": "Occupy = make it your ‘spot’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["occupy", "occupied", "occupying"]
+    }
+  },
+  {
+    "word": "reveal",
+    "type": "verb",
+    "definition": "To make known or show something that was hidden.",
+    "pronunciation": { "us": "ri-VEEL", "uk": "ri-VEEL" },
+    "examples": [
+      "The clouds parted to reveal the moon.",
+      "The report revealed several issues."
+    ],
+    "extra": {
+      "synonyms": ["disclose", "uncover", "show"],
+      "antonyms": ["conceal", "hide", "mask"],
+      "memory_tip": "Reveal = remove the ‘veil’.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["reveal", "revealed", "revealing"]
+    }
+  },
+  {
+    "word": "rout",
+    "type": "noun,verb",
+    "definition": "A complete defeat and disorderly retreat; to defeat utterly and cause to run away.",
+    "pronunciation": { "us": "rowt", "uk": "rowt" },
+    "examples": [
+      "The match ended in a rout. (noun)",
+      "The champions routed their opponents. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["overrun", "crush", "collapse"],
+      "antonyms": ["victory (for the other side)", "rally"],
+      "memory_tip": "Rout rhymes with ‘out’: knock them out.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["rout", "routed", "routing"]
+    }
+  },
+  {
+    "word": "suspect",
+    "type": "verb,noun,adjective",
+    "definition": "To think that something may be true; a person thought to be guilty; likely but not proven.",
+    "pronunciation": { "us": "suh-SPEKT (verb), SUS-pekt (noun/adj)", "uk": "suh-SPEKT (verb), SUS-pekt (noun/adj)" },
+    "examples": [
+      "I suspect it will rain later. (verb)",
+      "The suspect was questioned by police. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["think", "doubt", "accused (noun)"],
+      "antonyms": ["trust", "prove", "exonerate"],
+      "memory_tip": "Suspect = ‘sus’ (suspicious) + expect.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["suspect", "suspected", "suspecting"]
+    }
+  },
+  {
+    "word": "temporary",
+    "type": "adjective",
+    "definition": "Lasting for a limited time only; not permanent.",
+    "pronunciation": { "us": "TEM-puh-rer-ee", "uk": "TEM-pruh-ree" },
+    "examples": [
+      "We used a temporary fix until parts arrived.",
+      "The museum has a temporary exhibit."
+    ],
+    "extra": {
+      "synonyms": ["short-term", "provisional", "brief"],
+      "antonyms": ["permanent", "lasting"],
+      "memory_tip": "Temporary = time-limited.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "terror",
+    "type": "noun",
+    "definition": "Great fear; a person or thing that causes intense fear.",
+    "pronunciation": { "us": "TER-ur", "uk": "TEH-ruh" },
+    "examples": [
+      "The sudden bang filled them with terror.",
+      "That rollercoaster is a terror!"
+    ],
+    "extra": {
+      "synonyms": ["fear", "dread", "horror"],
+      "antonyms": ["calm", "peace", "comfort"],
+      "memory_tip": "Terror = fear turned up to ten.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "tragic",
+    "type": "adjective",
+    "definition": "Very sad or involving great suffering; related to tragedy.",
+    "pronunciation": { "us": "TRAJ-ik", "uk": "TRAJ-ik" },
+    "examples": [
+      "It was a tragic accident.",
+      "The play tells a tragic tale."
+    ],
+    "extra": {
+      "synonyms": ["sad", "disastrous", "calamitous"],
+      "antonyms": ["joyful", "fortunate", "comic"],
+      "memory_tip": "Tragic = tragedy in action.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

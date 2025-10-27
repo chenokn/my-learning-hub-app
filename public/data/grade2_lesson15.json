@@ -1,0 +1,256 @@
+[
+  {
+    "word": "bakery",
+    "type": "noun",
+    "definition": "A place where bread, cakes and pastries are made or sold.",
+    "pronunciation": {
+      "uk": "/ˈbeɪkəri/"
+    },
+    "examples": [
+      "The smell of fresh bread filled the bakery.",
+      "She works at a small village bakery."
+    ],
+    "extra": {
+      "synonyms": [
+        "bakehouse",
+        "pâtisserie"
+      ],
+      "antonyms": [
+        "home kitchen (contrast)"
+      ],
+      "memory_tip": "Bakery = building full of warm, tasty loaves.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "captain",
+    "type": "noun,verb",
+    "definition": "The person in command of a ship, team or aircraft; to act as the leader of a team or crew.",
+    "pronunciation": {
+      "uk": "/ˈkæptɪn/"
+    },
+    "examples": [
+      "The ship’s captain greeted the passengers. (noun)",
+      "She will captain the hockey team this season. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "leader",
+        "skipper",
+        "command"
+      ],
+      "antonyms": [
+        "crew",
+        "follow"
+      ],
+      "memory_tip": "Captain = top boss on deck or pitch.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "captain",
+        "captained",
+        "captaining"
+      ]
+    }
+  },
+  {
+    "word": "drought",
+    "type": "noun",
+    "definition": "A long period with little or no rain, causing a shortage of water.",
+    "pronunciation": {
+      "uk": "/draʊt/"
+    },
+    "examples": [
+      "Crops failed during the severe drought.",
+      "The reservoir dried up after months of drought."
+    ],
+    "extra": {
+      "synonyms": [
+        "dry spell",
+        "aridity"
+      ],
+      "antonyms": [
+        "deluge",
+        "flood"
+      ],
+      "memory_tip": "Drought = the land’s long thirst.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "floppy",
+    "type": "adjective",
+    "definition": "Soft, flexible and hanging loosely.",
+    "pronunciation": {
+      "uk": "/ˈflɒpi/"
+    },
+    "examples": [
+      "The puppy had big floppy ears.",
+      "Wear a floppy hat to shade your face."
+    ],
+    "extra": {
+      "synonyms": [
+        "limp",
+        "droopy"
+      ],
+      "antonyms": [
+        "stiff",
+        "rigid"
+      ],
+      "memory_tip": "Floppy = bendy and loose, not firm.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "geyser",
+    "type": "noun",
+    "definition": "A natural spring that ejects hot water and steam into the air; in UK English, also a household water heater.",
+    "pronunciation": {
+      "uk": "/ˈɡiːzə/"
+    },
+    "examples": [
+      "The geyser erupted every hour.",
+      "The old bathroom still has a gas geyser."
+    ],
+    "extra": {
+      "synonyms": [
+        "hot spring",
+        "fountain"
+      ],
+      "antonyms": [
+        "cold spring"
+      ],
+      "memory_tip": "Geyser = Earth’s boiling kettle spouting skywards.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "mitten",
+    "type": "noun",
+    "definition": "A glove that covers the hand but not the separate fingers, with a separate section for the thumb.",
+    "pronunciation": {
+      "uk": "/ˈmɪtən/"
+    },
+    "examples": [
+      "She wore woollen mittens in the snow.",
+      "Baby mittens stop little hands getting cold."
+    ],
+    "extra": {
+      "synonyms": [
+        "hand-warmer",
+        "glove"
+      ],
+      "antonyms": [
+        "fingerless glove"
+      ],
+      "memory_tip": "Mitten = cosy sock for your hand.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "nectar",
+    "type": "noun",
+    "definition": "The sweet liquid produced by flowers that attracts pollinating insects; any delicious drink.",
+    "pronunciation": {
+      "uk": "/ˈnektə/"
+    },
+    "examples": [
+      "Bees collect nectar to make honey.",
+      "The juice tasted like pure nectar."
+    ],
+    "extra": {
+      "synonyms": [
+        "sweet liquid",
+        "ambrosia"
+      ],
+      "antonyms": [
+        "vinegar (contrast)"
+      ],
+      "memory_tip": "Nectar = flowers’ sugary drink for bees.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "parachute",
+    "type": "noun,verb",
+    "definition": "A device of fabric used to slow a fall from an aircraft; to descend by parachute.",
+    "pronunciation": {
+      "uk": "/ˈpærəʃuːt/"
+    },
+    "examples": [
+      "The skydiver opened his parachute. (noun)",
+      "Troops parachuted into the area. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "canopy",
+        "descend",
+        "drop"
+      ],
+      "antonyms": [
+        "rocket up"
+      ],
+      "memory_tip": "Parachute = umbrella for falling safely.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "parachute",
+        "parachuted",
+        "parachuting"
+      ]
+    }
+  },
+  {
+    "word": "tumbleweed",
+    "type": "noun",
+    "definition": "A plant that breaks free from its roots when dry and is rolled about by the wind, common in deserts.",
+    "pronunciation": {
+      "uk": "/ˈtʌmbəlwiːd/"
+    },
+    "examples": [
+      "A tumbleweed rolled across the empty road.",
+      "Desert films often show tumbleweed blowing by."
+    ],
+    "extra": {
+      "synonyms": [
+        "rolling weed"
+      ],
+      "antonyms": [
+        "rooted plant"
+      ],
+      "memory_tip": "Tumbleweed = wandering ball of dry plant.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "walnut",
+    "type": "noun",
+    "definition": "A wrinkled, edible nut with a hard shell; the tree that produces this nut.",
+    "pronunciation": {
+      "uk": "/ˈwɔːlnʌt/"
+    },
+    "examples": [
+      "She cracked a walnut with a nutcracker.",
+      "Walnut trees line the driveway."
+    ],
+    "extra": {
+      "synonyms": [
+        "nut",
+        "juglans"
+      ],
+      "antonyms": [
+        "peanut (contrast)"
+      ],
+      "memory_tip": "Walnut = brain-shaped nut inside a tough shell.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

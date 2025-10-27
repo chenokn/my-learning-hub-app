@@ -1,0 +1,304 @@
+[
+  {
+    "word": "bark",
+    "type": "noun,verb",
+    "definition": "The tough outer covering of a tree; the sharp sound made by a dog; to make such a sound.",
+    "pronunciation": {
+      "uk": "/bɑːk/"
+    },
+    "examples": [
+      "The tree's bark is rough. (noun)",
+      "Dogs bark when they sense danger. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "outer layer",
+        "woof"
+      ],
+      "antonyms": [
+        "sapwood",
+        "silence"
+      ],
+      "memory_tip": "Bark = tree coat or dog shout.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "bark",
+        "barked",
+        "barking"
+      ]
+    }
+  },
+  {
+    "word": "capture",
+    "type": "verb,noun",
+    "definition": "To catch and hold someone or something; the act of catching.",
+    "pronunciation": {
+      "uk": "/ˈkæptʃə/"
+    },
+    "examples": [
+      "The net captured the butterfly. (verb)",
+      "The capture of the thief made headlines. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "seize",
+        "catch",
+        "arrest"
+      ],
+      "antonyms": [
+        "release",
+        "free"
+      ],
+      "memory_tip": "Capture = grab and keep hold.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "capture",
+        "captured",
+        "capturing"
+      ]
+    }
+  },
+  {
+    "word": "drowsy",
+    "type": "adjective",
+    "definition": "Feeling sleepy and only partly awake.",
+    "pronunciation": {
+      "uk": "/ˈdraʊzi/"
+    },
+    "examples": [
+      "The warm room made everyone drowsy.",
+      "She felt drowsy after her meal."
+    ],
+    "extra": {
+      "synonyms": [
+        "sleepy",
+        "dozy"
+      ],
+      "antonyms": [
+        "alert",
+        "awake"
+      ],
+      "memory_tip": "Drowsy = eyes half-closed, head nodding.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "feather",
+    "type": "noun,verb",
+    "definition": "The light growth covering a bird’s body; to decorate or cover with feathers.",
+    "pronunciation": {
+      "uk": "/ˈfɛðə/"
+    },
+    "examples": [
+      "A peacock’s feather is colourful. (noun)",
+      "Costumes were feathered for the show. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "plume",
+        "quill",
+        "adorn"
+      ],
+      "antonyms": [
+        "skin",
+        "strip"
+      ],
+      "memory_tip": "Feather = bird’s hair or fancy trim.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "feather",
+        "feathered",
+        "feathering"
+      ]
+    }
+  },
+  {
+    "word": "giggle",
+    "type": "noun,verb",
+    "definition": "A light, silly laugh; to laugh in this way.",
+    "pronunciation": {
+      "uk": "/ˈɡɪɡəl/"
+    },
+    "examples": [
+      "A quiet giggle came from the back row. (noun)",
+      "They couldn't stop giggling at the joke. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "chuckle",
+        "snigger"
+      ],
+      "antonyms": [
+        "sob",
+        "yawn"
+      ],
+      "memory_tip": "Giggle = tiny bubbly laugh.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "giggle",
+        "giggled",
+        "giggling"
+      ]
+    }
+  },
+  {
+    "word": "paddle",
+    "type": "noun,verb",
+    "definition": "A short oar used to move a small boat; to move through water using hands, feet or a paddle.",
+    "pronunciation": {
+      "uk": "/ˈpadl/"
+    },
+    "examples": [
+      "She gripped the paddle tightly. (noun)",
+      "Children paddled in the shallow stream. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "oar",
+        "row",
+        "splash"
+      ],
+      "antonyms": [
+        "drift",
+        "sink"
+      ],
+      "memory_tip": "Paddle = water mover or playful splash.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "paddle",
+        "paddled",
+        "paddling"
+      ]
+    }
+  },
+  {
+    "word": "pocket",
+    "type": "noun,verb",
+    "definition": "A small pouch sewn into clothing for carrying things; to put something into a pocket or keep it.",
+    "pronunciation": {
+      "uk": "/ˈpɒkɪt/"
+    },
+    "examples": [
+      "He slipped the coin into his pocket. (noun)",
+      "She pocketed the keys quickly. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "pouch",
+        "keep",
+        "stow"
+      ],
+      "antonyms": [
+        "hand over",
+        "drop"
+      ],
+      "memory_tip": "Pocket = cloth pouch or act of taking for oneself.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "pocket",
+        "pocketed",
+        "pocketing"
+      ]
+    }
+  },
+  {
+    "word": "ripple",
+    "type": "noun,verb",
+    "definition": "A small wave or series of waves; to form small waves on the surface of water or another material.",
+    "pronunciation": {
+      "uk": "/ˈrɪpəl/"
+    },
+    "examples": [
+      "Rain made ripples on the pond. (noun)",
+      "Wind rippled the grass. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "wavelet",
+        "undulation",
+        "ruffle"
+      ],
+      "antonyms": [
+        "calm",
+        "still"
+      ],
+      "memory_tip": "Ripple = gentle wobble on a surface.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "ripple",
+        "rippled",
+        "rippling"
+      ]
+    }
+  },
+  {
+    "word": "shovel",
+    "type": "noun,verb",
+    "definition": "A tool with a broad blade and handle for lifting and moving material; to lift and move with a shovel.",
+    "pronunciation": {
+      "uk": "/ˈʃʌvəl/"
+    },
+    "examples": [
+      "He leaned on his garden shovel. (noun)",
+      "They shoveled snow from the path. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "spade",
+        "scoop",
+        "dig"
+      ],
+      "antonyms": [
+        "scatter",
+        "drop"
+      ],
+      "memory_tip": "Shovel = big scoop for earth or snow.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "shovel",
+        "shovelled",
+        "shovelling"
+      ]
+    }
+  },
+  {
+    "word": "sparkle",
+    "type": "noun,verb",
+    "definition": "A bright, twinkling light; to shine with small flashes of light.",
+    "pronunciation": {
+      "uk": "/ˈspɑːkl/"
+    },
+    "examples": [
+      "Diamonds have a brilliant sparkle. (noun)",
+      "Snow sparkled in the sunlight. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "glitter",
+        "gleam",
+        "twinkle"
+      ],
+      "antonyms": [
+        "dullness",
+        "fade"
+      ],
+      "memory_tip": "Sparkle = tiny flashes of light or lively shine.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "sparkle",
+        "sparkled",
+        "sparkling"
+      ]
+    }
+  }
+]

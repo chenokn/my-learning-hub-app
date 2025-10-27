@@ -1,0 +1,307 @@
+[
+  {
+    "word": "level",
+    "type": "adj.,noun,verb",
+    "definition": "Perfectly flat or even; a flat position or height; to make something flat or even.",
+    "pronunciation": {
+      "us": "/ˈlɛvəl/",
+      "uk": "/ˈlɛvəl/"
+    },
+    "examples": [
+      "Make sure the table is level. (adjective)",
+      "Water found its own level in the cup. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "flat",
+        "even",
+        "grade"
+      ],
+      "antonyms": [
+        "uneven",
+        "tilted"
+      ],
+      "memory_tip": "Level = no side is higher.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "level",
+        "leveled",
+        "leveling"
+      ]
+    }
+  },
+  {
+    "word": "funnel",
+    "type": "noun,verb",
+    "definition": "A cone-shaped tool for pouring into small openings; to guide something into a small space.",
+    "pronunciation": {
+      "us": "/ˈfʌnəl/",
+      "uk": "/ˈfʌnəl/"
+    },
+    "examples": [
+      "Use a funnel to pour the juice. (noun)",
+      "Rainwater was funneled into a barrel. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "spout",
+        "channel",
+        "guide"
+      ],
+      "antonyms": [
+        "spill",
+        "scatter"
+      ],
+      "memory_tip": "Funnel = helper cone for pouring.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "funnel",
+        "funneled",
+        "funneling"
+      ]
+    }
+  },
+  {
+    "word": "lean",
+    "type": "verb,adjective",
+    "definition": "To rest against something at an angle; thin with little fat.",
+    "pronunciation": {
+      "us": "/liːn/",
+      "uk": "/liːn/"
+    },
+    "examples": [
+      "Lean the ladder against the wall. (verb)",
+      "He likes lean meat. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "tilt",
+        "rest",
+        "slim"
+      ],
+      "antonyms": [
+        "stand",
+        "fat"
+      ],
+      "memory_tip": "Lean = tilt OR skinny.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "lean",
+        "leaned",
+        "leaning"
+      ]
+    }
+  },
+  {
+    "word": "object",
+    "type": "noun,verb",
+    "definition": "A thing you can see or touch; to disagree or say no.",
+    "pronunciation": {
+      "us": "/ˈɑbdʒɛkt/ (noun), /əbˈdʒɛkt/ (verb)",
+      "uk": "/ˈɒbdʒɛkt/ (noun), /əbˈdʒɛkt/ (verb)"
+    },
+    "examples": [
+      "A ball is a round object. (noun)",
+      "I object to that idea. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "thing",
+        "item",
+        "oppose"
+      ],
+      "antonyms": [
+        "idea",
+        "accept"
+      ],
+      "memory_tip": "Object = thing OR disagree.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "object",
+        "objected",
+        "objecting"
+      ]
+    }
+  },
+  {
+    "word": "reflect",
+    "type": "verb",
+    "definition": "To bounce light, sound, or an image back; to think carefully.",
+    "pronunciation": {
+      "us": "/rɪˈflɛkt/",
+      "uk": "/rɪˈflɛkt/"
+    },
+    "examples": [
+      "The mirror reflects your face.",
+      "Take time to reflect on your work."
+    ],
+    "extra": {
+      "synonyms": [
+        "bounce back",
+        "mirror",
+        "ponder"
+      ],
+      "antonyms": [
+        "absorb",
+        "ignore"
+      ],
+      "memory_tip": "Reflect = mirror or think back.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "reflect",
+        "reflected",
+        "reflecting"
+      ]
+    }
+  },
+  {
+    "word": "fair",
+    "type": "adj.,noun",
+    "definition": "Treating everyone the same; light in color; an event with rides and games.",
+    "pronunciation": {
+      "us": "/fɛr/",
+      "uk": "/feə/"
+    },
+    "examples": [
+      "It’s fair to share the candy. (adjective)",
+      "We went to the county fair. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "just",
+        "light",
+        "carnival"
+      ],
+      "antonyms": [
+        "unfair",
+        "dark"
+      ],
+      "memory_tip": "Fair = equal OR fun event.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "splendid",
+    "type": "adjective",
+    "definition": "Very beautiful or excellent.",
+    "pronunciation": {
+      "us": "/ˈsplɛndɪd/",
+      "uk": "/ˈsplɛndɪd/"
+    },
+    "examples": [
+      "What a splendid idea!",
+      "We saw a splendid sunset."
+    ],
+    "extra": {
+      "synonyms": [
+        "magnificent",
+        "wonderful",
+        "brilliant"
+      ],
+      "antonyms": [
+        "awful",
+        "dull"
+      ],
+      "memory_tip": "Splendid = super great!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "stake",
+    "type": "noun,verb",
+    "definition": "A stick driven into the ground; to mark or support with a stake.",
+    "pronunciation": {
+      "us": "/steɪk/",
+      "uk": "/steɪk/"
+    },
+    "examples": [
+      "Tie the plant to a stake. (noun)",
+      "We staked the tent ropes. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "post",
+        "peg",
+        "support"
+      ],
+      "antonyms": [
+        "loose",
+        "unfasten"
+      ],
+      "memory_tip": "Stake = strong stick helper.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "stake",
+        "staked",
+        "staking"
+      ]
+    }
+  },
+  {
+    "word": "remain",
+    "type": "verb",
+    "definition": "To stay in the same place or condition.",
+    "pronunciation": {
+      "us": "/rɪˈmeɪn/",
+      "uk": "/rɪˈmeɪn/"
+    },
+    "examples": [
+      "Please remain seated.",
+      "Only two cookies remain."
+    ],
+    "extra": {
+      "synonyms": [
+        "stay",
+        "continue",
+        "persist"
+      ],
+      "antonyms": [
+        "leave",
+        "change"
+      ],
+      "memory_tip": "Remain = keep being there.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "remain",
+        "remained",
+        "remaining"
+      ]
+    }
+  },
+  {
+    "word": "rapid",
+    "type": "adjective",
+    "definition": "Very quick or fast.",
+    "pronunciation": {
+      "us": "/ˈræpɪd/",
+      "uk": "/ˈræpɪd/"
+    },
+    "examples": [
+      "There was rapid growth in spring.",
+      "A rapid river flows fast."
+    ],
+    "extra": {
+      "synonyms": [
+        "fast",
+        "swift",
+        "speedy"
+      ],
+      "antonyms": [
+        "slow",
+        "gradual"
+      ],
+      "memory_tip": "Rapid = super quick.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

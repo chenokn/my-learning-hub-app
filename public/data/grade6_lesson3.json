@@ -1,0 +1,259 @@
+[
+  {
+    "word": "abundant",
+    "type": "adjective",
+    "definition": "More than enough; plentiful.",
+    "pronunciation": { "us": "uh-BUN-dunt", "uk": "uh-BUN-dunt" },
+    "examples": [
+      "This year the orchard had an abundant apple crop.",
+      "Clean water is not abundant in arid regions."
+    ],
+    "extra": {
+      "synonyms": ["plentiful", "ample", "bountiful"],
+      "antonyms": ["scarce", "sparse", "limited"],
+      "memory_tip": "Abundant = a bundle of it!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "arid",
+    "type": "adjective",
+    "definition": "Very dry with little or no rain; too dry for most plants to grow.",
+    "pronunciation": { "us": "AIR-id", "uk": "AIR-id" },
+    "examples": [
+      "Cacti grow well in arid climates.",
+      "The soil was too arid for crops."
+    ],
+    "extra": {
+      "synonyms": ["dry", "parched", "desertlike"],
+      "antonyms": ["humid", "moist", "lush"],
+      "memory_tip": "Arid = ‘air’ is all you get—no water.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "distinct",
+    "type": "adjective",
+    "definition": "Clearly different; easy to see, hear, or understand.",
+    "pronunciation": { "us": "dih-STINKT", "uk": "dih-STINKT" },
+    "examples": [
+      "There is a distinct smell of rain.",
+      "Those two species are distinct."
+    ],
+    "extra": {
+      "synonyms": ["clear", "separate", "different"],
+      "antonyms": ["vague", "similar", "blurred"],
+      "memory_tip": "Distinct = ‘distinctly’ different.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "graze",
+    "type": "verb,noun",
+    "definition": "To feed on grass; to scrape the skin and cause a slight injury.",
+    "pronunciation": { "us": "grayz", "uk": "grayz" },
+    "examples": [
+      "Sheep graze on the hillside. (verb)",
+      "He fell and got a small graze on his knee. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["feed", "pasture", "scrape (injury)"],
+      "antonyms": ["fast", "heal (contrast)"],
+      "memory_tip": "Graze = grass for animals; graze = a grazing scratch.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["graze", "grazed", "grazing"]
+    }
+  },
+  {
+    "word": "hectic",
+    "type": "adjective",
+    "definition": "Very busy and full of activity; rushed.",
+    "pronunciation": { "us": "HEK-tik", "uk": "HEK-tik" },
+    "examples": [
+      "Mondays can be hectic in the office.",
+      "It was a hectic week before the exams."
+    ],
+    "extra": {
+      "synonyms": ["busy", "frantic", "chaotic"],
+      "antonyms": ["calm", "quiet", "peaceful"],
+      "memory_tip": "Hectic = a heck of a lot to do!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "horde",
+    "type": "noun",
+    "definition": "A large crowd or group, often moving together.",
+    "pronunciation": { "us": "hord", "uk": "hawd" },
+    "examples": [
+      "A horde of tourists arrived at noon.",
+      "Locust hordes can destroy crops quickly."
+    ],
+    "extra": {
+      "synonyms": ["crowd", "throng", "swarm"],
+      "antonyms": ["handful", "few", "trickle"],
+      "memory_tip": "Horde = more than a horde-inary crowd.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "humid",
+    "type": "adjective",
+    "definition": "Warm and damp; having a lot of moisture in the air.",
+    "pronunciation": { "us": "HYOO-mid", "uk": "HYOO-mid" },
+    "examples": [
+      "It felt hot and humid after the storm.",
+      "Tropical forests are humid environments."
+    ],
+    "extra": {
+      "synonyms": ["moist", "muggy", "damp"],
+      "antonyms": ["dry", "arid", "parched"],
+      "memory_tip": "Humid = heavy, humid air hugs you.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "incredible",
+    "type": "adjective",
+    "definition": "Very hard to believe; amazing.",
+    "pronunciation": { "us": "in-KRED-uh-bul", "uk": "in-KRED-uh-buhl" },
+    "examples": [
+      "The view from the peak was incredible.",
+      "She told an incredible story of survival."
+    ],
+    "extra": {
+      "synonyms": ["amazing", "astonishing", "unbelievable"],
+      "antonyms": ["ordinary", "believable", "mundane"],
+      "memory_tip": "Incredible = ‘in-credible’ (beyond belief).",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "inhabit",
+    "type": "verb",
+    "definition": "To live in a place.",
+    "pronunciation": { "us": "in-HAB-it", "uk": "in-HAB-it" },
+    "examples": [
+      "Penguins inhabit cold coastal regions.",
+      "Few people inhabit the high desert."
+    ],
+    "extra": {
+      "synonyms": ["live in", "occupy", "reside in"],
+      "antonyms": ["vacate", "leave", "desert"],
+      "memory_tip": "Inhabit = have it ‘in’ as your habitat.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["inhabit", "inhabited", "inhabiting"]
+    }
+  },
+  {
+    "word": "peninsula",
+    "type": "noun",
+    "definition": "A piece of land almost surrounded by water or sticking out into water.",
+    "pronunciation": { "us": "puh-NIN-suh-luh", "uk": "puh-NIN-syuh-luh" },
+    "examples": [
+      "The peninsula shelters the harbour.",
+      "Spain and Portugal share the Iberian Peninsula."
+    ],
+    "extra": {
+      "synonyms": ["headland", "promontory", "cape"],
+      "antonyms": ["island (contrast)", "inland (contrast)"],
+      "memory_tip": "Peninsula = ‘pen’ of land in the sea.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "rural",
+    "type": "adjective",
+    "definition": "Relating to the countryside rather than the town or city.",
+    "pronunciation": { "us": "ROOR-uhl", "uk": "ROO-rul" },
+    "examples": [
+      "Rural roads are narrow and quiet.",
+      "She prefers rural life to city living."
+    ],
+    "extra": {
+      "synonyms": ["countryside", "rustic", "agrarian"],
+      "antonyms": ["urban", "metropolitan", "city"],
+      "memory_tip": "Rural = fields, farms, and fresh air.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "sanctuary",
+    "type": "noun",
+    "definition": "A safe place; a protected area for wildlife; a holy place.",
+    "pronunciation": { "us": "SANK-choo-air-ee", "uk": "SANK-choo-uh-ree" },
+    "examples": [
+      "The reserve is a sanctuary for rare birds.",
+      "She found sanctuary in her grandmother’s home."
+    ],
+    "extra": {
+      "synonyms": ["refuge", "haven", "shelter"],
+      "antonyms": ["danger", "peril", "exposure"],
+      "memory_tip": "Sanctuary = safe and sacred space.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "splendour",
+    "type": "noun",
+    "definition": "Great beauty or impressive richness.",
+    "pronunciation": { "us": "SPLEN-der", "uk": "SPLEN-duh" },
+    "examples": [
+      "The palace shone in all its splendour.",
+      "Autumn forests are a display of natural splendour."
+    ],
+    "extra": {
+      "synonyms": ["glory", "magnificence", "grandeur"],
+      "antonyms": ["ugliness", "dullness", "plainness"],
+      "memory_tip": "Splendour = splendid power of beauty.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "squalor",
+    "type": "noun",
+    "definition": "Very dirty and unpleasant conditions, often due to poverty or neglect.",
+    "pronunciation": { "us": "SKWAH-ler", "uk": "SKWOL-uh" },
+    "examples": [
+      "They escaped the squalor of the slums.",
+      "The house fell into squalor after years of neglect."
+    ],
+    "extra": {
+      "synonyms": ["filth", "misery", "grime"],
+      "antonyms": ["cleanliness", "comfort", "luxury"],
+      "memory_tip": "Squalor = squalid + horror.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "terrain",
+    "type": "noun",
+    "definition": "The features of a stretch of land, especially its surface and type.",
+    "pronunciation": { "us": "tuh-RAYN", "uk": "tuh-RAYN" },
+    "examples": [
+      "Hikers studied the rocky terrain.",
+      "The race crosses varied terrain, from sand to forest."
+    ],
+    "extra": {
+      "synonyms": ["land", "ground", "topography"],
+      "antonyms": ["sea", "water", "ocean"],
+      "memory_tip": "Terrain = the ‘terrain’ you must traverse.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

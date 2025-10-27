@@ -1,0 +1,266 @@
+[
+  {
+    "word": "abbreviate",
+    "type": "verb",
+    "definition": "To make a word, phrase, or text shorter.",
+    "pronunciation": { "us": "uh-BREE-vee-ate", "uk": "uh-BREE-vee-ate" },
+    "examples": [
+      "We abbreviate ‘Professor’ to ‘Prof.’",
+      "The note was abbreviated to save space."
+    ],
+    "extra": {
+      "synonyms": ["shorten", "condense", "truncate"],
+      "antonyms": ["expand", "lengthen", "elaborate"],
+      "memory_tip": "Abbreviate = make it brief.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["abbreviate", "abbreviated", "abbreviating"]
+    }
+  },
+  {
+    "word": "appropriate",
+    "type": "adjective,verb",
+    "definition": "Suitable or right for a situation (adj); to take or use something, often without permission, or to set aside for a purpose (verb).",
+    "pronunciation": { "us": "uh-PROH-pree-it (adj), uh-PROH-pree-ate (verb)", "uk": "uh-PROH-pree-it (adj), uh-PROH-pree-ate (verb)" },
+    "examples": [
+      "A warm coat is appropriate for winter. (adjective)",
+      "The funds were appropriated for school repairs. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["suitable", "proper", "allocate (verb)"],
+      "antonyms": ["inappropriate", "unsuitable", "misuse (verb)"],
+      "memory_tip": "Appropriate = a proper fit; or ‘a portion’ set aside.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["appropriate (verb)", "appropriated", "appropriating"]
+    }
+  },
+  {
+    "word": "exclude",
+    "type": "verb",
+    "definition": "To leave out or prevent someone or something from taking part.",
+    "pronunciation": { "us": "eks-KLOOD", "uk": "eks-KLOOD" },
+    "examples": [
+      "The list excludes weekend dates.",
+      "No one should be excluded from the game."
+    ],
+    "extra": {
+      "synonyms": ["omit", "bar", "shut out"],
+      "antonyms": ["include", "admit", "welcome"],
+      "memory_tip": "Exclude = close the door to.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["exclude", "excluded", "excluding"]
+    }
+  },
+  {
+    "word": "fanciful",
+    "type": "adjective",
+    "definition": "Over-imaginative and unrealistic; whimsical.",
+    "pronunciation": { "us": "FAN-si-ful", "uk": "FAN-si-ful" },
+    "examples": [
+      "The story had many fanciful creatures.",
+      "That’s a fanciful plan, not a practical one."
+    ],
+    "extra": {
+      "synonyms": ["imaginative", "whimsical", "fantastical"],
+      "antonyms": ["realistic", "practical", "sensible"],
+      "memory_tip": "Fanciful = full of fancy.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "futile",
+    "type": "adjective",
+    "definition": "Certain to fail; having no useful result.",
+    "pronunciation": { "us": "FYOO-tyl", "uk": "FYOO-tyl" },
+    "examples": [
+      "Arguing was futile once the vote was taken.",
+      "It’s futile to water plastic plants."
+    ],
+    "extra": {
+      "synonyms": ["pointless", "vain", "ineffective"],
+      "antonyms": ["effective", "useful", "productive"],
+      "memory_tip": "Futile = few (no) results.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "grudge",
+    "type": "noun,verb",
+    "definition": "A lasting feeling of anger or dislike; to feel resentful about something.",
+    "pronunciation": { "us": "gruj", "uk": "gruj" },
+    "examples": [
+      "He held a grudge after the disagreement. (noun)",
+      "Don’t grudge others their success. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["resentment", "bitterness", "resent (verb)"],
+      "antonyms": ["forgiveness", "goodwill", "pardon"],
+      "memory_tip": "Grudge = grudgy grumble that stays.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["grudge (verb)", "grudged", "grudging"]
+    }
+  },
+  {
+    "word": "inspire",
+    "type": "verb",
+    "definition": "To fill someone with the urge or ability to do or feel something; to breathe in (formal/poetic).",
+    "pronunciation": { "us": "in-SPY-ur", "uk": "in-SPIE-uh" },
+    "examples": [
+      "Her courage inspired the whole class.",
+      "Great books inspire new ideas."
+    ],
+    "extra": {
+      "synonyms": ["motivate", "encourage", "stir"],
+      "antonyms": ["discourage", "deter", "depress"],
+      "memory_tip": "Inspire = put spirit in.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["inspire", "inspired", "inspiring"]
+    }
+  },
+  {
+    "word": "majority",
+    "type": "noun",
+    "definition": "The greater number or part; more than half.",
+    "pronunciation": { "us": "muh-JOR-ih-tee", "uk": "muh-JOR-uh-tee" },
+    "examples": [
+      "The majority voted in favour.",
+      "A majority of pupils chose drama."
+    ],
+    "extra": {
+      "synonyms": ["most", "bulk", "greater part"],
+      "antonyms": ["minority", "few", "lesser part"],
+      "memory_tip": "Majority = the major share.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "persevere",
+    "type": "verb",
+    "definition": "To keep trying despite difficulty or delay in achieving success.",
+    "pronunciation": { "us": "per-suh-VEER", "uk": "per-suh-VEER" },
+    "examples": [
+      "She persevered with the puzzle until it was done.",
+      "Writers must persevere through early drafts."
+    ],
+    "extra": {
+      "synonyms": ["persist", "endure", "press on"],
+      "antonyms": ["quit", "give up", "abandon"],
+      "memory_tip": "Persevere = persevere through the ‘verses’ of effort.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["persevere", "persevered", "persevering"]
+    }
+  },
+  {
+    "word": "possess",
+    "type": "verb",
+    "definition": "To have or own something; to have a particular quality or ability.",
+    "pronunciation": { "us": "puh-ZESS", "uk": "puh-ZESS" },
+    "examples": [
+      "They possess several rare books.",
+      "She possesses great patience."
+    ],
+    "extra": {
+      "synonyms": ["own", "hold", "have"],
+      "antonyms": ["lack", "surrender", "relinquish"],
+      "memory_tip": "Possess = have in your possession.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["possess", "possessed", "possessing"]
+    }
+  },
+  {
+    "word": "prejudice",
+    "type": "noun,verb",
+    "definition": "An unfair opinion not based on reason or experience; to cause someone to have an unfair opinion.",
+    "pronunciation": { "us": "PREJ-uh-dis", "uk": "PREJ-uh-dis" },
+    "examples": [
+      "We must challenge prejudice wherever we see it. (noun)",
+      "The article prejudiced readers against the team. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["bias", "preconception", "bias (verb)"],
+      "antonyms": ["fairness", "impartiality", "open-mindedness"],
+      "memory_tip": "Prejudice = pre-judge before you know.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["prejudice (verb)", "prejudiced", "prejudicing"]
+    }
+  },
+  {
+    "word": "resolute",
+    "type": "adjective",
+    "definition": "Determined and unwavering.",
+    "pronunciation": { "us": "REZ-uh-loot", "uk": "REZ-uh-loot" },
+    "examples": [
+      "She stayed resolute throughout the challenge.",
+      "Their resolute stance impressed the judges."
+    ],
+    "extra": {
+      "synonyms": ["determined", "steadfast", "firm"],
+      "antonyms": ["wavering", "hesitant", "indecisive"],
+      "memory_tip": "Resolute = results through resolution.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "sneer",
+    "type": "verb,noun",
+    "definition": "To smile or speak in a contemptuous way; a mocking expression or remark.",
+    "pronunciation": { "us": "sneer", "uk": "sneer" },
+    "examples": [
+      "He sneered at the suggestion. (verb)",
+      "A sneer crossed his face. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["mock", "jeer", "scorn"],
+      "antonyms": ["praise", "commend", "applaud"],
+      "memory_tip": "Sneer = a sneaky jeer on the face.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["sneer", "sneered", "sneering"]
+    }
+  },
+  {
+    "word": "unanimous",
+    "type": "adjective",
+    "definition": "Fully in agreement; with everyone of the same opinion.",
+    "pronunciation": { "us": "yoo-NAN-uh-muss", "uk": "yoo-NAN-uh-muss" },
+    "examples": [
+      "The decision was unanimous.",
+      "The judges were unanimous in their praise."
+    ],
+    "extra": {
+      "synonyms": ["agreed", "of one mind", "consensual"],
+      "antonyms": ["divided", "split", "disputed"],
+      "memory_tip": "Unanimous = uni (one) + animus (mind).",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "unruly",
+    "type": "adjective",
+    "definition": "Difficult to control or discipline; disorderly.",
+    "pronunciation": { "us": "un-ROO-lee", "uk": "un-ROO-lee" },
+    "examples": [
+      "The crowd grew unruly after the delay.",
+      "Unruly hair refused to stay flat."
+    ],
+    "extra": {
+      "synonyms": ["disorderly", "wild", "rowdy"],
+      "antonyms": ["well-behaved", "obedient", "orderly"],
+      "memory_tip": "Unruly = doesn’t follow the rules.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

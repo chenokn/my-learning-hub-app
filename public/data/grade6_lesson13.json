@@ -1,0 +1,265 @@
+[
+  {
+    "word": "adapt",
+    "type": "verb",
+    "definition": "To change something so it works well in new conditions; to adjust.",
+    "pronunciation": { "us": "uh-DAPT", "uk": "uh-DAPT" },
+    "examples": [
+      "Animals adapt to the seasons.",
+      "We adapted the plan after the survey."
+    ],
+    "extra": {
+      "synonyms": ["adjust", "modify", "acclimatise"],
+      "antonyms": ["resist", "reject", "stagnate"],
+      "memory_tip": "Adapt = add aptness for a new situation.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["adapt", "adapted", "adapting"]
+    }
+  },
+  {
+    "word": "deplete",
+    "type": "verb",
+    "definition": "To use up the supply of something.",
+    "pronunciation": { "us": "dih-PLEET", "uk": "dih-PLEET" },
+    "examples": [
+      "Long droughts deplete reservoirs.",
+      "Late-night study depleted my energy."
+    ],
+    "extra": {
+      "synonyms": ["exhaust", "drain", "consume"],
+      "antonyms": ["replenish", "refill", "restore"],
+      "memory_tip": "Deplete = down to ‘plenty’ no more.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["deplete", "depleted", "depleting"]
+    }
+  },
+  {
+    "word": "efficient",
+    "type": "adjective",
+    "definition": "Working well without wasting time, effort, or resources.",
+    "pronunciation": { "us": "ih-FISH-unt", "uk": "ih-FISH-uhnt" },
+    "examples": [
+      "LED bulbs are efficient and long-lasting.",
+      "She runs an efficient classroom."
+    ],
+    "extra": {
+      "synonyms": ["effective", "economical", "streamlined"],
+      "antonyms": ["inefficient", "wasteful", "clumsy"],
+      "memory_tip": "Efficient = effective with less effort.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "fatigue",
+    "type": "noun,verb",
+    "definition": "Great tiredness; to make very tired.",
+    "pronunciation": { "us": "fuh-TEEG", "uk": "fuh-TEEG" },
+    "examples": [
+      "After the marathon, fatigue hit everyone. (noun)",
+      "Heat can fatigue metal over time. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["tiredness", "exhaustion", "weariness"],
+      "antonyms": ["energy", "vigour", "freshness"],
+      "memory_tip": "Fatigue = you feel ‘beat’ from head to feet.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["fatigue", "fatigued", "fatiguing"]
+    }
+  },
+  {
+    "word": "gait",
+    "type": "noun",
+    "definition": "A person’s or animal’s way of walking or running.",
+    "pronunciation": { "us": "gate", "uk": "gate" },
+    "examples": [
+      "Her quick gait matched her mood.",
+      "Horses have different gaits like trot and canter."
+    ],
+    "extra": {
+      "synonyms": ["stride", "pace", "step"],
+      "antonyms": ["stillness (contrast)", "halt (contrast)"],
+      "memory_tip": "Gait = how your legs ‘gate’ you forward.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "glare",
+    "type": "noun,verb",
+    "definition": "A very bright, harsh light; to shine blindingly or to stare angrily.",
+    "pronunciation": { "us": "glair", "uk": "glair" },
+    "examples": [
+      "Close the curtains to cut the glare. (noun)",
+      "He glared at the noisy crowd. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["dazzle", "blaze", "scowl (verb)"],
+      "antonyms": ["dimness", "shade", "smile (contrast)"],
+      "memory_tip": "Glare = gl-are: light or look that’s hard to bear.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["glare", "glared", "glaring"]
+    }
+  },
+  {
+    "word": "habitat",
+    "type": "noun",
+    "definition": "The natural home or environment of a plant or animal.",
+    "pronunciation": { "us": "HAB-ih-tat", "uk": "HAB-ih-tat" },
+    "examples": [
+      "Wetlands are a habitat for many birds.",
+      "Protecting habitat helps endangered species."
+    ],
+    "extra": {
+      "synonyms": ["environment", "home", "ecosystem"],
+      "antonyms": ["captivity (contrast)", "wasteland (contrast)"],
+      "memory_tip": "Habitat = where it’s ‘habitual’ to live.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "oblivious",
+    "type": "adjective",
+    "definition": "Not aware of or not concerned about what is happening around you.",
+    "pronunciation": { "us": "uh-BLIV-ee-us", "uk": "uh-BLIV-ee-us" },
+    "examples": [
+      "He walked on, oblivious to the rain.",
+      "She was oblivious to the whispers."
+    ],
+    "extra": {
+      "synonyms": ["unaware", "heedless", "insensible"],
+      "antonyms": ["aware", "mindful", "alert"],
+      "memory_tip": "Oblivious = obvious things can be invisible to you.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "outmoded",
+    "type": "adjective",
+    "definition": "No longer fashionable or useful; old-fashioned.",
+    "pronunciation": { "us": "owt-MOH-did", "uk": "owt-MOH-did" },
+    "examples": [
+      "They replaced outmoded equipment.",
+      "That view is outmoded today."
+    ],
+    "extra": {
+      "synonyms": ["obsolete", "dated", "old-fashioned"],
+      "antonyms": ["modern", "current", "up-to-date"],
+      "memory_tip": "Outmoded = out of modern mode.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "prominent",
+    "type": "adjective",
+    "definition": "Important and well-known; standing out so as to be easily seen.",
+    "pronunciation": { "us": "PROM-ih-nent", "uk": "PROM-ih-nunt" },
+    "examples": [
+      "She is a prominent scientist.",
+      "The castle stands in a prominent position."
+    ],
+    "extra": {
+      "synonyms": ["notable", "leading", "conspicuous"],
+      "antonyms": ["obscure", "minor", "hidden"],
+      "memory_tip": "Prominent = projects out from the rest.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "quench",
+    "type": "verb",
+    "definition": "To satisfy thirst; to put out a fire or light.",
+    "pronunciation": { "us": "kwench", "uk": "kwench" },
+    "examples": [
+      "Water will quench your thirst.",
+      "Firefighters quenched the blaze."
+    ],
+    "extra": {
+      "synonyms": ["satisfy", "extinguish", "douse"],
+      "antonyms": ["ignite", "kindle", "arouse"],
+      "memory_tip": "Quench = quick end to thirst or flames.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["quench", "quenched", "quenching"]
+    }
+  },
+  {
+    "word": "rigour",
+    "type": "noun",
+    "definition": "Great strictness, accuracy, or difficulty; harsh and demanding conditions.",
+    "pronunciation": { "us": "RIG-er", "uk": "RIG-uh" },
+    "examples": [
+      "The experiment was designed with rigour.",
+      "They survived the rigours of winter."
+    ],
+    "extra": {
+      "synonyms": ["severity", "precision", "stringency"],
+      "antonyms": ["leniency", "laxity", "ease"],
+      "memory_tip": "Rigour = rigid care in doing things right.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "sear",
+    "type": "verb",
+    "definition": "To burn or char the surface of something; to cause sudden, intense pain.",
+    "pronunciation": { "us": "seer", "uk": "seer" },
+    "examples": [
+      "Sear the steak for a minute on each side.",
+      "Hot sand seared his feet."
+    ],
+    "extra": {
+      "synonyms": ["scorch", "sear", "sing(e)"],
+      "antonyms": ["soak", "cool", "dampen"],
+      "memory_tip": "Sear = sear the surface, seal the juices.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["sear", "seared", "searing"]
+    }
+  },
+  {
+    "word": "transport",
+    "type": "noun,verb",
+    "definition": "The movement of people or goods; to carry from one place to another.",
+    "pronunciation": { "us": "TRAN-sport (noun), trans-PORT (verb)", "uk": "TRAN-sport (noun), trans-PORT (verb)" },
+    "examples": [
+      "Public transport reduces traffic. (noun)",
+      "Lorries transport goods overnight. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["conveyance", "carriage", "carry (verb)"],
+      "antonyms": ["immobility (contrast)", "retain (verb)"],
+      "memory_tip": "Transport = ‘port’ across to another place.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["transport", "transported", "transporting"]
+    }
+  },
+  {
+    "word": "wend",
+    "type": "verb",
+    "definition": "To go or travel in a slow or indirect way.",
+    "pronunciation": { "us": "wend", "uk": "wend" },
+    "examples": [
+      "We wended our way through the market.",
+      "After tea, they wended home at dusk."
+    ],
+    "extra": {
+      "synonyms": ["meander", "make one’s way", "wind"],
+      "antonyms": ["rush", "dash", "bolt"],
+      "memory_tip": "Wend = wind your way along.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["wend", "wended", "wending"]
+    }
+  }
+]

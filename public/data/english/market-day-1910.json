@@ -1,0 +1,420 @@
+{
+  "title": "Market Day 1910",
+  "grade": "Year 1",
+  "uk_spelling": true,
+  "font_size": 30,
+  "theme": "Historical",
+  "vocabulary": [
+    "market",
+    "stall",
+    "penny",
+    "horse",
+    "cart",
+    "cobblestone",
+    "lantern",
+    "baker",
+    "apron",
+    "scale"
+  ],
+  "images": [
+    "/stem-hub/language/market1910.1.png",
+    "/stem-hub/language/market1910.2.png",
+    "/stem-hub/language/market1910.3.png",
+    "/stem-hub/language/market1910.4.png"
+  ],
+  "passage": [
+    "It is market day long ago—in 1910. Gran takes Eli and Noor to town. The street is made of grey cobblestones. |A horse pulls a wooden cart past the square.",
+    "Stalls line the market. A baker in a white apron smiles. |“Fresh bread!” he says. Gran pays two pennies, and the baker wraps a loaf in paper.",
+    "Eli sees brass scales on the fruit stall. The seller weighs apples on the scale—one, two, three—and tips them into a basket. |“Fair and even,” says Noor.",
+    "Lanterns hang on hooks above the stalls. People chat and swap news. |They walk home over the cobblestones, bread warm in the bag. “Market day is busy and fun!”"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "When does the story take place?",
+      "answer": "In 1910 (long ago)",
+      "options": [
+        "In 1910 (long ago)",
+        "Today",
+        "The year 3010",
+        "Last night at midnight"
+      ],
+      "keys": [
+        "1910",
+        "historical"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What are the streets made of?",
+      "answer": "Cobblestones",
+      "options": [
+        "Cobblestones",
+        "Sand",
+        "Snow",
+        "Carpet"
+      ],
+      "keys": [
+        "cobblestone"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What pulls the wooden cart?",
+      "answer": "A horse",
+      "options": [
+        "A horse",
+        "A robot",
+        "A bicycle",
+        "A tractor"
+      ],
+      "keys": [
+        "horse",
+        "cart"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Who sells the bread?",
+      "answer": "The baker",
+      "options": [
+        "The baker",
+        "The farmer",
+        "The teacher",
+        "The postman"
+      ],
+      "keys": [
+        "baker"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does the baker wear?",
+      "answer": "A white apron",
+      "options": [
+        "A white apron",
+        "A shiny helmet",
+        "A wool scarf",
+        "A crown"
+      ],
+      "keys": [
+        "apron"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What coins does Gran use to pay?",
+      "answer": "Pennies",
+      "options": [
+        "Pennies",
+        "Dollars",
+        "Buttons",
+        "Shells"
+      ],
+      "keys": [
+        "penny"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What tool is used to weigh apples?",
+      "answer": "A scale",
+      "options": [
+        "A scale",
+        "A clock",
+        "A ruler",
+        "A spoon"
+      ],
+      "keys": [
+        "scale"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Where are the apples being weighed?",
+      "answer": "On the fruit stall",
+      "options": [
+        "On the fruit stall",
+        "Under the cart",
+        "In the school",
+        "By the river"
+      ],
+      "keys": [
+        "stall"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What hangs above the stalls to give light?",
+      "answer": "Lanterns",
+      "options": [
+        "Lanterns",
+        "Televisions",
+        "Fairy wings",
+        "Fireworks"
+      ],
+      "keys": [
+        "lantern"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How do Eli and Noor feel about market day at the end?",
+      "answer": "It is busy and fun",
+      "options": [
+        "It is busy and fun",
+        "It is boring",
+        "It is scary",
+        "It is too quiet"
+      ],
+      "keys": [
+        "market",
+        "fun"
+      ]
+    }
+  ],
+  "vocabulary_details": [
+    {
+      "word": "market",
+      "type": "noun",
+      "definition": "A place where people sell and buy food and goods.",
+      "pronunciation": {
+        "us": "ˈmɑːr.kɪt",
+        "uk": "ˈmɑː.kɪt"
+      },
+      "examples": [
+        "They walk to the market square.",
+        "Stalls line the market."
+      ],
+      "extra": {
+        "synonyms": [
+          "fair",
+          "bazaar"
+        ],
+        "antonyms": [
+          "home (contrast)"
+        ],
+        "memory_tip": "Market = many stalls together.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "stall",
+      "type": "noun",
+      "definition": "A small table or stand where things are sold.",
+      "pronunciation": {
+        "us": "stɔːl",
+        "uk": "stɔːl"
+      },
+      "examples": [
+        "The fruit stall has apples.",
+        "We stop at the bread stall."
+      ],
+      "extra": {
+        "synonyms": [
+          "stand",
+          "booth"
+        ],
+        "antonyms": [
+          "aisle (contrast)"
+        ],
+        "memory_tip": "Stall = seller’s table.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "penny",
+      "type": "noun",
+      "definition": "An old coin of small value used to pay for things.",
+      "pronunciation": {
+        "us": "ˈpɛn.i",
+        "uk": "ˈpen.i"
+      },
+      "examples": [
+        "Gran pays two pennies.",
+        "Save your pennies in a jar."
+      ],
+      "extra": {
+        "synonyms": [
+          "coin"
+        ],
+        "antonyms": [
+          "note (contrast)"
+        ],
+        "memory_tip": "Penny = tiny coin.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "horse",
+      "type": "noun",
+      "definition": "A large animal that people can ride or use to pull carts.",
+      "pronunciation": {
+        "us": "hɔːrs",
+        "uk": "hɔːs"
+      },
+      "examples": [
+        "A horse pulls the cart.",
+        "The horse drinks at the trough."
+      ],
+      "extra": {
+        "synonyms": [
+          "pony (small horse)"
+        ],
+        "antonyms": [
+          "car (contrast)"
+        ],
+        "memory_tip": "Horse = strong helper animal.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "cart",
+      "type": "noun",
+      "definition": "A small vehicle with wheels that is pulled by an animal.",
+      "pronunciation": {
+        "us": "kɑːrt",
+        "uk": "kɑːt"
+      },
+      "examples": [
+        "The cart rolls over the stones.",
+        "Goods are carried in the cart."
+      ],
+      "extra": {
+        "synonyms": [
+          "wagon"
+        ],
+        "antonyms": [
+          "car (contrast)"
+        ],
+        "memory_tip": "Cart = box on wheels pulled along.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "cobblestone",
+      "type": "noun",
+      "definition": "A small, rounded stone used to make old streets.",
+      "pronunciation": {
+        "us": "ˈkɑː.bəl.stoʊn",
+        "uk": "ˈkɒb.əl.stəʊn"
+      },
+      "examples": [
+        "Footsteps tap on the cobblestones.",
+        "The cart bumps on cobblestone streets."
+      ],
+      "extra": {
+        "synonyms": [
+          "stone paving"
+        ],
+        "antonyms": [
+          "asphalt (contrast)"
+        ],
+        "memory_tip": "Cobblestone = old street stone.",
+        "tier": 2,
+        "eslLevel": "medium"
+      }
+    },
+    {
+      "word": "lantern",
+      "type": "noun",
+      "definition": "A light you can carry, often with glass sides.",
+      "pronunciation": {
+        "us": "ˈlæn.tɚn",
+        "uk": "ˈlæn.tən"
+      },
+      "examples": [
+        "Lanterns hang above the stalls.",
+        "The lantern glows softly."
+      ],
+      "extra": {
+        "synonyms": [
+          "lamp"
+        ],
+        "antonyms": [
+          "dark"
+        ],
+        "memory_tip": "Lantern = a light in a little box.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "baker",
+      "type": "noun",
+      "definition": "A person who makes bread and cakes.",
+      "pronunciation": {
+        "us": "ˈbeɪ.kɚ",
+        "uk": "ˈbeɪ.kə"
+      },
+      "examples": [
+        "The baker smiles at Gran.",
+        "The baker wraps the loaf in paper."
+      ],
+      "extra": {
+        "synonyms": [
+          "bread maker"
+        ],
+        "antonyms": [
+          "customer (contrast)"
+        ],
+        "memory_tip": "Baker = bread expert.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "apron",
+      "type": "noun",
+      "definition": "A cloth worn over clothes to keep them clean.",
+      "pronunciation": {
+        "us": "ˈeɪ.prən",
+        "uk": "ˈeɪ.prən"
+      },
+      "examples": [
+        "The baker wears a white apron.",
+        "Tie the apron before cooking."
+      ],
+      "extra": {
+        "synonyms": [
+          "smock"
+        ],
+        "antonyms": [
+          "coat (contrast)"
+        ],
+        "memory_tip": "Apron = splash guard for clothes.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    },
+    {
+      "word": "scale",
+      "type": "noun",
+      "definition": "A tool for weighing things.",
+      "pronunciation": {
+        "us": "skeɪl",
+        "uk": "skeɪl"
+      },
+      "examples": [
+        "The seller uses a scale for apples.",
+        "Put the basket on the scale."
+      ],
+      "extra": {
+        "synonyms": [
+          "balance"
+        ],
+        "antonyms": [
+          "guess (contrast)"
+        ],
+        "memory_tip": "Scale = tells how heavy.",
+        "tier": 1,
+        "eslLevel": "easy"
+      }
+    }
+  ]
+}

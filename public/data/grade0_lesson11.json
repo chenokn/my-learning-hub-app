@@ -1,0 +1,292 @@
+[
+  {
+    "word": "flutter",
+    "type": "verb",
+    "definition": "To move quickly and lightly through the air.",
+    "pronunciation": {
+      "us": "/ˈflʌtər/",
+      "uk": "/ˈflʌtə/"
+    },
+    "examples": [
+      "The butterfly fluttered its wings.",
+      "Leaves flutter in the wind."
+    ],
+    "extra": {
+      "synonyms": [
+        "flap",
+        "drift",
+        "float"
+      ],
+      "antonyms": [
+        "still",
+        "settle"
+      ],
+      "memory_tip": "Flutter = light, fast movement like wings!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "flutter",
+        "fluttered",
+        "fluttering"
+      ]
+    }
+  },
+  {
+    "word": "track",
+    "type": "noun",
+    "definition": "Marks left by feet or wheels on the ground.",
+    "pronunciation": {
+      "us": "/træk/",
+      "uk": "/træk/"
+    },
+    "examples": [
+      "We saw animal tracks in the snow.",
+      "The train runs on tracks."
+    ],
+    "extra": {
+      "synonyms": [
+        "footprints",
+        "trails",
+        "marks"
+      ],
+      "antonyms": [
+        "smooth path",
+        "clean ground"
+      ],
+      "memory_tip": "Tracks = footprints or trails!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "stream",
+    "type": "noun",
+    "definition": "A small, narrow river.",
+    "pronunciation": {
+      "us": "/striːm/",
+      "uk": "/striːm/"
+    },
+    "examples": [
+      "The stream flows through the forest.",
+      "We played near the stream."
+    ],
+    "extra": {
+      "synonyms": [
+        "creek",
+        "brook",
+        "flow"
+      ],
+      "antonyms": [
+        "desert",
+        "dry land"
+      ],
+      "memory_tip": "Stream = small river!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "hoof",
+    "type": "noun",
+    "definition": "The hard foot of a horse or similar animal.",
+    "pronunciation": {
+      "us": "/hʊf/",
+      "uk": "/huːf/"
+    },
+    "examples": [
+      "The horse had strong hooves.",
+      "We heard the hoof steps on the road."
+    ],
+    "extra": {
+      "synonyms": [
+        "foot",
+        "paw",
+        "claw (for animals)"
+      ],
+      "antonyms": [
+        "hand",
+        "fingers"
+      ],
+      "memory_tip": "Hoof = animal foot like a hard shoe!",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "sink",
+    "type": "verb",
+    "definition": "To go down below the surface of water or soft ground.",
+    "pronunciation": {
+      "us": "/sɪŋk/",
+      "uk": "/sɪŋk/"
+    },
+    "examples": [
+      "Rocks sink in water.",
+      "My boots sank in the mud."
+    ],
+    "extra": {
+      "synonyms": [
+        "drop",
+        "go down",
+        "submerge"
+      ],
+      "antonyms": [
+        "float",
+        "rise"
+      ],
+      "memory_tip": "Sink = go under!",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "sink",
+        "sank",
+        "sinking"
+      ]
+    }
+  },
+  {
+    "word": "prepare",
+    "type": "verb",
+    "definition": "To get ready for something.",
+    "pronunciation": {
+      "us": "/prɪˈpɛr/",
+      "uk": "/prɪˈpeə/"
+    },
+    "examples": [
+      "I prepared my bag for school.",
+      "Let’s prepare dinner together."
+    ],
+    "extra": {
+      "synonyms": [
+        "get ready",
+        "organize",
+        "plan"
+      ],
+      "antonyms": [
+        "forget",
+        "neglect"
+      ],
+      "memory_tip": "Prepare = get set!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "prepare",
+        "prepared",
+        "preparing"
+      ]
+    }
+  },
+  {
+    "word": "ruin",
+    "type": "adj.,verb",
+    "definition": "Broken or spoiled so it can’t be used.",
+    "pronunciation": {
+      "us": "/ˈruːɪn/",
+      "uk": "/ˈruːɪn/"
+    },
+    "examples": [
+      "The cake was ruined by the rain. (verb)",
+      "Her ruined toy was thrown away. (adjective)"
+    ],
+    "extra": {
+      "synonyms": [
+        "broken",
+        "wrecked",
+        "destroyed"
+      ],
+      "antonyms": [
+        "fixed",
+        "saved"
+      ],
+      "memory_tip": "Ruined = totally messed up!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "record",
+    "type": "noun,verb",
+    "definition": "Something written or saved to remember; to write or save something.",
+    "pronunciation": {
+      "us": "/ˈrɛkərd/ (noun), /rɪˈkɔrd/ (verb)",
+      "uk": "/ˈrekɔːd/ (noun), /rɪˈkɔːd/ (verb)"
+    },
+    "examples": [
+      "He set a new running record. (noun)",
+      "She recorded her song. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "log",
+        "save",
+        "note"
+      ],
+      "antonyms": [
+        "erase",
+        "forget"
+      ],
+      "memory_tip": "Record = keep something remembered!",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "record",
+        "recorded",
+        "recording"
+      ]
+    }
+  },
+  {
+    "word": "direction",
+    "type": "noun",
+    "definition": "The way someone or something moves or faces.",
+    "pronunciation": {
+      "us": "/dəˈrɛkʃən/",
+      "uk": "/daɪˈrɛkʃ(ə)n/"
+    },
+    "examples": [
+      "We walked in the wrong direction.",
+      "The wind changed direction."
+    ],
+    "extra": {
+      "synonyms": [
+        "way",
+        "path",
+        "course"
+      ],
+      "antonyms": [
+        "lost",
+        "confusion"
+      ],
+      "memory_tip": "Direction = which way to go!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "broad",
+    "type": "adjective",
+    "definition": "Wide; covering a large space.",
+    "pronunciation": {
+      "us": "/brɔd/",
+      "uk": "/brɔːd/"
+    },
+    "examples": [
+      "The river is broad.",
+      "He has a broad smile."
+    ],
+    "extra": {
+      "synonyms": [
+        "wide",
+        "spacious",
+        "large"
+      ],
+      "antonyms": [
+        "narrow",
+        "thin"
+      ],
+      "memory_tip": "Broad = big and wide!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

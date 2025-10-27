@@ -1,0 +1,263 @@
+[
+  {
+    "word": "dormant",
+    "type": "adjective",
+    "definition": "Inactive for a time but able to become active later.",
+    "pronunciation": { "us": "DOR-muhnt", "uk": "DAW-muhnt" },
+    "examples": [
+      "The volcano is dormant now.",
+      "Some seeds stay dormant through winter."
+    ],
+    "extra": {
+      "synonyms": ["inactive", "asleep", "latent"],
+      "antonyms": ["active", "lively"],
+      "memory_tip": "Dormant = ‘dozing’ but not dead.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "elegant",
+    "type": "adjective",
+    "definition": "Graceful and stylish in appearance or manner; pleasingly clever and simple.",
+    "pronunciation": { "us": "EL-uh-gunt", "uk": "EL-uh-gunt" },
+    "examples": [
+      "She wore an elegant dress to the concert.",
+      "The proof used an elegant idea."
+    ],
+    "extra": {
+      "synonyms": ["graceful", "stylish", "refined"],
+      "antonyms": ["clumsy", "crude"],
+      "memory_tip": "Elegant = easy on the eye and mind.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "erupt",
+    "type": "verb",
+    "definition": "To burst out suddenly; for a volcano to explode and send out lava and ash.",
+    "pronunciation": { "us": "ee-RUPT", "uk": "ee-RUPT" },
+    "examples": [
+      "The crowd erupted with cheers.",
+      "The volcano erupted during the night."
+    ],
+    "extra": {
+      "synonyms": ["explode", "burst", "break out"],
+      "antonyms": ["subside", "settle"],
+      "memory_tip": "Erupt = energy rushes up and out.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["erupt", "erupted", "erupting"]
+    }
+  },
+  {
+    "word": "excavate",
+    "type": "verb",
+    "definition": "To dig out earth carefully to find things or make a hole.",
+    "pronunciation": { "us": "EKS-kuh-vayt", "uk": "EKS-kuh-vayt" },
+    "examples": [
+      "Archaeologists excavated an ancient house.",
+      "We excavated a trench for the pipes."
+    ],
+    "extra": {
+      "synonyms": ["dig", "unearth", "hollow out"],
+      "antonyms": ["bury", "fill in"],
+      "memory_tip": "Excavate = make a cave/ex-cavity.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["excavate", "excavated", "excavating"]
+    }
+  },
+  {
+    "word": "expel",
+    "type": "verb",
+    "definition": "To force out or send away.",
+    "pronunciation": { "us": "ik-SPEL", "uk": "ik-SPEL" },
+    "examples": [
+      "Octopuses expel ink when scared.",
+      "The school expelled two pupils for cheating."
+    ],
+    "extra": {
+      "synonyms": ["eject", "banish", "drive out"],
+      "antonyms": ["admit", "welcome"],
+      "memory_tip": "Expel = push out; note ‘expelled/expelling’ doubles the L.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["expel", "expelled", "expelling"]
+    }
+  },
+  {
+    "word": "fume",
+    "type": "noun,verb",
+    "definition": "Strong-smelling gas or vapour; to be very angry or give off smoke or vapour.",
+    "pronunciation": { "us": "fyoom", "uk": "fyoom" },
+    "examples": [
+      "Paint fumes made the room unpleasant. (noun)",
+      "He fumed at the long delay. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["smoke", "vapour", "seethe"],
+      "antonyms": ["fresh air", "calm"],
+      "memory_tip": "Fume = fumes in the air or fury in the face.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["fume", "fumed", "fuming"]
+    }
+  },
+  {
+    "word": "molten",
+    "type": "adjective",
+    "definition": "Melted by heat and turned to liquid.",
+    "pronunciation": { "us": "MOHL-tuhn", "uk": "MOHL-tuhn" },
+    "examples": [
+      "Molten lava flowed down the slope.",
+      "The smith poured molten metal into a mould."
+    ],
+    "extra": {
+      "synonyms": ["melted", "liquid", "fused"],
+      "antonyms": ["solid", "frozen"],
+      "memory_tip": "Molten = melt-on: heated to liquid.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "population",
+    "type": "noun",
+    "definition": "All the people or animals living in a place.",
+    "pronunciation": { "us": "POP-yuh-LAY-shuhn", "uk": "POP-yuh-LAY-shuhn" },
+    "examples": [
+      "The city’s population is growing.",
+      "Scientists tracked the penguin population."
+    ],
+    "extra": {
+      "synonyms": ["inhabitants", "residents", "people"],
+      "antonyms": ["emptiness", "vacancy"],
+      "memory_tip": "Population = how many live in a location.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "prelude",
+    "type": "noun",
+    "definition": "An action or event that comes before something more important; a short introductory piece of music.",
+    "pronunciation": { "us": "PREH-lood", "uk": "PREH-lood" },
+    "examples": [
+      "The shower was a prelude to the storm.",
+      "The pianist began with a Bach prelude."
+    ],
+    "extra": {
+      "synonyms": ["introduction", "opening", "overture"],
+      "antonyms": ["finale", "epilogue"],
+      "memory_tip": "Prelude = pre- (before) + -lude (play).",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "scald",
+    "type": "verb,noun",
+    "definition": "To burn with hot liquid or steam; a burn caused by hot liquid or steam.",
+    "pronunciation": { "us": "skawld", "uk": "skawld" },
+    "examples": [
+      "Be careful not to scald your hand with boiling water. (verb)",
+      "The scald on his arm healed quickly. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["burn", "scorch", "blister"],
+      "antonyms": ["cool", "soothe"],
+      "memory_tip": "Scald = scalding steam stings.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["scald", "scalded", "scalding"]
+    }
+  },
+  {
+    "word": "stupendous",
+    "type": "adjective",
+    "definition": "Extremely impressive or amazing.",
+    "pronunciation": { "us": "stoo-PEN-duhs", "uk": "styoo-PEN-duhs" },
+    "examples": [
+      "They climbed a stupendous mountain ridge.",
+      "The show was a stupendous success."
+    ],
+    "extra": {
+      "synonyms": ["astonishing", "immense", "marvellous"],
+      "antonyms": ["ordinary", "minor"],
+      "memory_tip": "Stupendous = so good it leaves you stupefied.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "suffocate",
+    "type": "verb",
+    "definition": "To die or cause to die from not being able to breathe.",
+    "pronunciation": { "us": "SUF-uh-kayt", "uk": "SUF-uh-kayt" },
+    "examples": [
+      "Thick smoke can suffocate people.",
+      "Crowded roots can suffocate a plant."
+    ],
+    "extra": {
+      "synonyms": ["choke", "smother", "asphyxiate"],
+      "antonyms": ["breathe", "revive"],
+      "memory_tip": "Suffocate = suffer from lack of air.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["suffocate", "suffocated", "suffocating"]
+    }
+  },
+  {
+    "word": "tremor",
+    "type": "noun",
+    "definition": "A small shaking movement; a slight earthquake or a quiver in the body.",
+    "pronunciation": { "us": "TREM-er", "uk": "TREM-uh" },
+    "examples": [
+      "A tremor rattled the cups on the shelf.",
+      "He felt a tremor in his hands from the cold."
+    ],
+    "extra": {
+      "synonyms": ["shake", "vibration", "shiver"],
+      "antonyms": ["stillness", "calm"],
+      "memory_tip": "Tremor = tiny tremble.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "tundra",
+    "type": "noun",
+    "definition": "A cold, treeless plain with frozen ground, found in Arctic regions.",
+    "pronunciation": { "us": "TUN-druh", "uk": "TUN-druh" },
+    "examples": [
+      "Moss and lichen cover the tundra.",
+      "Caribou migrate across the tundra each year."
+    ],
+    "extra": {
+      "synonyms": ["Arctic plain", "permafrost plain"],
+      "antonyms": ["rainforest", "savannah"],
+      "memory_tip": "Tundra = ‘under’ frozen ground.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "vigorous",
+    "type": "adjective",
+    "definition": "Strong, healthy, and full of energy; done with force or energy.",
+    "pronunciation": { "us": "VIG-uh-rus", "uk": "VIG-uh-rus" },
+    "examples": [
+      "She gave the rug a vigorous shake.",
+      "Daily vigorous exercise improves fitness."
+    ],
+    "extra": {
+      "synonyms": ["energetic", "robust", "forceful"],
+      "antonyms": ["weak", "feeble", "sluggish"],
+      "memory_tip": "Vigorous = vigorous ‘vigor’ inside.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

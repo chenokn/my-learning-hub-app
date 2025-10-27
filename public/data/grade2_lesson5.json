@@ -1,0 +1,289 @@
+[
+  {
+    "word": "absorb",
+    "type": "verb",
+    "definition": "To soak up or take in a liquid, energy, or information.",
+    "pronunciation": {
+      "uk": "/əbˈzɔːb/"
+    },
+    "examples": [
+      "A sponge can absorb water easily.",
+      "Dark colours absorb more heat from sunlight."
+    ],
+    "extra": {
+      "synonyms": [
+        "soak up",
+        "take in"
+      ],
+      "antonyms": [
+        "repel",
+        "emit"
+      ],
+      "memory_tip": "Absorb = drink in like a sponge.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "absorb",
+        "absorbed",
+        "absorbing"
+      ]
+    }
+  },
+  {
+    "word": "anchor",
+    "type": "noun,verb",
+    "definition": "A heavy object that keeps a boat in place; to fix firmly in position.",
+    "pronunciation": {
+      "uk": "/ˈæŋkə/"
+    },
+    "examples": [
+      "The ship dropped its anchor. (noun)",
+      "Posts anchor the fence to the ground. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "moor",
+        "secure",
+        "fasten"
+      ],
+      "antonyms": [
+        "release",
+        "loosen"
+      ],
+      "memory_tip": "Anchor = heavy hook or act of holding still.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": [
+        "anchor",
+        "anchored",
+        "anchoring"
+      ]
+    }
+  },
+  {
+    "word": "brush",
+    "type": "noun,verb",
+    "definition": "A tool with bristles for cleaning or painting; to touch lightly or clean with a brush.",
+    "pronunciation": {
+      "uk": "/brʌʃ/"
+    },
+    "examples": [
+      "Use a soft brush on the canvas. (noun)",
+      "Brush your hair every morning. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "sweep",
+        "stroke",
+        "touch"
+      ],
+      "antonyms": [
+        "scrape",
+        "neglect"
+      ],
+      "memory_tip": "Brush = bristly tool or gentle sweep.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "brush",
+        "brushed",
+        "brushing"
+      ]
+    }
+  },
+  {
+    "word": "bud",
+    "type": "noun,verb",
+    "definition": "A small swelling on a plant that will grow into a leaf or flower; to begin to grow buds.",
+    "pronunciation": {
+      "uk": "/bʌd/"
+    },
+    "examples": [
+      "The rose has a new bud. (noun)",
+      "Trees bud in early spring. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "shoot",
+        "sprout",
+        "blossom"
+      ],
+      "antonyms": [
+        "wilt",
+        "die back"
+      ],
+      "memory_tip": "Bud = baby part of a plant.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "bud",
+        "budded",
+        "budding"
+      ]
+    }
+  },
+  {
+    "word": "center",
+    "type": "noun,verb",
+    "definition": "The middle point of something; to place in the middle.",
+    "pronunciation": {
+      "uk": "/ˈsɛntə/"
+    },
+    "examples": [
+      "Draw a dot in the centre of the circle. (noun – UK spelling ‘centre’)",
+      "Please centre the text on the page. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "middle",
+        "core",
+        "focus"
+      ],
+      "antonyms": [
+        "edge",
+        "outside"
+      ],
+      "memory_tip": "Centre = exact middle spot.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "centre",
+        "centred",
+        "centring"
+      ]
+    }
+  },
+  {
+    "word": "core",
+    "type": "noun,verb",
+    "definition": "The central part of a fruit or object; to remove the hard centre of a fruit.",
+    "pronunciation": {
+      "uk": "/kɔː/"
+    },
+    "examples": [
+      "An apple’s core contains the seeds. (noun)",
+      "Core the pears before cooking. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "centre",
+        "heart",
+        "remove core"
+      ],
+      "antonyms": [
+        "skin",
+        "edge"
+      ],
+      "memory_tip": "Core = middle bit or action of taking it out.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": [
+        "core",
+        "cored",
+        "coring"
+      ]
+    }
+  },
+  {
+    "word": "factory",
+    "type": "noun",
+    "definition": "A large building where goods are made by machines and workers.",
+    "pronunciation": {
+      "uk": "/ˈfæktəri/"
+    },
+    "examples": [
+      "The biscuit factory smells sweet.",
+      "Robots help on the factory floor."
+    ],
+    "extra": {
+      "synonyms": [
+        "plant",
+        "mill",
+        "works"
+      ],
+      "antonyms": [
+        "farm",
+        "office"
+      ],
+      "memory_tip": "Factory = product-making building.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "hive",
+    "type": "noun",
+    "definition": "A home for bees; ‘hives’ is the plural form.",
+    "pronunciation": {
+      "uk": "/haɪv/"
+    },
+    "examples": [
+      "The beekeeper opened the hive.",
+      "Several hives stood in the orchard."
+    ],
+    "extra": {
+      "synonyms": [
+        "beehive",
+        "colony"
+      ],
+      "antonyms": [
+        "void",
+        "emptiness"
+      ],
+      "memory_tip": "Hive = bees’ busy house.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "sapling",
+    "type": "noun",
+    "definition": "A young tree, especially one with a slender trunk.",
+    "pronunciation": {
+      "uk": "/ˈsæplɪŋ/"
+    },
+    "examples": [
+      "They planted oak saplings in the park.",
+      "A sapling bends easily in the wind."
+    ],
+    "extra": {
+      "synonyms": [
+        "young tree",
+        "seedling"
+      ],
+      "antonyms": [
+        "mature tree"
+      ],
+      "memory_tip": "Sapling = baby tree.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "trunk",
+    "type": "noun",
+    "definition": "The thick main stem of a tree; the long nose of an elephant; a large box for storing things.",
+    "pronunciation": {
+      "uk": "/trʌŋk/"
+    },
+    "examples": [
+      "The tree trunk was very wide.",
+      "An elephant sprayed water with its trunk.",
+      "She stored blankets in a wooden trunk."
+    ],
+    "extra": {
+      "synonyms": [
+        "stem",
+        "snout",
+        "chest"
+      ],
+      "antonyms": [
+        "branch",
+        "limb"
+      ],
+      "memory_tip": "Trunk = tree body, elephant nose, or big box.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

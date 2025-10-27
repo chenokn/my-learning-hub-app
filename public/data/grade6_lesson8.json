@@ -1,0 +1,263 @@
+[
+  {
+    "word": "accompany",
+    "type": "verb",
+    "definition": "To go with someone or something; to be present or occur at the same time as.",
+    "pronunciation": { "us": "uh-KUM-puh-nee", "uk": "uh-KUM-puh-nee" },
+    "examples": [
+      "A parent must accompany pupils on the trip.",
+      "Thunder often accompanies lightning."
+    ],
+    "extra": {
+      "synonyms": ["go with", "escort", "attend"],
+      "antonyms": ["leave", "abandon", "desert"],
+      "memory_tip": "Accompany = come along for company.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["accompany", "accompanied", "accompanying"]
+    }
+  },
+  {
+    "word": "beneficial",
+    "type": "adjective",
+    "definition": "Helpful or good for someone or something.",
+    "pronunciation": { "us": "ben-uh-FISH-uhl", "uk": "ben-uh-FISH-uhl" },
+    "examples": [
+      "Regular reading is beneficial for vocabulary.",
+      "Shade is beneficial to young plants in summer."
+    ],
+    "extra": {
+      "synonyms": ["helpful", "useful", "advantageous"],
+      "antonyms": ["harmful", "detrimental", "damaging"],
+      "memory_tip": "Beneficial = full of benefits.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "captive",
+    "type": "noun,adjective",
+    "definition": "A person or animal that is kept and not free; kept in confinement.",
+    "pronunciation": { "us": "KAP-tiv", "uk": "KAP-tiv" },
+    "examples": [
+      "The rescuers freed the captives at dawn. (noun)",
+      "Captive animals need safe enclosures. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["prisoner", "detainee", "confined"],
+      "antonyms": ["free", "liberated"],
+      "memory_tip": "Captive = captured and not free.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "convenient",
+    "type": "adjective",
+    "definition": "Easy to use or fitting well with one’s needs or plans.",
+    "pronunciation": { "us": "kun-VEE-nee-unt", "uk": "kun-VEE-nee-unt" },
+    "examples": [
+      "Email is a convenient way to contact teachers.",
+      "The bus stop is convenient to the school."
+    ],
+    "extra": {
+      "synonyms": ["handy", "useful", "suitable"],
+      "antonyms": ["inconvenient", "awkward", "unsuitable"],
+      "memory_tip": "Convenient = fits your convenience.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "ecstasy",
+    "type": "noun",
+    "definition": "Great joy or intense happiness.",
+    "pronunciation": { "us": "EK-stuh-see", "uk": "EK-stuh-see" },
+    "examples": [
+      "They shouted with ecstasy at the final goal.",
+      "The sunset filled her with quiet ecstasy."
+    ],
+    "extra": {
+      "synonyms": ["bliss", "rapture", "delight"],
+      "antonyms": ["misery", "sorrow", "despair"],
+      "memory_tip": "Ecstasy = extra-strong happiness.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "expanse",
+    "type": "noun",
+    "definition": "A wide, open area of land, sea, or sky.",
+    "pronunciation": { "us": "ik-SPANS", "uk": "ik-SPANS" },
+    "examples": [
+      "We looked over the expanse of the plain.",
+      "Stars glittered across the dark expanse."
+    ],
+    "extra": {
+      "synonyms": ["stretch", "extent", "sweep"],
+      "antonyms": ["enclosure", "confine", "patch"],
+      "memory_tip": "Expanse = expanded space.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "expedition",
+    "type": "noun",
+    "definition": "A journey with a particular purpose, especially exploration or research.",
+    "pronunciation": { "us": "ek-spuh-DISH-un", "uk": "ek-spuh-DISH-uhn" },
+    "examples": [
+      "The class planned a science expedition to the coast.",
+      "The expedition mapped the glacier."
+    ],
+    "extra": {
+      "synonyms": ["journey", "mission", "voyage"],
+      "antonyms": ["stay", "delay", "inaction"],
+      "memory_tip": "Expedition = expert mission.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "inept",
+    "type": "adjective",
+    "definition": "Not skilful; clumsy or awkward.",
+    "pronunciation": { "us": "in-EPT", "uk": "in-EPT" },
+    "examples": [
+      "I felt inept using the new software at first.",
+      "An inept pass cost them the match."
+    ],
+    "extra": {
+      "synonyms": ["clumsy", "incompetent", "awkward"],
+      "antonyms": ["adept", "skilful", "competent"],
+      "memory_tip": "Inept = not adept.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "interpret",
+    "type": "verb",
+    "definition": "To explain the meaning of something; to translate spoken words.",
+    "pronunciation": { "us": "in-TUR-prit", "uk": "in-TUR-prit" },
+    "examples": [
+      "How do you interpret this graph?",
+      "She interpreted for the visitors."
+    ],
+    "extra": {
+      "synonyms": ["explain", "clarify", "translate"],
+      "antonyms": ["misinterpret", "confuse", "obscure"],
+      "memory_tip": "Interpret = turn ideas into clear words.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["interpret", "interpreted", "interpreting"]
+    }
+  },
+  {
+    "word": "invaluable",
+    "type": "adjective",
+    "definition": "Extremely useful; too valuable to measure.",
+    "pronunciation": { "us": "in-VAL-yoo-uh-bul", "uk": "in-VAL-yoo-uh-buhl" },
+    "examples": [
+      "Your feedback has been invaluable.",
+      "An atlas is invaluable for geography homework."
+    ],
+    "extra": {
+      "synonyms": ["priceless", "irreplaceable", "vital"],
+      "antonyms": ["worthless", "trivial", "unimportant"],
+      "memory_tip": "Invaluable = value so high it can’t be counted.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "linger",
+    "type": "verb",
+    "definition": "To stay somewhere longer than expected; to be slow to disappear.",
+    "pronunciation": { "us": "LING-ger", "uk": "LING-guh" },
+    "examples": [
+      "They lingered after the concert to chat.",
+      "The smell of bread lingered in the hall."
+    ],
+    "extra": {
+      "synonyms": ["loiter", "remain", "dwell"],
+      "antonyms": ["hasten", "leave", "depart"],
+      "memory_tip": "Linger = long-er to leave.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["linger", "lingered", "lingering"]
+    }
+  },
+  {
+    "word": "retrieve",
+    "type": "verb",
+    "definition": "To get something back; to find and bring back.",
+    "pronunciation": { "us": "ri-TREEV", "uk": "ri-TREEV" },
+    "examples": [
+      "She retrieved her bag from the bus.",
+      "Dogs can be trained to retrieve sticks."
+    ],
+    "extra": {
+      "synonyms": ["recover", "regain", "fetch"],
+      "antonyms": ["lose", "misplace", "surrender"],
+      "memory_tip": "Re-trieve = get it back again.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["retrieve", "retrieved", "retrieving"]
+    }
+  },
+  {
+    "word": "skirmish",
+    "type": "noun,verb",
+    "definition": "A brief, unplanned fight or argument; to take part in such a fight.",
+    "pronunciation": { "us": "SKUR-mish", "uk": "SKUR-mish" },
+    "examples": [
+      "A skirmish broke out near the goal. (noun)",
+      "Rival fans skirmished before police arrived. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["clash", "scuffle", "brush"],
+      "antonyms": ["truce", "peace", "agreement"],
+      "memory_tip": "Skirmish = short, scrappy clash.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["skirmish", "skirmished", "skirmishing"]
+    }
+  },
+  {
+    "word": "supplement",
+    "type": "verb,noun",
+    "definition": "To add to something to improve it; an extra part added to complete or improve.",
+    "pronunciation": { "us": "SUP-luh-ment", "uk": "SUP-luh-ment" },
+    "examples": [
+      "She supplemented her notes with diagrams. (verb)",
+      "The magazine came with a weekend supplement. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["add", "enrich", "append"],
+      "antonyms": ["reduce", "diminish", "deplete"],
+      "memory_tip": "Supplement = supply more to fill the gaps.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["supplement", "supplemented", "supplementing"]
+    }
+  },
+  {
+    "word": "territory",
+    "type": "noun",
+    "definition": "An area of land under control of a person, group, or country; a region that an animal defends.",
+    "pronunciation": { "us": "TER-ih-tor-ee", "uk": "TER-ih-tree" },
+    "examples": [
+      "The birds defend their territory in spring.",
+      "Negotiations covered the disputed territory."
+    ],
+    "extra": {
+      "synonyms": ["area", "domain", "region"],
+      "antonyms": ["outside", "elsewhere"],
+      "memory_tip": "Territory = the ‘terrain’ you call yours.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]

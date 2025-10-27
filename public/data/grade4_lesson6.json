@@ -1,0 +1,265 @@
+[
+  {
+    "word": "applaud",
+    "type": "verb",
+    "definition": "To show approval by clapping or praising.",
+    "pronunciation": { "us": "uh-PLAWD", "uk": "uh-PLAWD" },
+    "examples": [
+      "The audience applauded at the end of the play.",
+      "We applauded her effort and teamwork."
+    ],
+    "extra": {
+      "synonyms": ["clap", "cheer", "praise"],
+      "antonyms": ["boo", "jeer", "criticise"],
+      "memory_tip": "Applaud = a-plod of happy hands.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["applaud", "applauded", "applauding"]
+    }
+  },
+  {
+    "word": "crafty",
+    "type": "adjective",
+    "definition": "Skilful at achieving aims by indirect or clever methods; sly.",
+    "pronunciation": { "us": "KRAF-tee", "uk": "KRAF-tee" },
+    "examples": [
+      "The crafty fox slipped past the gate.",
+      "She used a crafty trick to solve the puzzle."
+    ],
+    "extra": {
+      "synonyms": ["cunning", "sly", "shrewd"],
+      "antonyms": ["honest", "naive", "straightforward"],
+      "memory_tip": "Crafty = full of clever ‘craft’.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "disclose",
+    "type": "verb",
+    "definition": "To make something known; to reveal or uncover.",
+    "pronunciation": { "us": "dis-KLOHZ", "uk": "dis-KLOHZ" },
+    "examples": [
+      "The report disclosed several safety issues.",
+      "Please disclose any allergies on the form."
+    ],
+    "extra": {
+      "synonyms": ["reveal", "divulge", "uncover"],
+      "antonyms": ["conceal", "hide", "withhold"],
+      "memory_tip": "Disclose = do the opposite of ‘close’—open it up.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["disclose", "disclosed", "disclosing"]
+    }
+  },
+  {
+    "word": "drab",
+    "type": "adjective,noun",
+    "definition": "Dull and without colour; a dull grey-brown colour.",
+    "pronunciation": { "us": "drab", "uk": "drab" },
+    "examples": [
+      "The walls were painted a drab colour. (adjective)",
+      "Winter landscapes can look a bit drab. (adjective)"
+    ],
+    "extra": {
+      "synonyms": ["dull", "colourless", "lifeless"],
+      "antonyms": ["vibrant", "bright", "lively"],
+      "memory_tip": "Drab = drags the colour out.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "exclaim",
+    "type": "verb",
+    "definition": "To cry out or speak suddenly and loudly, often from surprise or excitement.",
+    "pronunciation": { "us": "eks-KLAYM", "uk": "eks-KLAYM" },
+    "examples": [
+      "“Wow!” she exclaimed as the fireworks burst.",
+      "He exclaimed that the water was freezing."
+    ],
+    "extra": {
+      "synonyms": ["cry out", "shout", "blurt"],
+      "antonyms": ["murmur", "whisper"],
+      "memory_tip": "Exclaim = add an exclamation mark to your voice.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["exclaim", "exclaimed", "exclaiming"]
+    }
+  },
+  {
+    "word": "exquisite",
+    "type": "adjective",
+    "definition": "Extremely beautiful, delicate, or finely made; very sensitive.",
+    "pronunciation": { "us": "egz-KWI-zit", "uk": "egz-KWI-zit" },
+    "examples": [
+      "The jeweller showed us an exquisite necklace.",
+      "She has exquisite taste in music."
+    ],
+    "extra": {
+      "synonyms": ["beautiful", "delicate", "elegant"],
+      "antonyms": ["crude", "clumsy", "coarse"],
+      "memory_tip": "Exquisite = extra ‘quality’ in every detail.",
+      "tier": 3,
+      "eslLevel": "hard"
+    }
+  },
+  {
+    "word": "intend",
+    "type": "verb",
+    "definition": "To have a plan or purpose in mind.",
+    "pronunciation": { "us": "in-TEND", "uk": "in-TEND" },
+    "examples": [
+      "I intend to finish my homework tonight.",
+      "They intended the gift as a surprise."
+    ],
+    "extra": {
+      "synonyms": ["plan", "mean", "aim"],
+      "antonyms": ["improvise", "neglect"],
+      "memory_tip": "Intend = in your head, aimed at the end.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["intend", "intended", "intending"]
+    }
+  },
+  {
+    "word": "jeer",
+    "type": "verb,noun",
+    "definition": "To shout rude or mocking remarks; a rude or mocking remark.",
+    "pronunciation": { "us": "jeer", "uk": "jeer" },
+    "examples": [
+      "It’s unkind to jeer at mistakes. (verb)",
+      "A jeer rose from the back row. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["taunt", "boo", "mock"],
+      "antonyms": ["cheer", "applaud", "praise"],
+      "memory_tip": "Jeer sounds like ‘jeer!’—a sharp, rude sound.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["jeer", "jeered", "jeering"]
+    }
+  },
+  {
+    "word": "peer",
+    "type": "verb,noun",
+    "definition": "To look closely or with difficulty; a person of the same age or status.",
+    "pronunciation": { "us": "peer", "uk": "peer" },
+    "examples": [
+      "She peered through the fog at the sign. (verb)",
+      "Talk to a peer if you need help. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["squint (verb)", "look closely", "equal (noun)"],
+      "antonyms": ["glance away", "superior (contrast)"],
+      "memory_tip": "Peer = appear closer with your eyes.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["peer", "peered", "peering"]
+    }
+  },
+  {
+    "word": "progress",
+    "type": "noun,verb",
+    "definition": "Forward or onward movement; improvement; to move forward or improve.",
+    "pronunciation": { "us": "PRAH-gres (noun), pruh-GRESS (verb)", "uk": "PROH-gres (noun), pruh-GRESS (verb)" },
+    "examples": [
+      "We made good progress on the project. (noun)",
+      "The seedlings are progressing well. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["advance", "improvement", "proceed (verb)"],
+      "antonyms": ["setback", "decline", "stall (verb)"],
+      "memory_tip": "Progress = go (pro-) step by step.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["progress", "progressed", "progressing"]
+    }
+  },
+  {
+    "word": "refine",
+    "type": "verb",
+    "definition": "To make something pure or improve it by making small changes.",
+    "pronunciation": { "us": "ri-FYNE", "uk": "ri-FYNE" },
+    "examples": [
+      "They refined the design after testing.",
+      "Sugar is refined to remove impurities."
+    ],
+    "extra": {
+      "synonyms": ["improve", "polish", "purify"],
+      "antonyms": ["spoil", "coarsen"],
+      "memory_tip": "Refine = re-fine—make it finer.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["refine", "refined", "refining"]
+    }
+  },
+  {
+    "word": "scoundrel",
+    "type": "noun",
+    "definition": "A dishonest or unkind person; a villain.",
+    "pronunciation": { "us": "SKOWN-drul", "uk": "SKOWN-drul" },
+    "examples": [
+      "The scoundrel ran off with the coins.",
+      "Stories often have a hero and a scoundrel."
+    ],
+    "extra": {
+      "synonyms": ["rogue", "villain", "crook"],
+      "antonyms": ["hero", "saint", "honourable person"],
+      "memory_tip": "Scoundrel = scowling rascal.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "uneasy",
+    "type": "adjective",
+    "definition": "Worried, uncomfortable, or not at ease.",
+    "pronunciation": { "us": "un-EE-zee", "uk": "un-EE-zee" },
+    "examples": [
+      "He felt uneasy in the dark corridor.",
+      "There was an uneasy silence in the room."
+    ],
+    "extra": {
+      "synonyms": ["anxious", "restless", "worried"],
+      "antonyms": ["calm", "relaxed", "assured"],
+      "memory_tip": "Uneasy = not easy in your mind.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "vain",
+    "type": "adjective",
+    "definition": "Too proud of one’s looks or achievements; producing no result; useless.",
+    "pronunciation": { "us": "vayn", "uk": "vayn" },
+    "examples": [
+      "He was too vain to admit his mistake.",
+      "Their vain attempt failed in the end."
+    ],
+    "extra": {
+      "synonyms": ["conceited", "proud", "futile"],
+      "antonyms": ["modest", "effective", "useful"],
+      "memory_tip": "Vain = vanity mirror or an empty effort.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "victory",
+    "type": "noun",
+    "definition": "Success in a game, competition, or struggle.",
+    "pronunciation": { "us": "VIK-tuh-ree", "uk": "VIK-tuh-ree" },
+    "examples": [
+      "The team celebrated their victory.",
+      "Hard work led to a narrow victory."
+    ],
+    "extra": {
+      "synonyms": ["win", "triumph", "success"],
+      "antonyms": ["defeat", "loss", "failure"],
+      "memory_tip": "Victory = V for win.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  }
+]

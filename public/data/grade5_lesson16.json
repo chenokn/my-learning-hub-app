@@ -1,0 +1,268 @@
+[
+  {
+    "word": "abdicate",
+    "type": "verb",
+    "definition": "To give up a position of power or responsibility, especially as a ruler.",
+    "pronunciation": { "us": "AB-di-kayt", "uk": "AB-di-kayt" },
+    "examples": [
+      "The king abdicated in favour of his son.",
+      "She refused to abdicate her duties."
+    ],
+    "extra": {
+      "synonyms": ["resign", "relinquish", "renounce"],
+      "antonyms": ["assume", "seize", "retain"],
+      "memory_tip": "Abdicate = ‘abandon the dictate’—give up the throne.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["abdicate", "abdicated", "abdicating"]
+    }
+  },
+  {
+    "word": "assume",
+    "type": "verb",
+    "definition": "To take on a role or responsibility; to suppose something without proof.",
+    "pronunciation": { "us": "uh-SYOOM", "uk": "uh-SYOOM" },
+    "examples": [
+      "She will assume the role of captain next term.",
+      "Don't assume the results until we finish the test."
+    ],
+    "extra": {
+      "synonyms": ["take on", "undertake", "suppose"],
+      "antonyms": ["abdicate", "reject", "verify"],
+      "memory_tip": "Assume = either ‘take on’ or ‘take for granted’.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["assume", "assumed", "assuming"]
+    }
+  },
+  {
+    "word": "bungle",
+    "type": "verb,noun",
+    "definition": "To do something clumsily or badly; a clumsy or failed job.",
+    "pronunciation": { "us": "BUN-guhl", "uk": "BUN-guhl" },
+    "examples": [
+      "He bungled the easy pass. (verb)",
+      "The report was a complete bungle. (noun)"
+    ],
+    "extra": {
+      "synonyms": ["botch", "mishandle", "flub"],
+      "antonyms": ["execute", "master", "succeed"],
+      "memory_tip": "Bungle = fumble the job.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["bungle", "bungled", "bungling"]
+    }
+  },
+  {
+    "word": "dominate",
+    "type": "verb",
+    "definition": "To control or have a lot of influence over; to be the most noticeable or important.",
+    "pronunciation": { "us": "DOM-ih-nayt", "uk": "DOM-ih-nayt" },
+    "examples": [
+      "Their team dominated the match.",
+      "The tower dominates the skyline."
+    ],
+    "extra": {
+      "synonyms": ["control", "command", "overwhelm"],
+      "antonyms": ["yield", "submit"],
+      "memory_tip": "Dominate = be ‘on top’ of the situation.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["dominate", "dominated", "dominating"]
+    }
+  },
+  {
+    "word": "former",
+    "type": "adjective",
+    "definition": "Having come before in time; previous.",
+    "pronunciation": { "us": "FOR-mer", "uk": "FAW-muh" },
+    "examples": [
+      "She is a former champion.",
+      "The former owner left detailed notes."
+    ],
+    "extra": {
+      "synonyms": ["previous", "prior", "earlier"],
+      "antonyms": ["current", "latter"],
+      "memory_tip": "Former = from before.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "guardian",
+    "type": "noun",
+    "definition": "A person who protects or is legally responsible for someone or something.",
+    "pronunciation": { "us": "GAR-dee-uhn", "uk": "GAH-dee-uhn" },
+    "examples": [
+      "Her aunt is her legal guardian.",
+      "The dog acted as a loyal guardian."
+    ],
+    "extra": {
+      "synonyms": ["protector", "custodian", "caretaker"],
+      "antonyms": ["ward (contrast)", "opponent"],
+      "memory_tip": "Guardian = one who guards.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "intercept",
+    "type": "verb",
+    "definition": "To stop or catch something or someone before they arrive.",
+    "pronunciation": { "us": "in-ter-SEPT", "uk": "in-tuh-SEPT" },
+    "examples": [
+      "The defender intercepted the pass.",
+      "Customs intercepted the shipment at the border."
+    ],
+    "extra": {
+      "synonyms": ["cut off", "seize", "block"],
+      "antonyms": ["forward", "release"],
+      "memory_tip": "Intercept = step in and stop the path.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["intercept", "intercepted", "intercepting"]
+    }
+  },
+  {
+    "word": "jubilee",
+    "type": "noun",
+    "definition": "A special anniversary or celebration, often marking many years.",
+    "pronunciation": { "us": "JOO-buh-lee", "uk": "JYOO-buh-lee" },
+    "examples": [
+      "The town held a jubilee for its 100th year.",
+      "They organised a silver jubilee celebration."
+    ],
+    "extra": {
+      "synonyms": ["anniversary", "celebration", "festivity"],
+      "antonyms": ["mourning", "fast (contrast)"],
+      "memory_tip": "Jubilee = joyful big birthday of an event.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "kin",
+    "type": "noun",
+    "definition": "A person’s family and relatives.",
+    "pronunciation": { "us": "kin", "uk": "kin" },
+    "examples": [
+      "He visited his kin over the holidays.",
+      "Next of kin must sign the form."
+    ],
+    "extra": {
+      "synonyms": ["relatives", "family", "kindred"],
+      "antonyms": ["strangers", "outsiders"],
+      "memory_tip": "Kin = your own kind—your family.",
+      "tier": 1,
+      "eslLevel": "easy"
+    }
+  },
+  {
+    "word": "pardon",
+    "type": "noun,verb",
+    "definition": "Official forgiveness for an offence; to forgive or excuse.",
+    "pronunciation": { "us": "PAR-dun", "uk": "PAH-dun" },
+    "examples": [
+      "The prisoner received a full pardon. (noun)",
+      "Please pardon my mistake. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["forgiveness", "amnesty", "excuse"],
+      "antonyms": ["punishment", "condemnation"],
+      "memory_tip": "Pardon = part done—let the rest go.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["pardon", "pardoned", "pardoning"]
+    }
+  },
+  {
+    "word": "proclaim",
+    "type": "verb",
+    "definition": "To announce something publicly and proudly.",
+    "pronunciation": { "us": "proh-KLAYM", "uk": "proh-KLAYM" },
+    "examples": [
+      "The mayor proclaimed a holiday.",
+      "She proclaimed her innocence."
+    ],
+    "extra": {
+      "synonyms": ["declare", "announce", "publish"],
+      "antonyms": ["murmur", "conceal", "suppress"],
+      "memory_tip": "Proclaim = proclaim it from the rooftops.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["proclaim", "proclaimed", "proclaiming"]
+    }
+  },
+  {
+    "word": "provoke",
+    "type": "verb",
+    "definition": "To cause a reaction, especially anger or strong feeling.",
+    "pronunciation": { "us": "pruh-VOHK", "uk": "pruh-VOHK" },
+    "examples": [
+      "The remark provoked an argument.",
+      "Smoke can provoke a coughing fit."
+    ],
+    "extra": {
+      "synonyms": ["incite", "stir up", "irritate"],
+      "antonyms": ["calm", "soothe", "pacify"],
+      "memory_tip": "Provoke = poke until it reacts.",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["provoke", "provoked", "provoking"]
+    }
+  },
+  {
+    "word": "reign",
+    "type": "noun,verb",
+    "definition": "The period a ruler is in power; to rule as a monarch or be the most important.",
+    "pronunciation": { "us": "rayn", "uk": "rayn" },
+    "examples": [
+      "Her reign lasted fifty years. (noun)",
+      "Chaos reigned after the storm. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["rule", "sovereignty", "govern"],
+      "antonyms": ["abdication (noun)", "submit (verb)"],
+      "memory_tip": "Reign = rule from the ‘reg-’ root (king).",
+      "tier": 2,
+      "eslLevel": "medium",
+      "tenses": ["reign", "reigned", "reigning"]
+    }
+  },
+  {
+    "word": "riot",
+    "type": "noun,verb",
+    "definition": "A violent public disturbance; to take part in a violent public disturbance.",
+    "pronunciation": { "us": "RY-uht", "uk": "RY-uht" },
+    "examples": [
+      "Police broke up the riot. (noun)",
+      "Fans rioted after the decision. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["unrest", "turmoil", "revolt"],
+      "antonyms": ["peace", "order"],
+      "memory_tip": "Riot = a crowd runs ‘riot’.",
+      "tier": 3,
+      "eslLevel": "hard",
+      "tenses": ["riot", "rioted", "rioting"]
+    }
+  },
+  {
+    "word": "route",
+    "type": "noun,verb",
+    "definition": "A way or course taken to get from one place to another; to send or direct along a particular path.",
+    "pronunciation": { "us": "ROOT/ROWT", "uk": "ROOT" },
+    "examples": [
+      "We chose the scenic route along the coast. (noun)",
+      "Please route the parcels to the main office. (verb)"
+    ],
+    "extra": {
+      "synonyms": ["path", "way", "course", "direct (verb)"],
+      "antonyms": ["destination (contrast)", "disorganise (contrast)"],
+      "memory_tip": "Route = the road you use; to route = to send by that road.",
+      "tier": 1,
+      "eslLevel": "easy",
+      "tenses": ["route", "routed", "routing"]
+    }
+  }
+]

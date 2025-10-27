@@ -1,0 +1,408 @@
+[
+  {
+    "word": "astonish",
+    "type": "verb",
+    "definition": "To surprise someone a lot.",
+    "pronunciation": {
+      "us": "/əˈstɑːnɪʃ/",
+      "uk": "/əˈstɒnɪʃ/"
+    },
+    "examples": [
+      "Her magic trick will astonish the audience.",
+      "I was astonished by how fast he ran."
+    ],
+    "extra": {
+      "synonyms": [
+        "amaze",
+        "surprise",
+        "shock"
+      ],
+      "antonyms": [
+        "expect",
+        "bore"
+      ],
+      "memory_tip": "Think: ‘a star’ can astonish people!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "astonishment",
+    "type": "noun",
+    "definition": "A strong feeling of surprise.",
+    "pronunciation": {
+      "us": "/əˈstɑːnɪʃmənt/",
+      "uk": "/əˈstɒnɪʃmənt/"
+    },
+    "examples": [
+      "Her eyes opened wide in astonishment.",
+      "The crowd gasped in astonishment."
+    ],
+    "extra": {
+      "synonyms": [
+        "amazement",
+        "wonder",
+        "shock"
+      ],
+      "antonyms": [
+        "calm",
+        "indifference"
+      ],
+      "memory_tip": "Astonishment = amazed + excitement!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "confirm",
+    "type": "verb",
+    "definition": "To show or say something is true or correct.",
+    "pronunciation": {
+      "us": "/kənˈfɜːrm/",
+      "uk": "/kənˈfɜːm/"
+    },
+    "examples": [
+      "Can you confirm our lunch time?",
+      "The doctor confirmed she was healthy."
+    ],
+    "extra": {
+      "synonyms": [
+        "prove",
+        "check",
+        "make sure"
+      ],
+      "antonyms": [
+        "deny",
+        "reject"
+      ],
+      "memory_tip": "Con-firm = make something firm and true.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "distant",
+    "type": "adjective",
+    "definition": "Far away in space or time.",
+    "pronunciation": {
+      "us": "/ˈdɪstənt/",
+      "uk": "/ˈdɪstənt/"
+    },
+    "examples": [
+      "We could see the distant mountains.",
+      "That happened in the distant past."
+    ],
+    "extra": {
+      "synonyms": [
+        "far",
+        "remote",
+        "separated"
+      ],
+      "antonyms": [
+        "near",
+        "close"
+      ],
+      "memory_tip": "Distant = not close!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "distance",
+    "type": "noun",
+    "definition": "The space between two things or places.",
+    "pronunciation": {
+      "us": "/ˈdɪstəns/",
+      "uk": "/ˈdɪstəns/"
+    },
+    "examples": [
+      "The distance between my home and school is 2 km.",
+      "He ran a short distance before getting tired."
+    ],
+    "extra": {
+      "synonyms": [
+        "space",
+        "gap",
+        "length"
+      ],
+      "antonyms": [
+        "closeness",
+        "nearness"
+      ],
+      "memory_tip": "Distance = how far apart things are.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "exchange",
+    "type": "verb,noun",
+    "definition": "To trade one thing for another; the act of giving one thing and getting another.",
+    "pronunciation": {
+      "us": "/ɪksˈtʃeɪndʒ/",
+      "uk": "/ɪksˈtʃeɪndʒ/"
+    },
+    "examples": [
+      "Let's exchange toys. (verb)",
+      "They had a gift exchange at the party. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "trade",
+        "swap",
+        "switch"
+      ],
+      "antonyms": [
+        "keep",
+        "retain"
+      ],
+      "memory_tip": "Think: you give something and get something back.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "fold",
+    "type": "verb,noun",
+    "definition": "To bend something so one part covers another; a line made by folding.",
+    "pronunciation": {
+      "us": "/foʊld/",
+      "uk": "/fəʊld/"
+    },
+    "examples": [
+      "I fold my clothes neatly. (verb)",
+      "There’s a fold in the paper. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "bend",
+        "crease"
+      ],
+      "antonyms": [
+        "unfold",
+        "flatten"
+      ],
+      "memory_tip": "Fold = make something smaller or neater by bending it.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "forbid",
+    "type": "verb",
+    "definition": "To order someone not to do something.",
+    "pronunciation": {
+      "us": "/fərˈbɪd/",
+      "uk": "/fəˈbɪd/"
+    },
+    "examples": [
+      "Dad forbid me to play near the road.",
+      "The teacher forbids cheating on tests."
+    ],
+    "extra": {
+      "synonyms": [
+        "ban",
+        "prohibit",
+        "stop"
+      ],
+      "antonyms": [
+        "allow",
+        "permit"
+      ],
+      "memory_tip": "Forbid = not allowed!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "refuge",
+    "type": "noun",
+    "definition": "A safe place from danger or trouble.",
+    "pronunciation": {
+      "us": "/ˈrefjuːdʒ/",
+      "uk": "/ˈrefjuːdʒ/"
+    },
+    "examples": [
+      "The cave gave us refuge from the rain.",
+      "The dog found refuge in the warm house."
+    ],
+    "extra": {
+      "synonyms": [
+        "shelter",
+        "protection",
+        "safe place"
+      ],
+      "antonyms": [
+        "exposure",
+        "danger"
+      ],
+      "memory_tip": "Refuge = a place to feel safe.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "reverse",
+    "type": "verb,noun",
+    "definition": "To go backward or turn around; the opposite of something.",
+    "pronunciation": {
+      "us": "/rɪˈvɜːrs/",
+      "uk": "/rɪˈvɜːs/"
+    },
+    "examples": [
+      "Can you reverse the car? (verb)",
+      "The reverse of hot is cold. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "back up",
+        "opposite",
+        "undo"
+      ],
+      "antonyms": [
+        "continue",
+        "same"
+      ],
+      "memory_tip": "Reverse = go in the other direction.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "exclaim",
+    "type": "verb",
+    "definition": "To say something suddenly and loudly, usually with strong feeling.",
+    "pronunciation": {
+      "us": "/ɪkˈskleɪm/",
+      "uk": "/ɪkˈskleɪm/"
+    },
+    "examples": [
+      "She exclaimed in surprise when she saw the puppy.",
+      "“Wow!” he exclaimed when he opened the gift."
+    ],
+    "extra": {
+      "synonyms": [
+        "shout",
+        "yell",
+        "cry out"
+      ],
+      "antonyms": [
+        "whisper",
+        "murmur"
+      ],
+      "memory_tip": "Exclaim = exciting words jump out!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "remark",
+    "type": "noun,verb",
+    "definition": "A comment; to say something about what you see or feel.",
+    "pronunciation": {
+      "us": "/rɪˈmɑrk/",
+      "uk": "/rɪˈmɑːk/"
+    },
+    "examples": [
+      "She made a kind remark about my drawing. (noun)",
+      "He remarked that the sky looked cloudy. (verb)"
+    ],
+    "extra": {
+      "synonyms": [
+        "comment",
+        "observe",
+        "note"
+      ],
+      "antonyms": [
+        "silence",
+        "ignore"
+      ],
+      "memory_tip": "Remark = re-mark something with your words.",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "remarkable",
+    "type": "adjective",
+    "definition": "Unusual or special; worth noticing.",
+    "pronunciation": {
+      "us": "/rɪˈmɑrkəbl/",
+      "uk": "/rɪˈmɑːkəbl/"
+    },
+    "examples": [
+      "The gymnast gave a remarkable performance.",
+      "He has a remarkable memory for names."
+    ],
+    "extra": {
+      "synonyms": [
+        "amazing",
+        "outstanding",
+        "notable"
+      ],
+      "antonyms": [
+        "ordinary",
+        "common"
+      ],
+      "memory_tip": "Remarkable = people want to make a remark about it!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "steep",
+    "type": "adjective",
+    "definition": "Going up or down very quickly; not flat or gentle.",
+    "pronunciation": {
+      "us": "/stiːp/",
+      "uk": "/stiːp/"
+    },
+    "examples": [
+      "The hill is too steep to climb easily.",
+      "The slide at the park is very steep!"
+    ],
+    "extra": {
+      "synonyms": [
+        "sharp",
+        "high",
+        "sudden"
+      ],
+      "antonyms": [
+        "gentle",
+        "gradual",
+        "flat"
+      ],
+      "memory_tip": "Steep = like steps going up sharply!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  },
+  {
+    "word": "venture",
+    "type": "verb,noun",
+    "definition": "To go somewhere or do something risky; a daring journey or task.",
+    "pronunciation": {
+      "us": "/ˈventʃər/",
+      "uk": "/ˈventʃə/"
+    },
+    "examples": [
+      "We ventured into the dark forest. (verb)",
+      "The space mission was a dangerous venture. (noun)"
+    ],
+    "extra": {
+      "synonyms": [
+        "dare",
+        "explore",
+        "undertaking"
+      ],
+      "antonyms": [
+        "retreat",
+        "stay",
+        "avoid"
+      ],
+      "memory_tip": "Venture = adventure with some risk!",
+      "tier": 2,
+      "eslLevel": "medium"
+    }
+  }
+]
