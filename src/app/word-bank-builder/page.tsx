@@ -873,7 +873,7 @@ const WordBankPage = () => {
             {/* Header */}
             <Breadcrumb />
             <SubjectHeader
-              className="hidden lg:block"
+              // className="hidden lg:block"
               title="Word Bank Builder"
               message={`Grade ${settings.grade}, Lesson ${settings.lesson} — Build your vocabulary with interactive cards, audio, and spaced repetition practice!`}
               progress={percent}
