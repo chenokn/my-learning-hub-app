@@ -25,7 +25,7 @@ export function DownloadableResources() {
             className="flex items-center gap-3 p-4 bg-white/70 rounded-lg hover:text-blue-600 text-blue-900 hover:bg-white transition-all duration-200 hover:scale-105 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
             aria-label={`Download ${resource.name} (${resource.type}, ${resource.size})`}
           >
-            <img src={`/stem-hub/icons/${resource?.type?.toLowerCase()}.png`} alt={resource.subject} className="h-auto max-h-11 max-w-10" />
+            <img src={`/stem-hub/icons/${resource?.type?.toLowerCase()}.png`} alt={resource.name} className="h-auto max-h-11 max-w-10" />
 
             <div className="flex-1">
               <div className="font-medium">{resource.name}</div>
