@@ -460,7 +460,11 @@ function VocabCard({ word, onTestComplete }: { word: VocabWord, onTestComplete: 
           </div>
           <hr className='border-gray-200' />
           <div className="text-gray-700 text-lg min-h-24 drop-shadow-[1px_1px_rgba(255,251,235,1)] z-10" onClick={e => { e.stopPropagation(); speakWordAndDefinition(word.definition, "", pron); }}
-          >{word.definition}</div>
+          >
+            Create a image of 2D Pixar-style with more colourful simple icon to shows {word.word}: {word.definition} Use a simple, beautiful, colourful, and cartoon style with soft shading.
+
+
+          </div>
 
           <div className="absolute left-0 h-48 items-center bottom-2 w-full flex-1 flex justify-center">
             <img
